@@ -8,8 +8,8 @@
 生态环境,http://117.29.232.228:9999/rtp/239.61.3.68:9926
 生态环境,http://110.85.29.113:4022/rtp/239.61.3.68:9926
 生态环境,http://171.119.207.125:6001/rtp/226.0.2.120:8872
-中国天气,http://cqshushu.us.kg:2086/ln.php?id=zhgtq-1
-中国天气,http://1.70.34.243:4022/udp/239.1.1.107:8107
+中国天气,http://171.104.198.151:8181/tsfile/live/1010_1.m3u8
+中国天气,http://116.1.184.114:8181/tsfile/live/1082_1.m3u8
 中国天气,http://117.29.232.228:9999/rtp/239.61.2.64:8378
 中国天气,http://202.103.213.248:8888/udp/239.81.0.63:4056
 中国天气,http://110.85.29.113:4022/rtp/239.61.2.64:8378
@@ -45,8 +45,8 @@
 
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-凤凰中文,http://115.221.91.158:7777/udp/233.50.200.42:5140#http://59.127.17.227:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8#http://27.152.145.213:8888/rtp/239.61.2.184:9092#http://125.69.137.162:8880/udp/239.93.0.162:2192#http://171.221.75.95:55555/udp/239.93.0.162:2192#http://171.88.182.189:8888/udp/239.93.0.162:2192#http://118.113.230.43:4022/udp/239.93.0.162:2192#http://122.246.151.102:9999/udp/233.50.200.42:5140#http://27.152.145.213:8888/rtp/239.61.2.184:9092#http://182.138.87.40:8888/udp/239.93.0.162:2192#http://118.113.179.86:58888/udp/239.93.0.162:2192#http://60.178.149.202:4022/udp/233.50.200.42:5140#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://59.127.17.227:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8#http://203.205.220.194/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://115.221.91.158:7777/udp/233.50.200.192:5140#http://59.127.17.227:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8#http://125.69.137.162:8880/udp/239.93.0.118:2191#http://171.221.75.95:55555/udp/239.93.0.118:2191#http://171.88.182.189:8888/udp/239.93.0.118:2191#http://122.246.151.102:9999/udp/233.50.200.192:5140#http://118.113.179.86:58888/udp/239.93.0.118:2191#http://118.113.230.43:4022/udp/239.93.0.118:2191#http://203.205.220.194/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰中文,http://221.237.145.25:4000/udp/239.93.0.162:2192#http://116.1.184.115:8181/tsfile/live/1001_1.m3u8#http://180.137.26.83:8181/tsfile/live/1014_1.m3u8#http://116.1.184.114:8181/tsfile/live/1001_1.m3u8#http://171.221.75.95:55555/udp/239.93.0.162:2192#http://171.88.182.189:8888/udp/239.93.0.162:2192#http://118.113.230.43:4022/udp/239.93.0.162:2192#http://122.246.151.102:9999/udp/233.50.200.42:5140#http://27.152.145.213:8888/rtp/239.61.2.184:9092#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://59.127.17.227:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8#http://203.205.220.194/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://221.237.145.25:4000/udp/239.93.0.118:2191#http://116.1.184.115:8181/tsfile/live/1000_1.m3u8#http://116.1.184.114:8181/tsfile/live/1000_1.m3u8#http://171.221.75.95:55555/udp/239.93.0.118:2191#http://171.88.182.189:8888/udp/239.93.0.118:2191#http://122.246.151.102:9999/udp/233.50.200.192:5140#http://118.113.179.86:58888/udp/239.93.0.118:2191#http://118.113.230.43:4022/udp/239.93.0.118:2191#http://203.205.220.194/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv#http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8#http://116.1.185.228:8181/tsfile/live/1002_1.m3u8#http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu003-golive.flv#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah003-golive.flv#https://live.hkdvb.com/hls/live/85.m3u8?token=631170156112507&edge=live.tvfree.sbs
@@ -68,7 +68,8 @@
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000018937/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
 重庆影视,http://113.205.77.106:8001/udp/225.0.4.192:7980
-重庆影视,http://125.80.203.156:4022/rtp/235.254.198.180:7980
+重庆影视,http://113.249.0.48:8181/rtp/235.254.196.209:1108
+重庆影视,http://222.182.114.64:4022/rtp/235.254.198.180:7980
 重庆影视,http://113.251.230.92:7788/rtp/235.254.198.180:7980
 重庆影视,http://123.145.14.146:8001/udp/225.0.4.62:7980
 重庆影视,http://ly123.fun:10000/rtp/235.254.196.209:1108
@@ -164,33 +165,6 @@ CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV1,http://kxrj.site:1333/86/mg.php?id=cctv1
-CCTV2,http://kxrj.site:1333/86/mg.php?id=cctv2
-CCTV3,http://kxrj.site:1333/86/mg.php?id=cctv3
-CCTV4,http://kxrj.site:1333/86/mg.php?id=cctv4
-CCTV5,http://kxrj.site:1333/86/mg.php?id=cctv5
-CCTV5+,http://kxrj.site:1333/86/mg.php?id=cctv5p
-CCTV7,http://kxrj.site:1333/86/mg.php?id=cctv7
-CCTV8,http://kxrj.site:1333/86/mg.php?id=cctv8
-CCTV9,http://kxrj.site:1333/86/mg.php?id=cctv9
-CCTV10,http://kxrj.site:1333/86/mg.php?id=cctv10
-CCTV11,http://kxrj.site:1333/86/mg.php?id=cctv11
-CCTV12,http://kxrj.site:1333/86/mg.php?id=cctv12
-CCTV13,http://kxrj.site:1333/86/mg.php?id=cctv13
-CCTV14,http://kxrj.site:1333/86/mg.php?id=cctv14
-CCTV15,http://kxrj.site:1333/86/mg.php?id=cctv15
-CCTV16,http://kxrj.site:1333/86/mg.php?id=cctv16
-CCTV17,http://kxrj.site:1333/86/mg.php?id=cctv17
-东方卫视,http://kxrj.site:1333/86/mg.php?id=dfws
-吉林卫视,http://kxrj.site:1333/86/mg.php?id=jlws
-青海卫视,http://kxrj.site:1333/86/mg.php?id=qhws
-陕西卫视,http://kxrj.site:1333/86/mg.php?id=sxws
-湖北卫视,http://kxrj.site:1333/86/mg.php?id=hubws
-江西卫视,http://kxrj.site:1333/86/mg.php?id=jxws
-江苏卫视,http://kxrj.site:1333/86/mg.php?id=jsws
-广东卫视,http://kxrj.site:1333/86/mg.php?id=gdws
-海南卫视,http://kxrj.site:1333/86/mg.php?id=hinws
-大湾区卫视,http://kxrj.site:1333/86/mg.php?id=dwqws
 重庆卫视,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000517
 四川卫视,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000025
 贵州卫视,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000036
@@ -221,20 +195,12 @@ CHC影迷电影,http://219.156.51.133:9999/rtp/225.1.4.207:1260
 CHC影迷电影,http://183.94.146.109:2222/tsfile/live/1020_1.m3u8
 CHC影迷电影,http://125.46.245.73:9999/rtp/225.1.4.207:1260
 CHC影迷电影,http://219.156.48.185:9999/rtp/225.1.4.207:1260
-CHC影迷电影,http://cqshushu.us.kg:2086/ln.php?id=chcmd-1 
-CHC家庭影院,http://cqshushu.us.kg:2086/ln.php?id=chcjt-1 
-CHC动作电影,http://cqshushu.us.kg:2086/ln.php?id=chcdzd-1
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8
-女性时尚,http://cqshushu.us.kg:2086/ln.php?id=cctvnxshsh-1
-怀旧剧场,http://cqshushu.us.kg:2086/ln.php?id=cctvhjjch-1
-第一剧场,http://cqshushu.us.kg:2086/ln.php?id=cctvdjch-1
-风云剧场,http://cqshushu.us.kg:2086/ln.php?id=cctvfjch-1
-风云音乐,http://cqshushu.us.kg:2086/ln.php?id=cctvf-1
 
 卫视频道,#genre#
 北京卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8
