@@ -3,7 +3,6 @@
 
 特色频道,#genre#
 生态环境,http://110.177.101.144:8084/udp/239.1.1.110:8110
-生态环境,
 生态环境,http://171.117.72.74:8001/rtp/226.0.2.120:8872
 生态环境,http://183.191.227.228:8083/rtp/226.0.2.120:8872
 生态环境,http://home.yulei.online:9999/rtp/226.0.2.120:8872
@@ -35,22 +34,21 @@
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://222.241.236.5:9999/udp/239.76.253.135:9000#http://113.240.139.110:8888/udp/239.76.253.135:9000#http://110.177.101.144:8084/udp/239.1.1.126:8126#http://180.143.113.12:8181/tsfile/live/1001_1.m3u8#http://114.105.185.143:9901/tsfile/live/1054_1.m3u8#http://171.38.36.136:8181/tsfile/live/1014_1.m3u8#http://115.206.135.60:8000/udp/233.50.200.42:5140#http://115.192.89.171:8888/udp/233.50.200.42:5140#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://222.241.236.5:9999/udp/239.76.253.134:9000#http://113.240.139.110:8888/udp/239.76.253.134:9000#http://114.105.185.143:9901/tsfile/live/1071_1.m3u8#http://110.177.101.144:8084/udp/239.1.1.127:8127#http://180.143.113.12:8181/tsfile/live/1000_1.m3u8#http://171.38.36.136:8181/tsfile/live/1015_1.m3u8#http://115.206.135.60:8000/udp/233.50.200.192:5140#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰中文,http://175.152.113.28:4022/udp/239.93.0.162:2192#http://115.229.185.18:9999/udp/233.50.200.191:5140#http://110.177.101.144:8084/udp/239.1.1.126:8126#http://114.105.185.143:9901/tsfile/live/1054_1.m3u8#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+
+凤凰资讯,http://175.152.113.28:4022/udp/239.93.0.118:2191#http://115.229.185.18:9999/udp/233.50.200.192:5140#http://110.177.101.144:8084/udp/239.1.1.127:8127#http://114.105.185.143:9901/tsfile/live/1071_1.m3u8#https://ali.hlspull.yximgs.com/live/diyp_fh2.flv#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv#http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8#http://180.143.113.12:8181/tsfile/live/1002_1.m3u8#http://114.105.185.143:9901/tsfile/live/1034_1.m3u8
+凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv#http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8#http://114.105.185.143:9901/tsfile/live/1034_1.m3u8
 
 重庆频道,#genre#
 重庆卫视,http://home.yulei.online:9999/rtp/226.0.2.174:9304
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 重庆卫视,http://[2409:8087:1a0a:df::4039]:80/wh7f454c46tw3484210288_1514322028/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?icpid=88888888&RTS=1713970313&from=4&hms_devid=1212&online=1713970313&vqe=3
+重庆卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000001096/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025797/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=3
-重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010218/1.m3u8
-重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8
-重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025797/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/index.m3u8
-重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?
+重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/index.m3u8
 重庆卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000517/index.m3u8
 重庆卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226551/index.m3u8
@@ -59,14 +57,14 @@
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025797/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000018937/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
-
-重庆影视,http://123.145.10.178:8001/udp/225.0.4.62:7980
-重庆影视,http://27.15.156.33:8001/udp/225.0.4.62:7980
-重庆影视,http://27.10.129.68:8002/udp/225.0.4.62:7980
-重庆影视,http://123.145.53.25:8001/udp/225.0.4.62:7980
-重庆新闻,http://27.15.156.33:8001/udp/225.0.4.59:7980
-重庆新闻,http://123.145.10.178:8001/udp/225.0.4.59:7980
-重庆新闻,http://123.145.53.25:8001/udp/225.0.4.59:7980
+重庆影视,http://14.105.105.224:10000/rtp/235.254.196.209:1108
+重庆影视,http://123.145.20.169:8004/udp/225.0.4.62:7980
+重庆影视,http://27.9.124.208:4022/udp/225.0.4.62:7980
+重庆影视,http://183.66.13.82:60033/tsfile/live/0019_1.m3u8
+重庆影视,http://14.105.105.224:10000/rtp/235.254.198.180:7980
+重庆新闻,http://123.145.20.169:8004/udp/225.0.4.59:7980
+重庆新闻,http://27.9.124.208:4022/udp/225.0.4.59:7980
+重庆新闻,http://183.66.13.82:60033/tsfile/live/0016_1.m3u8
 
 重庆汽摩,http://home.yulei.online:9999/rtp/226.0.2.95:8672
 重庆汽摩,http://113.251.230.92:7788/rtp/235.254.196.221:1156
