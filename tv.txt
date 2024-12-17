@@ -29,14 +29,14 @@
 快乐垂钓,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
 快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 快乐垂钓,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-四海钓鱼,http://home.yulei.online:9999/rtp/226.0.2.123:8896#http://171.117.72.74:8001/rtp/226.0.2.123:8896#http://183.191.227.228:8083/rtp/226.0.2.123:8896#http://114.105.185.143:9901/tsfile/live/1060_1.m3u8
+四海钓鱼,http://home.yulei.online:9999/rtp/226.0.2.123:8896#http://171.117.72.74:8001/rtp/226.0.2.123:8896#http://183.191.227.228:8083/rtp/226.0.2.123:8896
 
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://175.152.113.28:4022/udp/239.93.0.162:2192#http://115.229.185.18:9999/udp/233.50.200.191:5140#http://110.177.101.144:8084/udp/239.1.1.126:8126#http://114.105.185.143:9901/tsfile/live/1054_1.m3u8#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://175.152.113.28:4022/udp/239.93.0.162:2192#http://118.255.79.201:8887/udp/239.76.253.135:9000#http://171.213.146.149:6699/udp/239.93.0.162:2192#http://115.229.185.18:9999/udp/233.50.200.191:5140#http://110.177.101.144:8084/udp/239.1.1.126:8126#http://171.213.212.160:8686/udp/239.93.0.162:2192#https://ali.hlspull.yximgs.com/live/diyp_fh2.flv#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://175.152.113.28:4022/udp/239.93.0.118:2191#http://115.229.185.18:9999/udp/233.50.200.192:5140#http://110.177.101.144:8084/udp/239.1.1.127:8127#http://114.105.185.143:9901/tsfile/live/1071_1.m3u8#https://ali.hlspull.yximgs.com/live/diyp_fh2.flv#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰资讯,http://175.152.113.28:4022/udp/239.93.0.118:2191#http://118.255.79.201:8887/udp/239.76.253.134:9000#http://171.213.146.149:6699/udp/239.93.0.118:2191#http://115.229.185.18:9999/udp/233.50.200.192:5140#http://110.177.101.144:8084/udp/239.1.1.127:8127#http://171.213.212.160:8686/udp/239.93.0.118:2191#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv#http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv#http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8#http://114.105.185.143:9901/tsfile/live/1034_1.m3u8
@@ -57,12 +57,11 @@
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025797/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000018937/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
-重庆影视,http://14.105.105.224:10000/rtp/235.254.196.209:1108
-重庆影视,http://123.145.20.169:8004/udp/225.0.4.62:7980
+重庆影视,http://123.145.23.102:8005/udp/225.0.4.62:7980
 重庆影视,http://27.9.124.208:4022/udp/225.0.4.62:7980
 重庆影视,http://183.66.13.82:60033/tsfile/live/0019_1.m3u8
-重庆影视,http://14.105.105.224:10000/rtp/235.254.198.180:7980
-重庆新闻,http://123.145.20.169:8004/udp/225.0.4.59:7980
+重庆影视,http://123.145.23.102:8005/udp/225.0.4.62:7980
+重庆新闻,http://123.145.23.102:8005/udp/225.0.4.59:7980
 重庆新闻,http://27.9.124.208:4022/udp/225.0.4.59:7980
 重庆新闻,http://183.66.13.82:60033/tsfile/live/0016_1.m3u8
 
