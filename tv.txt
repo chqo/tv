@@ -2,24 +2,21 @@
 饭店简介,http://soiplw2f3.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#http://snrbfzj25.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://objectstorageapi.bja.sealos.run/sbfoc0qj-cahi/饭店.mp4#https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
-生态环境,http://106.112.254.175:8989/rtp/239.254.201.187:6226
-生态环境,http://183.184.151.145:8003/rtp/226.0.2.120:8872
-生态环境,http://171.119.204.197:6001/rtp/226.0.2.120:8872
-中国天气,http://171.107.73.129:4000/udp/239.81.0.63:4056
-中国天气,http://219.159.194.172:8181/tsfile/live/1015_1.m3u8
-中国天气,http://222.218.158.165:8181/tsfile/live/1015_1.m3u8
-中国天气,http://222.84.193.60:8181/tsfile/live/1010_1.m3u8
+生态环境,http://111.72.202.54:4050/rtp/239.252.220.216:5140
+生态环境,http://111.72.202.5:4050/rtp/239.252.220.216:5140
+生态环境,http://121.207.122.196:8000/rtp/239.61.3.68:9926
+生态环境,http://120.33.185.197:4022/rtp/239.61.3.68:9926
+中国天气,http://111.72.202.54:4050/rtp/239.252.219.143:5140
+中国天气,http://111.72.202.5:4050/rtp/239.252.219.143:5140
+中国天气,http://121.207.122.196:8000/rtp/239.61.2.64:8378
+中国天气,http://120.33.185.197:4022/rtp/239.61.2.64:8378
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 重温经典,http://114.105.185.143:9901/tsfile/live/1000_1.m3u8
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-金色学堂,http://home.yulei.online:9999/rtp/226.0.2.182:9368
 金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
 金色学堂,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-金色学堂,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002018/index.m3u8?IASHttpSessionId=
-东方财经,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8?IASHttpSessionId=
-东方财经,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8?IASHttpSessionId=
 东方财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 东方财经,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/1.m3u8
 东方财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226602/index.m3u8
@@ -33,17 +30,17 @@
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://175.152.138.112:6066/udp/239.93.0.162:2192#http://175.152.138.128:6066/udp/239.93.0.162:2192#http://202.168.187.208:9089/tsfile/live/1009_1.m3u8#http://61.150.67.62:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#https://ali.hlspull.yximgs.com/live/diyp_fh2.flv#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8#http://175.10.198.177:8888/udp/239.76.246.134:1234#http://182.138.221.26:8888/udp/239.93.0.162:2192#http://171.213.202.105:8888/udp/239.93.0.162:2192#http://171.213.130.53:9100/udp/239.93.0.162:2192#http://120.33.185.197:4022/rtp/239.61.2.184:9092#https://ali.hlspull.yximgs.com/live/diyp_fh2.flv#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://175.152.138.112:6066/udp/239.93.0.118:2191#http://175.152.138.128:6066/udp/239.93.1.4:2191#http://61.150.67.62:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰资讯,http://182.138.221.26:8888/udp/239.93.0.118:2191#http://171.213.130.53:9100/udp/239.93.0.118:2191#http://171.213.202.105:8888/udp/239.93.0.118:2191#http://120.33.185.197:4022/rtp/239.61.2.183:9086#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 
 无线新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv#http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv#http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 重庆频道,#genre#
-重庆卫视,http://222.218.158.165:8181/tsfile/live/0142_1.m3u8
-重庆卫视,http://219.159.194.172:8181/tsfile/live/0142_1.m3u8
-重庆卫视,http://nn.7x9d.cn/小曾8563/酒店秒开.php?id=cqws
+重庆卫视,http://183.66.13.82:60033/tsfile/live/0018_1.m3u8
+重庆卫视,http://120.33.185.197:4022/rtp/239.61.2.250:9488
+重庆卫视,http://119.84.198.181:7777/rtp/235.254.196.249:1268
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226551/index.m3u8
@@ -53,7 +50,6 @@
 重庆卫视,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010053/
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/index.m3u8
 重庆卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000517/index.m3u8
 重庆卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226551/index.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010218/1.m3u8
@@ -61,8 +57,12 @@
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025797/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000018937/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
-
+重庆影视,http://125.80.214.162:8888/rtp/235.254.196.209:1108
+重庆影视,http://116.168.79.60:8888/udp/225.0.4.62:7980
+重庆影视,http://125.80.214.162:8888/rtp/235.254.198.180:7980
+重庆影视,http://211.158.98.183:8001/udp/225.0.4.62:7980
 重庆影视,http://183.66.13.82:60033/tsfile/live/0019_1.m3u8
+重庆新闻,http://211.158.98.183:8001/udp/225.0.4.59:7980
 重庆新闻,http://183.66.13.82:60033/tsfile/live/0016_1.m3u8
 
 重庆汽摩,http://home.yulei.online:9999/rtp/226.0.2.95:8672
@@ -71,7 +71,8 @@
 重庆汽摩,http://113.251.230.92:7788/rtp/235.254.196.221:1156
 
 央视综合,#genre#
-CCTV1,http://219.159.194.172:8181/tsfile/live/0001_1.m3u8
+CCTV1,http://175.10.230.91:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://106.111.244.151:5000/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 CCTV1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 CCTV1,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002133/index.m3u8
