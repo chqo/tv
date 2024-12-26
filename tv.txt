@@ -13,7 +13,9 @@
 中国天气,http://171.104.192.8:8181/tsfile/live/1082_1.m3u8
 中国天气,http://171.104.194.18:8181/tsfile/live/1082_1.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-          
+中国天气,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
+中国天气,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989 
+         
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -24,7 +26,9 @@
 东方财经,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/1.m3u8
 东方财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226602/index.m3u8
 东方财经,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-快乐垂钓,https://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz04ODI1MmM1MGQwMWQ3OWVhZjNlNGY4N2M3ZDI5OTk4OCZ1aWQ9JnV1aWQ9NzM4MmRjNTg4MTYyMjU3OGU5OWUzMmRmOWVlOThhN2YtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTczNTA2Mzk3Nw,,/KLCDMPP360.m3u8
+东方财经,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
+
+快乐垂钓,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989
 快乐垂钓,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
 快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 快乐垂钓,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
@@ -33,9 +37,9 @@
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://171.213.215.225:4000/udp/239.93.0.162:2192#http://171.213.139.49:4022/udp/239.93.0.162:2192#http://114.105.187.147:9901/tsfile/live/1054_1.m3u8#http://114.105.187.147:9901/tsfile/live/1063_1.m3u8#https://ali.hlspull.yximgs.com/live/diyp_fh2.flv#http://ali.hlspull.yximgs.com/live/diyp_fh2.flv#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://183.157.38.121:4000/udp/233.50.200.191:5140#http://171.213.139.49:4022/udp/239.93.0.162:2192#http://114.105.187.147:9901/tsfile/live/1063_1.m3u8#https://ali.hlspull.yximgs.com/live/diyp_fh2.flv#http://ali.hlspull.yximgs.com/live/diyp_fh2.flv#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,https://stream1.freetv.fun/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.ctv#http://171.213.215.225:4000/udp/239.93.0.118:2191#http://171.213.139.49:4022/udp/239.93.0.118:2191#http://114.105.187.147:9901/tsfile/live/1064_1.m3u8#http://114.105.187.147:9901/tsfile/live/1064_1.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰资讯,https://stream1.freetv.fun/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.ctv#http://183.157.38.121:4000/udp/233.50.200.192:5140#http://171.213.139.49:4022/udp/239.93.0.118:2191#http://114.105.187.147:9901/tsfile/live/1064_1.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
             
 无线新闻,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.ctv#http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn#http://php.jdshipin.com:8880/smt.php?id=inews_twn#http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 凤凰香港,http://171.104.194.18:8181/tsfile/live/1002_1.m3u8#https://ali.hlspull.yximgs.com/live/diyp_fh3.flv#http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
@@ -59,8 +63,11 @@
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025797/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000018937/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
-
-
+重庆影视,http://125.84.50.93:4022/rtp/235.254.196.209:1108
+重庆影视,https://stream1.freetv.fun/8190b9b44502f6f3fa5d452106b2facb600047ca0d6388c0dc629809f2e9d1d3.m3u8
+重庆影视,http://183.66.13.82:60033/tsfile/live/0019_1.m3u8
+重庆新闻,http://183.66.13.82:60033/tsfile/live/0016_1.m3u8
+重庆新闻,https://stream1.freetv.fun/4e4aef94d3eaf70a678605acbddbec98e8248fd64ced7339bed6fc0c3954a39f.m3u8
 重庆汽摩,http://home.yulei.online:9999/rtp/226.0.2.95:8672
 重庆汽摩,http://113.251.230.92:7788/rtp/235.254.196.221:1156
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
@@ -317,6 +324,7 @@ CHC动作电影,http://117.190.144.101:1111/tsfile/live/1020_1.m3u8?key=txiptv&p
 东方卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/1.m3u8
 东南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010096/1.m3u8
 海南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010083/1.m3u8
+三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 广东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/1.m3u8
 广西卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010099/1.m3u8
 深圳卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/1.m3u8
