@@ -38,6 +38,7 @@
 
 
 重庆频道,#genre#
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265017/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=3
 重庆卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000001000001096/index.m3u8?channel-id=bestzb&Contentid=1000000001000001096&livemode=1&stbId=3
@@ -53,7 +54,8 @@
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000018937/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
 
-重庆影视,http://27.10.225.73:8003/udp/225.0.4.62:7980
+重庆影视,http://119.84.194.118:7777/rtp/235.254.198.180:7980
+重庆影视,http://119.84.194.118:7777/rtp/235.254.196.209:1108
 重庆影视,https://stream1.freetv.fun/8190b9b44502f6f3fa5d452106b2facb600047ca0d6388c0dc629809f2e9d1d3.m3u8
 重庆影视,http://183.66.13.82:60033/tsfile/live/0019_1.m3u8
 重庆新闻,http://183.66.13.82:60033/tsfile/live/0016_1.m3u8
@@ -64,8 +66,23 @@
 重庆汽摩,http://116.135.2.127:8083/rtp/226.0.2.95:8672
 
 央视综合,#genre#
-CCTV1,http://175.10.230.91:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://106.111.244.151:5000/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 CCTV1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 CCTV1,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002133/index.m3u8
@@ -223,23 +240,49 @@ CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8
 CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+山东教育电视台,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 北京卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=3
 湖南卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000018044/index.m3u8?channel-id=wasusyt&Contentid=6000000001000018044&livemode=1&stbId=3
 东方卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265018/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
@@ -543,6 +586,11 @@ MV歌曲,#genre#
 次真降措-我从亚丁来,http://spe4zpqtf.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#http://soiplw2f3.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措-我从亚丁来 .mp4#https://d.kstore.dev/download/10141/次真降措-我从亚丁来 .mp4
 次真降措-牧人之歌 ,http://spe4zpqtf.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#http://soiplw2f3.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#https://github.moeyy.xyz/https://github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv
 #https://github.moeyy.xyz/https://github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措-牧人之歌 .mkv#https://d.kstore.dev/download/10141/次真降措-牧人之歌 .mkv
+次真降措-亚丁恋歌,http://spe4zpqtf.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E4%BA%9A%E4%B8%81%E6%81%8B%E6%AD%8C..mkv#https://d.kstore.dev/download/10141/次真降措-亚丁恋歌..mkv
+次真降措 - 我在草原等你,http://spe4zpqtf.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E6%88%91%E5%9C%A8%E8%8D%89%E5%8E%9F%E7%AD%89%E4%BD%A0.mp4#https://d.kstore.dev/download/10141/次真降措+-+我在草原等你.mp4
+次真降措 - 卓玛拉措,http://spe4zpqtf.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E5%8D%93%E7%8E%9B%E6%8B%89%E6%8E%AA_.mp4#https://d.kstore.dev/download/10141/次真降措+-+卓玛拉措_.mp4
+次真降措 - 我的草原,http://spe4zpqtf.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E6%88%91%E7%9A%84%E8%8D%89%E5%8E%9F.mp4#https://d.kstore.dev/download/10141/次真降措+-+我的草原.mp4
+次真降措 - 稻城传奇,http://spe4zpqtf.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E7%A8%BB%E5%9F%8E%E4%BC%A0%E5%A5%87.mp4#https://d.kstore.dev/download/10141/次真降措+-+稻城传奇.mp4
 梦之旅-月光小夜曲,http://spe4zpqtf.hn-bkt.clouddn.com/%E6%A2%A6%E4%B9%8B%E6%97%85-%E6%9C%88%E5%85%89%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp4#http://soiplw2f3.hn-bkt.clouddn.com/%E6%A2%A6%E4%B9%8B%E6%97%85-%E6%9C%88%E5%85%89%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp4#https://github.moeyy.xyz/https://github.com/chqo/tv/raw/main/%E6%A2%A6%E4%B9%8B%E6%97%85-%E6%9C%88%E5%85%89%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/raw/main/%E6%A2%A6%E4%B9%8B%E6%97%85-%E6%9C%88%E5%85%89%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/梦之旅-月光小夜曲.mp4#https://d.kstore.dev/download/10141/梦之旅-月光小夜曲.mp4
 梦之旅-彩云追月,http://spe4zpqtf.hn-bkt.clouddn.com/%E6%A2%A6%E4%B9%8B%E6%97%85-%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88.mp4#http://soiplw2f3.hn-bkt.clouddn.com/%E6%A2%A6%E4%B9%8B%E6%97%85-%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88.mp4#https://github.moeyy.xyz/https://github.com/chqo/tv/raw/main/%E6%A2%A6%E4%B9%8B%E6%97%85-%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/raw/main/%E6%A2%A6%E4%B9%8B%E6%97%85-%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/梦之旅-彩云追月mp4#https://d.kstore.dev/download/10141/梦之旅-彩云追月.mp4
 广州交响乐团-昨夜星辰,http://spe4zpqtf.hn-bkt.clouddn.com/%E5%B9%BF%E5%B7%9E%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2-%E6%98%A8%E5%A4%9C%E6%98%9F%E8%BE%B0.mp4#http://soiplw2f3.hn-bkt.clouddn.com/%E5%B9%BF%E5%B7%9E%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2-%E6%98%A8%E5%A4%9C%E6%98%9F%E8%BE%B0.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/广州交响乐团-昨夜星辰.mp4#https://d.kstore.dev/download/10141/广州交响乐团-昨夜星辰.mp4
