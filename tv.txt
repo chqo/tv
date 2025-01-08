@@ -3,15 +3,19 @@
 
 特色频道,#genre#
 生态环境,http://110.178.73.104:8083/udp/239.1.1.110:8110
-生态环境,http://123.174.107.188:8888/udp/239.1.1.110:8110
+生态环境,http://110.178.73.104:8084/udp/239.1.1.110:8110
+生态环境,http://110.178.73.104:8082/udp/239.1.1.110:8110
+生态环境,http://106.116.242.172:9999/rtp/239.254.201.187:6226
 中国天气,http://219.159.194.98:8181/tsfile/live/1015_1.m3u8
+中国天气,http://171.104.192.160:8181/tsfile/live/1082_1.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-中国天气,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
+中国天气,http://171.104.192.157:8181/tsfile/live/1082_1.m3u8
 中国天气,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
  中国天气,http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
 
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 金色学堂,http://115.192.49.214:4022/udp/233.50.200.122:5140
 金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
@@ -22,22 +26,32 @@
 东方财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003
 东方财经,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/1.m3u8
 东方财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226602/index.m3u8
-
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 快乐垂钓,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
 快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 快乐垂钓,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 快乐垂钓,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-四海钓鱼,http://223.13.165.206:4022/udp/239.1.1.111:8111#http://120.38.46.242:9999/rtp/239.61.3.69:9932
+四海钓鱼,http://223.13.165.206:4022/udp/239.1.1.111:8111#http://110.178.73.104:8082/udp/239.1.1.111:8111#http://106.116.242.172:9999/rtp/239.254.201.185:6363
+CHC动作电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
+CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+风云剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+第一剧场,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+风云音乐,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+女性时尚,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+怀旧剧场,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+
 
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068#http://61.150.67.62:9901/tsfile/live/1012_1.m3u8#http://171.213.136.38:6699/udp/239.93.0.162:2192#http://110.178.73.104:8083/udp/239.1.1.126:8126#http://171.104.192.21:8181/tsfile/live/1001_1.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://ali.hlspull.yximgs.com/live/diyp_fh2.flv#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068#http://61.150.67.62:9901/tsfile/live/1012_1.m3u8#http://171.213.136.38:6699/udp/239.93.0.162:2192#http://110.178.73.104:8082/udp/239.1.1.126:8126#http://171.104.192.157:8181/tsfile/live/1001_1.m3u8#http://171.104.192.160:8181/tsfile/live/1001_1.m3u8#http://110.178.73.104:8083/udp/239.1.1.126:8126#http://171.104.192.21:8181/tsfile/live/1001_1.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://ali.hlspull.yximgs.com/live/diyp_fh2.flv#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,https://stream1.freetv.fun/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.ctv#http://61.150.67.62:9901/tsfile/live/1013_1.m3u8#http://171.213.136.38:6699/udp/239.93.0.118:2191#http://110.178.73.104:8083/udp/239.1.1.127:8127#http://171.104.192.21:8181/tsfile/live/1000_1.m3u8#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx#http://61.150.67.62:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰资讯,https://stream1.freetv.fun/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.ctv#http://cdn3.132.us.kg/live/fhzx/stream.m3u8#http://61.150.67.62:9901/tsfile/live/1013_1.m3u8#http://110.178.73.104:8084/udp/239.1.1.126:8126#http://171.104.192.157:8181/tsfile/live/1000_1.m3u8#http://171.104.192.160:8181/tsfile/live/1000_1.m3u8#http://110.178.73.104:8084/udp/239.1.1.127:8127#http://171.213.136.38:6699/udp/239.93.0.118:2191#http://110.178.73.104:8082/udp/239.1.1.127:8127#http://110.178.73.104:8083/udp/239.1.1.127:8127#http://171.104.192.21:8181/tsfile/live/1000_1.m3u8#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx#http://61.150.67.62:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
             
 无线新闻,https://stream1.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.ctv#http://php.jdshipin.com/smt.php?id=inews_twn#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt#http://php.jdshipin.com:8880/smt.php?id=inews_twn#http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv#http://171.104.192.21:8181/tsfile/live/1002_1.m3u8#http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv#http://171.104.192.157:8181/tsfile/live/1002_1.m3u8#http://171.104.192.160:8181/tsfile/live/1002_1.m3u8#http://171.104.192.21:8181/tsfile/live/1002_1.m3u8#http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰电影,https://stream1.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.ctv
 
 
@@ -52,13 +66,14 @@
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025797/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000018937/1.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
-重庆影视,http://123.145.9.62:8001/udp/225.0.4.62:7980
-重庆影视,http://123.145.4.150:8004/udp/225.0.4.62:7980
+重庆影视,http://123.144.186.47:8003/udp/225.0.4.62:7980
+重庆影视,http://221.7.120.27:8005/udp/225.0.4.62:7980
+重庆影视,http://123.145.73.77:8001/udp/225.0.4.62:7980
 重庆影视,http://125.86.11.168:8888/rtp/235.254.196.209:1108
-重庆影视,http://125.80.214.94:8181/rtp/235.254.196.209:1108
+重庆影视,http://124.162.244.81:8088/udp/225.0.4.62:7980
 重庆影视,https://stream1.freetv.fun/8190b9b44502f6f3fa5d452106b2facb600047ca0d6388c0dc629809f2e9d1d3.m3u8
-
-重庆新闻,http://183.66.13.82:60033/tsfile/live/0016_1.m3u8
+重庆新闻,http://221.7.120.27:8005/udp/225.0.4.59:7980
+重庆新闻,http://125.80.214.94:8181/rtp/235.254.196.208:1104
 重庆新闻,https://stream1.freetv.fun/4e4aef94d3eaf70a678605acbddbec98e8248fd64ced7339bed6fc0c3954a39f.m3u8
 
 重庆汽摩,http://123.145.25.155:8001/udp/225.0.4.61:7980
