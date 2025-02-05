@@ -56,7 +56,7 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 凤凰电影,https://stream1.freetv.fun/feng-huang-dian-ying-3.ctv
 
 重庆频道,#genre#
-重庆卫视,http://112.101.78.50:9901/tsfile/live/0142_1.m3u8
+重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://jf.jxx2023.work:40446/tsfile/live/0142_1.m3u8
 重庆卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.187:7980
 重庆卫视,http://nas.xlnas.com:4022/udp/239.93.1.107:5140
@@ -69,13 +69,17 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-28.m3u8
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-85.m3u8
 
+重庆影视,http://27.11.162.45:8005/udp/225.0.4.62:7980
 重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
-重庆影视,http://183.66.15.138:4070/rtp/235.254.196.209:1108
-重庆影视,http://125.82.171.210:8888/rtp/235.254.196.209:1108
+重庆影视,http://119.84.198.125:7777/rtp/235.254.196.209:1108
+重庆影视,http://113.251.89.199:5555/rtp/235.254.196.209:1108
+
 重庆新闻,http://iptv.zhangliang.cc:8012/udp/225.0.4.59:7980
-重庆新闻,http://183.66.15.138:4070/rtp/235.254.196.208:1104
+重庆新闻,http://119.84.198.125:7777/rtp/235.254.196.208:1104
+重庆新闻,http://113.251.89.199:5555/rtp/235.254.196.208:1104
 重庆汽摩,http://iptv.zhangliang.cc:8012/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
+重庆汽摩,http://113.251.89.199:5555/rtp/235.254.196.221:1156
 
 央视综合,#genre#
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
