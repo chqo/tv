@@ -3,11 +3,11 @@
 
 特色频道,#genre#
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
-生态环境,http://219.159.194.213:8181/tsfile/live/1120_1.m3u8
-中国天气,http://171.107.72.142:4000/udp/239.81.0.63:4056
-中国天气,http://219.159.194.213:8181/tsfile/live/1030_1.m3u8
+生态环境,http://110.85.184.45:9999/rtp/239.61.3.68:9926
+中国天气,http://222.84.234.13:4022/udp/239.81.0.63:4056
 中国天气,http://jf.jxx2023.work:40446/tsfile/live/1050_1.m3u8
 中国天气,http://171.107.72.142:4000/udp/239.81.0.63:4056
+中国天气,http://home.dzlove.top:35455/itv/5000000005000031974.m3u8?cdn=bestzb
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
@@ -38,7 +38,7 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 快乐垂钓,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
 快乐垂钓,http://tvbox6.icu/tv/mgtv.php?id=218
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
-四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8#http://118.78.220.108:8686/rtp/226.0.2.123:8896#http://tvbox6.com/tv/bfgd.php?id=229
+四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8#http://221.205.180.88:8003/rtp/226.0.2.123:8896#http://tvbox6.com/tv/bfgd.php?id=229
 
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -55,25 +55,25 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 
 重庆频道,#genre#
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
+重庆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8428&tk=aa0698566417
 重庆卫视,http://112.101.78.50:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://222.174.239.62:352/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://218.13.14.6:60050/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://112.101.78.50:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://218.89.240.144:59901/tsfile/live/0142_1.m3u8
-重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.114:5140
+重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 
-重庆影视,http://123.145.19.60:8004/udp/225.0.4.62:7980
-重庆影视,http://119.84.193.228:7777/rtp/235.254.196.209:1108
-重庆影视,http://125.80.87.174:8899/rtp/235.254.196.209:1108
-重庆影视,http://123.145.45.111:33333/udp/225.0.4.62:7980
+重庆影视,http://119.84.196.192:7777/rtp/235.254.196.209:1108
+重庆影视,http://123.145.53.109:8003/udp/225.0.4.62:7980
 重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
 
-重庆新闻,http://119.84.193.228:7777/rtp/235.254.196.208:1104
-重庆新闻,http://123.145.45.111:33333/udp/225.0.4.59:7980
-重庆新闻,http://125.80.87.174:8899/rtp/235.254.196.208:1104
+重庆新闻,http://119.84.196.192:7777/rtp/235.254.196.208:1104
+重庆新闻,http://123.145.53.109:8003/udp/225.0.4.59:7980
+
 重庆汽摩,http://iptv.zhangliang.cc:8012/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
-重庆汽摩,http://113.251.89.199:5555/rtp/235.254.196.221:1156
+重庆汽摩,http://119.84.196.192:7777/rtp/235.254.196.221:1156
 
 央视综合,#genre#
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
