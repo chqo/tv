@@ -43,32 +43,34 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#http://nas.xlnas.com:4022/udp/239.93.0.162:2192#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv#http://cdn3.132.us.kg/live/fhzx/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140#http://nas.xlnas.com:4022/udp/239.93.0.118:2191#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰资讯,http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv#http://cdn3.132.us.kg/live/fhzx/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
             
 无线新闻,https://stream1.freetv.fun/tvbwu-xian-xin-wen-1.m3u8#https://stream1.freetv.fun/wu-xian-xin-wen-6.m3u8#https://stream1.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.ctv#https://stream1.freetv.fun/9bc7f3dc585f5d76fcc3b66149f2c792f4d439953e464450b638291fdb9b4a6d.m3u8#https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8#http://php.jdshipin.com/smt.php?id=inews_twn#http://php.jdshipin.com:8880/smt.php?id=inews_twn#http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/5de65236fc55651cfbe3aa6b4e3d7b836e4c1a53d0acf8d5095f09dae4f92185.ctv#https://stream1.freetv.fun/c25ddef03f8dbacdbd7028b3846303a30b4cbfa4a5ba47d2508e6be4ea83012e.m3u8#http://extraott.com:80/live/6772191932/1654508883/473557.m3u8#http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-凤凰电影,https://stream1.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.ctv
+
 凤凰电影,http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8
 凤凰电影,https://stream1.freetv.fun/feng-huang-dian-ying-3.ctv
 
 重庆频道,#genre#
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-重庆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8428&tk=aa0698566417
-重庆卫视,http://112.101.78.50:9901/tsfile/live/0142_1.m3u8
-重庆卫视,http://222.174.239.62:352/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://j.x.bkpcp.top/jx/CHONGQHD
 重庆卫视,http://218.13.14.6:60050/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://222.173.108.238:352/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://112.101.78.50:9901/tsfile/live/0142_1.m3u8
+重庆卫视,http://218.13.14.6:60050/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://39.164.180.36:19901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://222.174.239.62:352/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://218.89.240.144:59901/tsfile/live/0142_1.m3u8
 重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.114:5140
 重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 
-重庆影视,http://119.84.196.192:7777/rtp/235.254.196.209:1108
-重庆影视,http://123.145.53.109:8003/udp/225.0.4.62:7980
+重庆影视,http://113.206.117.135:4000/udp/225.0.4.62:7980
+重庆影视,http://113.206.157.149:8005/udp/225.0.4.192:7980
 重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
 
-重庆新闻,http://119.84.196.192:7777/rtp/235.254.196.208:1104
+重庆新闻,http://113.206.117.135:4000/udp/225.0.4.59:7980
 重庆新闻,http://123.145.53.109:8003/udp/225.0.4.59:7980
 
 重庆汽摩,http://iptv.zhangliang.cc:8012/udp/225.0.4.61:7980
@@ -160,6 +162,7 @@ CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 广西卫视,http://61.173.144.157:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://113.220.234.228:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.m3u8
+海南卫视,http://cssbyd.imwork.net:8082/hls/31/index.m3u8
 海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
 东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8
@@ -173,9 +176,13 @@ CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 宁夏卫视,http://120.76.248.139/live/bfgd/4200000118.m3u8
 青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8
 四川卫视,http://120.76.248.139/live/bfgd/4200000103.m3u8
+四川卫视,http://j.x.bkpcp.top/jx/SICHD
 陕西卫视,http://120.76.248.139/live/bfgd/4200000512.m3u8
 山西卫视,http://120.76.248.139/live/bfgd/4200000109.m3u8
 深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
+三沙卫视,https://livessws.hnntv.cn/live/ssws20250114.m3u8?_upt=59ccdc261738935307
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+三沙卫视,http://jf.jxx2023.work:40446/tsfile/live/1035_1.m3u8
 
 少儿频道,#genre#
 重庆少儿,http://iptv.zhangliang.cc:8012/udp/225.0.4.191:7980
@@ -248,6 +255,13 @@ DJ13首《经典老歌》,https://vd4.bdstatic.com/mda-igbpw1bm4vdxitj0/logo/sc/
 情歌DJ红尘没有错你,https://vd3.bdstatic.com/mda-nadfng7qz0sr3ff3/sc/bd265_cae_delogo/1643480883586586354/mda-nadfng7qz0sr3ff3.mp4
 超强车载重音乐,https://vdse.bdstatic.com//be2987198eb242f59daaea05ac1d95ee.mp4
 车震视频1,https://vd2.bdstatic.com/mda-mki7h67gag5wcev9/720p/h264/1637299107495714243/mda-mki7h67gag5wcev9.mp4
+2021一夜火爆几首DJ舞曲,https://vdse.bdstatic.com//1fc9fd16e02ca272bb81666b85bf4135.mp4
+酒吧夜店经典中文车载劲爆DJ舞曲大串烧F,https://vdse.bdstatic.com//f222c3fafbcc09db6f39991e5c982450.mp4
+21年DJ爆红网络洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
+夜店经典DJ舞曲,https://vd4.bdstatic.com/mda-me42p2149u3w00xa/720p/h264/1620179745210912217/mda-me42p2149u3w00xa.mp4
+DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjpvz81f3fsb0m4v.mp4
+劲爆舞曲DJ,https://vd2.bdstatic.com/mda-mkjdym3r2h7y5a58/sc/cae_h264/1637440648941328664/mda-mkjdym3r2h7y5a58.mp4
+慢摇dj舞曲,https://vd2.bdstatic.com/mda-mkpi5r0xe92ja446/sc/cae_h264/1637775035132431598/mda-mkpi5r0xe92ja446.mp4
 
 歌曲欣赏,#genre#
 大风吹,http://vdown2.kuwo.cn/resource//t5/0/eTNBMFltlx07LI3bUVOg01041201VIsY0E010.mp4
@@ -294,6 +308,7 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 彭羚+容祖儿-心淡(演唱会),http://em.21dtv.com/songs/60084239.mkv
 谢有才-兄弟(演唱会),http://em.21dtv.com/songs/60084288.mkv
 任贤齐+李宗盛-鬼迷心窍,http://em.21dtv.com/songs/60019402.mkv
+2021伤感洗脑神曲,https://vdse.bdstatic.com//8ad29ca92a901b9992431cf0c5266101.mp4
 7首伤感情歌,https://vd2.bdstatic.com/mda-nbdj7sp20st0jd9d/sc/cae_h264_delogo/1644847557994341172/mda-nbdj7sp20st0jd9d.mp4
 好想抱着你,https://txmov2.a.kwimgs.com/upic/2023/07/31/15/BMjAyMzA3MzExNTE0NDBfMzM5Njk4MTMyNl8xMDkzMzMzMzIxNzZfMF8z_b_B1948380dbccf0f753597da137aca876b.mp4
 或者累,https://alimov2.a.kwimgs.com/upic/2023/08/07/10/BMjAyMzA4MDcxMDQxMjFfMzM5Njk4MTMyNl8xMDk4ODA1NjIyMDJfMF8z_b_Bac7f15b8e8955af7e55d787a8bfb9ee3.mp4
