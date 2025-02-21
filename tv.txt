@@ -3,10 +3,9 @@
 
 特色频道,#genre#
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
-生态环境,http://110.85.184.45:9999/rtp/239.61.3.68:9926
-中国天气,http://27.9.124.231:50001/TVOD/5000000005000031974/bestzb/index.m3u8
+生态环境,http://113.15.186.206:8181/tsfile/live/1120_1.m3u8
+生态环境,http://120.37.63.136:8000/rtp/239.61.3.68:9926
 中国天气,http://jf.jxx2023.work:40446/tsfile/live/1050_1.m3u8
-中国天气,http://27.9.124.231:50001/TVOD/2000000002000000057/hnbblive/index.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
@@ -16,12 +15,8 @@
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.200.122:5140
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.201.186:5140
-金色学堂,http://222.70.152.149:7788/TVOD/5000000010000026105/bestzb/index.m3u8
-金色学堂,http://27.9.124.231:50001/TVOD/5000000010000026105/bestzb/index.m3u8
-金色学堂,http://27.9.124.231:50001/TVOD/2000000002000000061/hnbblive/index.m3u8
-东方财经,http://27.9.124.231:50001/TVOD/2000000002000000090/hnbblive/index.m3u8
-东方财经,http://27.9.124.231:50001/TVOD/5000000007000010003/bestzb/index.m3u8
-东方财经,http://27.9.124.231:50001/TVOD/5000000004000014098/bestzb/index.m3u8
+金色学堂,http://220.184.217.141:8000/udp/233.50.200.122:5140
+东方财经,http://222.209.182.48:8089/udp/239.93.1.165:5140
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
@@ -63,8 +58,6 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 重庆频道,#genre#
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://j.x.bkpcp.top/jx/CHONGQHD
-重庆卫视,http://27.9.124.231:50001/TVOD/1000000001000001096/ystenlive/index.m3u8
-重庆卫视,http://27.9.124.231:50001/TVOD/5000000004000025797/bestzb/index.m3u8
 重庆卫视,http://113.195.45.95:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://218.13.14.6:60050/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://218.58.136.82:352/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -77,22 +70,20 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
-重庆影视,http://119.84.198.10:7777/rtp/235.254.196.209:1108
-重庆影视,http://125.83.123.224:4022/rtp/235.254.196.209:1108
-重庆影视,http://123.145.43.169:8005/udp/225.0.4.62:7980
-重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
-重庆新闻,http://119.84.198.10:7777/rtp/235.254.196.208:1104
-重庆新闻,http://125.83.123.224:4022/rtp/235.254.196.208:1104
-重庆新闻,http://123.145.43.169:8005/udp/225.0.4.59:7980
+重庆影视,
+重庆影视,http://211.158.155.15:8002/udp/225.0.4.62:7980
+重庆影视,http://211.158.154.252:8002/udp/225.0.4.62:7980
+重庆影视,http://211.158.154.144:8002/udp/225.0.4.62:7980
+重庆新闻,http://211.158.154.144:8002/udp/225.0.4.59:7980
+重庆新闻,http://211.158.154.252:8002/udp/225.0.4.59:7980
+重庆新闻,http://211.158.152.186:8002/udp/225.0.4.59:7980
 
-重庆汽摩,http://iptv.zhangliang.cc:8012/udp/225.0.4.61:7980
+重庆汽摩,http://211.158.154.252:8002/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
-重庆汽摩,http://123.145.43.169:8005/udp/225.0.4.61:7980
+重庆汽摩,http://211.158.154.144:8002/udp/225.0.4.61:7980
 
 央视综合,#genre#
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV1,http://27.9.124.231:50001/TVOD/1000000001000018602/ystenlive/index.m3u8
-CCTV1,http://27.9.124.231:50001/TVOD/5000000004000002226/bestzb/index.m3u8
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -197,7 +188,6 @@ CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 三沙卫视,http://jf.jxx2023.work:40446/tsfile/live/1035_1.m3u8
 三沙卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 北京卫视,http://j.x.bkpcp.top/jx/BEIJHD
-东方卫视,http://116.77.32.59:8277/streams/d/dfws/playlist.m3u8
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD
 黑龙江卫视,http://j.x.bkpcp.top/jx/HEILJHD
 黑龙江卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEHwpSHKc5p-bHJfhpIWFig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5Y8rTELLykZJHp-bmY2YW%2CEND
@@ -206,27 +196,21 @@ CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 吉林卫视,http://j.x.bkpcp.top/jx/JILHD
 吉林卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EicY_6znuOTlmMeE15TFEig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNNUZpDp9cPVsM_M_ftJRVM%2CEND
 内蒙古卫视,http://j.x.bkpcp.top/jx/NMGWS
-河北卫视,http://115.229.24.84:8866/TVOD/1000000002000023773/ystenlive/index.m3u8
 河南卫视,http://j.x.bkpcp.top/jx/HENHD
 山东卫视,http://j.x.bkpcp.top/jx/SHANDHD
 山东卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EycMz-PML_dQW8iLcNBkw7g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYCYLC04QAM6EBli1wTuET%2CEND
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
 山西卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EokFa56wMKUpB1vaIjEe92A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPoj5DNJHruOghC7vAQxinJ%2CEND
 湖北卫视,http://j.x.bkpcp.top/jx/HUBEIHD
-湖南卫视,http://115.229.24.84:8866/TVOD/5000000010000030452/bestzb/index.m3u8
-广东卫视,http://115.229.24.84:8866/TVOD/1000000005000265034/ystenlive/index.m3u8
 广西卫视,http://j.x.bkpcp.top/jx/GUANGXHD
-海南卫视,http://115.229.24.84:8866/TVOD/1000000002000023773/ystenlive/index.m3u8
 海南卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EZOP0PLu1-XG8_Ae0lTe9HQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNODcjESMU4f6yMuMuOuQbie%2CEND
 安徽卫视,http://j.x.bkpcp.top/jx/ANHUIHD
 安徽卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226490/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcN5s_AlHugvAv9Pda6f9fA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOtRTFrO5eKiKNV40gMGHaS%2CEND
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
-江苏卫视,http://115.229.24.84:8866/TVOD/1000000005000265030/ystenlive/index.m3u8
 江苏卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EJT6eqtJpcKnNhyUS90EOgw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN1SxXwCt0S69Lq27ZMJpfR%2CEND
 江西卫视,http://local-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8
 江西卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND
 东南卫视,http://j.x.bkpcp.top/jx/DONGNHD
-厦门卫视,http://115.229.24.84:8866/TVOD/1000000005000266006/ystenlive/index.m3u8
 海峡卫视,http://8.138.7.223/tv/fjtv.php?id=3\$官方源
 云南卫视,https://hwapi.yntv.net/62hdvf/41hse3.m3u8
 云南卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzQy9f4DIExLCs810r0Q6Kw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
