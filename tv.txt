@@ -3,7 +3,7 @@
 
 特色频道,#genre#
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
-生态环境,http://113.15.186.206:8181/tsfile/live/1120_1.m3u8
+生态环境,http://183.188.97.244:8888/rtp/226.0.2.120:8872
 生态环境,http://120.37.63.136:8000/rtp/239.61.3.68:9926
 中国天气,http://jf.jxx2023.work:40446/tsfile/live/1050_1.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
@@ -15,8 +15,9 @@
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.200.122:5140
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.201.186:5140
-金色学堂,http://220.184.217.141:8000/udp/233.50.200.122:5140
-东方财经,http://222.209.182.48:8089/udp/239.93.1.165:5140
+金色学堂,http://183.188.97.244:8888/rtp/226.0.2.182:9368
+东方财经,http://183.188.97.244:8888/rtp/226.0.2.76:8520
+东方财经,http://171.213.208.140:8888/udp/239.93.1.165:5140
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
@@ -35,7 +36,7 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 快乐垂钓,http://27.9.124.231:50001/TVOD/5000000011000031206/bestzb/index.m3u8
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 快乐垂钓,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~RHz0NOpqUZZN1Iz6lVLkkg~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNSiF8rKF1Pn2LepKMJ2cEG%2CEND
-四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8#http://221.205.180.88:8003/rtp/226.0.2.123:8896#http://tvbox6.com/tv/bfgd.php?id=229
+四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8#http://183.188.97.244:8888/rtp/226.0.2.123:8896#http://tvbox6.com/tv/bfgd.php?id=229
 
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -70,11 +71,11 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.114:5140
 重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
-
+重庆影视,http://125.83.161.229:4022/rtp/235.254.196.209:1108
 重庆影视,http://27.10.7.156:8004/udp/225.0.4.62:7980
 重庆影视,http://27.10.135.220:8004/udp/225.0.4.62:7980
 重庆影视,http://27.10.15.35:8004/udp/225.0.4.62:7980
-
+重庆新闻,http://125.83.161.229:4022/rtp/235.254.196.208:1104
 重庆新闻,http://27.10.15.35:8004/udp/225.0.4.59:7980
 重庆新闻,http://27.10.7.156:8004/udp/225.0.4.59:7980
 重庆新闻,http://27.10.135.220:8004/udp/225.0.4.59:7980
