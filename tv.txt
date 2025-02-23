@@ -40,12 +40,13 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv#http://cdn3.132.us.kg/live/fhzx/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv#http://cdn3.132.us.kg/live/fhzx/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#https://ali.hlspull.yximgs.com/live/diyp_fh1.flv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
             
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$#https://stream1.freetv.fun/tvbwu-xian-xin-wen-1.m3u8#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#https://stream1.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.ctv#http://php.jdshipin.com/smt.php?id=inews_twn#http://php.jdshipin.com:8880/smt.php?id=inews_twn#http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/5de65236fc55651cfbe3aa6b4e3d7b836e4c1a53d0acf8d5095f09dae4f92185.ctv#https://stream1.freetv.fun/c25ddef03f8dbacdbd7028b3846303a30b4cbfa4a5ba47d2508e6be4ea83012e.m3u8#http://extraott.com:80/live/6772191932/1654508883/473557.m3u8#http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#https://stream1.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.ctv#http://php.jdshipin.com/smt.php?id=inews_twn#http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
+凤凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8#http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a#https://stream1.freetv.fun/c25ddef03f8dbacdbd7028b3846303a30b4cbfa4a5ba47d2508e6be4ea83012e.m3u8#http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 
 凤凰电影,https://stream1.freetv.fun/feng-huang-dian-ying-3.ctv
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
@@ -78,7 +79,7 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 重庆新闻,http://27.10.7.156:8004/udp/225.0.4.59:7980
 重庆新闻,http://27.10.135.220:8004/udp/225.0.4.59:7980
 
-重庆汽摩,http://27.10.7.156:8004/udp/225.0.4.61:7980
+重庆汽摩,http://27.10.15.35:8004/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆汽摩,http://27.10.135.220:8004/udp/225.0.4.61:7980
 
@@ -235,21 +236,31 @@ CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
 哈哈炫动,http://livetv.wqwqwq.sbs/itv/5000000011000031123.m3u8?cdn=bestzb
 哈哈炫动,https://stream1.freetv.fun/d9a16722c4303668abc9aea4c13e51f52951071e4028eaeb6e9639b72d61f063.m3u8
+哈哈炫动,https://stream1.freetv.fun/85aec22da72dbb69d4271fbde70b929f467b7d1b7c3c21639939b3d7865a00ac.m3u8
 嘉佳卡通,https://stream1.freetv.fun/b5db6dd06ad74aead5d8160da6c7b7ec8228136eb26524d9abc66a9d1b16b380.m3u8
 嘉佳卡通,https://stream1.freetv.fun/d4c6a9ac1aa0f348d8e7dfa720845b0606a2405bec2000734d1752541ddbbca9.m3u8
+嘉佳卡通,https://stream1.freetv.fun/6d228187385d7b8b5b6894f6e0900e4440338aff3e12e1c0c3677a7f2e37667e.m3u8
 卡酷少儿,https://stream1.freetv.fun/ce2ac3337ab79048f65c1994ff0049a0783e6db4a26d183b7b5683bc03d38be0.m3u8
 卡酷少儿,http://27.9.124.231:50001/TVOD/7851974109718180595/bestzb/index.m3u8
 卡酷少儿,http://27.9.124.231:50001/TVOD/1000000002000002413/ystenlive/index.m3u8
 动漫秀场,http://222.70.152.149:7788/TVOD/5000000002000023636/bestzb/index.m3u8
+动漫秀场,https://stream1.freetv.fun/670c5b1cdfb0effab6e9e09e5c82afcbe22528940ea1c58836e288e4f4bafb03.m3u8
 黑莓动画,http://222.70.152.149:7788/TVOD/2000000003000000002/hnbblive/index.m3u8
 优漫卡通,https://stream1.freetv.fun/57e3fc6914792be5173e3d60559c5e54f9adc80cccf70eaf6994660d3b10297c.m3u8
 金鹰卡通,https://stream1.freetv.fun/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.m3u8
 金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8
+金鹰卡通,https://stream1.freetv.fun/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.m3u8
 金鹰卡通,http://27.9.124.231:50001/TVOD/1000000002000016601/ystenlive/index.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 福建少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 江西少儿,http://php.jdshipin.com:8880/iptv.php?id=jxse
 宝宝动画,http://222.70.152.149:7788/TVOD/5000000011000288002/bestzb/index.m3u8
+黑龙江少儿,https://stream1.freetv.fun/e4605c046eb5afa05c9a4862a3db0dc3f99cb15b19495287fb59f3d5bdb4ac17.m3u8
+海绵宝宝,https://stream1.freetv.fun/2aa508013557f0470b7b2e9e7558612a5321b2b4de142e8c88dc046de4ce3e28.ctv
+深圳少儿,https://stream1.freetv.fun/2e981b9c4d85c9a1c33b625df8a108049d8d5c9bc7bd84613120d3701d5da76f.m3u8
+福建少儿,https://stream1.freetv.fun/d3d5c6629ffc45ab0d90a89af37dd37cbc26efd65978c2086ace2ec67c32c2bd.m3u8
+山东少儿,https://stream1.freetv.fun/015dbac308d9da33dad5b4b2991f2fa094de73f086e45f9f3e3356e4e7aa6dc2.m3u8
+广东少儿,https://stream1.freetv.fun/7f5d91d703ee916906433f86d026c8b9cde7d83dd34d9d02fbbf129f5f9e319c.ctv
 
 MV歌曲,#genre#
 次真降措-我从亚丁来,http://sr3wsvd3j.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#http://soiplw2f3.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措-我从亚丁来 .mp4#https://d.kstore.dev/download/10141/次真降措-我从亚丁来 .mp4
