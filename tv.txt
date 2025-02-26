@@ -8,7 +8,8 @@
 中国天气,http://jf.jxx2023.work:40446/tsfile/live/1050_1.m3u8
 中国天气,http://152.70.90.81:50001/5000000005000031974/bestzb/index.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-中国天气,http://172.245.205.135:50001/5000000005000031974/bestzb/index.m3u8
+中国天气,http://jk.1jia.xyz:51001/TVOD/5000000005000031974/bestzb/index.m3u8
+
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
@@ -17,10 +18,10 @@
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.200.122:5140
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.201.186:5140
-金色学堂,http://183.188.97.244:8888/rtp/226.0.2.182:9368
+金色学堂,http://jk.1jia.xyz:51001/TVOD/5000000010000026105/bestzb/index.m3u8
 金色学堂,http://152.70.90.81:50001/5000000010000026105/bestzb/index.m3u8
-东方财经,http://183.188.97.244:8888/rtp/226.0.2.76:8520
-东方财经,http://171.213.208.140:8888/udp/239.93.1.165:5140
+东方财经,http://jk.1jia.xyz:51001/TVOD/5000000007000010003/bestzb/index.m3u8
+东方财经,http://148.135.41.171:25000/5000000007000010003/bestzb/index.m3u8
 东方财经,http://152.70.90.81:50001/5000000007000010003/bestzb/index.m3u8
 东方财经,http://152.70.90.81:50001/2000000002000000090/hnbblive/index.m3u8
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
@@ -28,8 +29,10 @@
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
+CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
+CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
@@ -82,18 +85,18 @@ CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
-重庆影视,http://123.145.11.72:8002/udp/225.0.4.62:7980
-重庆影视,http://27.10.230.85:8001/udp/225.0.4.62:7980
-重庆影视,http://27.10.130.225:8004/udp/225.0.4.62:7980
-重庆影视,http://27.10.230.85:8004/udp/225.0.4.62:7980
+重庆影视http://27.10.213.253:8006/udp/225.0.4.62:7980
+重庆影视,http://27.10.4.11:8001/udp/225.0.4.62:7980
+重庆影视,http://27.10.4.11:8004/udp/225.0.4.62:7980
+重庆影视,http://27.10.3.218:8001/udp/225.0.4.62:7980
 
-重庆新闻,http://123.145.11.72:8002/udp/225.0.4.59:7980
-重庆新闻,http://27.10.230.85:8001/udp/225.0.4.59:7980
-重庆新闻,http://27.10.130.225:8004/udp/225.0.4.59:7980
+重庆新闻,http://27.10.213.253:8006/udp/225.0.4.59:7980
+重庆新闻,http://27.10.4.11:8001/udp/225.0.4.59:7980
+重庆新闻,http://27.10.4.11:8004/udp/225.0.4.59:7980
 
-重庆汽摩,http://123.145.11.72:8002/udp/225.0.4.61:7980
+重庆汽摩,http://27.10.4.11:8001/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
-重庆汽摩,http://27.10.230.85:8001/udp/225.0.4.61:7980
+重庆汽摩,http:///27.10.213.253:8006/udp/225.0.4.61:7980
 
 央视综合,#genre#
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
