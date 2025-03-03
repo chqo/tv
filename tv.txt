@@ -89,23 +89,15 @@ CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
-重庆影视,http://123.145.18.129:8004/udp/225.0.4.62:7980
 重庆影视,http://123.144.179.240:8005/udp/225.0.4.62:7980
-重庆影视,http://27.10.99.91:8004/udp/225.0.4.62:7980
-重庆影视,http://27.10.99.91:8002/udp/225.0.4.62:7980
-重庆影视,http://27.10.99.91:8001/udp/225.0.4.62:7980
-重庆影视,http://123.144.188.139:8005/udp/225.0.4.62:7980
-重庆影视,http://14.106.86.138:6789/rtp/235.254.196.209:1108
-重庆影视,http://14.109.176.27:4022/rtp/235.254.196.209:1108
+重庆影视,http://27.10.92.105:4022/udp/225.0.4.62:7980
+重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.192:7980
 
-重庆新闻,http://27.10.99.91:8004/udp/225.0.4.59:7980
-重庆新闻,http://27.10.99.91:8002/udp/225.0.4.59:7980
-重庆新闻,http://14.106.86.138:6789/rtp/235.254.196.208:1104
-重庆新闻,http://14.109.176.27:4022/rtp/235.254.196.208:1104
+重庆新闻,http://iptv.zhangliang.cc:8012/udp/225.0.4.188:7980
+重庆新闻,http://27.10.92.105:4022/udp/225.0.4.59:7980
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
 
-重庆汽摩,http://14.106.86.138:6789/rtp/235.254.196.221:1156
-重庆汽摩,http://14.109.176.27:4022/rtp/235.254.196.221:1156
+重庆汽摩,http://27.10.92.105:4022/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆汽摩,http://123.144.188.139:8005/udp/225.0.4.61:7980
 
@@ -371,6 +363,7 @@ CCTV17,http://8.138.7.223/tv/dl/careryun.php?id=19
 卡酷少儿,https://stream1.freetv.fun/ce2ac3337ab79048f65c1994ff0049a0783e6db4a26d183b7b5683bc03d38be0.m3u8
 卡酷少儿,http://27.9.124.231:50001/TVOD/7851974109718180595/bestzb/index.m3u8
 卡酷少儿,http://27.9.124.231:50001/TVOD/1000000002000002413/ystenlive/index.m3u8
+卡酷少儿,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 动漫秀场,http://222.70.152.149:7788/TVOD/5000000002000023636/bestzb/index.m3u8
 动漫秀场,http://ycsj.aguihome.com:4022/udp/233.50.201.184:5140
 动漫秀场,https://stream1.freetv.fun/670c5b1cdfb0effab6e9e09e5c82afcbe22528940ea1c58836e288e4f4bafb03.m3u8
