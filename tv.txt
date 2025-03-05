@@ -68,16 +68,17 @@ CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv#http://ali.hlspull.yximgs.com/live/9a047ab5a2acafabe7efaca7078ad5aa.flv#http://cdn.163189.xyz/live/fhzw/stream.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://8.138.7.223/tv/dl/hucc.php?id=33#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv#http://cdn3.132.us.kg/live/fhzx/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv#http://ali.hlspull.yximgs.com/live/247d796a10a086d11e5bd167e73ed9a6.flv#http://8.138.7.223/tv/dl/hucc.php?id=33#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://cdn3.132.us.kg/live/fhzx/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
             
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#https://stream1.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.ctv#http://php.jdshipin.com/smt.php?id=inews_twn#http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://ali.hlspull.yximgs.com/live/b1ddca90579a84fbbf1af6821c34be97.flv#http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#https://stream1.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.ctv#http://php.jdshipin.com/smt.php?id=inews_twn#http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
-凤凰香港,http://221.220.130.202:55555/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv#http://extraott.com:80/live/6772191932/1654508883/473557.m3u8#http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a#https://stream1.freetv.fun/c25ddef03f8dbacdbd7028b3846303a30b4cbfa4a5ba47d2508e6be4ea83012e.m3u8#http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+凤凰香港,http://ali.hlspull.yximgs.com/live/5e347323c4e75b6aecf75209c5ef649e.flv#http://extraott.com:80/live/6772191932/1654508883/473557.m3u8#http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a#https://stream1.freetv.fun/c25ddef03f8dbacdbd7028b3846303a30b4cbfa4a5ba47d2508e6be4ea83012e.m3u8#http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 
 凤凰电影, http://8.138.7.223/tv/dl/hucc.php?id=34
 凤凰电影, http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,http://ali.hlspull.yximgs.com/live/c9ff3e490acc7815a1ff06eec9ce3ba5.flv
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -89,7 +90,9 @@ CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://120.192.226.35:8009/hls/43/index.m3u8
 重庆卫视,http://8.138.7.223/tv/dl/careryun.php?id=37
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.114:5140
+重庆卫视,http://lu.wqwqwq.sbs/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://218.13.14.6:60050/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://218.58.136.82:352/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://222.173.108.238:352/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -97,12 +100,12 @@ CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
-重庆影视,http://113.206.157.177:8001/udp/225.0.4.62:7980
+重庆影视,http://27.10.8.158:8001/udp/225.0.4.62:7980
+重庆影视,http://113.206.157.177:8001/udp/225.0.4.192:7980
 重庆影视,http://124.162.88.232:8002/udp/225.0.4.62:7980
-重庆影视,http://27.10.10.149:8004/udp/225.0.4.62:7980
-重庆影视,http://123.145.26.128:8002/udp/225.0.4.62:7980
+重庆影视,http://27.10.3.113:8002/udp/225.0.4.62:7980
+重庆影视,http://123.144.179.240:8002/udp/225.0.4.62:7980
 重庆影视,http://27.12.109.215:9000/udp/225.0.4.62:7980
-重庆影视,http://211.158.65.152:8888/udp/225.0.4.62:7980
 重庆影视,http://113.206.117.86:8001/udp/225.0.4.62:7980
 
 重庆新闻,http://113.206.157.177:8001/udp/225.0.4.59:7980
@@ -362,6 +365,8 @@ CCTV17,http://goo.bkpcp.top/mg/cctv17
 广东少儿,https://stream1.freetv.fun/7f5d91d703ee916906433f86d026c8b9cde7d83dd34d9d02fbbf129f5f9e319c.ctv
 少儿,http://ycsj.aguihome.com:4022/udp/233.50.201.20:5140
 宁波少儿,http://ycsj.aguihome.com:4022/udp/233.50.201.181:5140
+动画,http://ali.hlspull.yximgs.com/live/4dd4f9394119454c423484e53fd11ed9.flv
+尼克儿童,http://ali.hlspull.yximgs.com/live/0ac0baecc0f088aab404570f3305da50.flv
 
 MV歌曲,#genre#
 次真降措-我从亚丁来,http://sr3wsvd3j.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#http://soiplw2f3.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措-我从亚丁来 .mp4#https://d.kstore.dev/download/10141/次真降措-我从亚丁来 .mp4
