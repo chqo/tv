@@ -99,16 +99,12 @@ CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
-重庆影视,http://123.145.18.41:8003/udp/225.0.4.62:7980
-重庆影视,http://123.145.21.162:8005/udp/225.0.4.62:7980
-重庆影视,http://14.106.82.17:6789/rtp/235.254.196.209:1108
+重庆影视,http://119.84.194.53:7777/rtp/235.254.196.209:1108
+重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=d1e25de7f75f7d3957088cbb5476632b&ext_start_limit=1741539609&int_start_limit=1741539609&expires=1741539609&c=null&p=3073
 
-重庆新闻,http://123.145.18.41:8003/udp/225.0.4.59:7980
-重庆新闻,http://123.145.21.162:8005/udp/225.0.4.59:7980
-重庆新闻,http://14.106.82.17:6789/rtp/235.254.196.208:1104
+重庆新闻,http://119.84.194.53:7777/rtp/235.254.196.208:1104
 
-重庆汽摩,http://14.106.82.17:6789/rtp/235.254.196.221:1156
-重庆汽摩,http://123.145.21.162:8005/udp/225.0.4.61:7980
+重庆汽摩,http://119.84.194.53:7777/rtp/235.254.196.221:1156
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
