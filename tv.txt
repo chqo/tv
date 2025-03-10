@@ -4,14 +4,10 @@
 特色频道,#genre#
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 生态环境,http://60.10.204.102:7171/rtp/239.253.93.245:6423
-生态环境,http://59.52.60.83:8008/rtp/239.252.220.216:5140
-生态环境,http://171.120.214.3:8082/rtp/226.0.2.120:8872
-生态环境,http://116.179.99.228:8085/rtp/226.0.2.120:8872
-中国天气,http://189.1.246.1:50001/TVOD/5000000005000031974/bestzb/index.m3u8
+生态环境,http://60.220.167.10:8085/rtp/226.0.2.120:8872
 中国天气,http://89.58.0.16:50001/TVOD/5000000005000031974/bestzb/index.m3u8
-中国天气,http://8.209.196.123:32768/5000000005000031974/bestzb/index.m3u8
+中国天气,http://103.84.91.253:5000/TVOD/5000000005000031974/bestzb/index.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-中国天气,http://jk.1jia.xyz:51001/TVOD/5000000005000031974/bestzb/index.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
@@ -21,12 +17,11 @@
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.200.122:5140
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.201.186:5140
-金色学堂,http://189.1.246.1:50001/TVOD/2000000002000000061/hnbblive/index.m3u8
 金色学堂,http://89.58.0.16:50001/TVOD/5000000010000026105/bestzb/index.m3u8
-金色学堂,http://8.209.196.123:32768/5000000010000026105/bestzb/index.m3u8
-东方财经,http://8.209.196.123:32768/5000000007000010003/bestzb/index.m3u8
+金色学堂,http://103.84.91.253:5000/TVOD/5000000010000026105/bestzb/index.m3u8
+东方财经,
 东方财经,http://89.58.0.16:50001/TVOD/5000000007000010003/bestzb/index.m3u8
-东方财经,http://189.1.246.1:50001/TVOD/5000000007000010003/bestzb/index.m3u8
+东方财经,http://103.84.91.253:5000/TVOD/5000000007000010003/bestzb/index.m3u8
 东方财经,http://148.135.41.171:25000/2000000002000000090/hnbblive/index.m3u8
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
@@ -83,35 +78,33 @@ CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 翡翠台,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 
 重庆频道,#genre#
+重庆卫视,http://b.mtw.so/6aA06z
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://120.192.226.35:8009/hls/43/index.m3u8
 重庆卫视,http://dsk.cc/php/xxtv.php?id=cqws
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-重庆卫视,http://76.5432123.xyz/杂项代理/学习强国.php?id=cqws
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 重庆卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225542/10000100000000060000000000107322_0.smil
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
 重庆卫视,http://58.213.65.146:352/tsfile/live/0142_1.m3u8?key=txiptv
 重庆卫视,http://jf.jxx2023.work:40446/tsfile/live/0142_1.m3u8
 重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.114:5140
+重庆卫视,http://113.56.95.69:53765/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://222.173.108.238:352/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://39.164.180.36:19901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
 重庆影视,http://27.9.88.226:8003/udp/225.0.4.62:7980
-重庆影视,http://27.9.198.6:8003/udp/225.0.4.62:7980
-重庆影视,http://123.145.17.57:8004/udp/225.0.4.62:7980
-重庆影视,http://119.84.194.53:7777/rtp/235.254.196.209:1108
-重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=d1e25de7f75f7d3957088cbb5476632b&ext_start_limit=1741539609&int_start_limit=1741539609&expires=1741539609&c=null&p=3073
+重庆影视,http://123.145.17.57:8002/udp/225.0.4.62:7980
+重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=a9f20f022ce77b003a88fec3518cc191&ext_start_limit=1741626007&int_start_limit=1741626007&expires=1741626007&c=null&p=3073
 
 重庆新闻,http://27.9.88.226:8003/udp/225.0.4.59:7980
-重庆新闻,http://27.9.198.6:8003/udp/225.0.4.59:7980
-重庆新闻,http://123.145.17.57:8004/udp/225.0.4.59:7980
-重庆新闻,http://119.84.194.53:7777/rtp/235.254.196.208:1104
+重庆新闻,http://123.145.17.57:8002/udp/225.0.4.59:7980
+重庆新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?sig=740c6f9f39438b9707c24eab786a317f&ext_start_limit=1741626005&int_start_limit=1741626005&expires=1741626005&c=null&p=3073
 
-重庆汽摩,http://123.145.17.57:8004/udp/225.0.4.61:7980
-重庆汽摩,http://119.84.194.53:7777/rtp/235.254.196.221:1156
+
+重庆汽摩,http://123.145.17.57:8002/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
