@@ -30,16 +30,13 @@ CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba020
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
+CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
-CHC动作电影,http://8.138.7.223/tv/dl/hucc.php?id=47
-CHC家庭影院,http://8.138.7.223/tv/dl/hucc.php?id=48
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
+CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
+CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
-CHC家庭影院,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC动作电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-怀旧剧场,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 怀旧剧场,http://jf.jxx2023.work:40446/tsfile/live/1149_1.m3u8
 怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
@@ -81,6 +78,7 @@ CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://120.192.226.35:8009/hls/43/index.m3u8
 重庆卫视,http://dsk.cc/php/xxtv.php?id=cqws
+重庆卫视,rtsp://221.7.61.147/PLTV/88888910/224/3221225542/10000100000000060000000000107322_0.smil
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 重庆卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225542/10000100000000060000000000107322_0.smil
@@ -94,16 +92,22 @@ CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
-重庆影视,http://27.9.88.226:8003/udp/225.0.4.62:7980
+重庆影视,http://27.12.109.13:9000/udp/225.0.4.62:7980
+重庆影视,http://211.92.70.10:8888/udp/225.0.4.62:7980
+重庆影视,http://27.9.88.226:8005/udp/225.0.4.62:7980
+重庆影视,http://27.9.88.226:8004/udp/225.0.4.62:7980
 重庆影视,http://123.145.17.57:8002/udp/225.0.4.62:7980
-重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=a9f20f022ce77b003a88fec3518cc191&ext_start_limit=1741626007&int_start_limit=1741626007&expires=1741626007&c=null&p=3073
+重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=a3e3f5f9f8b88f30013cecb102d054fa&ext_start_limit=1741712408&int_start_limit=1741712408&expires=1741712408&c=null&p=3073
 
-重庆新闻,http://27.9.88.226:8003/udp/225.0.4.59:7980
+重庆新闻,http://27.12.109.13:9000/udp/225.0.4.59:7980
+重庆新闻,http://27.9.88.226:8005/udp/225.0.4.59:7980
+重庆新闻,http://27.9.88.226:8004/udp/225.0.4.59:7980
 重庆新闻,http://123.145.17.57:8002/udp/225.0.4.59:7980
-重庆新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?sig=740c6f9f39438b9707c24eab786a317f&ext_start_limit=1741626005&int_start_limit=1741626005&expires=1741626005&c=null&p=3073
-
-
-重庆汽摩,http://123.145.17.57:8002/udp/225.0.4.61:7980
+重庆新闻,http://211.92.70.10:8888/udp/225.0.4.59:7980
+重庆新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?sig=5d680a2c280461c0a8b5dced755b8bf4&ext_start_limit=1741712406&int_start_limit=1741712406&expires=1741712406&c=null&p=3073
+重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
+重庆汽摩,http://27.12.109.13:9000/udp/225.0.4.61:7980
+重庆汽摩,http://211.92.70.10:8888/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
