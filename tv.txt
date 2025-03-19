@@ -32,6 +32,8 @@ CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba020
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-21.m3u8
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-31.m3u8
 CHC动作电影,http://211.67.191.23/hls/chcatv/index.m3u8
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
@@ -40,7 +42,13 @@ CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC家庭影院,http://211.67.191.23/hls/chctv/index.m3u8
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-2.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
+CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-1.m3u8
+CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-5.m3u8
+CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-2.m3u8
+CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-7.m3u8
 怀旧剧场,http://jf.jxx2023.work:40446/tsfile/live/1149_1.m3u8
 怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
@@ -60,13 +68,13 @@ CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8#https://stream1.freetv.fun/d3c92459e8f551fb9d596197050f5caa3441cc4b4300514833d9bcfe23aeddb8.ctv#https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.ctv#http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8#https://stream1.freetv.fun/d3c92459e8f551fb9d596197050f5caa3441cc4b4300514833d9bcfe23aeddb8.ctv#https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.ctv#http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8#http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv#https://stream1.freetv.fun/feng-huang-zi-xun-16.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8#http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
             
 无线新闻,http://ali.hlspull.yximgs.com/live/b1ddca90579a84fbbf1af6821c34be97.flv#http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#https://stream1.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.ctv#http://php.jdshipin.com/smt.php?id=inews_twn#http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://extraott.com:80/live/6772191932/1654508883/473557.m3u8#http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a#https://stream1.freetv.fun/c25ddef03f8dbacdbd7028b3846303a30b4cbfa4a5ba47d2508e6be4ea83012e.m3u8#http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://extraott.com:80/live/6772191932/1654508883/473557.m3u8#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv#https://stream1.freetv.fun/feng-huang-xiang-gang-5.m3u8
 
 凤凰电影,http://211.67.191.23/hls/fhdy/index.m3u8
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -80,6 +88,7 @@ CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 
 重庆频道,#genre#
 重庆卫视,http://b.mtw.so/6aA06z
+重庆卫视,https://stream1.freetv.fun/ad49d819eef31d583493cdaa6c4bc6ef9efbd5e7185d508675fb96bb81847051.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://120.192.226.35:8009/hls/43/index.m3u8
 重庆卫视,rtsp://60.13.23.179/PLTV/88888910/224/3221225542/10000100000000060000000000107322_0.smil
