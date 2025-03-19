@@ -8,7 +8,7 @@
 生态环境,http://60.223.72.203:8005/rtp/226.0.2.120:8872
 生态环境,http://117.10.142.36:8686/udp/225.1.2.201:5002
 生态环境,http://124.163.102.34:6001/rtp/226.0.2.120:8872
-
+中国天气,http://59.54.14.241:8888/rtp/239.252.219.143:5140
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
@@ -27,6 +27,8 @@
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+法国时尚,https://stream1.freetv.fun/e007d8373848e8163a7e31e2efaf118ca5dec3c7accf19f82520b035b6b81156.m3u8
+法国时尚,https://stream1.freetv.fun/bd28dee32d184c56184c3de286f5920575e384cf4264034409a2e8fa74b02d05.m3u8
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
@@ -101,26 +103,22 @@ CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-7.m3u8
 重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
-重庆影视,http://27.11.60.49:8010/udp/225.0.4.62:7980
-重庆影视,http://27.11.194.75:8010/udp/225.0.4.62:7980
-重庆影视,http://27.10.76.241:8010/udp/225.0.4.62:7980
-重庆影视,http://27.9.90.16:8010/udp/225.0.4.62:7980
+重庆影视,http://27.11.60.49:80109/udp/225.0.4.62:7980
+重庆影视,http://27.9.90.16:8009/udp/225.0.4.62:7980
 重庆影视,http://123.144.179.240:8005/udp/225.0.4.62:7980
 重庆影视,http://113.206.185.141:8005/udp/225.0.4.62:7980
-重庆影视,http://27.11.195.0:8010/udp/225.0.4.62:7980
 重庆影视,http://27.11.105.179:8001/udp/225.0.4.62:7980
 重庆影视,http://211.158.152.184:8001/udp/225.0.4.62:7980
-重庆影视,http://211.158.152.184:8007/udp/225.0.4.62:7980
+重庆影视,http://211.158.152.184:8009/udp/225.0.4.62:7980
+重庆影视,http://106.87.49.83:8888/rtp/235.254.196.209:1108
 
-重庆新闻,http://27.11.60.49:8010/udp/225.0.4.59:7980
-重庆新闻,http://27.11.194.75:8010/udp/225.0.4.59:7980
-重庆新闻,http://27.10.76.241:8010/udp/225.0.4.59:7980
-重庆新闻,http://27.9.90.16:8010/udp/225.0.4.59:7980
+重庆新闻,http://27.11.60.49:8009/udp/225.0.4.59:7980
+重庆新闻,http://27.9.90.16:8009/udp/225.0.4.59:7980
 重庆新闻,http://123.144.179.240:8005/udp/225.0.4.59:7980
 重庆新闻,http://27.11.105.179:8001/udp/225.0.4.59:7980
 重庆新闻,http://211.158.152.184:8001/udp/225.0.4.59:7980
-重庆新闻,http://27.11.195.0:8010/udp/225.0.4.59:7980
 重庆新闻,http://113.206.185.141:8005/udp/225.0.4.59:7980
+重庆新闻,http://106.87.49.83:8888/rtp/235.254.196.208:1104
 
 重庆汽摩,http://123.144.179.240:8005/udp/225.0.4.61:7980
 重庆汽摩,http://211.158.152.184:8001/udp/225.0.4.61:7980
