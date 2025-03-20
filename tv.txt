@@ -3,12 +3,11 @@
 
 特色频道,#genre#
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
-生态环境,http://home.yulei.online:9999/rtp/226.0.2.120:8872
+生态环境,http://171.126.104.62:8888/rtp/226.0.2.120:8872
 生态环境,http://27.190.21.18:8545/rtp/239.254.201.187:6226
-生态环境,http://60.223.72.203:8005/rtp/226.0.2.120:8872
-生态环境,http://117.10.142.36:8686/udp/225.1.2.201:5002
-生态环境,http://124.163.102.34:6001/rtp/226.0.2.120:8872
-中国天气,http://59.54.14.241:8888/rtp/239.252.219.143:5140
+生态环境,http://183.189.222.43:8888/rtp/226.0.2.120:8872
+
+中国天气,http://124.224.85.131:2000/rtp/239.121.4.112:8654
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
@@ -19,9 +18,10 @@
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.200.122:5140
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.201.186:5140
-金色学堂,http://27.223.236.11:8888/udp/239.253.254.101:8000
+金色学堂,http://124.224.85.131:2000/rtp/239.121.4.78:8442
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
-东方财经,http://27.223.236.11:8888/udp/239.253.254.94:8000
+东方财经,http://124.224.85.131:2000/rtp/239.121.4.71:8400
+东方财经,http://182.136.209.34:10050/udp/239.93.1.165:5140
 东方财经,http://183.188.122.211:8888/rtp/226.0.2.76:8520
 东方财经,http://wouu.net:9977/udp/239.93.1.165:5140
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
@@ -30,7 +30,7 @@
 法国时尚,https://stream1.freetv.fun/e007d8373848e8163a7e31e2efaf118ca5dec3c7accf19f82520b035b6b81156.m3u8
 法国时尚,https://stream1.freetv.fun/bd28dee32d184c56184c3de286f5920575e384cf4264034409a2e8fa74b02d05.m3u8
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
+
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
@@ -46,20 +46,23 @@ CHC家庭影院,http://211.67.191.23/hls/chctv/index.m3u8
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-2.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-1.m3u8
 CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-5.m3u8
 CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-2.m3u8
 CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-7.m3u8
 怀旧剧场,http://jf.jxx2023.work:40446/tsfile/live/1149_1.m3u8
+怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
-女性时尚,http://221.220.130.202:55555/rptv/G_NVXINGSS-CQ.m3u8?license=gitv
+女性时尚,http://180.213.174.225:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 第一剧场,http://jf.jxx2023.work:40446/tsfile/live/1049_1.m3u8
-第一剧场,http://f.8-k.cc/Cha/1.m3u8?%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA
-第一剧场,http://221.220.130.202:55555/rptv/G_DIYIJC-CQ.m3u8?license=gitv
+第一剧场,
+第一剧场,
 风云剧场,http://jf.jxx2023.work:40446/tsfile/live/1150_1.m3u8
-风云剧场,http://221.220.130.202:55555/rptv/G_FENGYUNJC-CQ.m3u8?license=gitv
+风云剧场,
 风云音乐,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 快乐垂钓,http://27.9.124.231:50001/TVOD/5000000011000031206/bestzb/index.m3u8
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
@@ -90,38 +93,43 @@ CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-7.m3u8
 
 重庆频道,#genre#
 重庆卫视,http://b.mtw.so/6aA06z
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,https://stream1.freetv.fun/ad49d819eef31d583493cdaa6c4bc6ef9efbd5e7185d508675fb96bb81847051.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://120.192.226.35:8009/hls/43/index.m3u8
 重庆卫视,rtsp://60.13.23.179/PLTV/88888910/224/3221225542/10000100000000060000000000107322_0.smil
 重庆卫视,rtsp://221.7.61.147/PLTV/88888910/224/3221225542/10000100000000060000000000107322_0.smil
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225542/10000100000000060000000000107322_0.smil
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
 重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.114:5140
-重庆卫视,http://113.56.95.69:53765/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
-重庆影视,http://27.11.60.49:80109/udp/225.0.4.62:7980
+重庆影视,http://27.11.60.49:8010/udp/225.0.4.62:7980
 重庆影视,http://27.9.90.16:8009/udp/225.0.4.62:7980
 重庆影视,http://123.144.179.240:8005/udp/225.0.4.62:7980
-重庆影视,http://113.206.185.141:8005/udp/225.0.4.62:7980
-重庆影视,http://27.11.105.179:8001/udp/225.0.4.62:7980
-重庆影视,http://211.158.152.184:8001/udp/225.0.4.62:7980
+重庆影视,http://113.206.185.141:8003/udp/225.0.4.62:7980
+重庆影视,http://27.11.105.179:8009/udp/225.0.4.62:7980
+重庆影视,http://211.158.152.184:8010/udp/225.0.4.62:7980
 重庆影视,http://211.158.152.184:8009/udp/225.0.4.62:7980
-重庆影视,http://106.87.49.83:8888/rtp/235.254.196.209:1108
+重庆影视,http://27.10.215.18:8003/udp/225.0.4.62:7980
+重庆影视,http://27.10.149.249:8888/udp/225.0.4.62:7980
+重庆影视,http://123.147.92.64:8003/udp/225.0.4.62:7980
+重庆影视,http://211.158.154.242:8010/udp/225.0.4.62:7980
 
-重庆新闻,http://27.11.60.49:8009/udp/225.0.4.59:7980
+重庆新闻,http://211.158.154.242:8010/udp/225.0.4.59:7980
+重庆新闻,http://123.147.92.64:8003/udp/225.0.4.59:7980
+重庆新闻,http://27.11.60.49:8010/udp/225.0.4.59:7980
 重庆新闻,http://27.9.90.16:8009/udp/225.0.4.59:7980
 重庆新闻,http://123.144.179.240:8005/udp/225.0.4.59:7980
-重庆新闻,http://27.11.105.179:8001/udp/225.0.4.59:7980
-重庆新闻,http://211.158.152.184:8001/udp/225.0.4.59:7980
-重庆新闻,http://113.206.185.141:8005/udp/225.0.4.59:7980
-重庆新闻,http://106.87.49.83:8888/rtp/235.254.196.208:1104
+重庆新闻,http://27.11.105.179:8009/udp/225.0.4.59:7980
+重庆新闻,http://211.158.152.184:8010/udp/225.0.4.59:7980
+重庆新闻,http://113.206.185.141:8003/udp/225.0.4.59:7980
+重庆新闻,http://27.10.215.18:8003/udp/225.0.4.59:7980
+重庆新闻,http://27.10.149.249:8888/udp/225.0.4.59:7980
 
+重庆汽摩,http://27.10.149.249:8888/udp/225.0.4.61:7980
 重庆汽摩,http://123.144.179.240:8005/udp/225.0.4.61:7980
-重庆汽摩,http://211.158.152.184:8001/udp/225.0.4.61:7980
+重庆汽摩,http://211.158.152.184:8010/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -342,6 +350,7 @@ CCTV17,http://goo.bkpcp.top/mg/cctv17
 动画,http://ali.hlspull.yximgs.com/live/4dd4f9394119454c423484e53fd11ed9.flv
 尼克儿童,http://ali.hlspull.yximgs.com/live/0ac0baecc0f088aab404570f3305da50.flv
 海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+哪吒之决战龙神,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/353/5105004353/media/5105004353_5033311414_56.mp4
 
 MV歌曲,#genre#
 次真降措-我从亚丁来,http://ssoojm7u9.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#http://soiplw2f3.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措-我从亚丁来 .mp4#https://d.kstore.dev/download/10141/次真降措-我从亚丁来 .mp4
