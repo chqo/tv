@@ -88,7 +88,7 @@ CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-7.m3u8
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8#https://stream1.freetv.fun/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.m3u8#https://stream1.freetv.fun/d3c92459e8f551fb9d596197050f5caa3441cc4b4300514833d9bcfe23aeddb8.ctv#https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.ctv#http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0#http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8#https://stream1.freetv.fun/b5ceaeacd11b0331a6b3fbb0c4ef90836be87bb2c478d76b74ef1e27f32326f3.m3u8#https://stream1.freetv.fun/d3c92459e8f551fb9d596197050f5caa3441cc4b4300514833d9bcfe23aeddb8.ctv#https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.ctv#http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
 凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8#https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv#https://stream1.freetv.fun/feng-huang-zi-xun-16.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8#http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140#http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
             
@@ -115,23 +115,26 @@ CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-7.m3u8
 重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.114:5140
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
-重庆影视,http://123.145.23.217:8005/udp/225.0.4.62:7980
-重庆影视,http://113.205.61.52:8004/udp/225.0.4.62:7980
-重庆影视,http://113.205.218.168:8002/udp/225.0.4.62:7980
-重庆影视,http://113.206.230.86:8002/udp/225.0.4.62:7980
+重庆影视,http://27.11.105.179:8010/udp/225.0.4.62:7980
+重庆影视,http://123.145.58.156:8001/udp/225.0.4.62:7980
+重庆影视,http://27.11.195.235:8010/udp/225.0.4.62:7980
+重庆影视,http://106.87.48.181:8888/rtp/235.254.196.209:1108
+重庆影视,http://14.109.142.141:8883/rtp/235.254.196.209:1108
+重庆影视,http://123.144.36.128:9000/udp/225.0.4.62:7980
 重庆影视,http://123.144.179.240:8001/udp/225.0.4.62:7980
 重庆影视,http://27.15.156.70:8001/udp/225.0.4.62:7980
-重庆影视,http://123.145.50.127:8004/udp/225.0.4.62:7980
+重庆影视,http://123.145.50.127:8001/udp/225.0.4.62:7980
 
-重庆新闻,http://123.145.23.217:8005/udp/225.0.4.59:7980
-重庆新闻,http://113.205.61.52:8004/udp/225.0.4.59:7980
-重庆新闻,http://113.205.218.168:8002/udp/225.0.4.59:7980
-重庆新闻,http://113.206.230.86:8002/udp/225.0.4.59:7980
+重庆新闻,http://123.145.58.156:8001/udp/225.0.4.59:7980
+重庆新闻,http://106.87.48.181:8888/rtp/235.254.196.208:1104
+重庆新闻,http://14.109.142.141:8883/rtp/235.254.196.208:1104
+重庆新闻,http://123.144.36.128:9000/udp/225.0.4.59:7980
+重庆新闻,http://123.145.23.217:8001/udp/225.0.4.59:7980
 重庆新闻,http://123.144.179.240:8001/udp/225.0.4.59:7980
 重庆新闻,http://27.15.156.70:8001/udp/225.0.4.59:7980
 
 重庆汽摩,http://123.144.179.240:8001/udp/225.0.4.61:7980
-重庆汽摩,http://113.205.218.168:8002/udp/225.0.4.61:7980
+重庆汽摩,http://123.144.36.128:9000/udp/225.0.4.61:7980
 重庆汽摩,http://113.206.230.86:8002/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
