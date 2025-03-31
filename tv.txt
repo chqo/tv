@@ -79,7 +79,7 @@ CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-7.m3u8
             
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com:8880/smt.php?id=inews_twn#https://stream1.freetv.fun/e012241d841eb1164c9dded19b94d3b29f7c90c411c3df433bb071c00d3a6421.ctv#https://stream1.freetv.fun/wu-xian-xin-wen-8.m3u8
 
-凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://extraott.com:80/live/6772191932/1654508883/473557.m3u8#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv#https://stream1.freetv.fun/feng-huang-xiang-gang-5.m3u8
+凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8#http://dns.yiandrive.com:15907/phenix/fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://extraott.com:80/live/6772191932/1654508883/473557.m3u8#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv#https://stream1.freetv.fun/feng-huang-xiang-gang-5.m3u8
 
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -101,15 +101,17 @@ CHC影迷电影,https://stream1.freetv.fun/chcdian-ying-7.m3u8
 重庆影视,http://123.144.179.240:8004/udp/225.0.4.62:7980
 重庆影视,http://27.15.156.70:8004/udp/225.0.4.62:7980
 重庆影视,http://123.145.50.127:8004/udp/225.0.4.62:7980
-重庆影视,http://27.11.79.100:8888/udp/225.0.4.62:7980
-重庆影视,http://113.205.79.178:8004/udp/225.0.4.62:7980
+重庆影视,http://123.145.23.217:8002/udp/225.0.4.62:7980
+重庆影视,http://106.86.155.38:20005/rtp/235.254.196.209:1108
+重庆影视,http://123.145.5.123:8088/udp/225.0.4.62:7980
 
+重庆新闻,http://123.145.5.123:8088/udp/225.0.4.59:7980
 重庆新闻,http://123.145.58.156:8004/udp/225.0.4.59:7980
 重庆新闻,http://123.144.179.240:8004/udp/225.0.4.62:7980
 重庆新闻,http://27.15.156.70:8004/udp/225.0.4.59:7980
 重庆新闻,http://123.145.50.127:8004/udp/225.0.4.59:7980
-重庆新闻,http://27.11.79.100:8888/udp/225.0.4.59:7980
-重庆新闻,http://113.205.79.178:8004/udp/225.0.4.59:7980
+重庆新闻,http://123.145.23.217:8002/udp/225.0.4.59:7980
+重庆新闻,http://106.86.155.38:20005/rtp/235.254.196.208:1104
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
 
 重庆汽摩,http://123.144.179.240:8004/udp/225.0.4.61:7980
