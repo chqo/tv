@@ -83,6 +83,8 @@ CHC影迷电影,http://59.32.97.180:9901/tsfile/live/1024_1.m3u8
 凤凰香港,http://108.181.20.197/livehttpplay?channel_id=30016#http://live4play.uk/livehttpplay?channel_id=20067#http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv#http://222.83.135.28:8181/tsfile/live/1084_1.m3u8#https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://live4play.uk/livehttpplay?channel_id=20067#http://dns.yiandrive.com:15907/phenix/fhhk#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://dns.yiandrive.com:15907/phenix/fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv#http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
 凤凰卫视电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
+凤凰电影,https://stream1.freetv.fun/feng-huang-dian-ying-4.m3u8
+凤凰电影,https://stream1.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.m3u8
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://59.32.97.180:9901/tsfile/live/faacts/1035_1.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -101,6 +103,8 @@ CHC影迷电影,http://59.32.97.180:9901/tsfile/live/1024_1.m3u8
 
 重庆影视,http://211.158.44.140:8888/udp/225.0.4.62:7980
 重庆影视,http://27.11.33.209:8002/udp/225.0.4.62:7980
+重庆影视,https://stream1.freetv.fun/zhong-qing-ying-shi-ju-1.ctv
+重庆影视,https://stream1.freetv.fun/0a6feb06e1e509031e11deb9766be0c194fcd8c0b48cf2403f0437f7a8af859b.ctv
 
 重庆新闻,http://211.158.44.140:8888/udp/225.0.4.59:7980
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
