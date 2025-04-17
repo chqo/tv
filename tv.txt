@@ -111,7 +111,8 @@ ctv#http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 重庆影视,http://27.11.197.119:8004/udp/225.0.4.62:7980
 重庆影视,http://123.144.67.115:8004/udp/225.0.4.62:7980
 重庆影视,http://113.206.228.171:8004/udp/225.0.4.62:7980
-重庆影视,http://27.9.125.107:4022/udp/225.0.4.62:7980重庆影视,http://123.147.92.90:8004/udp/225.0.4.62:7980
+重庆影视,http://27.9.125.107:4022/udp/225.0.4.62:7980
+重庆影视,http://123.147.92.90:8004/udp/225.0.4.62:7980
 重庆影视,https://stream1.freetv.fun/zhong-qing-ying-shi-ju-1.ctv
 重庆影视,https://stream1.freetv.fun/0a6feb06e1e509031e11deb9766be0c194fcd8c0b48cf2403f0437f7a8af859b.ctv
 
@@ -638,7 +639,8 @@ MV歌曲,#genre#
 次真降措-我从亚丁来,https://gitee.com/dai98/ch/raw/master/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5.ts#http://ssoojm7u9.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#http://sttg0uhim.hn-bkt.clouddn.com/%E6
 %AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/chqo/tv/raw/main/
 %E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措-我从亚丁来 .mp4#https://d.kstore.dev/download/10141/次真降措-我从亚丁来 .mp4
-次真降措-牧人之歌 ,http://ssoojm7u9.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#http://sttg0uhim.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8
+次真降措-牧人之歌 ,http://ssoojm7u9.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#http://sttg0uhim.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B
+9%8
 B%E6%AD%8C%20.mkv#https://github.moeyy.xyz/https://github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv
 #https://github.moeyy.xyz/https://github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措-牧人之歌 .mkv#https://d.kstore.dev/download/10141/次真降措-牧人之歌 .mkv
 次真降措-亚丁恋歌,http://ssoojm7u9.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E4%BA%9A%E4%B8%81%E6%81%8B%E6%AD%8C..mkv#http://sttg0uhim.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E4%BA%9A%E4%B8%81%E6%81%8B%E6%AD%8C..mkv#https://d.kstore.dev/download/10141/次真降措-亚丁恋歌..mkv
