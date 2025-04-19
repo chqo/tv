@@ -100,10 +100,11 @@ CHC影迷电影,http://59.32.97.180:9901/tsfile/live/1024_1.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
 
-重庆影视,
+重庆影视,http://119.84.196.114:7777/rtp/235.254.196.209:1108
 重庆影视,http://123.144.67.115:8003/udp/225.0.4.62:7980
 重庆影视,http://27.11.197.119:8003/udp/225.0.4.62:7980
 重庆影视,http://123.147.92.90:8003/udp/225.0.4.62:7980
+重庆影视,http://123.147.92.238:8005/udp/225.0.4.62:7980
 重庆影视,http://113.205.60.170:8005/udp/225.0.4.62:7980
 重庆影视,http://113.205.60.92:8005/udp/225.0.4.62:7980
 重庆影视,https://stream1.freetv.fun/zhong-qing-ying-shi-ju-1.ctv
