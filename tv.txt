@@ -99,12 +99,13 @@ CHC影迷电影,http://59.32.97.180:9901/tsfile/live/1024_1.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
-重庆影视,
+重庆影视,http://123.144.191.173:8001/udp/225.0.4.62:7980
+重庆影视,http://123.145.73.104:8002/udp/225.0.4.62:7980
 重庆影视,http://113.205.22.162:11111/udp/225.0.4.62:7980
 重庆影视,http://27.10.89.22:8888/udp/225.0.4.62:7980
 重庆影视,https://stream1.freetv.fun/0a6feb06e1e509031e11deb9766be0c194fcd8c0b48cf2403f0437f7a8af859b.ctv
 
-重庆新闻,http://27.10.89.22:8888/udp/225.0.4.59:7980
+重庆新闻,http://123.145.73.104:8002/udp/225.0.4.59:7980
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
 
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
