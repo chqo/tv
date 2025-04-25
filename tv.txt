@@ -69,7 +69,7 @@ CHC影迷电影,http://59.32.97.180:9901/tsfile/live/1024_1.m3u8
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,https://stream1.freetv.fun/0778f404f98edd220a5f364a9da4e88a0af2c4e537cdf7bc09e332492bf5c084.ctv#https://stream1.freetv.fun/fb591f27a9189997883e9a198b9d8b10a8895c9d64f0fc21b3dcd7513fca2805.m3u8#https://stream1.freetv.fun/3a350a5e23b7805809249b7ce03ccf27b053d39c757ab00a07a1bfcf284f06cc.ctv#http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#
+凤凰中文,https://stream1.freetv.fun/0778f404f98edd220a5f364a9da4e88a0af2c4e537cdf7bc09e332492bf5c084.ctv#https://stream1.freetv.fun/fb591f27a9189997883e9a198b9d8b10a8895c9d64f0fc21b3dcd7513fca2805.m3u8#https://stream1.freetv.fun/3a350a5e23b7805809249b7ce03ccf27b053d39c757ab00a07a1bfcf284f06cc.ctv#http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
 凤凰资讯,https://stream1.freetv.fun/4364ec78095c3ad80344669707b8a1cfb62aee92444dace158b2e4dc924241d7.m3u8#https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv#https://stream1.freetv.fun/feng-huang-wei-shi-6.m3u8#http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
             
@@ -89,25 +89,27 @@ CHC影迷电影,http://59.32.97.180:9901/tsfile/live/1024_1.m3u8
 
 重庆频道,#genre#
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-重庆卫视,http://111.8.242.107:4085/tsfile/live/1071_1.m3u8
-重庆卫视,http://106.56.52.118:6001/bptv/10000100000000050000000004796458.m3u8
-重庆卫视,http://183.131.246.250:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://180.121.224.152:4022/rtp/239.49.1.42:6000
+重庆卫视,http://116.224.207.223:8899/udp/239.45.1.84:5140
+重庆卫视,http://113.103.227.253:6688/bptv/10000100000000050000000004796458.m3u8
+重庆卫视,http://113.241.139.226:8085/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
-重庆影视,http://123.144.226.63:8003/udp/225.0.4.62:7980
-重庆影视,http://123.145.22.139:8002/udp/225.0.4.62:7980
-重庆影视,http://123.144.191.173:8001/udp/225.0.4.62:7980
-重庆影视,http://123.145.73.104:8003/udp/225.0.4.62:7980
+重庆影视,http://123.144.191.173:8005/udp/225.0.4.62:7980
+重庆影视,http://123.144.226.63:8005/udp/225.0.4.62:7980
+重庆影视,http://123.145.22.139:8003/udp/225.0.4.62:7980
+重庆影视,
+重庆影视,http://123.145.73.104:8005/udp/225.0.4.62:7980
 重庆影视,http://211.158.184.165:4022/udp/225.0.4.62:7980
 重庆影视,https://stream1.freetv.fun/0a6feb06e1e509031e11deb9766be0c194fcd8c0b48cf2403f0437f7a8af859b.ctv
 
 重庆新闻,http://211.158.184.165:4022/udp/225.0.4.59:7980
-重庆新闻,http://123.145.22.139:8002/udp/225.0.4.59:7980
-重庆新闻,http://123.145.73.104:8003/udp/225.0.4.59:7980
+重庆新闻,http://123.145.22.139:8003/udp/225.0.4.59:7980
+重庆新闻,http://123.145.73.104:8005/udp/225.0.4.59:7980
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
 
-重庆汽摩,http://123.145.22.139:8002/udp/225.0.4.61:7980
+重庆汽摩,http://123.145.22.139:8003/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
