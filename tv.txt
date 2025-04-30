@@ -88,19 +88,18 @@ CHC影迷电影,http://59.32.97.180:9901/tsfile/live/1024_1.m3u8
 重庆频道,#genre#
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://b.mtw.so/6aA06z
+重庆卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.187:7980
 重庆卫视,http://180.165.3.71:7777/tsfile/live/0142_1.m3u8
-重庆卫视,http://116.224.207.223:8899/udp/239.45.1.84:5140
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
 重庆影视,http://27.11.105.182:8004/udp/225.0.4.62:7980
-重庆影视,http://113.205.125.58:8888/udp/225.0.4.62:7980
-重庆影视,http://123.144.226.63:8001/udp/225.0.4.62:7980
+重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
 
-重庆新闻,http://27.11.105.182:8004/udp/225.0.4.62:7980
-重庆新闻,http://113.205.125.58:8888/udp/225.0.4.59:7980
+重庆新闻,http://iptv.zhangliang.cc:8012/udp/225.0.4.59:7980
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
 
+重庆汽摩,http://iptv.zhangliang.cc:8012/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -237,59 +236,6 @@ CCTV15,http://106.46.57.50:8888/hls/15/index.m3u8
 深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-河南卫视,http://106.46.57.50:8888/hls/16/index.m3u8
-湖南卫视,http://106.46.57.50:8888/hls/23/index.m3u8
-江苏卫视,http://106.46.57.50:8888/hls/24/index.m3u8
-浙江卫视,http://106.46.57.50:8888/hls/25/index.m3u8
-北京卫视,http://106.46.57.50:8888/hls/26/index.m3u8
-东方卫视,http://106.46.57.50:8888/hls/27/index.m3u8
-天津卫视,http://106.46.57.50:8888/hls/28/index.m3u8
-山东卫视,http://106.46.57.50:8888/hls/29/index.m3u8
-安徽卫视,http://106.46.57.50:8888/hls/30/index.m3u8
-深圳卫视,http://106.46.57.50:8888/hls/31/index.m3u8
-江西卫视,http://106.46.57.50:8888/hls/32/index.m3u8
-湖北卫视,http://106.46.57.50:8888/hls/33/index.m3u8
-四川卫视,http://106.46.57.50:8888/hls/34/index.m3u8
-黑龙江卫视,http://106.46.57.50:8888/hls/35/index.m3u8
-云南卫视,http://106.46.57.50:8888/hls/36/index.m3u8
-贵州卫视,http://106.46.57.50:8888/hls/37/index.m3u8
-辽宁卫视,http://106.46.57.50:8888/hls/38/index.m3u8
-东南卫视,http://106.46.57.50:8888/hls/39/index.m3u8
-重庆卫视,http://106.46.57.50:8888/hls/40/index.m3u8
-广东卫视,http://106.46.57.50:8888/hls/41/index.m3u8
-广西卫视,http://106.46.57.50:8888/hls/42/index.m3u8
-湖南卫视,http://111.43.126.240:9003/hls/37/index.m3u8
-江苏卫视,http://111.43.126.240:9003/hls/38/index.m3u8
-东方卫视,http://111.43.126.240:9003/hls/39/index.m3u8
-浙江卫视,http://111.43.126.240:9003/hls/40/index.m3u8
-北京卫视,http://111.43.126.240:9003/hls/41/index.m3u8
-广东卫视,http://111.43.126.240:9003/hls/42/index.m3u8
-安徽卫视,http://111.43.126.240:9003/hls/43/index.m3u8
-河南卫视,http://111.43.126.240:9003/hls/44/index.m3u8
-吉林卫视,http://111.43.126.240:9003/hls/45/index.m3u8
-天津卫视,http://111.43.126.240:9003/hls/46/index.m3u8
-东南卫视,http://111.43.126.240:9003/hls/47/index.m3u8
-江西卫视,http://111.43.126.240:9003/hls/49/index.m3u8
-四川卫视,http://111.43.126.240:9003/hls/50/index.m3u8
-深圳卫视,http://111.43.126.240:9003/hls/51/index.m3u8
-贵州卫视,http://111.43.126.240:9003/hls/52/index.m3u8
-海南卫视,http://111.43.126.240:9003/hls/53/index.m3u8
-湖北卫视,http://111.43.126.240:9003/hls/54/index.m3u8
-重庆卫视,http://111.43.126.240:9003/hls/55/index.m3u8
-河北卫视,http://111.43.126.240:9003/hls/56/index.m3u8
-辽宁卫视,http://111.43.126.240:9003/hls/57/index.m3u8
-西藏卫视,http://111.43.126.240:9003/hls/58/index.m3u8
-青海卫视,http://111.43.126.240:9003/hls/59/index.m3u8
-云南卫视,http://111.43.126.240:9003/hls/60/index.m3u8
-山西卫视,http://111.43.126.240:9003/hls/61/index.m3u8
-广西卫视,http://111.43.126.240:9003/hls/62/index.m3u8
-内蒙古卫视,http://111.43.126.240:9003/hls/63/index.m3u8
-新疆卫视,http://111.43.126.240:9003/hls/64/index.m3u8
-延边卫视,http://111.43.126.240:9003/hls/65/index.m3u8
-兵团卫视,http://111.43.126.240:9003/hls/66/index.m3u8
-宁夏卫视,http://111.43.126.240:9003/hls/67/index.m3u8
-陕西卫视,http://111.43.126.240:9003/hls/68/index.m3u8
-甘肃卫视,http://111.43.126.240:9003/hls/70/index.m3u8
 东方卫视,http://tvbox6.icu/tv/migu.php?id=dfws
 重庆卫视,http://tvbox6.icu/tv/migu.php?id=cqws
 吉林卫视,http://tvbox6.icu/tv/migu.php?id=jlws
@@ -508,7 +454,6 @@ NEWTV精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3
 
 
 少儿频道,#genre#
-重庆少儿,http://z.b.bkpcp.top/m.php?id=cqse
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -523,7 +468,6 @@ NEWTV精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3
 卡酷少儿,http://120.76.248.139/live/bfgd/4200000106.m3u8
 卡酷少儿,https://stream1.freetv.fun/ce2ac3337ab79048f65c1994ff0049a0783e6db4a26d183b7b5683bc03d38be0.m3u8
 动漫秀场,https://stream1.freetv.fun/670c5b1cdfb0effab6e9e09e5c82afcbe22528940ea1c58836e288e4f4bafb03.m3u8
-优漫卡通,http://z.b.bkpcp.top/m.php?id=ymkt
 优漫卡通,https://stream1.freetv.fun/57e3fc6914792be5173e3d60559c5e54f9adc80cccf70eaf6994660d3b10297c.m3u8
 金鹰卡通,https://stream1.freetv.fun/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.m3u8
 金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8
@@ -545,9 +489,6 @@ NEWTV精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3
 动画,http://ali.hlspull.yximgs.com/live/4dd4f9394119454c423484e53fd11ed9.flv
 尼克儿童,http://ali.hlspull.yximgs.com/live/0ac0baecc0f088aab404570f3305da50.flv
 海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
-卡酷动画,http://111.8.242.107:4085/tsfile/live/1033_1.m3u8
-动漫剧场,http://111.8.242.107:4085/tsfile/live/1051_1.m3u8
-金鹰卡通,http://111.8.242.107:4085/tsfile/live/1031_1.m3u8
 哪吒之决战龙神,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/353/5105004353/media/5105004353_5033311414_56.mp4
 
 MV歌曲,#genre#
