@@ -68,14 +68,14 @@ CHC影迷电影,http://59.32.97.180:9901/tsfile/live/1024_1.m3u8
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv#http://108.181.20.197/livehttpplay?channel_id=30014#http://live4play.uk/livehttpplay?channel_id=20065#https://stream1.freetv.fun/0778f404f98edd220a5f364a9da4e88a0af2c4e537cdf7bc09e332492bf5c084.ctv#https://stream1.freetv.fun/0778f404f98edd220a5f364a9da4e88a0af2c4e537cdf7bc09e332492bf5c084.ctv#https://stream1.freetv.fun/fb591f27a9189997883e9a198b9d8b10a8895c9d64f0fc21b3dcd7513fca2805.m3u8#https://stream1.freetv.fun/3a350a5e23b7805809249b7ce03ccf27b053d39c757ab00a07a1bfcf284f06cc.ctv#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://b.tvbox6.icu/【公众号：榴芒电视】/fhzw.m3u8#http://iptv.huuc.edu.cn/hls/fhzw.m3u8#http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv#http://108.181.20.197/livehttpplay?channel_id=30014#http://live4play.uk/livehttpplay?channel_id=20065#https://stream1.freetv.fun/0778f404f98edd220a5f364a9da4e88a0af2c4e537cdf7bc09e332492bf5c084.ctv#https://stream1.freetv.fun/0778f404f98edd220a5f364a9da4e88a0af2c4e537cdf7bc09e332492bf5c084.ctv#https://stream1.freetv.fun/fb591f27a9189997883e9a198b9d8b10a8895c9d64f0fc21b3dcd7513fca2805.m3u8#https://stream1.freetv.fun/3a350a5e23b7805809249b7ce03ccf27b053d39c757ab00a07a1bfcf284f06cc.ctv#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.m3u8#http://108.181.20.197/livehttpplay?channel_id=30015#http://live4play.uk/livehttpplay?channel_id=20066#https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv#https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.ctv#https://stream1.freetv.fun/4364ec78095c3ad80344669707b8a1cfb62aee92444dace158b2e4dc924241d7.m3u8#https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv#https://stream1.freetv.fun/feng-huang-wei-shi-6.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8#http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.m3u8#http://108.181.20.197/livehttpplay?channel_id=30015#http://live4play.uk/livehttpplay?channel_id=20066#https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv#https://stream1.freetv.fun/c122cf3090dfec4b2121b98d8d4bec70e82e7c17309a2dc5c297a1df45fc0f4c.ctv#https://stream1.freetv.fun/4364ec78095c3ad80344669707b8a1cfb62aee92444dace158b2e4dc924241d7.m3u8#https://stream1.freetv.fun/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.ctv#https://stream1.freetv.fun/feng-huang-wei-shi-6.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
             
 无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://php.jdshipin.com:8880/smt.php?id=inews_twn#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt#http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv#http://108.181.20.197/livehttpplay?channel_id=30016#http://live4play.uk/livehttpplay?channel_id=20067#https://stream1.freetv.fun/e04b14233c7014451fd340e1c5d0cc6a7a47937fa22d135f61caa76777602bad.ctv#http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8#https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://dns.yiandrive.com:15907/phenix/fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv
-
+              
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 凤凰电影,https://stream1.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.m3u8
 凤凰电影,http://121.37.185.74:28180/TV00000000000000000050@HHZT
@@ -96,15 +96,15 @@ CHC影迷电影,http://59.32.97.180:9901/tsfile/live/1024_1.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
+重庆影视,http://123.144.183.176:8002/udp/225.0.4.62:7980
 重庆影视,http://113.205.218.91:8005/udp/225.0.4.62:7980
-重庆影视,http://123.144.11.226:8888/udp/225.0.4.62:7980
 重庆影视,http://27.11.167.221:8005/udp/225.0.4.62:7980
 重庆影视,http://106.86.155.222:20003/rtp/235.254.196.209:1108
 重庆影视,http://106.86.155.222:20001/rtp/235.254.196.209:1108
 重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
 
 重庆新闻,http://113.205.218.91:8005/udp/225.0.4.62:7980
-重庆新闻,http://123.144.11.226:8888/udp/225.0.4.59:7980
+重庆新闻,http://123.144.183.176:8002/udp/225.0.4.59:7980
 重庆新闻,http://106.86.155.222:20001/rtp/235.254.196.208:1104
 重庆新闻,http://iptv.zhangliang.cc:8012/udp/225.0.4.59:7980
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
@@ -226,6 +226,39 @@ CCTV14,http://106.46.57.50:8888/hls/14/index.m3u8
 CCTV15,http://106.46.57.50:8888/hls/15/index.m3u8
 
 卫视频道,#genre#
+湖南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hunws
+浙江卫视,http://nctv.top/IDOEPpiryt/migu.php?id=zjws
+东方卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dfws
+东方影视,http://nctv.top/IDOEPpiryt/migu.php?id=shys
+云南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=ynws
+吉林卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jlws
+四川卫视,http://nctv.top/IDOEPpiryt/migu.php?id=scws
+宁夏卫视,http://nctv.top/IDOEPpiryt/migu.php?id=nxws
+安徽卫视,http://nctv.top/IDOEPpiryt/migu.php?id=ahws
+广东卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gdws
+广西卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gxws
+江苏卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jsws
+江西卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jxws
+河北卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hbws
+河南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hnws
+浙江卫视,http://nctv.top/IDOEPpiryt/migu.php?id=zjws
+湖北卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hbws
+甘肃卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gsws
+贵州卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gzws
+陕西卫视,http://nctv.top/IDOEPpiryt/migu.php?id=sxws
+青海卫视,http://nctv.top/IDOEPpiryt/migu.php?id=qhws
+大湾区卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dwqws
+东南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dnws
+海峡卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hxws
+上海新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=shxw
+南京科教,http://nctv.top/IDOEPpiryt/migu.php?id=njkj
+南京十八频道,http://nctv.top/IDOEPpiryt/migu.php?id=njsb
+江苏城市频道,http://nctv.top/IDOEPpiryt/migu.php?id=jscs
+江苏国际,http://nctv.top/IDOEPpiryt/migu.php?id=jsgj
+江苏教育,http://nctv.top/IDOEPpiryt/migu.php?id=jsjy
+江苏影视,http://nctv.top/IDOEPpiryt/migu.php?id=jsys
+江苏综艺,http://nctv.top/IDOEPpiryt/migu.php?id=jszy
+海峡卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hxws
 广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
 北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
 安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8
