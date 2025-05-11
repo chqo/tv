@@ -30,10 +30,13 @@
 法国时尚,https://stream1.freetv.fun/bd28dee32d184c56184c3de286f5920575e384cf4264034409a2e8fa74b02d05.m3u8
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
+CHC影迷电影,http://ali.hlspull.yximgs.com/live/f971876d67c3a5c107bc400f80ffd5b4.flv
+CHC动作电影,http://ali.hlspull.yximgs.com/live/3d67fd7fbcb01997785b4d0469f52985.flv
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
+CHC家庭影院,http://ali.hlspull.yximgs.com/live/73ad7d14d882b9eb14cacf3718afec61.flv
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
@@ -47,13 +50,13 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,ttp://ycsj.aguihome.com:4022/udp/233.50.200.42:5140#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#http://iptv.huuc.edu.cn/hls/fhzw.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv#ttp://ycsj.aguihome.com:4022/udp/233.50.200.42:5140#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140#http://iptv.huuc.edu.cn/hls/fhzw.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140#https://stream1.freetv.fun/feng-huang-wei-shi-6.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv#http://ycsj.aguihome.com:4022/udp/233.50.200.192:5140#https://stream1.freetv.fun/feng-huang-wei-shi-6.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
             
-无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://php.jdshipin.com:8880/smt.php?id=inews_twn#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt#http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://ali.hlspull.yximgs.com/live/qwt_wuxianxinwen.flv#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://php.jdshipin.com:8880/smt.php?id=inews_twn#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt#http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://dns.yiandrive.com:15907/phenix/fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv#https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://dns.yiandrive.com:15907/phenix/fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv
 
 凤凰电影,https://ali.hlspull.yximgs.com/live/diyp_fhdy.flv              
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
@@ -67,6 +70,7 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 
 重庆频道,#genre#
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+重庆卫视,http://ali.hlspull.yximgs.com/live/224377ea70617b714e5d45ba6d678262.flv
 重庆卫视,http://39.84.69.207:8007/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://42.48.17.230:808/hls/30/index.m3u8
@@ -74,20 +78,23 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
-重庆影视,http://106.87.51.129:8888/rtp/235.254.196.209:1108
-重庆影视,http://123.145.19.17:8001/udp/225.0.4.62:7980
-重庆影视,http://123.145.9.88:8001/udp/225.0.4.62:7980
-重庆影视,http://27.11.49.182:8006/udp/225.0.4.62:7980
+重庆影视,http://123.145.50.33:8002/udp/225.0.4.62:7980
+重庆影视,http://106.86.155.139:20001/rtp/235.254.196.209:1108
+重庆影视,http://27.10.215.131:8001/udp/225.0.4.62:7980
+重庆影视,http://123.144.67.124:8002/udp/225.0.4.62:7980
+重庆影视,http://27.10.224.101:8001/udp/225.0.4.62:7980
+重庆影视,http://27.10.209.159:8009/udp/225.0.4.62:7980
+重庆影视,http://27.11.49.182:8005/udp/225.0.4.62:7980
 重庆影视,http://113.206.187.65:8003/udp/225.0.4.62:7980
-重庆影视,http://27.11.49.228:8002/udp/225.0.4.62:7980
-重庆影视,http://27.11.49.182:8002/udp/225.0.4.62:7980
-重庆影视,http://27.10.209.206:8002/udp/225.0.4.62:7980
+重庆影视,http://27.11.49.228:8001/udp/225.0.4.62:7980
+重庆影视,http://27.11.49.182:8001/udp/225.0.4.62:7980
+重庆影视,http://27.10.209.206:8001/udp/225.0.4.62:7980
 重庆影视,http://123.145.68.106:8001/udp/225.0.4.62:7980
 重庆影视,http://27.15.112.81:3080/udp/225.0.4.62:7980
 重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
 
 重庆新闻,http://27.15.112.81:3080/udp/225.0.4.59:7980
-重庆新闻,http://27.11.49.182:8002/udp/225.0.4.59:7980
+重庆新闻,http://27.11.49.182:8001/udp/225.0.4.59:7980
 重庆新闻,http://iptv.zhangliang.cc:8012/udp/225.0.4.59:7980
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
 
@@ -536,6 +543,9 @@ NEWTV精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3
 
 
 少儿频道,#genre#
+重庆少儿,http://27.10.209.159:8008/udp/225.0.4.71:7980
+重庆少儿,http://27.10.224.101:8001/udp/225.0.4.71:7980
+重庆少儿,http://iptv.zhangliang.cc:8012/udp/225.0.4.71:7980
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
