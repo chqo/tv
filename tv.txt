@@ -70,13 +70,12 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 
 重庆频道,#genre#
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-重庆卫视,http://112.115.216.145:29999/bptv/10000100000000050000000004796458.m3u8
-重庆卫视,http://183.135.123.149:12345/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://124.127.46.59:9002/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.187:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
+重庆影视,http://27.10.213.226:8007/udp/225.0.4.62:7980
 重庆影视,http://27.10.215.131:8007/udp/225.0.4.62:7980
 重庆影视,http://123.144.67.124:8005/udp/225.0.4.62:7980
 重庆影视,http://27.10.209.159:8010/udp/225.0.4.62:7980
