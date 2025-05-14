@@ -6,6 +6,7 @@
 生态环境,http://ygbh.site/php/bfgd.php?id=149
 生态环境,http://123.174.106.183:8888/udp/239.1.1.110:8110
 中国天气,http://123.174.106.183:8888/udp/239.1.1.107:8107
+中国天气,http://183.220.20.17:4000/udp/239.10.0.177:5140
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
@@ -18,9 +19,10 @@
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.200.122:5140
-金色学堂,http://60.183.109.135:8000/udp/233.50.201.186:5140
-金色学堂,http://60.183.109.135:8000/udp/233.50.200.122:5140
+金色学堂,http://183.220.20.17:4000/udp/239.10.0.179:5140
+金色学堂,http://60.186.16.121:4022/udp/233.50.200.122:5140
 
+东方财经,http://183.220.20.17:4000/udp/239.10.0.178:5140
 东方财经,http://171.213.207.237:4200/udp/239.93.1.165:5140
 
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
@@ -77,9 +79,11 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
+重庆影视,http://27.10.149.47:8888/udp/225.0.4.62:7980
 重庆影视,http://211.158.49.183:8007/udp/225.0.4.62:7980
 重庆影视,http://113.205.78.37:8003/udp/225.0.4.62:7980
 重庆影视,http://113.205.79.115:8003/udp/225.0.4.62:7980
+重庆影视,http://113.205.78.37:8004/udp/225.0.4.62:7980
 重庆影视,http://27.9.125.63:4022/udp/225.0.4.62:7980
 重庆影视,http://27.11.71.240:4022/udp/225.0.4.62:7980
 重庆影视,http://27.10.214.60:8003/udp/225.0.4.62:7980
@@ -89,15 +93,12 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 重庆影视,http://27.10.209.159:8007/udp/225.0.4.62:7980
 重庆影视,http://27.10.209.206:8007/udp/225.0.4.62:7980
 重庆影视,http://27.15.112.81:3080/udp/225.0.4.62:7980
-重庆影视,http://106.86.155.139:20003/rtp/235.254.196.209:1108
 重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
 
-重庆新闻,http://106.86.155.139:20003/rtp/235.254.196.208:1104
 重庆新闻,http://27.15.112.81:3080/udp/225.0.4.59:7980
 重庆新闻,http://iptv.zhangliang.cc:8012/udp/225.0.4.59:7980
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
 
-重庆汽摩,http://106.86.155.139:20005/rtp/235.254.196.221:1156
 重庆汽摩,http://iptv.zhangliang.cc:8012/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
