@@ -21,7 +21,7 @@
 金色学堂,http://60.183.109.135:8000/udp/233.50.201.186:5140
 金色学堂,http://60.183.109.135:8000/udp/233.50.200.122:5140
 
-东方财经,http://171.213.146.88:8000/udp/239.93.1.165:5140
+东方财经,http://171.213.207.237:4200/udp/239.93.1.165:5140
 
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
@@ -70,19 +70,24 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 
 重庆频道,#genre#
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+重庆卫视,http://60.26.3.40:8100/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://222.169.34.55:40000/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://124.127.46.59:9002/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.187:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
-重庆影视,http://113.205.78.37:8005/udp/225.0.4.62:7980
+重庆影视,http://211.158.49.183:8007/udp/225.0.4.62:7980
+重庆影视,http://113.205.78.37:8003/udp/225.0.4.62:7980
+重庆影视,http://113.205.79.115:8003/udp/225.0.4.62:7980
 重庆影视,http://27.9.125.63:4022/udp/225.0.4.62:7980
+重庆影视,http://27.11.71.240:4022/udp/225.0.4.62:7980
+重庆影视,http://27.10.214.60:8003/udp/225.0.4.62:7980
 重庆影视,http://27.10.213.226:8007/udp/225.0.4.62:7980
 重庆影视,http://27.10.215.131:8007/udp/225.0.4.62:7980
+重庆影视,http://27.10.215.131:8009/udp/225.0.4.62:7980
 重庆影视,http://27.10.209.159:8007/udp/225.0.4.62:7980
 重庆影视,http://27.10.209.206:8007/udp/225.0.4.62:7980
-重庆影视,http://123.145.13.19:8004/udp/225.0.4.62:7980
 重庆影视,http://27.15.112.81:3080/udp/225.0.4.62:7980
 重庆影视,http://106.86.155.139:20003/rtp/235.254.196.209:1108
 重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
@@ -99,11 +104,12 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 央视综合,#genre#
 CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.200.99:5140
+CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV1,http://nctv.top/IDOEPpiryt/migu.php?id=cctv1
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
+CCTV2,http://8.138.7.223/tv/cctv2.php
 CCTV2,http://nctv.top/IDOEPpiryt/migu.php?id=cctv2
 CCTV3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
 CCTV3,http://nctv.top/IDOEPpiryt/migu.php?id=cctv3
@@ -127,6 +133,7 @@ CCTV10,http://itv.iptv1688.top:2016/itv.php?id=CCTV10
 CCTV11,http://itv.iptv1688.top:2016/itv.php?id=CCTV11
 CCTV12,http://itv.iptv1688.top:2016/itv.php?id=CCTV12
 CCTV13,http://itv.iptv1688.top:2016/itv.php?id=CCTV13
+CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
 CCTV14,http://itv.iptv1688.top:2016/itv.php?id=CCTV14
 CCTV15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
 CCTV16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
