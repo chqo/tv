@@ -79,10 +79,13 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
+重庆影视,http://123.145.11.175:8003/udp/225.0.4.62:7980
 重庆影视,http://27.10.214.60:8003/udp/225.0.4.62:7980
 重庆影视,http://106.81.145.204:3388/rtp/235.254.196.209:1108
+重庆影视,http://106.87.48.5:8888/rtp/235.254.196.209:1108
 重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
 
+重庆新闻,http://106.87.48.5:8888/rtp/235.254.196.208:1104
 重庆新闻,http://iptv.zhangliang.cc:8012/udp/225.0.4.59:7980
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
 
@@ -534,6 +537,7 @@ NEWTV精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3
 
 少儿频道,#genre#
 重庆少儿,http://106.81.145.204:3388/rtp/235.254.196.214:1128
+重庆少儿,http://123.145.11.175:8003/udp/225.0.4.71:7980
 重庆少儿,http://iptv.zhangliang.cc:8012/udp/225.0.4.71:7980
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
