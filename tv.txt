@@ -52,13 +52,13 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv#http://iptv.huuc.edu.cn/hls/fhzw.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv#http://iptv.huuc.edu.cn/hls/fhzw.m3u8#http://live4play.uk/livehttpplay?channel_id=30014#http://live4play.uk/livehttpplay?channel_id=20065#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv#http://iptv.huuc.edu.cn/hls/fhzx.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8#https://stream1.freetv.fun/feng-huang-wei-shi-6.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv#http://iptv.huuc.edu.cn/hls/fhzx.m3u8#http://live4play.uk/livehttpplay?channel_id=20066#http://live4play.uk/livehttpplay?channel_id=30015#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8#https://stream1.freetv.fun/feng-huang-wei-shi-6.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
             
 无线新闻,http://ali.hlspull.yximgs.com/live/qwt_wuxianxinwen.flv#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://php.jdshipin.com:8880/smt.php?id=inews_twn#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt#http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
-凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv#https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://dns.yiandrive.com:15907/phenix/fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv#http://live4play.uk/livehttpplay?channel_id=30016#http://live4play.uk/livehttpplay?channel_id=20067#https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://dns.yiandrive.com:15907/phenix/fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv
 
 凤凰电影,https://ali.hlspull.yximgs.com/live/diyp_fhdy.flv              
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
@@ -140,24 +140,39 @@ CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV1,http://111.43.126.240:9003/hls/13/index.m3u8
-CCTV2,http://111.43.126.240:9003/hls/14/index.m3u8
-CCTV3,http://111.43.126.240:9003/hls/15/index.m3u8
-CCTV4,http://111.43.126.240:9003/hls/16/index.m3u8
-CCTV5,http://111.43.126.240:9003/hls/17/index.m3u8
-CCTV5+,http://111.43.126.240:9003/hls/18/index.m3u8
-CCTV6,http://111.43.126.240:9003/hls/19/index.m3u8
-CCTV7,http://111.43.126.240:9003/hls/20/index.m3u8
-CCTV8,http://111.43.126.240:9003/hls/21/index.m3u8
-CCTV9,http://111.43.126.240:9003/hls/22/index.m3u8
-CCTV10,http://111.43.126.240:9003/hls/23/index.m3u8
-CCTV11,http://111.43.126.240:9003/hls/24/index.m3u8
-CCTV12,http://111.43.126.240:9003/hls/25/index.m3u8
-CCTV13,http://111.43.126.240:9003/hls/26/index.m3u8
-CCTV14,http://111.43.126.240:9003/hls/27/index.m3u8
-CCTV15,http://111.43.126.240:9003/hls/28/index.m3u8
-CCTV16,http://111.43.126.240:9003/hls/29/index.m3u8
-CCTV17,http://111.43.126.240:9003/hls/30/index.m3u8
+CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+CCTV3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
+CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
+CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+CCTV5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+CCTV6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
+CCTV7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
+CCTV8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
+CCTV9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
+CCTV10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
+CCTV11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
+CCTV12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
+CCTV13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+CCTV14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
+CCTV15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
+CCTV1,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV2,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV3,http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV4,http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV5,http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV5+,http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV6,http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV7,http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV8,http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV9,http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV10,http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV11,http://sport.pendy.dpdns.org/migu/667987558?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV12,http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV13,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV14,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV15,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV17,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
 CCTV1,http://120.76.248.139/live/bfgd/4200000489.m3u8
@@ -207,22 +222,6 @@ CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-CCTV15,http://iptv.huuc.edu.cn/hls/cctv15hd.m3u8
-CCTV1,http://106.46.57.50:8888/hls/1/index.m3u8
-CCTV2,http://106.46.57.50:8888/hls/2/index.m3u8
-CCTV3,http://106.46.57.50:8888/hls/3/index.m3u8
-CCTV4,http://106.46.57.50:8888/hls/4/index.m3u8
-CCTV5,http://106.46.57.50:8888/hls/5/index.m3u8
-CCTV6,http://106.46.57.50:8888/hls/6/index.m3u8
-CCTV7,http://106.46.57.50:8888/hls/7/index.m3u8
-CCTV8,http://106.46.57.50:8888/hls/8/index.m3u8
-CCTV9,http://106.46.57.50:8888/hls/9/index.m3u8
-CCTV10,http://106.46.57.50:8888/hls/10/index.m3u8
-CCTV11,http://106.46.57.50:8888/hls/11/index.m3u8
-CCTV12,http://106.46.57.50:8888/hls/12/index.m3u8
-CCTV13,http://106.46.57.50:8888/hls/13/index.m3u8
-CCTV14,http://106.46.57.50:8888/hls/14/index.m3u8
-CCTV15,http://106.46.57.50:8888/hls/15/index.m3u8
 
 卫视频道,#genre#
 北京卫视,http://42.48.17.230:808/hls/44/index.m3u8
