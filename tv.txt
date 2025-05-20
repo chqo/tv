@@ -79,7 +79,7 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
-重庆影视,http://123.144.226.20:8002/udp/225.0.4.62:7980
+重庆影视,http://123.144.226.20:8005/udp/225.0.4.62:7980
 重庆影视,http://123.145.11.231:8005/udp/225.0.4.62:7980
 重庆影视,http://113.206.153.130:8002/udp/225.0.4.62:7980
 重庆影视,http://14.106.82.114:2345/rtp/235.254.196.209:1108
