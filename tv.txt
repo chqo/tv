@@ -73,17 +73,18 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 重庆频道,#genre#
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://27.46.95.96:808/hls/47/index.m3u8
+重庆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=cqws
 重庆卫视,http://222.169.34.55:40000/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://124.127.46.59:9002/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://8.138.191.100:5678/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
-重庆影视,http://14.106.82.114:2345/rtp/235.254.196.209:1108
+重庆影视,http://113.206.158.145:4000/udp/225.0.4.62:7980
 
-重庆新闻,http://14.106.82.114:2345/rtp/235.254.196.208:1104
+重庆新闻,https://sjlivecdn.cbg.cn/202505211214/ef321ee260f593846db4830800202632/app_2/_definst_/ls_3.stream/chunklist.m3u8
 
-重庆汽摩,http://14.106.82.114:2345/rtp/235.254.196.221:1156
+重庆汽摩,
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -134,6 +135,8 @@ CCTV17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
 CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
+CCTV13,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
+CCTV13,http://hls.hsrtv.cn/live/hsyouxian.m3u8
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
@@ -217,6 +220,23 @@ CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+CCTV1,http://web9916.w.computerqwq.cf/jzb.php?id=cctv1
+CCTV2,http://web9916.w.computerqwq.cf/jzb.php?id=cctv2
+CCTV3,http://web9916.w.computerqwq.cf/jzb.php?id=cctv3
+ CCTV4,http://web9916.w.computerqwq.cf/jzb.php?id=cctv4
+CCTV5,http://web9916.w.computerqwq.cf/jzb.php?id=cctv5
+ CCTV5+,http://web9916.w.computerqwq.cf/jzb.php?id=cctv5plus
+CCTV6,http://web9916.w.computerqwq.cf/jzb.php?id=cctv6
+CCTV7,http://web9916.w.computerqwq.cf/jzb.php?id=cctv7
+ CCTV8,http://web9916.w.computerqwq.cf/jzb.php?id=cctv8
+CCTV9,http://web9916.w.computerqwq.cf/jzb.php?id=cctv9
+CCTV10,http://web9916.w.computerqwq.cf/jzb.php?id=cctv10
+CCTV11,http://web9916.w.computerqwq.cf/jzb.php?id=cctv11
+ CCTV12,http://web9916.w.computerqwq.cf/jzb.php?id=cctv12
+ CCTV13,http://web9916.w.computerqwq.cf/jzb.php?id=cctv13
+CCTV14,http://web9916.w.computerqwq.cf/jzb.php?id=cctv14
+CCTV15,http://web9916.w.computerqwq.cf/jzb.php?id=cctv15
+CCTV17,http://web9916.w.computerqwq.cf/jzb.php?id=cctv17
 
 卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
@@ -323,6 +343,34 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 青海卫视,http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 东南卫视,http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 海南卫视,http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+ 东方卫视,http://web9916.w.computerqwq.cf/jzb.php?id=dfws
+ 湖南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hunws 
+浙江卫视,http://web9916.w.computerqwq.cf/jzb.php?id=zjws
+ 江苏卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jsws
+北京卫视,http://web9916.w.computerqwq.cf/jzb.php?id=bjws
+ 深圳卫视,http://web9916.w.computerqwq.cf/jzb.php?id=szws
+安徽卫视,http://web9916.w.computerqwq.cf/jzb.php?id=ahws
+ 广东卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gdws 
+湖北卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hbws
+ 山东卫视,http://web9916.w.computerqwq.cf/jzb.php?id=sdws
+江西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jxws
+ 海南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hainws
+ 黑龙江卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hljws
+ 东南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=dnws
+河北卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hebiws
+ 四川卫视,http://web9916.w.computerqwq.cf/jzb.php?id=scws 
+辽宁卫视,http://web9916.w.computerqwq.cf/jzb.php?id=lnws 
+重庆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=cqws
+河南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=henws
+ 贵州卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gzws 
+广西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gxws 
+吉林卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jlws
+ 陕西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=sxws
+ 天津卫视,http://web9916.w.computerqwq.cf/jzb.php?id=tjws
+ 青海卫视,http://web9916.w.computerqwq.cf/jzb.php?id=qhws
+ 甘肃卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gsws
+ 新疆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=xjws
+ 山西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=shanxws
 
 移动网络专区,#genre#
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8$移动|回看
