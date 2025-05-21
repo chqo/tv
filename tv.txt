@@ -73,18 +73,18 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 重庆频道,#genre#
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://27.46.95.96:808/hls/47/index.m3u8
-重庆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=cqws
-重庆卫视,http://222.169.34.55:40000/bptv/10000100000000050000000004796458.m3u8
+重庆卫视,http://222.169.34.190:40000/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://124.127.46.59:9002/bptv/10000100000000050000000004796458.m3u8
-重庆卫视,http://8.138.191.100:5678/bptv/10000100000000050000000004796458.m3u8
+重庆卫视,http://171.213.206.206:8010/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
 重庆影视,http://113.206.158.145:4000/udp/225.0.4.62:7980
+重庆影视,http://123.145.19.101:8004/udp/225.0.4.62:7980
 
-重庆新闻,https://sjlivecdn.cbg.cn/202505211214/ef321ee260f593846db4830800202632/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆新闻,http://123.145.19.101:8004/udp/225.0.4.59:7980
 
-重庆汽摩,
+重庆汽摩,http://123.145.19.101:8004/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -92,12 +92,9 @@ CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV1,http://nctv.top/IDOEPpiryt/migu.php?id=cctv1
-CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
 CCTV2,http://8.138.7.223/tv/cctv2.php
 CCTV2,http://nctv.top/IDOEPpiryt/migu.php?id=cctv2
-CCTV3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
 CCTV3,http://nctv.top/IDOEPpiryt/migu.php?id=cctv3
 CCTV3,http://ycsj.aguihome.com:4022/udp/233.50.200.107:5140
 CCTV4,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4
@@ -105,24 +102,12 @@ CCTV4,http://ycsj.aguihome.com:4022/udp/233.50.200.101:5140
 CCTV4欧洲,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
 CCTV4美洲,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4m
 CCTV5+,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p
-CCTV5+,http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
 CCTV5,http://ycsj.aguihome.com:4022/udp/233.50.200.108:5140
-CCTV5,http://itv.iptv1688.top:2016/itv.php?id=CCTV5
 CCTV5,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5
-CCTV6,http://itv.iptv1688.top:2016/itv.php?id=CCTV6
 CCTV6,http://nctv.top/IDOEPpiryt/migu.php?id=cctv6
 CCTV7,http://nctv.top/IDOEPpiryt/migu.php?id=cctv7
 CCTV8,http://nctv.top/IDOEPpiryt/migu.php?id=cctv8
-CCTV8,http://itv.iptv1688.top:2016/itv.php?id=CCTV8
-CCTV9,http://itv.iptv1688.top:2016/itv.php?id=CCTV9
-CCTV10,http://itv.iptv1688.top:2016/itv.php?id=CCTV10
-CCTV11,http://itv.iptv1688.top:2016/itv.php?id=CCTV11
-CCTV12,http://itv.iptv1688.top:2016/itv.php?id=CCTV12
-CCTV13,http://itv.iptv1688.top:2016/itv.php?id=CCTV13
 CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
-CCTV14,http://itv.iptv1688.top:2016/itv.php?id=CCTV14
-CCTV15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
-CCTV16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 CCTV9,http://nctv.top/IDOEPpiryt/migu.php?id=cctv9
 CCTV10,http://nctv.top/IDOEPpiryt/migu.php?id=cctv10
 CCTV11,http://nctv.top/IDOEPpiryt/migu.php?id=cctv11
@@ -220,23 +205,6 @@ CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-CCTV1,http://web9916.w.computerqwq.cf/jzb.php?id=cctv1
-CCTV2,http://web9916.w.computerqwq.cf/jzb.php?id=cctv2
-CCTV3,http://web9916.w.computerqwq.cf/jzb.php?id=cctv3
- CCTV4,http://web9916.w.computerqwq.cf/jzb.php?id=cctv4
-CCTV5,http://web9916.w.computerqwq.cf/jzb.php?id=cctv5
- CCTV5+,http://web9916.w.computerqwq.cf/jzb.php?id=cctv5plus
-CCTV6,http://web9916.w.computerqwq.cf/jzb.php?id=cctv6
-CCTV7,http://web9916.w.computerqwq.cf/jzb.php?id=cctv7
- CCTV8,http://web9916.w.computerqwq.cf/jzb.php?id=cctv8
-CCTV9,http://web9916.w.computerqwq.cf/jzb.php?id=cctv9
-CCTV10,http://web9916.w.computerqwq.cf/jzb.php?id=cctv10
-CCTV11,http://web9916.w.computerqwq.cf/jzb.php?id=cctv11
- CCTV12,http://web9916.w.computerqwq.cf/jzb.php?id=cctv12
- CCTV13,http://web9916.w.computerqwq.cf/jzb.php?id=cctv13
-CCTV14,http://web9916.w.computerqwq.cf/jzb.php?id=cctv14
-CCTV15,http://web9916.w.computerqwq.cf/jzb.php?id=cctv15
-CCTV17,http://web9916.w.computerqwq.cf/jzb.php?id=cctv17
 
 卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
