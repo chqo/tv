@@ -5,8 +5,9 @@
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 生态环境,http://ygbh.site/php/bfgd.php?id=149
 生态环境,http://123.174.106.183:8888/udp/239.1.1.110:8110
-中国天气,http://123.174.106.183:8888/udp/239.1.1.107:8107
-中国天气,http://183.220.20.17:4000/udp/239.10.0.177:5140
+
+中国天气,http://home.kaijuns.cn:4000/rtp/239.121.4.112:8654
+中国天气,http://171.105.181.106:4022/udp/239.81.0.63:4056
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
@@ -18,12 +19,14 @@
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
-金色学堂,http://ycsj.aguihome.com:4022/udp/233.50.200.122:5140
-金色学堂,http://183.191.140.185:8005/rtp/226.0.2.182:9368
-金色学堂,http://125.119.86.246:8888/udp/233.50.200.122:5140
+金色学堂,http://115.199.195.195:8000/udp/233.50.200.122:5140
+金色学堂,http://124.167.23.89:8085/rtp/226.0.2.182:9368
+金色学堂,http://125.113.55.3:4000/udp/233.50.200.122:5140
+金色学堂,http://home.kaijuns.cn:4000/rtp/239.121.4.78:8442
 
-东方财经,http://171.213.215.32:4022/udp/239.93.1.165:5140
-东方财经,http://171.213.207.237:4200/udp/239.93.1.165:5140
+东方财经,http://r3g.xixi.baby:4000/rtp/226.0.2.76:8520
+东方财经,http://home.kaijuns.cn:4000/rtp/239.121.4.71:8400
+东方财经,http://171.213.226.119:4022/udp/239.93.1.165:5140
 
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
@@ -52,9 +55,9 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv#http://iptv.huuc.edu.cn/hls/fhzw.m3u8#http://live4play.uk/livehttpplay?channel_id=30014#http://live4play.uk/livehttpplay?channel_id=20065#https://live.tvfix.org/live/fhzw/index.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv#http://iptv.huuc.edu.cn/hls/fhzw.m3u8#http://live4play.uk/livehttpplay?channel_id=30014#http://live4play.uk/livehttpplay?channel_id=20065#https://live.tvfix.org/live/fhzw/index.m3u8#http://115.199.195.195:8000/udp/233.50.200.42:5140#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv#http://iptv.huuc.edu.cn/hls/fhzx.m3u8#http://live4play.uk/livehttpplay?channel_id=20066#http://live4play.uk/livehttpplay?channel_id=30015#https://live.tvfix.org/live/fwzx/index.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8#https://stream1.freetv.fun/feng-huang-wei-shi-6.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv#http://iptv.huuc.edu.cn/hls/fhzx.m3u8#http://live4play.uk/livehttpplay?channel_id=20066#http://live4play.uk/livehttpplay?channel_id=30015#https://live.tvfix.org/live/fwzx/index.m3u8#http://115.199.195.195:8000/udp/233.50.200.192:5140#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8#https://stream1.freetv.fun/feng-huang-wei-shi-6.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
             
 无线新闻,http://ali.hlspull.yximgs.com/live/qwt_wuxianxinwen.flv#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://php.jdshipin.com:8880/smt.php?id=inews_twn#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt#http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
@@ -73,14 +76,16 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 重庆频道,#genre#
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://27.46.95.96:808/hls/47/index.m3u8
+重庆卫视,http://115.199.195.195:8000/udp/233.50.200.114:5140
+重庆卫视,http://home.kaijuns.cn:4000/rtp/239.121.4.36:8190
 重庆卫视,http://222.169.34.190:40000/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://124.127.46.59:9002/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://171.213.206.206:8010/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
-重庆影视,http://27.9.91.27:8005/udp/225.0.4.62:7980
-重庆影视,http://27.11.59.72:8004/udp/225.0.4.62:7980
+重庆影视,http://27.9.91.27:8003/udp/225.0.4.62:7980
+重庆影视,http://27.11.59.72:8003/udp/225.0.4.62:7980
 重庆影视,http://113.205.77.242:8003/udp/225.0.4.62:7980
 重庆影视,http://123.145.19.101:8004/udp/225.0.4.62:7980
 
