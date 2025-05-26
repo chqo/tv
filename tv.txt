@@ -24,10 +24,9 @@
 金色学堂,http://b.402089.xyz:4022/udp/233.50.201.186:5140
 金色学堂,http://home.kaijuns.cn:4000/rtp/239.121.4.78:8442
 
-东方财经,http://r3g.xixi.baby:4000/rtp/226.0.2.76:8520
 东方财经,http://home.kaijuns.cn:4000/rtp/239.121.4.71:8400
-东方财经,http://171.213.226.119:4022/udp/239.93.1.165:5140
-
+东方财经,http://171.213.220.197:4022/udp/239.93.1.165:5140
+东方财经,http://110.191.244.86:4022/udp/239.93.1.165:5140
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
@@ -48,6 +47,8 @@ CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 CHC家庭影院,http://ali.hlspull.yximgs.com/live/73ad7d14d882b9eb14cacf3718afec61.flv
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
+CCTV第一剧场,http://106.116.127.121:4022/rtp/239.254.201.218:7258
+CCTV第一剧场,hhttp://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 
@@ -90,27 +91,27 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 翡翠台,webview://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
 无线新闻,webview://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
 
-
 重庆频道,#genre#
 重庆卫视,http://ali.hlspull.yximgs.com/live/611c97b9b54916ffae51a72a5d96ba12.flv
-重庆卫视,
-
-重庆卫视,http://121.29.169.206:8888/rtp/239.253.92.10:6053
+重庆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=cqws
 重庆卫视,http://117.89.115.59:8888/rtp/239.49.1.42:6000
 重庆卫视,http://113.219.54.217:8887/udp/239.76.246.92:1234
-重庆卫视,http://220.176.218.6:9000/rtp/239.252.220.94:5140
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+重庆卫视,http://iptv.hn.cn:1258/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 
-重庆影视,http://123.145.35.123:8003/udp/225.0.4.62:7980
+重庆影视,http://27.10.9.235:8003/udp/225.0.4.62:7980
+重庆影视,http://211.158.152.185:8008/udp/225.0.4.62:7980
+重庆影视,http://221.7.121.188:8003/udp/225.0.4.62:7980
+重庆影视,http://27.11.105.180:8008/udp/225.0.4.62:7980
+重庆影视,http://27.10.74.6:8001/udp/225.0.4.62:7980
+重庆影视,http://27.10.209.168:8008/udp/225.0.4.62:7980
+重庆影视,http://27.10.214.7:8001/udp/225.0.4.62:7980
+重庆影视,http://27.10.209.168:8001/udp/225.0.4.62:7980
 重庆影视,http://27.10.209.168:8004/udp/225.0.4.62:7980
-重庆影视,http://27.11.47.185:8003/udp/225.0.4.62:7980
-重庆影视,http://27.10.209.168:8004/udp/225.0.4.62:7980
-重庆影视,http://113.250.206.230:3388/rtp/235.254.196.209:1108
+重庆影视,http://27.11.105.75:8004/udp/225.0.4.62:7980
+重庆影视,http://123.145.26.101:8002/udp/225.0.4.62:7980
 
-重庆新闻,http://27.11.47.185:8003/udp/225.0.4.59:7980
-重庆新闻,http://27.10.209.168:8004/udp/225.0.4.59:7980
-重庆新闻,http://113.250.206.230:3388/rtp/235.254.196.208:1104
+重庆新闻,http://27.10.209.168:8001/udp/225.0.4.59:7980
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/m20256.m3u8
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
@@ -547,7 +548,7 @@ NEWTV精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3
 睛彩青少,http://39.134.64.87:6610/PLTV/88888888/224/3221226508/index.m3u8?IASHttpSessionId=
 睛彩广场舞,http://39.134.64.87:6610/PLTV/88888888/224/3221226472/index.m3u8?IASHttpSessionId=
 
-🐼央视web,#genre#
+央卫视web,#genre#
 CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV1,webview://http://www.guangbomi.com/tv/zy/cctv1.html
 CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
