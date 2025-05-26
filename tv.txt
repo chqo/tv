@@ -45,10 +45,8 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 CHC家庭影院,http://ali.hlspull.yximgs.com/live/73ad7d14d882b9eb14cacf3718afec61.flv
-CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
-CCTV第一剧场,http://106.116.127.121:4022/rtp/239.254.201.218:7258
-CCTV第一剧场,hhttp://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
+CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 
@@ -56,7 +54,7 @@ CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 快乐垂钓,http://tvbox6.icu/tv/mgtv.php?id=218
 
 四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8#http://tvbox6.icu/tv/migu.php?id=shdy
-
+                                                                                                   
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
@@ -98,6 +96,7 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆卫视,http://113.219.54.217:8887/udp/239.76.246.92:1234
 重庆卫视,http://iptv.hn.cn:1258/bptv/10000100000000050000000004796458.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
+重庆卫视,http://39.137.75.234/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=no
 
 重庆影视,http://27.10.9.235:8003/udp/225.0.4.62:7980
 重庆影视,http://211.158.152.185:8008/udp/225.0.4.62:7980
@@ -110,7 +109,7 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆影视,http://27.10.209.168:8004/udp/225.0.4.62:7980
 重庆影视,http://27.11.105.75:8004/udp/225.0.4.62:7980
 重庆影视,http://123.145.26.101:8002/udp/225.0.4.62:7980
-
+重庆影视,http://27.11.105.99:8009/udp/225.0.4.62:7980
 重庆新闻,http://27.10.209.168:8001/udp/225.0.4.59:7980
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/m20256.m3u8
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
@@ -128,13 +127,10 @@ CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/str
 CCTV2,http://8.138.7.223/tv/cctv2.php
 CCTV2,http://nctv.top/IDOEPpiryt/migu.php?id=cctv2
 CCTV3,http://nctv.top/IDOEPpiryt/migu.php?id=cctv3
-CCTV3,http://ycsj.aguihome.com:4022/udp/233.50.200.107:5140
 CCTV4,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4
-CCTV4,http://ycsj.aguihome.com:4022/udp/233.50.200.101:5140
 CCTV4欧洲,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
 CCTV4美洲,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4m
 CCTV5+,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p
-CCTV5,http://ycsj.aguihome.com:4022/udp/233.50.200.108:5140
 CCTV5,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5
 CCTV6,http://nctv.top/IDOEPpiryt/migu.php?id=cctv6
 CCTV7,http://nctv.top/IDOEPpiryt/migu.php?id=cctv7
@@ -150,7 +146,6 @@ CCTV15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15
 CCTV16,http://nctv.top/IDOEPpiryt/migu.php?id=cctv16
 CCTV17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
 CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
-CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
 CCTV13,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
 CCTV13,http://hls.hsrtv.cn/live/hsyouxian.m3u8
@@ -627,7 +622,7 @@ CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 北京卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
 浙江卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
 河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
-湖南卫视tbs,webview://https://m.456iptv.com/?act=play&token=e16c8d5106d7d2bdf73ae316793dd447&tid=ws&id=1
+湖南卫视,webview://https://m.456iptv.com/?act=play&token=e16c8d5106d7d2bdf73ae316793dd447&tid=ws&id=1
 江苏卫视,webview://https://live.jstv.com
 浙江卫视,webview://https://www.cztv.com/liveTV/101
 大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
@@ -660,7 +655,7 @@ CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 
 少儿频道,#genre#
-重庆少儿,http://14.106.82.114:2345/rtp/235.254.196.214:1128
+重庆少儿,http://27.11.105.99:8009/udp/225.0.4.71:7980
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
