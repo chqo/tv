@@ -98,23 +98,21 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://39.137.75.234/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=no
 
-重庆影视,http://27.10.9.235:8003/udp/225.0.4.62:7980
-重庆影视,http://211.158.152.185:8008/udp/225.0.4.62:7980
+重庆影视,http://221.7.121.188:8005/udp/225.0.4.62:7980
+重庆影视,http://211.158.152.185:8009/udp/225.0.4.62:7980
 重庆影视,http://221.7.121.188:8003/udp/225.0.4.62:7980
-重庆影视,http://27.11.105.180:8008/udp/225.0.4.62:7980
-重庆影视,http://27.10.74.6:8001/udp/225.0.4.62:7980
+重庆影视,http://27.11.253.198:8009/udp/225.0.4.62:7980
+重庆影视,http://113.206.190.163:8003/udp/225.0.4.62:7980
 重庆影视,http://27.10.209.168:8008/udp/225.0.4.62:7980
-重庆影视,http://27.10.214.7:8001/udp/225.0.4.62:7980
-重庆影视,http://27.10.209.168:8001/udp/225.0.4.62:7980
-重庆影视,http://27.10.209.168:8004/udp/225.0.4.62:7980
-重庆影视,http://27.11.105.75:8004/udp/225.0.4.62:7980
-重庆影视,http://123.145.26.101:8002/udp/225.0.4.62:7980
-重庆影视,http://27.11.105.99:8009/udp/225.0.4.62:7980
-重庆新闻,http://27.10.209.168:8001/udp/225.0.4.59:7980
+重庆影视,http://27.10.214.7:8005/udp/225.0.4.62:7980
+重庆影视,http://27.10.209.168:8005/udp/225.0.4.62:7980
+重庆影视,http://113.206.190.163:8003/udp/225.0.4.62:7980
+
+重庆新闻,http://27.10.209.168:8005/udp/225.0.4.59:7980
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/m20256.m3u8
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆汽摩,http://27.11.47.185:8005/udp/225.0.4.61:7980
+重庆汽摩,http://113.206.190.163:8002/udp/225.0.4.59:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -256,6 +254,8 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 贵州卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gzws
 陕西卫视,http://nctv.top/IDOEPpiryt/migu.php?id=sxws
 青海卫视,http://nctv.top/IDOEPpiryt/migu.php?id=qhws
+北京卫视,http://124.222.114.206/bjtv.php?id=bjws
+北京卫视,http://124.222.114.206/bjtv.php?id=bjws4k
 大湾区卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dwqws
 东南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dnws
 海峡卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hxws
@@ -706,7 +706,9 @@ CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 深圳少儿,webview://https://www.sztv.com.cn/pindao/index.html?id=7881
 广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
 卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
-哪吒之决战龙神,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/004/353/5105004353/media/5105004353_5033311414_56.mp4
+广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
+嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
+南京儿童,webview://https://www.nbs.cn/live/?id=110095
 
 MV歌曲,#genre#
 次真降措-我从亚丁来,https://gitee.com/dai98/ch/raw/master/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5.ts#http://ssoojm7u9.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#http://svtpqr3ok.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://github.moeyy.xyz/https://github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://objectstorageapi.bja.sealos.run/dzhxab2u-tv/次真降措-我从亚丁来 .mp4#https://d.kstore.dev/download/10141/次真降措-我从亚丁来 .mp4
