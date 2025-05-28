@@ -12,6 +12,7 @@
 
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://mtw.so/5NPX0U
+重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
@@ -46,6 +47,8 @@ CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 CHC家庭影院,http://ali.hlspull.yximgs.com/live/73ad7d14d882b9eb14cacf3718afec61.flv
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
+CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
+CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
@@ -105,11 +108,13 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆影视,http://27.11.165.86:8002/udp/225.0.4.62:7980
 重庆影视,http://27.10.209.168:8005/udp/225.0.4.62:7980
 重庆影视,http://123.144.190.75:8002/udp/225.0.4.62:7980
+重庆影视,webview://http://cqcu1.live.cbncdn.cn/session/45505346-3b9e-11f0-a556-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/1/a48k/index.m3u8
 
 重庆新闻,http://123.144.190.75:8002/udp/225.0.4.59:7980
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/m20256.m3u8
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
+重庆新闻,webview://http://cqcu2.live.cbncdn.cn/session/6abf1f64-3ba2-11f0-b64c-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/1/a48k/index.m3u8
 
 重庆汽摩,http://123.144.190.75:8002/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
@@ -163,23 +168,6 @@ CCTV12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 CCTV13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 CCTV14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 CCTV15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
-CCTV1,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV2,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV3,http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV4,http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV5,http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV5+,http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV6,http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV7,http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV8,http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV9,http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV10,http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV11,http://sport.pendy.dpdns.org/migu/667987558?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV12,http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV13,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV14,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV15,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV17,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
 CCTV1,http://120.76.248.139/live/bfgd/4200000489.m3u8
@@ -200,6 +188,60 @@ CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8
 CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
 CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
+CCTV1,http://lt.hxtre.com:35455/bptv/10000100000000050000000003864351.m3u8
+CCTV2,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870745.m3u8
+CCTV3,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870746.m3u8
+CCTV4,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870747.m3u8
+CCTV5,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870748.m3u8
+CCTV5+,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870759.m3u8
+CCTV6,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870749.m3u8
+CCTV7,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870750.m3u8
+CCTV8,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870838.m3u8
+CCTV9,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870752.m3u8
+CCTV10,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870753.m3u8
+CCTV11,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870754.m3u8
+CCTV12,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870755.m3u8
+CCTV13,http://lt.hxtre.com:35455/bptv/10000100000000050000000004796248.m3u8
+CCTV14,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870756.m3u8
+CCTV15,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870757.m3u8
+CCTV16,http://lt.hxtre.com:35455/bptv/10000100000000050000000004972604.m3u8
+CCTV17,http://lt.hxtre.com:35455/bptv/10000100000000050000000003870758.m3u8
+北京卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000004270524.m3u8
+北京卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000004270525.m3u8
+东方卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873462.m3u8
+天津卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873466.m3u8
+重庆卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000004796458.m3u8
+黑龙江卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873470.m3u8
+吉林卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000004972569.m3u8
+辽宁卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873468.m3u8
+内蒙古卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887427.m3u8
+宁夏卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887433.m3u8
+甘肃卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887450.m3u8
+青海卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887430.m3u8
+陕西卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887404.m3u8
+河北卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873460.m3u8
+山西卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887413.m3u8
+山东卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873467.m3u8
+安徽卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873469.m3u8
+河南卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887270.m3u8
+河北卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873465.m3u8
+河南卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873458.m3u8
+江西卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000004796511.m3u8
+江苏卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873461.m3u8
+浙江卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873464.m3u8
+东南卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873473.m3u8
+厦门卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887454.m3u8
+广东卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873459.m3u8
+深圳卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873474.m3u8
+广西卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887394.m3u8
+云南卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887453.m3u8
+贵州卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003873471.m3u8
+四川卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887274.m3u8
+新疆卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887448.m3u8
+兵团卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887456.m3u8
+西藏卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887434.m3u8
+海南卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000004796877.m3u8
+三沙卫视,http://lt.hxtre.com:35455/bptv/10000100000000050000000003887452.m3u8
 CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1
 CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2
 CCTV3,http://tvbox6.icu/tv/migu.php?id=cctv3
@@ -326,45 +368,34 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 云南卫视,http://iptv.huuc.edu.cn/hls/yntv.m3u8
 宁夏卫视,http://iptv.huuc.edu.cn/hls/nxtv.m3u8
 延边卫视,http://iptv.huuc.edu.cn/hls/ybtv.m3u8
-东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-江苏卫视,http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-广东卫视,http://sport.pendy.dpdns.org/migu/608831231?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-江西卫视,http://sport.pendy.dpdns.org/migu/783847495?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-河南卫视,http://sport.pendy.dpdns.org/migu/790187291?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-陕西卫视,http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-湖北卫视,http://sport.pendy.dpdns.org/migu/947472496?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-吉林卫视,http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-青海卫视,http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-东南卫视,http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-海南卫视,http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
- 东方卫视,http://web9916.w.computerqwq.cf/jzb.php?id=dfws
- 湖南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hunws 
+东方卫视,http://web9916.w.computerqwq.cf/jzb.php?id=dfws
+湖南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hunws 
 浙江卫视,http://web9916.w.computerqwq.cf/jzb.php?id=zjws
- 江苏卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jsws
+江苏卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jsws
 北京卫视,http://web9916.w.computerqwq.cf/jzb.php?id=bjws
- 深圳卫视,http://web9916.w.computerqwq.cf/jzb.php?id=szws
+深圳卫视,http://web9916.w.computerqwq.cf/jzb.php?id=szws
 安徽卫视,http://web9916.w.computerqwq.cf/jzb.php?id=ahws
- 广东卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gdws 
+广东卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gdws 
 湖北卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hbws
- 山东卫视,http://web9916.w.computerqwq.cf/jzb.php?id=sdws
+山东卫视,http://web9916.w.computerqwq.cf/jzb.php?id=sdws
 江西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jxws
- 海南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hainws
- 黑龙江卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hljws
- 东南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=dnws
+海南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hainws
+黑龙江卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hljws
+东南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=dnws
 河北卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hebiws
- 四川卫视,http://web9916.w.computerqwq.cf/jzb.php?id=scws 
+四川卫视,http://web9916.w.computerqwq.cf/jzb.php?id=scws 
 辽宁卫视,http://web9916.w.computerqwq.cf/jzb.php?id=lnws 
 重庆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=cqws
 河南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=henws
- 贵州卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gzws 
+贵州卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gzws 
 广西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gxws 
 吉林卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jlws
- 陕西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=sxws
- 天津卫视,http://web9916.w.computerqwq.cf/jzb.php?id=tjws
- 青海卫视,http://web9916.w.computerqwq.cf/jzb.php?id=qhws
- 甘肃卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gsws
- 新疆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=xjws
- 山西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=shanxws
+陕西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=sxws
+天津卫视,http://web9916.w.computerqwq.cf/jzb.php?id=tjws
+青海卫视,http://web9916.w.computerqwq.cf/jzb.php?id=qhws
+甘肃卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gsws
+新疆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=xjws
+山西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=shanxws
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
