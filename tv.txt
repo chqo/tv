@@ -108,13 +108,11 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆影视,http://27.11.165.86:8002/udp/225.0.4.62:7980
 重庆影视,http://27.10.209.168:8005/udp/225.0.4.62:7980
 重庆影视,http://123.144.190.75:8002/udp/225.0.4.62:7980
-重庆影视,webview://http://cqcu1.live.cbncdn.cn/session/45505346-3b9e-11f0-a556-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/1/a48k/index.m3u8
 
 重庆新闻,http://123.144.190.75:8002/udp/225.0.4.59:7980
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/m20256.m3u8
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
-重庆新闻,webview://http://cqcu2.live.cbncdn.cn/session/6abf1f64-3ba2-11f0-b64c-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/1/a48k/index.m3u8
 
 重庆汽摩,http://123.144.190.75:8002/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
