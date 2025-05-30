@@ -26,7 +26,7 @@
 金色学堂,http://home.kaijuns.cn:4000/rtp/239.121.4.78:8442
 
 东方财经,http://home.kaijuns.cn:4000/rtp/239.121.4.71:8400
-东方财经,http://171.213.220.197:4022/udp/239.93.1.165:5140
+东方财经,http://106.42.109.113:2010/rtp/239.16.10.235:2000
 东方财经,http://110.191.244.86:4022/udp/239.93.1.165:5140
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
@@ -104,17 +104,18 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://39.137.75.234/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=no
 
-重庆影视,http://123.144.190.75:8001/udp/225.0.4.62:7980
-重庆影视,http://27.11.165.86:8002/udp/225.0.4.62:7980
-重庆影视,http://27.10.209.168:8005/udp/225.0.4.62:7980
-重庆影视,http://123.144.190.75:8002/udp/225.0.4.62:7980
+重庆影视,http://27.14.214.230:4022/udp/225.0.4.62:7980
+重庆影视,http://123.145.5.13:8005/udp/225.0.4.62:7980
+重庆影视,http://123.145.5.13:8003/udp/225.0.4.62:7980
+重庆影视,http://14.110.99.222:3388/rtp/235.254.196.209:1108
 
-重庆新闻,http://123.144.190.75:8002/udp/225.0.4.59:7980
+重庆新闻,http://14.110.99.222:3388/rtp/235.254.196.208:1104
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/m20256.m3u8
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆汽摩,http://123.144.190.75:8002/udp/225.0.4.61:7980
+重庆汽摩,http://123.145.5.13:8003/udp/225.0.4.61:7980
+重庆汽摩,http://14.110.99.222:3388/rtp/235.254.196.221:1156
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -778,7 +779,7 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 
 少儿频道,#genre#
-重庆少儿,http://123.144.190.75:8002/udp/225.0.4.71:7980
+重庆少儿,http://123.145.5.13:8003/udp/225.0.4.71:7980
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
