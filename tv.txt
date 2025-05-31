@@ -21,13 +21,14 @@
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 金色学堂,http://b.402089.xyz:4022/udp/233.50.200.122:5140
-金色学堂,http://124.167.23.89:8085/rtp/226.0.2.182:9368
+金色学堂,http://125.121.17.211:8500/udp/233.50.201.186:5140
 金色学堂,http://b.402089.xyz:4022/udp/233.50.201.186:5140
 金色学堂,http://home.kaijuns.cn:4000/rtp/239.121.4.78:8442
+金色学堂,http://sh.lnott.top:880/dx109.m3u8
 
 东方财经,http://home.kaijuns.cn:4000/rtp/239.121.4.71:8400
 东方财经,http://106.42.109.113:2010/rtp/239.16.10.235:2000
-东方财经,http://110.191.244.86:4022/udp/239.93.1.165:5140
+东方财经,http://171.213.141.16:4022/udp/239.93.1.165:5140
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
@@ -35,18 +36,13 @@
 法国时尚,https://stream1.freetv.fun/bd28dee32d184c56184c3de286f5920575e384cf4264034409a2e8fa74b02d05.m3u8
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC影迷电影,http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-高清大片,http://sport.pendy.dpdns.org/migu/629943678?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC影迷电影,http://ali.hlspull.yximgs.com/live/f971876d67c3a5c107bc400f80ffd5b4.flv
-CHC动作电影,http://ali.hlspull.yximgs.com/live/3d67fd7fbcb01997785b4d0469f52985.flv
-CHC动作电影,http://goo.bkpcp.top/mg/dzdy
+CHC动作电影,
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
-CHC家庭影院,http://ali.hlspull.yximgs.com/live/73ad7d14d882b9eb14cacf3718afec61.flv
-CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
+CCTV风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+CCTV第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+CCTV怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
@@ -54,6 +50,7 @@ CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
+CCTV女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
@@ -96,17 +93,19 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 无线新闻,webview://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
 
 重庆频道,#genre#
-
-重庆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=cqws
+重庆卫视,http://106.59.2.202:55555/udp/239.200.200.49:8264
+重庆卫视,http://115.206.201.174:55555/udp/233.50.201.66:5140
 重庆卫视,http://117.89.115.59:8888/rtp/239.49.1.42:6000
-重庆卫视,http://113.219.54.217:8887/udp/239.76.246.92:1234
-重庆卫视,http://iptv.hn.cn:1258/bptv/10000100000000050000000004796458.m3u8
+重庆卫视,http://115.206.201.174:55555/udp/233.50.201.66:5140
+重庆卫视,http://27.18.184.186:3520/rtp/239.69.1.149:10530
+重庆卫视,http://171.213.211.58:808/hls/32/index.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-重庆卫视,http://39.137.75.234/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=no
 
+重庆影视,http://27.9.3.69:8004/udp/225.0.4.62:7980
+重庆影视,http://211.158.155.138:8009/udp/225.0.4.62:7980
 重庆影视,http://27.14.214.230:4022/udp/225.0.4.62:7980
-重庆影视,http://123.145.5.13:8005/udp/225.0.4.62:7980
-重庆影视,http://123.145.5.13:8003/udp/225.0.4.62:7980
+重庆影视,http://27.10.210.54:8008/udp/225.0.4.62:7980
+重庆影视,http://14.110.99.196:4022/rtp/235.254.196.209:1108
 重庆影视,http://14.110.99.222:3388/rtp/235.254.196.209:1108
 
 重庆新闻,http://14.110.99.222:3388/rtp/235.254.196.208:1104
@@ -114,7 +113,6 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆汽摩,http://123.145.5.13:8003/udp/225.0.4.61:7980
 重庆汽摩,http://14.110.99.222:3388/rtp/235.254.196.221:1156
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
