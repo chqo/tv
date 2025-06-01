@@ -36,7 +36,6 @@
 法国时尚,https://stream1.freetv.fun/bd28dee32d184c56184c3de286f5920575e384cf4264034409a2e8fa74b02d05.m3u8
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-CHC动作电影,
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
@@ -50,9 +49,21 @@ CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
-CCTV女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
+CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
-
+CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
+CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
+CHC高清电影,http://27.17.111.252:8118/udp/239.69.1.241:11088
+CHC动作电影,http://27.17.111.252:8118/udp/239.69.1.242:11094
+CHC家庭影院,http://27.17.111.252:8118/udp/239.69.1.243:11100
+CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
+CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
+CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
+CHC影迷电影,http://149.88.85.102:1354/cqyx.php?id=chcgq
+CHC动作电影,http://149.88.85.102:1354/cqyx.php?id=chcdz
+CHC家庭影院,http://149.88.85.102:1354/cqyx.php?id=chcjt
+CHC影迷电影,http://tvbox6.icu/tv/iptv2.php?id=88
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 快乐垂钓,http://tvbox6.icu/tv/mgtv.php?id=218
 
@@ -63,7 +74,7 @@ CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8#http://live4play.uk/livehttpplay?channel_id=30014#http://live4play.uk/livehttpplay?channel_id=20065#https://live.tvfix.org/live/fhzw/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.42:5140#http://b.402089.xyz:4022/udp/233.50.200.191:5140#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8
 
-凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8#http://live4play.uk/livehttpplay?channel_id=20066#http://live4play.uk/livehttpplay?channel_id=30015#https://live.tvfix.org/live/fwzx/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://live4play.uk/livehttpplay?channel_id=20066#http://live4play.uk/livehttpplay?channel_id=30015#https://live.tvfix.org/live/fwzx/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
             
 无线新闻,http://ali.hlspull.yximgs.com/live/qwt_wuxianxinwen.flv#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
@@ -101,19 +112,20 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆卫视,http://171.213.211.58:808/hls/32/index.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 
+重庆影视,http://211.158.155.138:8003/udp/225.0.4.62:7980
 重庆影视,http://27.9.3.69:8004/udp/225.0.4.62:7980
 重庆影视,http://211.158.155.138:8009/udp/225.0.4.62:7980
-重庆影视,http://27.14.214.230:4022/udp/225.0.4.62:7980
 重庆影视,http://27.10.210.54:8008/udp/225.0.4.62:7980
-重庆影视,http://14.110.99.196:4022/rtp/235.254.196.209:1108
-重庆影视,http://14.110.99.222:3388/rtp/235.254.196.209:1108
+重庆影视,http://106.86.155.138:20002/rtp/235.254.196.209:1108
+重庆影视,http://27.12.125.147:8899/udp/225.0.4.62:7980
+重庆影视,http://106.81.145.228:3388/rtp/235.254.196.209:1108
 
-重庆新闻,http://14.110.99.222:3388/rtp/235.254.196.208:1104
+重庆新闻,http://27.12.125.147:8899/udp/225.0.4.59:7980
 重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/m20256.m3u8
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆汽摩,http://14.110.99.222:3388/rtp/235.254.196.221:1156
+重庆汽摩,http://106.86.155.138:20002/rtp/235.254.196.221:1156
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -710,6 +722,40 @@ CCTV14,webview://https://tv.cctv.com/live/cctvchild/
 CCTV15,webview://https://tv.cctv.com/live/cctv15/
 CCTV16,webview://https://tv.cctv.com/live/cctv16/
 CCTV17,webview://https://tv.cctv.com/live/cctv17/
+北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
+江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
+东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
+浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
+湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
+湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
+广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
+广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
+黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
+海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
+重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
+深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
+四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
+河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
+东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
+贵州卫视,webview://https://yangshipin.cn/tv/home?pid=600002490
+江西卫视,webview://https://yangshipin.cn/tv/home?pid=600002503
+辽宁卫视,webview://https://yangshipin.cn/tv/home?pid=600002505
+安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532
+河北卫视,webview://https://yangshipin.cn/tv/home?pid=600002493
+山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513
+天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137
+吉林卫视,webview://https://yangshipin.cn/tv/home?pid=600190405
+陕西卫视,webview://https://yangshipin.cn/tv/home?pid=600190400
+宁夏卫视,webview://https://yangshipin.cn/tv/home?pid=600190737
+内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
+云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402
+山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
+青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
+西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
+甘肃卫视,webview://https://yangshipin.cn/tv/home?pid=600190408
+北京卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
+浙江卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
+河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
 河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
 江苏卫视,webview://https://live.jstv.com
 浙江卫视,webview://https://www.cztv.com/liveTV/101
@@ -777,7 +823,7 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 
 少儿频道,#genre#
-重庆少儿,http://123.145.5.13:8003/udp/225.0.4.71:7980
+重庆少儿,http://106.86.155.138:20002/rtp/235.254.196.214:1128
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
