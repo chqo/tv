@@ -72,9 +72,9 @@ CHC影迷电影,http://tvbox6.icu/tv/iptv2.php?id=88
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8#http://live4play.uk/livehttpplay?channel_id=30014#http://live4play.uk/livehttpplay?channel_id=20065#https://live.tvfix.org/live/fhzw/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.42:5140#http://b.402089.xyz:4022/udp/233.50.200.191:5140#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8#http://live4play.uk/livehttpplay?channel_id=30014#http://live4play.uk/livehttpplay?channel_id=20065#https://live.tvfix.org/live/fhzw/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.42:5140#http://b.402089.xyz:4022/udp/233.50.200.191:5140#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
-凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://live4play.uk/livehttpplay?channel_id=20066#http://live4play.uk/livehttpplay?channel_id=30015#https://live.tvfix.org/live/fwzx/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://live4play.uk/livehttpplay?channel_id=20066#http://live4play.uk/livehttpplay?channel_id=30015#https://live.tvfix.org/live/fwzx/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
             
 无线新闻,http://ali.hlspull.yximgs.com/live/qwt_wuxianxinwen.flv#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
@@ -282,6 +282,53 @@ CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+CCTV1,http://web9916.w.computerqwq.cf/jzb.php?id=cctv1
+CCTV2,http://web9916.w.computerqwq.cf/jzb.php?id=cctv2
+CCTV3,http://web9916.w.computerqwq.cf/jzb.php?id=cctv3 
+CCTV4,http://web9916.w.computerqwq.cf/jzb.php?id=cctv4 
+CCTV5,http://web9916.w.computerqwq.cf/jzb.php?id=cctv5
+CCTV5+,http://web9916.w.computerqwq.cf/jzb.php?id=cctv5plus
+CCTV6,http://web9916.w.computerqwq.cf/jzb.php?id=cctv6 
+CCTV7,http://web9916.w.computerqwq.cf/jzb.php?id=cctv7 
+CCTV8,http://web9916.w.computerqwq.cf/jzb.php?id=cctv8 
+CCTV9,http://web9916.w.computerqwq.cf/jzb.php?id=cctv9
+ CCTV10,http://web9916.w.computerqwq.cf/jzb.php?id=cctv10
+ CCTV11,http://web9916.w.computerqwq.cf/jzb.php?id=cctv11
+ CCTV12,http://web9916.w.computerqwq.cf/jzb.php?id=cctv12
+CCTV13,http://web9916.w.computerqwq.cf/jzb.php?id=cctv13
+CCTV14,http://web9916.w.computerqwq.cf/jzb.php?id=cctv14
+CCTV15,http://web9916.w.computerqwq.cf/jzb.php?id=cctv15
+CCTV17,http://web9916.w.computerqwq.cf/jzb.php?id=cctv17
+CCTV4美洲,http://web9916.w.computerqwq.cf/jzb.php?id=cctv4m
+CCTV4欧洲,http://web9916.w.computerqwq.cf/jzb.php?id=cctv4o
+东方卫视,http://web9916.w.computerqwq.cf/jzb.php?id=dfws
+湖南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hunws
+浙江卫视,http://web9916.w.computerqwq.cf/jzb.php?id=zjws 
+江苏卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jsws
+北京卫视,http://web9916.w.computerqwq.cf/jzb.php?id=bjws 
+深圳卫视,http://web9916.w.computerqwq.cf/jzb.php?id=szws
+安徽卫视,http://web9916.w.computerqwq.cf/jzb.php?id=ahws
+广东卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gdws
+湖北卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hbws
+山东卫视,http://web9916.w.computerqwq.cf/jzb.php?id=sdws 
+江西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jxws
+海南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hainws
+黑龙江卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hljws
+东南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=dnws 
+河北卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hebiws 
+四川卫视,http://web9916.w.computerqwq.cf/jzb.php?id=scws 
+辽宁卫视,http://web9916.w.computerqwq.cf/jzb.php?id=lnws
+重庆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=cqws
+河南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=henws
+贵州卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gzws
+广西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gxws
+吉林卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jlws
+陕西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=sxws 
+天津卫视,http://web9916.w.computerqwq.cf/jzb.php?id=tjws
+青海卫视,http://web9916.w.computerqwq.cf/jzb.php?id=qhws
+甘肃卫视,http://web9916.w.computerqwq.cf/jzb.php?id=gsws
+新疆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=xjws 
+山西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=shanxws
 
 卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
