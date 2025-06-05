@@ -38,8 +38,11 @@
 
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 CHC影迷电影,http://ali.hlspull.yximgs.com/live/57062394a6018491d690055039ef8ded.flv
+CHC影迷电影,http://ali.hlspull.yximgs.com/live/e16a0455eb9792d1ca24b731289dd2ea.flv
 CHC动作电影,http://ali.hlspull.yximgs.com/live/1be727918fe60bf94fb4c81a7bcce8c1.flv
+CHC动作电影,http://ali.hlspull.yximgs.com/live/75ec509810117e61bec652ce651d1799.flv
 CHC家庭影院,http://ali.hlspull.yximgs.com/live/e88d7cfbf4d413845fd8258624180982.flv
+CHC家庭影院,http://ali.hlspull.yximgs.com/live/b1a343c0b123f827aff7fb4531924891.flv
 CHC动作电影,http://39.164.174.139:5000/nl.m3u8?id=CHCDZDYHD
 CHC家庭影院,http://39.164.174.139:5000/nl.m3u8?id=CHCJTYYHD
 CHC影迷电影,http://39.164.174.139:5000/nl.m3u8?id=CHCYMDYHD
@@ -65,13 +68,15 @@ CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8#http://113.64.147.124:8811/hls/32/index.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://live.tvfix.org/live/fhzw/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.42:5140#http://b.402089.xyz:4022/udp/233.50.200.191:5140#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#http://cdn.163189.xyz/live/fhzw/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8#http://113.64.147.124:8811/hls/32/index.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://live.tvfix.org/live/fhzw/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.42:5140#http://b.402089.xyz:4022/udp/233.50.200.191:5140#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文,http://ali.hlspull.yximgs.com/live/abfe88f226f7888343726cf767230008.flv
 
-凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8#http://113.64.147.124:8811/hls/33/index.m3u8#http://39.164.174.139:5000/nl.m3u8?id=FHZXHD#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#https://live.tvfix.org/live/fwzx/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8#http://113.64.147.124:8811/hls/33/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#https://live.tvfix.org/live/fwzx/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://ali.hlspull.yximgs.com/live/b3f066d3f25c4c480a33d4409dc0ec6c.flv
        
 无线新闻,http://ali.hlspull.yximgs.com/live/qwt_wuxianxinwen.flv#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
-无线新闻,webview://http://ali.hlspull.yximgs.com/live/2cf48430ce001bca6fe3a87ea8078c61.flv
+无线新闻,http://ali.hlspull.yximgs.com/live/8a1438819ebcbe0228dced901f897366.flv
 
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8#https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv
 
@@ -99,6 +104,8 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 无线新闻,webview://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
 
 重庆频道,#genre#
+重庆卫视,http://ali.hlspull.yximgs.com/live/a42a296e0e41c56d2affe2405b8f6f8a.flv
+重庆卫视,http://8.138.7.223/tv/hot.php?id=40
 重庆卫视,http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://39.164.174.139:5000/nl.m3u8?id=CQWS
 重庆卫视,http://hbhyjq.ufyct.com:1088/hls/78/index.m3u8
@@ -108,6 +115,8 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆卫视,http://123.146.72.20:4022/udp/225.0.4.187:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
+重庆卫视,http://ali.hlspull.yximgs.com/live/a42a296e0e41c56d2affe2405b8f6f8a.flv
+
 
 重庆影视,http://211.158.155.138:8003/udp/225.0.4.62:7980
 重庆影视,http://123.145.72.32:8002/udp/225.0.4.62:7980
