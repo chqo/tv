@@ -37,9 +37,9 @@
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
-CHC影迷电影,webview://http://ali.hlspull.yximgs.com/live/57062394a6018491d690055039ef8ded.flv
-CHC动作电影,webview://http://ali.hlspull.yximgs.com/live/1be727918fe60bf94fb4c81a7bcce8c1.flv
-CHC家庭影院,webview://http://ali.hlspull.yximgs.com/live/e88d7cfbf4d413845fd8258624180982.flv
+CHC影迷电影,http://ali.hlspull.yximgs.com/live/57062394a6018491d690055039ef8ded.flv
+CHC动作电影,http://ali.hlspull.yximgs.com/live/1be727918fe60bf94fb4c81a7bcce8c1.flv
+CHC家庭影院,http://ali.hlspull.yximgs.com/live/e88d7cfbf4d413845fd8258624180982.flv
 CHC动作电影,http://39.164.174.139:5000/nl.m3u8?id=CHCDZDYHD
 CHC家庭影院,http://39.164.174.139:5000/nl.m3u8?id=CHCJTYYHD
 CHC影迷电影,http://39.164.174.139:5000/nl.m3u8?id=CHCYMDYHD
@@ -108,7 +108,6 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆卫视,http://123.146.72.20:4022/udp/225.0.4.187:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
-重庆卫视,webview://http://ali.hlspull.yximgs.com/live/77a423ba303b33a1d0c6c5b46ed81c76.flv
 
 重庆影视,http://211.158.155.138:8003/udp/225.0.4.62:7980
 重庆影视,http://123.145.72.32:8002/udp/225.0.4.62:7980
