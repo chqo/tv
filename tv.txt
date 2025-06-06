@@ -120,17 +120,10 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆卫视,webview://http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 重庆卫视,http://ali.hlspull.yximgs.com/live/a42a296e0e41c56d2affe2405b8f6f8a.flv
 
-
-重庆影视,http://211.158.155.138:8003/udp/225.0.4.62:7980
-重庆影视,http://123.145.72.32:8002/udp/225.0.4.62:7980
-重庆影视,http://211.158.155.138:8008/udp/225.0.4.62:7980
-重庆影视,http://27.10.210.54:8009/udp/225.0.4.62:7980
-重庆影视,http://27.10.208.251:8003/udp/225.0.4.62:7980
+重庆影视,http://27.14.213.139:4022/udp/225.0.4.62:7980
+重庆影视,http://123.145.72.32:8005/udp/225.0.4.62:7980
+重庆影视,http://27.11.71.240:4022/udp/225.0.4.62:7980
 重庆影视,http://27.12.125.147:8899/udp/225.0.4.62:7980
-重庆影视,http://27.10.211.130:8001/udp/225.0.4.62:7980
-重庆影视,http://27.10.209.249:8001/udp/225.0.4.62:7980
-重庆影视,http://27.10.210.112:8001/udp/225.0.4.62:7980
-重庆影视,http://123.145.50.55:4000/udp/225.0.4.62:7980
 重庆影视,http://123.146.72.20:4022/udp/225.0.4.62:7980
 重庆影视,http://123.146.72.20:4022/udp/225.0.4.192:7980
 
@@ -139,7 +132,7 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
                    
-重庆汽摩,http://123.145.50.55:4000/udp/225.0.4.61:7980
+重庆汽摩,http://27.14.213.139:4022/udp/225.0.4.61:7980
 重庆汽摩,http://123.146.72.20:4022/udp/225.0.4.195:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
