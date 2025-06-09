@@ -66,10 +66,9 @@ CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8#http://cdn.163189.xyz/live/fhzw/stream.m3u8#http://113.64.147.124:8811/hls/32/index.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://live.tvfix.org/live/fhzw/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.42:5140#http://b.402089.xyz:4022/udp/233.50.200.191:5140#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰中文,http://ali.hlspull.yximgs.com/live/abfe88f226f7888343726cf767230008.flv
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8#http://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://live.tvfix.org/live/fhzw/index.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
-凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://iptv.huuc.edu.cn/hls/fhzx.m3u8#http://113.64.147.124:8811/hls/33/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#https://live.tvfix.org/live/fwzx/index.m3u8#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://b.402089.xyz:4022/udp/233.50.200.192:5140#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#https://live.tvfix.org/live/fwzx/index.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn#http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
@@ -135,7 +134,6 @@ HOY TV,webview://https://iptv345.com/?act=play&token=241cb0cd14210d8acb2c40e811b
 TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e290cdd9bd45424&tid=gt&id=55 
 
 重庆频道,#genre#
-重庆卫视,http://ali.hlspull.yximgs.com/live/a42a296e0e41c56d2affe2405b8f6f8a.flv
 重庆卫视,http://8.138.7.223/tv/hot.php?id=40
 重庆卫视,http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://39.164.174.139:5000/nl.m3u8?id=CQWS
@@ -145,7 +143,7 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 重庆卫视,http://27.18.184.186:3520/rtp/239.69.1.149:10530
 重庆卫视,http://123.146.72.20:4022/udp/225.0.4.187:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-重庆卫视,webview://http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
+重庆卫视,video://http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
 重庆影视,http://123.146.72.20:4022/udp/225.0.4.62:7980
 重庆影视,http://27.14.213.139:4022/udp/225.0.4.62:7980
@@ -357,6 +355,7 @@ CHC家庭影院,http://8.138.7.223/tv/hot.php?id=67
 深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+山西卫视,https://www.sxrtv.com/tv/index.shtml
 北京卫视,http://8.138.7.223/tv/hot.php?id=19
 天津卫视,http://8.138.7.223/tv/hot.php?id=20
 河北卫视,http://8.138.7.223/tv/hot.php?id=21
