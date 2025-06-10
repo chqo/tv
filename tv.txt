@@ -140,8 +140,10 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 重庆卫视,http://27.18.184.186:3520/rtp/239.69.1.149:10530
 重庆卫视,http://123.146.72.20:4022/udp/225.0.4.187:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-重庆卫视,video://http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
+重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 
+重庆影视,http://27.11.104.122:8006/udp/225.0.4.62:7980
+重庆影视,http://27.11.54.47:8006/udp/225.0.4.62:7980
 重庆影视,http://123.145.14.215:8005/udp/225.0.4.62:7980
 重庆影视,http://123.146.72.101:4022/udp/225.0.4.62:7980
 重庆影视,http://123.144.10.109:8888/udp/225.0.4.62:7980
