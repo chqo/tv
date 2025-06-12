@@ -31,8 +31,8 @@
 东方财经,http://yuzhe.ltd:5555/udp/239.93.1.165:5140
 东方财经,http://home.kaijuns.cn:4000/rtp/239.121.4.71:8400
 东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111
-东方财经,http://39.164.174.139:5000/nl.m3u8?id=DFCJHD
 东方财经,http://8.138.7.223/tv/cqyx2.php?id=dfcj
+
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
@@ -164,13 +164,11 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 重庆卫视,http://yuzhe.ltd:5555/udp/239.93.1.107:5140
 重庆卫视,http://vip.lqcc.xyz:35455/nptv/chongqing.m3u8
 重庆卫视,http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://39.164.174.139:5000/nl.m3u8?id=CQWS
 重庆卫视,http://27.18.184.186:3520/rtp/239.69.1.149:10530
 重庆卫视,http://123.146.72.20:4022/udp/225.0.4.187:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-重庆卫视,http://39.137.75.234/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=no
-
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?id=chongqingHD
+
 重庆影视,http://8.138.7.223/tv/cqyx2.php?id=cqyingshiHD
 重庆影视,http://27.11.104.122:8006/udp/225.0.4.62:7980
 重庆影视,http://27.11.54.47:8006/udp/225.0.4.62:7980
@@ -189,8 +187,19 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 重庆汽摩,http://27.14.213.139:4022/udp/225.0.4.61:7980
 重庆汽摩,http://123.146.72.20:4022/udp/225.0.4.195:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
+重庆卫视,http://8.138.7.223/tv/cqyx2.php?id=chongqingHD
+重庆新闻,http://8.138.7.223/tv/cqyx2.php?id=CQTVNewsHD
+重庆影视,http://8.138.7.223/tv/cqyx2.php?id=cqyingshiHD
+重庆社会与法,http://8.138.7.223/tv/cqyx2.php?id=CQTVTrendyHD
+重庆时尚生活,http://8.138.7.223/tv/cqyx2.php?id=cqssgwHD
+重庆文体娱乐,http://8.138.7.223/tv/cqyx2.php?id=cqwtylHD
+重庆新农村,http://8.138.7.223/tv/cqyx2.php?id=cqggncHD
+重庆少儿,http://8.138.7.223/tv/cqyx2.php?id=cqseHD
+重庆科教,http://8.138.7.223/tv/cqyx2.php?id=CQTVkejiaoHD
+重庆汽摩,http://8.138.7.223/tv/cqyx2.php?id=cqcarSD
+重庆移动,http://8.138.7.223/tv/cqyx2.php?id=mryyHD
 
-重庆有线央视,#genre#
+重庆有线,#genre#
 CCTV1综合,http://8.138.7.223/tv/cqyx2.php?id=cctv1HD
 CCTV2财经,http://8.138.7.223/tv/cqyx2.php?id=cctv2HD
 CCTV3综艺,http://8.138.7.223/tv/cqyx2.php?id=cctv3HD
@@ -213,8 +222,6 @@ CETV-1,http://8.138.7.223/tv/cqyx2.php?id=cetv-1SD
 CETV-4,http://8.138.7.223/tv/cqyx2.php?id=cetv-4SD
 CCTV4K,http://8.138.7.223/tv/cqyx2.php?id=CCTV4K
 CCTV16,http://8.138.7.223/tv/cqyx2.php?id=CCTV16_4K
-
-重庆有线卫视,#genre#
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?id=chongqingHD
 江苏卫视,http://8.138.7.223/tv/cqyx2.php?id=jiangsuHD
 北京卫视,http://8.138.7.223/tv/cqyx2.php?id=beijingHD
@@ -249,21 +256,6 @@ CCTV16,http://8.138.7.223/tv/cqyx2.php?id=CCTV16_4K
 山东教育卫视,http://8.138.7.223/tv/cqyx2.php?id=sdjiaoyuSD
 新疆卫视,http://8.138.7.223/tv/cqyx2.php?id=xinjiangSD
 西藏卫视,http://8.138.7.223/tv/cqyx2.php?id=xizangSD
-
-重庆有线本地,#genre#
-重庆卫视,http://8.138.7.223/tv/cqyx2.php?id=chongqingHD
-重庆新闻,http://8.138.7.223/tv/cqyx2.php?id=CQTVNewsHD
-重庆影视,http://8.138.7.223/tv/cqyx2.php?id=cqyingshiHD
-重庆社会与法,http://8.138.7.223/tv/cqyx2.php?id=CQTVTrendyHD
-重庆时尚生活,http://8.138.7.223/tv/cqyx2.php?id=cqssgwHD
-重庆文体娱乐,http://8.138.7.223/tv/cqyx2.php?id=cqwtylHD
-重庆新农村,http://8.138.7.223/tv/cqyx2.php?id=cqggncHD
-重庆少儿,http://8.138.7.223/tv/cqyx2.php?id=cqseHD
-重庆科教,http://8.138.7.223/tv/cqyx2.php?id=CQTVkejiaoHD
-爱看导视,http://8.138.7.223/tv/cqyx2.php?id=aikanHD
-重庆汽摩,http://8.138.7.223/tv/cqyx2.php?id=cqcarSD
-重庆移动,http://8.138.7.223/tv/cqyx2.php?id=mryyHD
-重广融媒,http://8.138.7.223/tv/cqyx2.php?id=cqrongmei
 
 央视综合,#genre#
 CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
