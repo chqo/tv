@@ -10,6 +10,7 @@
 中国天气,http://171.105.181.106:4022/udp/239.81.0.63:4056
 中国天气,http://8.138.7.223/tv/cqyx2.php?id=tianqiSD
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+中国天气,webview://http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://mtw.so/5NPX0U
@@ -61,6 +62,8 @@ CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
+CCTV怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620100
+CCTV第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
 CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV第一剧场,http://www.douzhicloud.site:35455/nptv/dyjc.m3u8
 CCTV风云剧场,http://www.douzhicloud.site:35455/nptv/fyjc.m3u8
@@ -69,11 +72,13 @@ CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
 CCTV女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
-第一剧场,http://8.138.7.223/tv/cqyx2.php?id=diyijuchangHD
-风云剧场,http://8.138.7.223/tv/cqyx2.php?id=fyjcHD
-怀旧剧场,http://8.138.7.223/tv/cqyx2.php?id=hjjcHD
-风云音乐,http://8.138.7.223/tv/cqyx2.php?id=fyyyHD
-女性时尚,http://8.138.7.223/tv/cqyx2.php?id=nvxing
+CCTV第一剧场,http://8.138.7.223/tv/cqyx2.php?id=diyijuchangHD
+CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?id=fyjcHD
+CCTV怀旧剧场,http://8.138.7.223/tv/cqyx2.php?id=hjjcHD
+CCTV风云音乐,http://8.138.7.223/tv/cqyx2.php?id=fyyyHD
+CCTV女性时尚,http://8.138.7.223/tv/cqyx2.php?id=nvxing
+CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
+CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 快乐垂钓,http://tvbox6.icu/tv/mgtv.php?id=218
@@ -107,11 +112,10 @@ CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视香港台,webview://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
-凤凰卫视中文台,video://https://www.iptv345.com/?act=play&token=763d9e99abf9f540158cc28bd13c7545&tid=gt&id=1
-凤凰卫视资讯台,video://https://www.iptv345.com/?act=play&token=bc35cb798fabff3cf2973ea957d6bd95&tid=gt&id=2
+凤凰卫视中文台,webview://https://www.iptv345.com/?act=play&token=763d9e99abf9f540158cc28bd13c7545&tid=gt&id=1
+凤凰卫视资讯台,webview://https://www.iptv345.com/?act=play&token=bc35cb798fabff3cf2973ea957d6bd95&tid=gt&id=2
 凤凰卫视香港台,video://https://www.iptv345.com/?act=play&token=ebc058734920a2440f51c425c646f578&tid=gt&id=3
 TVB翡翠台,video://https://www.iptv345.com/?act=play&token=9f0765e8942d9859e817ae5dddeab374&tid=gt&id=5
-TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae45b364084680a4949b42&tid=gt&id=6
 香港有线新闻台,video://https://www.iptv345.com/?act=play&token=f5aedff9d0cb3f6e0035b0d583687a70&tid=gt&id=11
 翡翠台,webview://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
 无线新闻,webview://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
@@ -123,8 +127,9 @@ TVB无线新闻台,video://https://www.iptv345.com/?act=play&token=e19d8c4977ae4
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=6d81ca376f064173cd13d95ce6e116b4&tid=gt&id=3 
 翡翠台,webview://https://iptv345.com/?act=play&token=7ce3c941c015540b1449544be7483d41&tid=gt&id=5 
 翡翠台,webview://https://iptv345.com/?act=play&token=0472c982d5dc21fee974d04d31e9e789&tid=gt&id=5 
-无线新闻台, webview://https://iptv345.com/?act=play&token=643ddd12bb15ae1f695ee1d7e858b58b&tid=gt&id=6
-无线新闻台, webview://https://iptv345.com/?act=play&token=55c566dbe70f5dc9a3705db0510faf55&tid=gt&id=6 
+无线新闻台,webview://https://www.iptv345.com/?act=play&token=e19d8c4977ae45b364084680a4949b42&tid=gt&id=6
+无线新闻台,webview://https://iptv345.com/?act=play&token=643ddd12bb15ae1f695ee1d7e858b58b&tid=gt&id=6
+无线新闻台,webview://https://iptv345.com/?act=play&token=55c566dbe70f5dc9a3705db0510faf55&tid=gt&id=6 
 TVB Plus,webview://https://iptv345.com/?act=play&token=d8e9f106d3257bd6c3e879213897d7df&tid=gt&id=8 
 TVB明珠台,webview://https://iptv345.com/?act=play&token=333abcf0e2e7fb28c5e93d73011fbfa4&tid=gt&id=9 
 TVB明珠台,webview://https://iptv345.com/?act=play&token=eb3f73b98a73afd07e51950d69ce4737&tid=gt&id=9
@@ -495,8 +500,10 @@ CHC家庭影院,http://8.138.7.223/tv/hot.php?id=67
 兵团卫视,http://8.138.7.223/tv/hot.php?id=59
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
+江苏卫视,webview://https://live.jstv.com/?channelld=534
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
 浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
+浙江卫视,webview://https://www.cztv.com/liveTV/101
 湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
 湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
 广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
@@ -506,6 +513,7 @@ CHC家庭影院,http://8.138.7.223/tv/hot.php?id=67
 重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
 深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
 四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
+四川卫视,webview://https://www.yangshipin.cn/tv/home?pid=60000251670
 河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
 福建东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
 贵州卫视,webview://https://yangshipin.cn/tv/home?pid=600002490
@@ -994,6 +1002,7 @@ CCTV女性时尚,webview://https://iptv345.com/?act=play&token=d48a7358c7100cc99
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
 海南卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
+海南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002475
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 陕西卫视,webview://http://live.snrtv.com/star
