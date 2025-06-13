@@ -78,6 +78,7 @@ CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 快乐垂钓,http://tvbox6.icu/tv/mgtv.php?id=218
 快乐垂钓,http://8.138.7.223/tv/cqyx2.php?id=klcdHD
+快乐垂钓,webview://https://live.mgtv.com/?channelld=21870%
 四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8#http://tvbox6.icu/tv/migu.php?id=shdy
 四海钓鱼,http://8.138.7.223/tv/cqyx2.php?id=diaoyu 
                                                                                                   
@@ -159,6 +160,7 @@ HOY TV,webview://https://iptv345.com/?act=play&token=241cb0cd14210d8acb2c40e811b
 TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e290cdd9bd45424&tid=gt&id=55 
 
 重庆频道,#genre#
+重庆卫视,http://8.138.7.223/tv/cqyx2.php?id=chongqingHD
 重庆卫视,http://8.138.7.223/tv/hot.php?id=40
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://yuzhe.ltd:5555/udp/239.93.1.107:5140
@@ -167,7 +169,7 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 重庆卫视,http://27.18.184.186:3520/rtp/239.69.1.149:10530
 重庆卫视,http://123.146.72.20:4022/udp/225.0.4.187:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-重庆卫视,http://8.138.7.223/tv/cqyx2.php?id=chongqingHD
+重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 
 重庆影视,http://8.138.7.223/tv/cqyx2.php?id=cqyingshiHD
 重庆影视,http://27.11.104.122:8006/udp/225.0.4.62:7980
