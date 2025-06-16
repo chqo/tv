@@ -104,6 +104,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8#https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv
 
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰电影,webview://http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -170,7 +171,6 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 
 重庆频道,#genre#
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
 重庆卫视,http://yuzhe.ltd:5555/udp/239.93.1.107:5140
 重庆卫视,http://vip.lqcc.xyz:35455/nptv/chongqing.m3u8
 重庆卫视,http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -383,11 +383,11 @@ CCTV17,http://xg.52sw.top/play/kzb/play.php?id=cctv17
 北京卫视,http://xg.52sw.top/play/kzb/play.php?id=bjws
 东方卫视,http://xg.52sw.top/play/kzb/play.php?id=dfws
 天津卫视,http://xg.52sw.top/play/kzb/play.php?id=tjws
-重庆卫视,http://xg.52sw.top/play/kzb/play.php?id=gdws
+重庆卫视,http://xg.52sw.top/play/kzb/play.php?id=cqws
 黑龙江卫视,http://xg.52sw.top/play/kzb/play.php?id=hljws
 吉林卫视,http://xg.52sw.top/play/kzb/play.php?id=jlws
 辽宁卫视,http://xg.52sw.top/play/kzb/play.php?id=lnws
-甘肃卫视,http://xg.52sw.top/play/kzb/play.php?id=gdws
+甘肃卫视,http://xg.52sw.top/play/kzb/play.php?id=gsws
 青海卫视,http://xg.52sw.top/play/kzb/play.php?id=qhws
 陕西卫视,http://xg.52sw.top/play/kzb/play.php?id=sxws
 河北卫视,http://xg.52sw.top/play/kzb/play.php?id=hbws
@@ -397,7 +397,7 @@ CCTV17,http://xg.52sw.top/play/kzb/play.php?id=cctv17
 湖北卫视,http://xg.52sw.top/play/kzb/play.php?id=hubws
 湖南卫视,http://xg.52sw.top/play/kzb/play.php?id=hunws
 江西卫视,http://xg.52sw.top/play/kzb/play.php?id=jxws
-江苏卫视,http://xg.52sw.top/play/kzb/play.php?id=zjws
+江苏卫视,http://xg.52sw.top/play/kzb/play.php?id=jsws
 浙江卫视,http://xg.52sw.top/play/kzb/play.php?id=zjws
 东南卫视,http://xg.52sw.top/play/kzb/play.php?id=dnws
 广东卫视,http://xg.52sw.top/play/kzb/play.php?id=gdws
