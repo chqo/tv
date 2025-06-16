@@ -3,9 +3,9 @@
 
 特色频道,#genre#
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
-生态环境,http://121.29.169.82:7777/rtp/239.253.93.245:6423
+生态环境,http://www.lizhinas.top:1009/rtp/239.252.220.216:5140
 生态环境,http://8.138.7.223/tv/cqyx2.php?id=shengtai
-生态环境,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=shengtai
+
 中国天气,http://home.kaijuns.cn:4000/rtp/239.121.4.112:8654
 中国天气,http://171.105.181.106:4022/udp/239.81.0.63:4056
 中国天气,http://8.138.7.223/tv/cqyx2.php?id=tianqiSD
@@ -86,26 +86,22 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://ali.hlspull.yximgs.com/live/e14bbe29079fd18a8e8b445ce7fcc3dd.flv
 凤凰中文,http://ali.hlspull.yximgs.com/live/awei_fhzw.flv
-凤凰中文,http://121.37.185.74:18180/TV00000000000000000054@HHZT#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8#http://yuzhe.ltd:5555/udp/239.93.0.162:2192#http://yuzhe.ltd:5555/udp/239.93.1.9:2192#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://live.tvfix.org/live/fhzw/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8#http://yuzhe.ltd:5555/udp/239.93.0.162:2192#http://yuzhe.ltd:5555/udp/239.93.1.9:2192#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://live.tvfix.org/live/fhzw/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
-凤凰资讯,http://ali.hlspull.yximgs.com/live/8803fa3dbc8b9adb24010f8fb5c44e02.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/awei_fhzx.flv
-凤凰资讯,http://yuzhe.ltd:5555/udp/239.93.0.118:2191#http://yuzhe.ltd:5555/udp/239.93.1.4:2191#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8#http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#https://live.tvfix.org/live/fwzx/index.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://yuzhe.ltd:5555/udp/239.93.0.118:2191#http://yuzhe.ltd:5555/udp/239.93.1.4:2191#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8#http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#https://live.tvfix.org/live/fwzx/index.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 
-无线新闻,http://ali.hlspull.yximgs.com/live/cd156be95d97a14bf94a3a7df5d01491.flv
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn#http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
              
-凤凰香港,http://ali.hlspull.yximgs.com/live/7532e23fe1350d23bf72e13b95954253.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/awei_fhxg.flv
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8#https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv
 
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-凤凰电影,webview://http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -170,20 +166,18 @@ HOY TV,webview://https://iptv345.com/?act=play&token=241cb0cd14210d8acb2c40e811b
 TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e290cdd9bd45424&tid=gt&id=55 
 
 重庆频道,#genre#
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+重庆卫视,http://fn.tmde.top:35455/nptv/chongqing.m3u8
+重庆卫视,http://1.wcnm.qzz.io:35455/nptv/chongqing.m3u8
+重庆卫视,http://123.133.163.32:9001/nptv/chongqing.m3u8
+重庆卫视,http://t.senseos.cn:9001/nptv/chongqing.m3u8
 重庆卫视,http://yuzhe.ltd:5555/udp/239.93.1.107:5140
 重庆卫视,http://vip.lqcc.xyz:35455/nptv/chongqing.m3u8
 重庆卫视,http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://27.18.184.186:3520/rtp/239.69.1.149:10530
-重庆卫视,http://123.146.72.20:4022/udp/225.0.4.187:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 
-重庆影视,http://27.10.209.168:8007/udp/225.0.4.62:7980
-重庆影视,http://27.10.213.170:8007/udp/225.0.4.62:7980
-重庆影视,http://27.10.209.168:8001/udp/225.0.4.62:7980
-重庆影视,http://123.146.72.20:4022/udp/225.0.4.62:7980
-重庆影视,http://123.146.72.101:4022/udp/225.0.4.62:7980
+重庆影视,http://27.10.209.168:8010/udp/225.0.4.62:7980
+重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
@@ -309,58 +303,6 @@ CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8
 CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
 CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
-CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
-CCTV2,http://171.15.18.199:8180/TV00000000000000000002@HHZT
-CCTV3,http://171.15.18.199:8180/TV00000000000000000003@HHZT
-CCTV4,http://171.15.18.199:8180/TV00000000000000000004@HHZT
-CCTV5,http://171.15.18.199:8180/TV00000000000000000005@HHZT
-CCTV6,http://171.15.18.199:8180/TV00000000000000000006@HHZT
-CCTV7,http://171.15.18.199:8180/TV00000000000000000007@HHZT
-CCTV8,http://171.15.18.199:8180/TV00000000000000000008@HHZT
-CCTV9,http://171.15.18.199:8180/TV00000000000000000009@HHZT
-CCTV10,http://171.15.18.199:8180/TV00000000000000000010@HHZT
-CCTV11,http://171.15.18.199:8180/TV00000000000000000011@HHZT
-CCTV12,http://171.15.18.199:8180/TV00000000000000000012@HHZT
-CCTV13,http://171.15.18.199:8180/TV00000000000000000013@HHZT
-CCTV14,http://171.15.18.199:8180/TV00000000000000000014@HHZT
-CCTV15,http://171.15.18.199:8180/TV00000000000000000015@HHZT
-CCTV17,http://171.15.18.199:8180/TV00000000000000000017@HHZT
-湖南卫视,http://171.15.18.199:8180/TV00000000000000000018@HHZT
-浙江卫视,http://171.15.18.199:8180/TV00000000000000000020@HHZT
-东方卫视,http://171.15.18.199:8180/TV00000000000000000021@HHZT
-天津卫视,http://171.15.18.199:8180/TV00000000000000000022@HHZT
-山东卫视,http://171.15.18.199:8180/TV00000000000000000024@HHZT
-湖北卫视,http://171.15.18.199:8180/TV00000000000000000025@HHZT
-深圳卫视,http://171.15.18.199:8180/TV00000000000000000026@HHZT
-重庆卫视,http://171.15.18.199:8180/TV00000000000000000030@HHZT
-广东卫视,http://171.15.18.199:8180/TV00000000000000000031@HHZT
-广西卫视,http://171.15.18.199:8180/TV00000000000000000032@HHZT
-东南卫视,http://171.15.18.199:8180/TV00000000000000000033@HHZT
-云南卫视,http://171.15.18.199:8180/TV00000000000000000034@HHZT
-河北卫视,http://171.15.18.199:8180/TV00000000000000000035@HHZT
-吉林卫视,http://171.15.18.199:8180/TV00000000000000000036@HHZT
-江西卫视,http://171.15.18.199:8180/TV00000000000000000037@HHZT
-山西卫视,http://171.15.18.199:8180/TV00000000000000000038@HHZT
-陕西卫视,http://171.15.18.199:8180/TV00000000000000000039@HHZT
-四川卫视,http://171.15.18.199:8180/TV00000000000000000040@HHZT
-河南卫视,http://171.15.18.199:8180/TV00000000000000000016@HHZT
-黑龙江卫视,http://171.15.18.199:8180/TV00000000000000000027@HHZT
-海南卫视,http://171.15.18.199:8180/TV00000000000000000028@HHZT
-CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1
-CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2
-CCTV3,http://tvbox6.icu/tv/migu.php?id=cctv3
-CCTV4,http://tvbox6.icu/tv/migu.php?id=cctv4
-CCTV5,http://itv.iptv1688.top:2016/itv.php?id=CCTV5
-CCTV6,http://tvbox6.icu/tv/migu.php?id=cctv6
-CCTV7,http://tvbox6.icu/tv/migu.php?id=cctv7
-CCTV8,http://tvbox6.icu/tv/migu.php?id=cctv8
-CCTV9,http://tvbox6.icu/tv/migu.php?id=cctv9
-CCTV10,http://tvbox6.icu/tv/migu.php?id=cctv10
-CCTV12,http://tvbox6.icu/tv/migu.php?id=cctv12
-CCTV13,http://tvbox6.icu/tv/migu.php?id=cctv13
-CCTV14,http://tvbox6.icu/tv/migu.php?id=cctv14
-CCTV15,http://tvbox6.icu/tv/migu.php?id=cctv15
-CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17
 CCTV1,http://xg.52sw.top/play/kzb/play.php?id=cctv1
 CCTV2,http://xg.52sw.top/play/kzb/play.php?id=cctv2
 CCTV3,http://xg.52sw.top/play/kzb/play.php?id=cctv3
