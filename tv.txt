@@ -122,15 +122,19 @@ TVB翡翠台,video://https://www.iptv345.com/?act=play&token=9f0765e8942d9859e81
 无线新闻,webview://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=a36fe35e78a425d91f663d771af510d2&tid=gt&id=1
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=1899031f95bc32ac4b0c7c7bdf477d6f&tid=gt&id=1 
+凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=2c3ff4a1f057f4da2c2e2e9e91d0a0bf&tid=gt&id=1
 凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=a115660361767b5cc1112ec623631632&tid=gt&id=2
 凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=2e71eb91c57cefe486c387d9a6ba35b7&tid=gt&id=2
+凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=a4a7c3403fbef1ed0fd39c551bdc28b6&tid=gt&id=2
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=b3ad9ab1e43b3f71a4a1cb29da128210&tid=gt&id=3 
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=6d81ca376f064173cd13d95ce6e116b4&tid=gt&id=3 
+凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=770d8abf0a9bf892e1c589dd83bdb4b0&tid=gt&id=3
 翡翠台,webview://https://iptv345.com/?act=play&token=7ce3c941c015540b1449544be7483d41&tid=gt&id=5 
 翡翠台,webview://https://iptv345.com/?act=play&token=0472c982d5dc21fee974d04d31e9e789&tid=gt&id=5 
 无线新闻台,webview://https://www.iptv345.com/?act=play&token=e19d8c4977ae45b364084680a4949b42&tid=gt&id=6
 无线新闻台,webview://https://iptv345.com/?act=play&token=643ddd12bb15ae1f695ee1d7e858b58b&tid=gt&id=6
 无线新闻台,webview://https://iptv345.com/?act=play&token=55c566dbe70f5dc9a3705db0510faf55&tid=gt&id=6 
+无线新闻台,webview://https://iptv345.com/?act=play&token=f30d95223fbe24e07d6091ae7eb937b6&tid=gt&id=6
 TVB Plus,webview://https://iptv345.com/?act=play&token=d8e9f106d3257bd6c3e879213897d7df&tid=gt&id=8 
 TVB明珠台,webview://https://iptv345.com/?act=play&token=333abcf0e2e7fb28c5e93d73011fbfa4&tid=gt&id=9 
 TVB明珠台,webview://https://iptv345.com/?act=play&token=eb3f73b98a73afd07e51950d69ce4737&tid=gt&id=9
