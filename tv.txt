@@ -180,14 +180,15 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 
-重庆影视,http://27.10.212.233:8005/udp/225.0.4.62:7980
-重庆影视,http://27.11.63.229:8005/udp/225.0.4.62:7980
+重庆影视,http://27.11.63.229:8004/udp/225.0.4.62:7980
+重庆影视,http://27.10.212.233:8009/udp/225.0.4.62:7980
+重庆影视,http://211.158.152.28:8009/udp/225.0.4.62:7980
 重庆影视,http://125.80.223.240:5555/rtp/235.254.196.209:1108
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
-重庆汽摩,http://27.10.212.233:8005/udp/225.0.4.61:7980
+重庆汽摩,http://27.10.212.233:8009/udp/225.0.4.61:7980
 重庆汽摩,http://125.80.223.240:5555/rtp/235.254.196.221:1156
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
