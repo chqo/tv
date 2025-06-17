@@ -180,15 +180,15 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 
-重庆影视,http://27.10.209.168:8010/udp/225.0.4.62:7980
-重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
+重庆影视,http://27.10.212.233:8005/udp/225.0.4.62:7980
+重庆影视,http://27.11.63.229:8005/udp/225.0.4.62:7980
+重庆影视,http://125.80.223.240:5555/rtp/235.254.196.209:1108
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
-           
-重庆汽摩,http://27.14.213.139:4022/udp/225.0.4.61:7980
-重庆汽摩,http://123.146.72.20:4022/udp/225.0.4.195:7980
+重庆汽摩,http://27.10.212.233:8005/udp/225.0.4.61:7980
+重庆汽摩,http://125.80.223.240:5555/rtp/235.254.196.221:1156
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆新闻,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CQTVNewsHD
@@ -1580,8 +1580,8 @@ GRTN教育,webview://https://www.gdtv.cn/tvChannelDetail/104
 西双版纳综合,webview://http://m.xsbnrtv.cn/cms-tv?column=100116
 
 少儿频道,#genre#
-重庆少儿http://123.146.72.20:4022/udp/225.0.4.71:7980
-重庆少儿http://123.146.72.20:4022/udp/225.0.4.191:7980
+重庆少儿,http://123.146.72.20:4022/udp/225.0.4.71:7980
+重庆少儿,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqseHD
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
