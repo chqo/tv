@@ -86,23 +86,34 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
+凤凰中文,http://115.190.105.236:8123/phoenix/fhzw.flv?token=OK
 凤凰中文,http://ali.hlspull.yximgs.com/live/awei_fhzw.flv
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8#http://yuzhe.ltd:5555/udp/239.93.0.162:2192#http://yuzhe.ltd:5555/udp/239.93.1.9:2192#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://cdn.163189.xyz/live/fhzw/stream.m3u8#http://cdn.132.us.kg/live/fhzw/stream.m3u8#https://live.tvfix.org/live/fhzw/index.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
+凤凰资讯,http://115.190.105.236:8123/phoenix/fhzx.flv?token=OK
 凤凰资讯,http://ali.hlspull.yximgs.com/live/awei_fhzx.flv
 凤凰资讯,http://yuzhe.ltd:5555/udp/239.93.0.118:2191#http://yuzhe.ltd:5555/udp/239.93.1.4:2191#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8#http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#https://live.tvfix.org/live/fwzx/index.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
-
+凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
+凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
+凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
+凤凰中文,http://8.138.7.223/tv/fh.php?id=1
+凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
+凤凰香港,http://8.138.7.223/tv/fh.php?id=3
+无线新闻,http://8.138.7.223/tv/aktv.php?id=17
+凤凰中文,http://8.138.7.223/tv/aktv.php?id=18
+凤凰资訊,http://8.138.7.223/tv/aktv.php?id=19
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
              
+凤凰香港,http://115.190.105.236:8123/phoenix/fhhk.flv?token=OK
 凤凰香港,http://ali.hlspull.yximgs.com/live/awei_fhxg.flv
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8#https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv
 
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -180,16 +191,15 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 
-重庆影视,http://27.11.63.229:8004/udp/225.0.4.62:7980
-重庆影视,http://27.10.212.233:8009/udp/225.0.4.62:7980
-重庆影视,http://211.158.152.28:8009/udp/225.0.4.62:7980
-重庆影视,http://125.80.223.240:5555/rtp/235.254.196.209:1108
+重庆影视,http://27.11.230.208:3080/udp/225.0.4.62:7980
+重庆影视,http://27.10.212.233:8007/udp/225.0.4.62:7980
+重庆影视,http://211.158.152.28:8007/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
-重庆汽摩,http://27.10.212.233:8009/udp/225.0.4.61:7980
-重庆汽摩,http://125.80.223.240:5555/rtp/235.254.196.221:1156
+重庆汽摩,http://27.11.230.208:3080/udp/225.0.4.61:7980
+重庆汽摩,http://27.10.212.233:8007/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆新闻,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CQTVNewsHD
