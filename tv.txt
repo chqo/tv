@@ -26,6 +26,7 @@
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
 金色学堂,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=jinse
 
+东方财经,http://171.213.157.52:9999/udp/239.93.1.165:5140
 东方财经,http://home.kaijuns.cn:4000/rtp/239.121.4.71:8400
 东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111
 东方财经,http://8.138.7.223/tv/cqyx2.php?id=dfcj
@@ -38,6 +39,9 @@
 法国时尚,https://stream1.freetv.fun/bd28dee32d184c56184c3de286f5920575e384cf4264034409a2e8fa74b02d05.m3u8
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
+CCTV怀旧剧场,http://119.125.134.203:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV第一剧场,http://119.125.134.203:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云剧场,http://119.125.134.203:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://8.138.7.223/tv/migu6.php?id=62
 CHC家庭影院,http://8.138.7.223/tv/migu6.php?id=63
 CHC影迷电影,http://8.138.7.223/tv/migu2.php?id=94
@@ -111,7 +115,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
-             
+     
 凤凰香港,http://115.190.105.236:8123/phoenix/fhhk.flv?token=OK
 凤凰香港,http://ali.hlspull.yximgs.com/live/awei_fhxg.flv
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
@@ -120,7 +124,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-
+翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -196,7 +200,8 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 重庆频道,#genre#
 重庆卫视,http://1.wcnm.qzz.io:35455/nptv/chongqing.m3u8
 重庆卫视,http://123.133.163.32:9001/nptv/chongqing.m3u8
-重庆卫视,http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+重庆卫视,http://222.223.84.240:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://vip.lqcc.xyz:35455/nptv/chongqing.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
