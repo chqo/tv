@@ -6,8 +6,6 @@
 生态环境,http://www.lizhinas.top:1009/rtp/239.252.220.216:5140
 生态环境,http://8.138.7.223/tv/cqyx2.php?id=shengtai
 
-中国天气,http://home.kaijuns.cn:4000/rtp/239.121.4.112:8654
-中国天气,http://171.105.181.106:4022/udp/239.81.0.63:4056
 中国天气,http://8.138.7.223/tv/cqyx2.php?id=tianqiSD
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 中国天气,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=tianqiSD
@@ -23,7 +21,6 @@
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 金色学堂,http://b.402089.xyz:4022/udp/233.50.200.122:5140
-金色学堂,http://125.121.17.211:8500/udp/233.50.201.186:5140
 金色学堂,http://b.402089.xyz:4022/udp/233.50.201.186:5140
 金色学堂,http://home.kaijuns.cn:4000/rtp/239.121.4.78:8442
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
@@ -206,20 +203,18 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://iptv345.com/?act=play&token=558b80ffb45204231672febd8f46ab86&tid=ws&id=19
 
+重庆影视,http://27.10.213.189:8005/udp/225.0.4.62:7980
+重庆影视,http://27.10.79.36:8005/udp/225.0.4.62:7980
+重庆影视,http://113.250.150.232:9999/rtp/235.254.196.209:1108
 重庆影视,http://123.145.13.105:8002/udp/225.0.4.62:7980
-重庆影视,http://27.11.230.208:3080/udp/225.0.4.62:7980
 重庆影视,http://27.13.231.113:8888/udp/225.0.4.62:7980
 重庆影视,http://211.158.166.145:8888/udp/225.0.4.62:7980
-重庆影视,http://123.145.21.2:8001/udp/225.0.4.62:7980
-重庆影视,http://123.145.10.70:8002/udp/225.0.4.62:7980
-重庆影视,http://123.145.10.70:8001/udp/225.0.4.62:7980
-重庆影视,http://123.145.21.2:8002/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
-重庆汽摩,http://27.11.230.208:3080/udp/225.0.4.61:7980
-重庆汽摩,http://123.145.21.2:8002/udp/225.0.4.61:7980
+重庆汽摩,http://113.250.150.232:9999/rtp/235.254.196.221:1156
+重庆汽摩,http://27.10.79.36:8005/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆新闻,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CQTVNewsHD
