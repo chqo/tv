@@ -10,15 +10,12 @@
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 中国天气,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=tianqiSD
 
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://mtw.so/5NPX0U
-重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,https://migu.188766.xyz/?migutoken=da29d99a52a0e043d78f8769f945341b&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&pp=1
 
 金色学堂,http://b.402089.xyz:4022/udp/233.50.200.122:5140
 金色学堂,http://b.402089.xyz:4022/udp/233.50.201.186:5140
@@ -70,6 +67,11 @@ CCTV怀旧剧场,http://8.138.7.223/tv/cqyx2.php?id=hjjcHD
 CCTV风云音乐,http://8.138.7.223/tv/cqyx2.php?id=fyyyHD
 CCTV怀旧剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=hjjcHD
 CCTV风云音乐,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyyyHD
+CCTV风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
+CCTV风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+CCTV第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+CCTV怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+CCTV女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
 CCTV女性时尚,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=nvxing
 CCTV女性时尚,http://8.138.7.223/tv/cqyx2.php?id=nvxing
 CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
@@ -87,21 +89,26 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-凤凰中文,http://115.190.105.236:8123/phoenix/fhzw.flv?token=OK
+凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
 凤凰中文,http://ali.hlspull.yximgs.com/live/awei_fhzw.flv
 凤凰中文,https://ali.hlspull.yximgs.com/live/167_fhzw.flv
+凤凰中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 凤凰中文,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://115.190.105.236:8123/phoenix/fhzx.flv?token=OK
+凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
 凤凰资讯,http://ali.hlspull.yximgs.com/live/awei_fhzx.flv
 凤凰资讯,https://ali.hlspull.yximgs.com/live/167_fhzx.flv
+凤凰资讯,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 凤凰资讯,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
@@ -111,19 +118,23 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,http://8.138.7.223/tv/aktv.php?id=17
 凤凰中文,http://8.138.7.223/tv/aktv.php?id=18
 凤凰资讯,,http://8.138.7.223/tv/aktv.php?id=19
+
+无线新闻,http://bx.757888.xyz/api.php?id=wxxw
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
-     
-凤凰香港,http://115.190.105.236:8123/phoenix/fhhk.flv?token=OK
+无线新闻,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+
+凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
 凤凰香港,http://ali.hlspull.yximgs.com/live/awei_fhxg.flv
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+凤凰香港,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+
+翡翠台,http://bx.757888.xyz/api.php?id=fct
 翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -177,7 +188,8 @@ TVB翡翠台,video://https://www.iptv345.com/?act=play&token=9f0765e8942d9859e81
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://iptv345.com/?act=play&token=558b80ffb45204231672febd8f46ab86&tid=ws&id=19
 
-重庆影视,http://27.10.213.189:8005/udp/225.0.4.62:7980
+重庆影视,http://27.10.213.189:8003/udp/225.0.4.62:7980
+重庆影视,http://27.10.212.233:8003/udp/225.0.4.62:7980
 重庆影视,http://27.10.79.36:8005/udp/225.0.4.62:7980
 重庆影视,http://123.145.17.117:8003/udp/225.0.4.62:7980
 重庆影视,http://27.13.231.113:8888/udp/225.0.4.62:7980
