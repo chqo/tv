@@ -162,40 +162,9 @@ TVB翡翠台,video://https://www.iptv345.com/?act=play&token=9f0765e8942d9859e81
 无线新闻台,webview://https://iptv345.com/?act=play&token=643ddd12bb15ae1f695ee1d7e858b58b&tid=gt&id=6
 无线新闻台,webview://https://iptv345.com/?act=play&token=55c566dbe70f5dc9a3705db0510faf55&tid=gt&id=6 
 无线新闻台,webview://https://iptv345.com/?act=play&token=f30d95223fbe24e07d6091ae7eb937b6&tid=gt&id=6
-TVB Plus,webview://https://iptv345.com/?act=play&token=d8e9f106d3257bd6c3e879213897d7df&tid=gt&id=8 
-TVB明珠台,webview://https://iptv345.com/?act=play&token=333abcf0e2e7fb28c5e93d73011fbfa4&tid=gt&id=9 
-TVB明珠台,webview://https://iptv345.com/?act=play&token=eb3f73b98a73afd07e51950d69ce4737&tid=gt&id=9
-香港有线新闻台,webview://https://iptv345.com/?act=play&token=b009cbf4f6be96236d0f02d4fd1c24a4&tid=gt&id=11 
-香港有线18台,webview://https://iptv345.com/?act=play&token=f155d374b236cc9ae84db12e4af8e63a&tid=gt&id=12 
-NOW直播台,webview://https://iptv345.com/?act=play&token=ae71b8850183e5fd76140396c774269c&tid=gt&id=16 
-NOW新闻台,webview://https://iptv345.com/?act=play&token=d30af29dc05a726eb3277d2dc59074b0&tid=gt&id=17
-NOW财经台,webview://https://iptv345.com/?act=play&token=4ec602110c6846ba86685359a52703df&tid=gt&id=18
-HOY国际财经台,webview://https://iptv345.com/?act=play&token=c384970826f6255aa2e851164bfcb6e0&tid=gt&id=22
-HOY资讯台,webview://https://iptv345.com/?act=play&token=ec04628078b7405f3b7abfafde8594fb&tid=gt&id=23
-HOY TV,webview://https://iptv345.com/?act=play&token=241cb0cd14210d8acb2c40e811bc91b0&tid=gt&id=24 
-港台电视31,webview://https://iptv345.com/?act=play&token=a770137eff5967c97185a69e6ab43132&tid=gt&id=26 
-港台电视32,webview://https://iptv345.com/?act=play&token=6ea0ff8199d6bd600ca5506e2d4051d1&tid=gt&id=27  
 香港卫视,webview://https://iptv345.com/?act=play&token=e8494252b5e3491aad38aa334d2d0436&tid=gt&id=30
 香港卫视,webview://https://iptv345.com/?act=play&token=38e697a86bb8bb3ac02a0d4106b0ff74&tid=gt&id=30
 香港卫视,webview://https://iptv345.com/?act=play&token=9b4a2691ab32663751104d90207f208a&tid=gt&id=30
-耀才财经,webview://https://iptv345.com/?act=play&token=5b1b4a691552977b4eb6965466d3a52d&tid=gt&id=32 
-澳门莲花,webview://https://iptv345.com/?act=play&token=af7308b9a3b7cdad1a0a9fc6232a1b10&tid=gt&id=35 
-澳門卫视,webview://https://iptv345.com/?act=play&token=2fa923eafd5929a909c64919ec5b2996&tid=gt&id=36 
-澳视资讯,webview://https://iptv345.com/?act=play&token=20dd3b733fce9cead1e91afd8f9fc81b&tid=gt&id=37 
-澳視澳門,webview://https://iptv345.com/?act=play&token=5f0595d49a6eb43448392761cd5fd0e4&tid=gt&id=38
-澳門Macau,webview://https://iptv345.com/?act=play&token=3566a9e31c3b3dd9b83dc67ae5ed8a71&tid=gt&id=39 
-澳视综艺,webview://https://iptv345.com/?act=play&token=d6d0fd96757ad23da5196f594f353d8a&tid=gt&id=40 
-澳亚卫视,webview://https://iptv345.com/?act=play&token=188c73c6354a9fa98b62744a31a45d23&tid=gt&id=41 
-中天新闻台,webview://https://iptv345.com/?act=play&token=dbb2088d199f24d8b8d6b9c40f4bcabc&tid=gt&id=43 
-东森新闻台,webview://https://iptv345.com/?act=play&token=f73ba1452c2b69c13ad1275b50768046&tid=gt&id=44 
-东森财经新闻台,webview://https://iptv345.com/?act=play&token=91a80798f8ed45b59a7f451e385a96ef&tid=gt&id=45 
-中视新闻台,webview://https://iptv345.com/?act=play&token=f067c322172b27669392a70794840b88&tid=gt&id=46
-台视新闻台,webview://https://iptv345.com/?act=play&token=96a7c7f338187a71feca297d056eb28e&tid=gt&id=47 
-三立新闻台,webview://https://iptv345.com/?act=play&token=7368b06b909a181122eaf31277c817b2&tid=gt&id=48 
-民视新闻台,webview://https://iptv345.com/?act=play&token=b8c6f93537409090e4fe469d9a9496c4&tid=gt&id=50
-华视新闻台,webview://https://iptv345.com/?act=play&token=94a28ce5f762d54c04d3b8528df90c47&tid=gt&id=51
-寰宇新闻台,webview://https://iptv345.com/?act=play&token=7a1db6fde41a0dc8f0e443c1d12356cf&tid=gt&id=53 
-TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e290cdd9bd45424&tid=gt&id=55 
 
 重庆频道,#genre#
 重庆卫视,http://1.wcnm.qzz.io:35455/nptv/chongqing.m3u8
@@ -210,15 +179,13 @@ TVBS新闻台,webview://https://iptv345.com/?act=play&token=4183c9be323f90b47e29
 
 重庆影视,http://27.10.213.189:8005/udp/225.0.4.62:7980
 重庆影视,http://27.10.79.36:8005/udp/225.0.4.62:7980
-重庆影视,http://113.250.150.232:9999/rtp/235.254.196.209:1108
-重庆影视,http://123.145.13.105:8002/udp/225.0.4.62:7980
+重庆影视,http://123.145.17.117:8003/udp/225.0.4.62:7980
 重庆影视,http://27.13.231.113:8888/udp/225.0.4.62:7980
-重庆影视,http://211.158.166.145:8888/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
-重庆汽摩,http://113.250.150.232:9999/rtp/235.254.196.221:1156
+重庆汽摩,http://123.145.17.117:8003/udp/225.0.4.61:7980
 重庆汽摩,http://27.10.79.36:8005/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
