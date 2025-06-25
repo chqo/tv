@@ -36,17 +36,14 @@
 法国时尚,https://stream1.freetv.fun/bd28dee32d184c56184c3de286f5920575e384cf4264034409a2e8fa74b02d05.m3u8
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-CCTV怀旧剧场,http://119.125.134.203:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV第一剧场,http://119.125.134.203:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV风云剧场,http://119.125.134.203:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://8.138.7.223/tv/migu6.php?id=62
-CHC家庭影院,http://8.138.7.223/tv/migu6.php?id=63
-CHC影迷电影,http://8.138.7.223/tv/migu2.php?id=94
-CHC动作电影,http://8.138.7.223/tv/migu2.php?id=62
+
+CHC影迷电影,http://fn.tmde.top:35455/mgtv/952383261.m3u8
+CCTV怀旧剧场,http://fn.tmde.top:35455/nptv/hjjc.m3u8
+CCTV第一剧场,http://fn.tmde.top:35455/nptv/dyjc.m3u8
+CCTV风云剧场,http://fn.tmde.top:35455/nptv/fyjc.m3u8
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
-CHC影迷电影,http://8.138.7.223/tv/hot.php?id=65
-CHC动作电影,http://8.138.7.223/tv/hot.php?id=66
-CHC家庭影院,http://8.138.7.223/tv/hot.php?id=67
+CHC动作电影,http://fn.tmde.top:35455/mgtv/644368714.m3u8
+CHC家庭影院,http://fn.tmde.top:35455/mgtv/644368373.m3u8
 CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
@@ -60,31 +57,18 @@ CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
-CCTV第一剧场,http://8.138.7.223/tv/cqyx2.php?id=diyijuchangHD
-CCTV第一剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=diyijuchangHD
-CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?id=fyjcHD
-CCTV怀旧剧场,http://8.138.7.223/tv/cqyx2.php?id=hjjcHD
-CCTV风云音乐,http://8.138.7.223/tv/cqyx2.php?id=fyyyHD
-CCTV怀旧剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=hjjcHD
-CCTV风云音乐,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyyyHD
 CCTV风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 CCTV风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
 CCTV第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
 CCTV怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 CCTV女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
-CCTV女性时尚,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=nvxing
-CCTV女性时尚,http://8.138.7.223/tv/cqyx2.php?id=nvxing
 CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
 CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 快乐垂钓,http://tvbox6.icu/tv/mgtv.php?id=218
-快乐垂钓,http://8.138.7.223/tv/cqyx2.php?id=klcdHD
-快乐垂钓,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=klcdHD
 快乐垂钓,webview://https://live.mgtv.com/?channelld=21870%
 四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8#http://tvbox6.icu/tv/migu.php?id=shdy
-四海钓鱼,http://8.138.7.223/tv/cqyx2.php?id=diaoyu 
-四海钓鱼,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=diaoyu     
                                                                                  
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -108,12 +92,6 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
-凤凰中文,http://8.138.7.223/tv/fh.php?id=1
-凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
-凤凰香港,http://8.138.7.223/tv/fh.php?id=3
-无线新闻,http://8.138.7.223/tv/aktv.php?id=17
-凤凰中文,http://8.138.7.223/tv/aktv.php?id=18
-凤凰资讯,,http://8.138.7.223/tv/aktv.php?id=19
 
 无线新闻,http://bx.757888.xyz/api.php?id=wxxw
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -157,26 +135,24 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
-重庆卫视,http://zjzcf.synology.me:35455/nptv/chongqing.m3u8
-重庆卫视,http://1.wcnm.qzz.io:35455/nptv/chongqing.m3u8
-重庆卫视,http://123.133.163.32:9001/nptv/chongqing.m3u8
+重庆卫视,http://guyue0227.eicp.net:35455/nptv/chongqing.m3u8
+重庆卫视,http://fn.tmde.top:35455/nptv/chongqing.m3u8
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
-重庆卫视,http://222.223.84.240:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://vip.lqcc.xyz:35455/nptv/chongqing.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
-重庆影视,http://27.10.213.189:8008/udp/225.0.4.62:7980
-重庆影视,http://27.10.214.43:8005/udp/225.0.4.62:7980
-重庆影视,http://27.11.105.11:8008/udp/225.0.4.62:7980
+重庆影视,http://27.10.208.88:8009/udp/225.0.4.62:7980
+重庆影视,http://27.10.213.189:8009/udp/225.0.4.62:7980
+重庆影视,http://27.10.214.43:8009/udp/225.0.4.62:7980
+重庆影视,http://27.11.105.11:8009/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
-重庆汽摩,http://27.10.213.189:8005/udp/225.0.4.61:7980
-重庆汽摩,http://27.10.214.43:8005/udp/225.0.4.61:7980
+重庆汽摩,http://27.10.213.189:8009/udp/225.0.4.61:7980
+重庆汽摩,http://27.10.214.43:8009/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆新闻,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CQTVNewsHD
@@ -266,6 +242,7 @@ CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 CCTV5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 CCTV6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
+CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 CCTV7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
 CCTV8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
 CCTV9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
