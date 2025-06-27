@@ -80,6 +80,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 凤凰中文,http://yuzhe.ltd:5555/udp/239.93.0.162:2192
 凤凰中文,http://yuzhe.ltd:5555/udp/239.93.1.9:2192
+凤凰中文,http://aplay.seres.cn/live/16c2a5beb77fc7f04ae8584b5f9feb27.m3u8
 凤凰中文,http://122.233.171.82:8888/udp/233.50.200.42:5140
 凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
 凤凰中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
@@ -90,6 +91,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://yuzhe.ltd:5555/udp/239.93.0.118:2191
 凤凰资讯,http://yuzhe.ltd:5555/udp/239.93.1.4:2191
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
+凤凰资讯,http://aplay.seres.cn/live/f56ef744a4d9be91de34f59d0e55ed69.m3u8
 凤凰资讯,https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
 凤凰资讯,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
@@ -98,6 +100,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 
+无线新闻,http://aplay.seres.cn/live/10ee5fdd3efb06851d360d18bd757172.m3u8
 无线新闻,http://bx.757888.xyz/api.php?id=wxxw
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
@@ -105,6 +108,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
+凤凰香港,http://aplay.seres.cn/live/f9a9f91f41974cce71cd84f9205ce6db.m3u8
 凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
 凤凰香港,http://ali.hlspull.yximgs.com/live/awei_fhxg.flv
 凤凰香港,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
@@ -156,12 +160,13 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://123.145.17.213:8002/udp/225.0.4.62:7980
 重庆影视,http://123.145.17.213:8001/udp/225.0.4.62:7980
 重庆影视,http://124.162.19.248:4022/udp/225.0.4.62:7980
+重庆影视,http://cqcu3.live.cbncdn.cn/session/5796be0e-534b-11f0-8eca-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?token=ab49973ecd47eb4b18c3dbac7897f083_1751110750_1751110750&p=3073
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆汽摩,http://123.145.17.213:8002/udp/225.0.4.61:7980
-重庆汽摩,http://123.145.17.213:8001/udp/225.0.4.61:7980
+重庆汽摩,http://cqcu2.live.cbncdn.cn/session/38c1a21a-534a-11f0-9aa5-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqcarSD/__op/default/__f/index.m3u8?token=f44502dd2e0708feee9eda1e09df5660_1751110269_1751110269&p=3073
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆新闻,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CQTVNewsHD
