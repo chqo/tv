@@ -1535,18 +1535,20 @@ DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjp
 十首伤感DJ情歌,https://vdse.bdstatic.com//5319e5b5cd1ad9d27a21b9bf4ad534ba.mp4
 
 歌曲欣赏,#genre#
-手心有你,https://vdept3.bdstatic.com/mda-rcv98jphzb9fhs42/1080p/cae_h264/1743316641966957781/mda-rcv98jphzb9fhs42.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1751098555-0-0-9d3dc87d6b5eef2f8acb260a32aa0346&bcevod_channel=searchbox_feed&pd=1&cr=3&cd=0&pt=3&logid=0955519863&vid=14909758681472739336&klogid=0955519863
-平凡日子里的挣扎,https://zdzz54ktaxmndmej8cui3vdbdr83ltckauqhy9ilyt4x0t7.mobgslb.tbcache.com/3434/20250504/2f55af5afd6033b437a9c6710bd3ab9b?auth_key=1751091660-4-0-a971ae72e9bd79d36db2ce779e27bd64&a=ylu7kvm4yc47&t=1751088060555498592&u=Mb2a4e61a9lINZlgBPzu64LIRfAIq9EiZeV4dGPr&vid=nj3O0BxX2njJ&ali_redirect_domain=sov.qianpailive.com&ali_redirect_ex_hot=66666810&ali_redirect_ex_beacon=1
-大风吹,http://vdown2.kuwo.cn/resource//t5/0/eTNBMFltlx07LI3bUVOg01041201VIsY0E010.mp4
-平凡日子里的挣扎,https://valipl.cp31.ott.cibntv.net/6774DC5E51449721663CA44AC/0300060000649F8AB35A3F4D9569A4E1FCBAE9-1622-4359-8B22-B4EEF3BEBDDC.m3u8?ccode=0502&duration=200&expire=18000&psid=9656a50ee5d88c51dad8365185b18b7541346&ups_client_netip=240exb30x1ab4xe900xac1bxc5b7x4defx53e4&ups_ts=1751088546&ups_userid=&utid=6lfeIG9rAXABASQOCzD9ABw1&vid=XNTg5NTE4NDc2MA%3D%3D&vkey=Bd67ef42d21d7cdc88df0cef172b7961a&s=afca2fac8aa3430d9f5a&eo=0&t=56f287e86ac1c3a&cug=1&fms=5734b0c03b0c7cda&tr=200&le=8aa3a8f4389fa1e2c5f7af8cc982cda4&ckt=5&m_onoff=0&rid=200000006F67A006CB15F496AA6EBAFB206ACD2502000000&type=mp4hdv3&bc=2&dre=u37&si=73&dst=1&sm=1&operate_type=1&app_key=24679788&app_ver=9.5.70
+手心有你,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=14909758681472739336
+手心有你,webview://https://tv.360kan.com/player?id=a1804d9ec2d682f7fb852d89a62e696e&q=%E6%89%8B%E5%BF%83%E6%9C%89%E4%BD%A0%E9%A9%AC%E5%81%A5%E6%B6%9B&src=normal_sv&srcg=normal_sv
+手心有你,https://zdzz54ktaxmndmej8cui3vdbdr83ltckauqhy9ilyt4x0t7.mobgslb.tbcache.com/d57b/20250318/1815280cd3d1ed18f9f996f2b2acbe8c?auth_key=1751116096-8-0-742b99999d613754c12b5d33efd7d389&a=ylu7kvm4yc47&t=1751112496700898609&u=Mv6Q3lWU3J4tcH7eSP6t5PZHo6hiuzNTmQ4oU3hO&vid=Yj1aWJVmbkjk&ali_redirect_domain=sov.qianpailive.com&ali_redirect_ex_hot=66666810&ali_redirect_ex_beacon=1
+平凡日子里的挣扎,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=4492195948358948084
+平凡日子里的挣扎,webview://https://tv.360kan.com/player?id=ba8f74755a7d0db81870ba93bb1fbfe7&q=%E5%B9%B3%E5%87%A1%E6%97%A5%E5%AD%90%E9%87%8C%E7%9A%84%E6%8C%A3%E6%89%8E%E5%8E%9F%E5%94%B1%E5%AE%8C%E6%95%B4%E7%89%88&src=normal_sv&srcg=normal_sv
 苹果香,https://vdept3.bdstatic.com/mda-narndu4se73v9k8f/sc/cae_h264_delogo/1643212392905243566/mda-narndu4se73v9k8f.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1751117512-0-0-f6fde34e5e32e13d72e7ba7119e6d076&bcevod_channel=searchbox_feed&pd=1&cr=2&cd=0&pt=3&logid=1912746863&vid=13260505147598009516&klogid=1912746863&abtest=
 苹果香,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=1155282808538408496
 苹果香,https://vdept3.bdstatic.com/mda-qgjcjs2zen1x5yh6/1080p/cae_h264/1721467538052660000/mda-qgjcjs2zen1x5yh6.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1751120781-0-0-8bd5af0a3aeccf7a04ec6a456f535468&bcevod_channel=searchbox_feed&pd=1&cr=3&cd=0&pt=3&logid=1580992647&vid=5876129938058209043&klogid=1580992647&abtest=
 马健涛-搀扶,https://mvwebfs.kugou.com/202506281339/0ce3b5d6256076c9067ebeff2d5f9623/KGTX/CLTX002/74adef3d9ed4dcb47aeb31a81d4f2489.mp4
-我曾经发了疯的想,https://sov.qianpailive.com/a8c2/20250606/c5e78902ebd5a33f3bc412210b390c57?auth_key=1751093274-2-0-702d661c016ae4a5532f6fab5d1cd610&a=ylu7kvm4yc47&t=1751089674278334998&u=6mRMkAPnPeLNuthuEOYerIl9Zt8wuCjfK21asgnc&vid=xjXdB446k3jw
+我曾经发了疯的想,webview://https://tv.360kan.com/player?id=62099b6a2cefbceecd313a39cc23449d&q=%E6%88%91%E6%9B%BE%E7%BB%8F%E5%8F%91%E4%BA%86%E7%96%AF%E7%9A%84%E6%83%B3%20%E7%87%95%E5%AE%9D%E5%84%BF&src=normal_sv&srcg=normal_sv
 放不下你怎么放过自己,http://em.21dtv.com/songs/100006604.mkv
 负我不负她,https://vd2.bdstatic.com/mda-qdubamj00puytssi/720p/h264/1714377617474457863/mda-qdubamj00puytssi.mp4
 负我不负她,https://vd4.bdstatic.com/mda-pjh2pm1d8m5gj5n0/576p/h264/1697594213694786562/mda-pjh2pm1d8m5gj5n0.mp4
+大风吹,http://vdown2.kuwo.cn/resource//t5/0/eTNBMFltlx07LI3bUVOg01041201VIsY0E010.mp4
 野花香,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3oaO9wUo4J6WwQU.mp4
 狂狼,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsK2M5gUosN7C7QQ.mp4
 成都,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgx5ei5wUoqOfenwE.mp4
