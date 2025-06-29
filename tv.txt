@@ -80,7 +80,6 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台        
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰中文,http://yuzhe.ltd:5555/udp/239.93.0.162:2192
-凤凰中文,http://122.242.71.50:7912/udp/233.50.200.42:5140
 凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
 凤凰中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -103,7 +102,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
 无线新闻,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-
+凤凰香港,http://www.python888.top:2025/python.php?id=fhhk
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
 凤凰香港,http://ali.hlspull.yximgs.com/live/awei_fhxg.flv
@@ -126,11 +125,13 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=9ee1d6cf332fbafd76a1dc3acc39a950&tid=gt&id=1 
-凤凰卫视中文台,hybrid-webview://https://www.iptv345.com/?act=play&token=763d9e99abf9f540158cc28bd13c7545&tid=gt&id=1
+凤凰卫视中文台,webview://https://www.iptv345.com/?act=play&token=763d9e99abf9f540158cc28bd13c7545&tid=gt&id=1
+凤凰卫视中文台 webview://https://iptv345.com/?act=play&token=7577fbd14f49b8bf8d57efcfbe41e2ac&tid=gt&id=1
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=2ccd7376a936cdb305378a5a5e6b68f9&tid=gt&id=2 
 凤凰卫视资讯台,webview://https://www.iptv345.com/?act=play&token=bc35cb798fabff3cf2973ea957d6bd95&tid=gt&id=2
-凤凰卫视资讯台,hybrid-webview://https://iptv345.com/?act=play&token=13f3af738dba216ebe0e318358d66779&tid=gt&id=2 
+凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=13f3af738dba216ebe0e318358d66779&tid=gt&id=2 
+凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=1f8f63a7fa1694633c1c6730ae3d4c2e&tid=gt&id=2 
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=ba0dedd1fe6b6e4c75d710bb66647a81&tid=gt&id=3
 凤凰卫视香港台,video://https://www.iptv345.com/?act=play&token=ebc058734920a2440f51c425c646f578&tid=gt&id=3
 香港有线新闻台,video://https://www.iptv345.com/?act=play&token=f5aedff9d0cb3f6e0035b0d583687a70&tid=gt&id=11
@@ -150,14 +151,10 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
 重庆影视,http://106.86.155.159:20005/rtp/235.254.196.209:1108
-重庆影视,http://113.248.223.121:4022/rtp/235.254.196.209:1108
-重庆影视,http://211.158.152.77:8001/udp/225.0.4.62:7980
-重庆影视,http://211.158.154.116:8007/udp/225.0.4.62:7980
-重庆影视,http://27.8.237.195:8008/udp/225.0.4.62:7980
-重庆影视,http://27.8.237.195:8009/udp/225.0.4.62:7980
-重庆影视,http://211.158.154.34:8006/udp/225.0.4.62:7980
+重庆影视,http://27.8.237.195:8005/udp/225.0.4.62:7980
+重庆影视,http://27.8.237.195:8003/udp/225.0.4.62:7980
+重庆影视,http://211.158.154.34:8003/udp/225.0.4.62:7980
 重庆影视,http://124.162.19.248:4022/udp/225.0.4.62:7980
-重庆影视,http://cqcu3.live.cbncdn.cn/session/5796be0e-534b-11f0-8eca-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?token=ab49973ecd47eb4b18c3dbac7897f083_1751110750_1751110750&p=3073
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,hybrid-webview://https://sj.cbg.cn/wap/list/4918/1.html
@@ -847,6 +844,7 @@ CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
 重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://iptv345.com/?act=play&token=558b80ffb45204231672febd8f46ab86&tid=ws&id=19
+重庆卫视 webview://https://iptv345.com/?act=play&token=026cb01394114f4a725223e2c3c1899d&tid=ws&id=19
 深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
 四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
 河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
@@ -1573,6 +1571,8 @@ DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjp
 野花香,hybrid-webview://https://haokan.baidu.com/v?pd=bjh&type=video&vid=6804995829960958840
 狂狼,https://d.kstore.dev/download/10141/%E7%8B%82%E7%8B%BC.mp4
 狂狼,http://syjx2hcld.hn-bkt.clouddn.com/%E7%8B%82%E7%8B%BC.mp4
+三生石下,http://mobi.kuwo.cn/tmevideo/tme1258316.mp4
+三生石下,https://vd3.bdstatic.com/mda-qetjeqftm92b57gy/1080p/cae_h264/1716939043092774289/mda-qetjeqftm92b57gy.mp4
 成都,https://d.kstore.dev/download/10141/%E8%B5%B5%E9%9B%B7-%E6%88%90%E9%83%BD.mp4
 成都,http://syjx2hcld.hn-bkt.clouddn.com/%E8%B5%B5%E9%9B%B7-%E6%88%90%E9%83%BD.mp4
 成都,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=11095998095113043432
@@ -2302,6 +2302,14 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 2025年春晚 4K,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 
 小品现场,#genre#
+陈佩斯吃面条,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524559107583246_hlsb.m3u8
+陈佩斯胡椒面,https://txmov2.a.kwimgs.com/bs3/video-hls/5226708928800176589_hlsb.m3u8
+警察与督察,https://txmov2.a.kwimgs.com/bs3/video-hls/5233464357625245633_hlsb.m3u8
+警察与小偷,https://txmov2.a.kwimgs.com/bs3/video-hls/5192368981698476185_hlsb.m3u8
+主角与配角,https://txmov2.a.kwimgs.com/bs3/video-hls/5220516480426863393_hlsb.m3u8
+拍电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5214042559557439441_hlsb.m3u8
+狗娃与黑妮,https://txmov2.a.kwimgs.com/bs3/video-hls/5204472409144867699_hlsb.m3u8
+姐夫与小舅子,https://txmov2.a.kwimgs.com/bs3/video-hls/5225583031570305791_hlsb.m3u8
 赵四.赵本山.宋小宝小品集锦,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457156030679277_hlsb.m3u8
 赵本山.宋丹丹.宋小宝喜剧小品合集,https://txmov2.a.kwimgs.com/bs3/video-hls/5240219756539886653_hlsb.m3u8
 赵四小品《借媳妇》,http://gcw.bdcdn.shoujiduoduo.com/201805/0236-58.mp4
