@@ -145,21 +145,19 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆频道,#genre#
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
 重庆卫视,http://123.160.231.147:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://www.mfykeke.top:35455/nptv/chongqing.m3u8
+重庆卫视,http://nas.xianbao.info:35455/nptv/chongqing.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 
-重庆影视,http://27.8.239.50:8009/udp/225.0.4.62:7980
-重庆影视,http://27.8.237.195:8007/udp/225.0.4.62:7980
-重庆影视,http://27.8.237.195:8008/udp/225.0.4.62:7980
-重庆影视,http://27.8.238.203:8009/udp/225.0.4.62:7980
+重庆影视,http://123.145.10.215:8004/udp/225.0.4.62:7980
+重庆影视,http://123.145.8.206:8005/udp/225.0.4.62:7980
+重庆影视,http://123.145.14.34:8005/udp/225.0.4.62:7980
 重庆影视,http://124.162.19.248:4022/udp/225.0.4.62:7980
 重庆影视,http://27.9.125.193:4022/udp/225.0.4.62:7980
-重庆影视,http://125.85.177.82:4022/rtp/235.254.196.209:1108
-重庆影视,http://119.84.196.48:7777/rtp/235.254.196.209:1108
-重庆影视,http://125.80.84.177:8899/rtp/235.254.196.209:1108
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://27.8.238.203:8009/udp/225.0.4.59:7980
