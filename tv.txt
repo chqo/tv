@@ -1075,6 +1075,9 @@ MV歌曲,#genre#
 次真降措 - 稻城传奇,http://sy02iytt5.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E7%A8%BB%E5%9F%8E%E4%BC%A0%E5%A5%87.mp4#https://d.kstore.dev/download/10141/次真降措+-+稻城传奇.mp4
 次真降措-格桑花开,http://sy02iytt5.hn-bkt.clouddn.com/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E6%A0%BC%E6%A1%91%E8%8A%B1%E5%BC%80.mkv#https://10141.kstore.space/次真降措 - 格桑花开.mkv
 齐峰-我和草原有个约定,http://sy02iytt5.hn-bkt.clouddn.com/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#https://gh-proxy.com/https://github.com/73330/ch/raw/main/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#http://syjx2hcld.hn-bkt.clouddn.com/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#https://d.kstore.dev/download/10141/齐峰-我和草原有个约定.mp4
+我的家,http://syjx2hcld.hn-bkt.clouddn.com/%E6%88%91%E7%9A%84%E5%AE%B6.mp4#https://d.kstore.dev/download/10141/%E6%88%91%E7%9A%84%E5%AE%B6.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E6%88%91%E7%9A%84%E5%AE%B6.mp4#https://gh-proxy.com/https://github.com/73330/ch/raw/main/%E6%88%91%E7%9A%84%E5%AE%B6.mp4
+我的家,hybrid-webview://https://v.hinews.cn/xinwen/show-1502933.html
+我的家,webview://https://tv.cctv.com/2025/01/29/VIDEAxEojZaPhUjYKkfl1ozS250129.shtml?spm=C88599.PDce0uxb481B.EhD4Dewe7qdu.1
 十大钢琴名曲,http://sy02iytt5.hn-bkt.clouddn.com/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E9%92%A2%E7%90%B4%E6%9B%B2.mp4#https://d.kstore.dev/download/10141/贝多芬钢琴曲.mp4
 
 DJ舞曲,#genre#
