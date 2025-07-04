@@ -10,7 +10,7 @@
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 中国天气,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=tianqiSD
 
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
@@ -136,6 +136,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆频道,#genre#
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
 重庆卫视,http://123.160.231.147:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://113.206.113.70:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://www.mfykeke.top:35455/nptv/chongqing.m3u8
 重庆卫视,http://nas.xianbao.info:35455/nptv/chongqing.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
@@ -144,7 +145,10 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 
-重庆影视,http://211.158.152.119:8007/udp/225.0.4.62:7980
+重庆影视,http://211.158.152.119:8008/udp/225.0.4.62:7980
+重庆影视,http://211.158.152.119:8009/udp/225.0.4.62:7980
+重庆影视,http://119.84.194.185:7777/rtp/235.254.196.209:1108
+重庆影视,http://125.80.114.116:8899/rtp/235.254.196.209:1108
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://27.8.238.203:8009/udp/225.0.4.59:7980
