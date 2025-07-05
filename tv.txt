@@ -64,7 +64,6 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,hybrid-webview://http://www.hkstv.tv/index/live.html
 
-凤凰中文,
 凤凰中文,https://fenghuang.tv12.xyz/165.m3u8
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰中文,http://115.190.105.236:8123/phoenix/fhzw.flv?token=OK 
@@ -117,7 +116,6 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 港澳台web,#genre#
-凤凰卫视中文,webview://http://www.dianshiba.cc/gangaotai/fenghuangzhongwen.html
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=9ee1d6cf332fbafd76a1dc3acc39a950&tid=gt&id=1 
@@ -150,9 +148,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
-重庆卫视,webview://http://www.dianshizhibo.org/live/chongqing/chongqingtv.html
-重庆卫视,webview://http://www.fengyuntv.cc/live/chongqing/chongqingtv.html
-重庆影视,webview://http://www.dianshizhibo.org/live/chongqing/chongqingyingshi.html
+
 重庆影视,http://211.158.152.119:8008/udp/225.0.4.62:7980
 重庆影视,http://211.158.152.119:8009/udp/225.0.4.62:7980
 重庆影视,http://124.162.19.248:4022/udp/225.0.4.62:7980
@@ -241,28 +237,19 @@ CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/str
 CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
 CCTV2,webview://https://tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13
 CCTV3,webview://https://tv.cctv.com/live/cctv3/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.14
+CCTV3,webview://https://tv.cctv.com/live/cctv3/?spm=C28340.P8YyNiekrjS1.ExidtyEJcS5K.3
+CCTV4,webview://https://tv.cctv.com/live/cctv4/?spm=C28340.P8YyNiekrjS1.ExidtyEJcS5K.4
+CCTV5,webview://https://tv.cctv.com/live/cctv5/?spm=C28340.PKIUk5AmVMT8.ExidtyEJcS5K.16
+CCTV6,webview://https://tv.cctv.com/live/cctv6/?spm=C28340.PUdOXeMUrKth.ExidtyEJcS5K.18
 CCTV8,webview://https://tv.cctv.com/live/cctv8/?spm=C28340.PKIUk5AmVMT8.ExidtyEJcS5K.20
+CCTV13,webview://https://tv.cctv.com/live/cctv13/?spm=C28340.PTEkg7XmjUgN.ExidtyEJcS5K.25
+CCTV14,webview://https://tv.cctv.com/live/cctvchild/?spm=C28340.POZbQEOQYmoL.ExidtyEJcS5K.26
+CCTV15,webview://https://tv.cctv.com/live/cctv15/?spm=C28340.PlzJnpThRAqb.ExidtyEJcS5K.27
 CCTV2,http://8.138.7.223/tv/cctv2.php
 CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
 CCTV13,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
 CCTV13,http://hls.hsrtv.cn/live/hsyouxian.m3u8
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
-CCTV3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-CCTV5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-CCTV6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-CCTV7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-CCTV8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
-CCTV9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
-CCTV10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-CCTV11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
-CCTV12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-CCTV13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-CCTV14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-CCTV15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
 CCTV1,http://120.76.248.139/live/bfgd/4200000489.m3u8
