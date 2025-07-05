@@ -65,6 +65,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,hybrid-webview://http://www.hkstv.tv/index/live.html
 
 凤凰中文,http://171.213.140.149:6666/udp/239.93.0.162:2192
+凤凰中文,https://fenghuang.tv12.xyz/165.m3u8
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰中文,http://115.190.105.236:8123/phoenix/fhzw.flv?token=OK 
 凤凰中文,http://8.138.7.223/tv/fh.php?id=1
@@ -75,6 +76,8 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 
+凤凰资讯,https://fenghuang.tv12.xyz/168.m3u8
+凤凰资讯,https://fenghuang.tv12.xyz/169.m3u8
 凤凰资讯,http://171.213.140.149:6666/udp/239.93.0.118:2191
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
@@ -93,6 +96,8 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
 无线新闻,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 无线新闻,http://8.138.7.223/tv/aktv.php?id=17
+
+凤凰香港,https://fenghuang.tv12.xyz/171.m3u8
 凤凰香港,http://www.python888.top:2025/python.php?id=fhhk
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 凤凰香港,http://8.138.7.223/tv/fh.php?id=3
@@ -135,12 +140,13 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+重庆卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=重庆卫视
+重庆卫视,http://home.kuaidi521.com:35455/nptv/chongqing.m3u8
 重庆卫视,http://113.206.113.70:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://www.mfykeke.top:35455/nptv/chongqing.m3u8
 重庆卫视,http://nas.xianbao.info:35455/nptv/chongqing.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆卫视,http://live.2410.prod.xinhuazhiyun.com/live/df84dde191350c8fee56c0d08a30a813.flv
-重庆卫视,http://hlsliveali-cdn.ysp.cctv.cn/A7837CBEAAA9765EAE47B7DA73451A6120564BC64157DCFBFF87199254A896616E3C7431369A64D6F1F1014FCB996F2833E732561187DF1B6A8EE8E21E63FE22E6174541A7D8ED07EA8FDA1051FD89D6B8CE70E3DEDE3F8E4E00CED7EE571AF1E7143666B6B2F6699851E25E6565AA6D117DAE8F4873E3691DE3E182A0E429015E37708B42163D1C148338E7B0B67205E64A66F7E3ABB52BACA4C4D90EE80A691BCC407683E277FC66BA85A5FB87BFB9/2024061102.m3u8?from=player&svrtime=1751681450&pid=600002531&cdn=5506&revoi=B0AA84F4ED642563BFE7B13F42ADAE1B0FB17F716E0A4A5529D7BC88AFBA26E5
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
