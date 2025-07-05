@@ -64,13 +64,12 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,hybrid-webview://http://www.hkstv.tv/index/live.html
 
-凤凰中文,http://171.213.140.149:6666/udp/239.93.0.162:2192
+凤凰中文,
 凤凰中文,https://fenghuang.tv12.xyz/165.m3u8
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰中文,http://115.190.105.236:8123/phoenix/fhzw.flv?token=OK 
 凤凰中文,http://8.138.7.223/tv/fh.php?id=1
 凤凰中文,http://8.138.7.223/tv/aktv.php?id=18     
-凤凰中文,http://122.241.212.40:4022/udp/233.50.200.42:5140
 凤凰中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -78,8 +77,8 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
 凤凰资讯,https://fenghuang.tv12.xyz/168.m3u8
 凤凰资讯,https://fenghuang.tv12.xyz/169.m3u8
-凤凰资讯,http://171.213.140.149:6666/udp/239.93.0.118:2191
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
+凤凰资讯,http://115.190.105.236:8123/phoenix/fhzx.flv?token=OK 
 凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
 凤凰资讯,http://8.138.7.223/tv/aktv.php?id=19
 凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
@@ -118,6 +117,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 港澳台web,#genre#
+凤凰卫视中文,webview://http://www.dianshiba.cc/gangaotai/fenghuangzhongwen.html
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=9ee1d6cf332fbafd76a1dc3acc39a950&tid=gt&id=1 
@@ -147,21 +147,23 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆卫视,http://live.2410.prod.xinhuazhiyun.com/live/df84dde191350c8fee56c0d08a30a813.flv
+重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
-重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-
+重庆卫视,webview://http://www.dianshizhibo.org/live/chongqing/chongqingtv.html
+重庆卫视,webview://http://www.fengyuntv.cc/live/chongqing/chongqingtv.html
+重庆影视,webview://http://www.dianshizhibo.org/live/chongqing/chongqingyingshi.html
 重庆影视,http://211.158.152.119:8008/udp/225.0.4.62:7980
 重庆影视,http://211.158.152.119:8009/udp/225.0.4.62:7980
-重庆影视,http://119.84.194.185:7777/rtp/235.254.196.209:1108
-重庆影视,http://125.80.114.116:8899/rtp/235.254.196.209:1108
+重庆影视,http://124.162.19.248:4022/udp/225.0.4.62:7980
+重庆影视,http://123.145.10.94:8003/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://27.8.238.203:8009/udp/225.0.4.59:7980
 重庆新闻,hybrid-webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
-重庆汽摩,http://27.9.125.193:4022/udp/225.0.4.61:7980
-重庆汽摩,http://123.145.14.34:8005/udp/225.0.4.61:7980
+
+重庆汽摩,http://124.162.19.248:4022/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆新闻,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CQTVNewsHD
@@ -236,6 +238,10 @@ CCTV16,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CCTV16_4K
 央视综合,#genre#
 CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
+CCTV2,webview://https://tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13
+CCTV3,webview://https://tv.cctv.com/live/cctv3/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.14
+CCTV8,webview://https://tv.cctv.com/live/cctv8/?spm=C28340.PKIUk5AmVMT8.ExidtyEJcS5K.20
 CCTV2,http://8.138.7.223/tv/cctv2.php
 CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
 CCTV13,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
