@@ -147,6 +147,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://171.38.65.37:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://113.206.113.70:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+重庆卫视,http://113.205.95.95:8883/nptv/chongqing.m3u8
 重庆卫视,http://zqh2333.top:2222/rtp/239.93.25.107:5140
 重庆卫视,http://home.kuaidi521.com:35455/nptv/chongqing.m3u8
 重庆卫视,http://113.206.113.70:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -158,17 +159,17 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
-重庆影视,http://211.158.152.119:8008/udp/225.0.4.62:7980
+重庆影视,http://211.158.152.119:8010/udp/225.0.4.62:7980
 重庆影视,http://211.158.152.119:8009/udp/225.0.4.62:7980
-重庆影视,http://124.162.19.248:4022/udp/225.0.4.62:7980
-重庆影视,http://123.145.10.94:8003/udp/225.0.4.62:7980
+重庆影视,http://211.158.153.214:8009/udp/225.0.4.62:7980
+重庆影视,
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://27.8.238.203:8009/udp/225.0.4.59:7980
 重庆新闻,hybrid-webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆汽摩,http://124.162.19.248:4022/udp/225.0.4.61:7980
+重庆汽摩,http://211.158.153.214:8008/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆新闻,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CQTVNewsHD
