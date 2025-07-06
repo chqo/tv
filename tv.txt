@@ -57,6 +57,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 快乐垂钓,http://tvbox6.icu/tv/mgtv.php?id=218
+快乐垂钓,http://yuzhe.ltd:5555/udp/239.93.1.151:5140
 快乐垂钓,webview://https://live.mgtv.com/?channelld=21870%
 四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8#http://tvbox6.icu/tv/migu.php?id=shdy
                                                                                  
@@ -65,6 +66,9 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,hybrid-webview://http://www.hkstv.tv/index/live.html
 
 凤凰中文,https://fenghuang.tv12.xyz/165.m3u8
+凤凰中文,http://yuzhe.ltd:5555/udp/239.93.0.162:2192
+凤凰中文,http://171.38.65.37:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://122.245.125.29:50000/udp/233.50.200.191:5140
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰中文,http://115.190.105.236:8123/phoenix/fhzw.flv?token=OK 
 凤凰中文,http://8.138.7.223/tv/fh.php?id=1
@@ -75,7 +79,8 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 
 凤凰资讯,https://fenghuang.tv12.xyz/168.m3u8
-凤凰资讯,https://fenghuang.tv12.xyz/169.m3u8
+凤凰资讯,http://yuzhe.ltd:5555/udp/239.93.0.118:2191
+凤凰资讯,http://171.38.65.37:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰资讯,http://115.190.105.236:8123/phoenix/fhzx.flv?token=OK 
 凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
@@ -119,15 +124,14 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=9ee1d6cf332fbafd76a1dc3acc39a950&tid=gt&id=1 
-凤凰卫视中文台,webview://https://www.iptv345.com/?act=play&token=763d9e99abf9f540158cc28bd13c7545&tid=gt&id=1
 凤凰卫视中文台 webview://https://iptv345.com/?act=play&token=7577fbd14f49b8bf8d57efcfbe41e2ac&tid=gt&id=1
+凤凰卫视中文台 webview://https://iptv345.com/?act=play&token=4c128bd1b423afaea2d2fdb2d47f4410&tid=gt&id=1
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=2ccd7376a936cdb305378a5a5e6b68f9&tid=gt&id=2 
-凤凰卫视资讯台,webview://https://www.iptv345.com/?act=play&token=bc35cb798fabff3cf2973ea957d6bd95&tid=gt&id=2
-凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=13f3af738dba216ebe0e318358d66779&tid=gt&id=2 
+凤凰卫视资讯台 webview://https://iptv345.com/?act=play&token=7497e7f90a5bf27ad601882b478a4433&tid=gt&id=2
 凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=1f8f63a7fa1694633c1c6730ae3d4c2e&tid=gt&id=2 
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=ba0dedd1fe6b6e4c75d710bb66647a81&tid=gt&id=3
-凤凰卫视香港台,video://https://www.iptv345.com/?act=play&token=ebc058734920a2440f51c425c646f578&tid=gt&id=3
+凤凰卫视香港台 webview://https://iptv345.com/?act=play&token=d173c0502ab8eb59ab5519912c027b28&tid=gt&id=3 
 香港有线新闻台,video://https://www.iptv345.com/?act=play&token=f5aedff9d0cb3f6e0035b0d583687a70&tid=gt&id=11
 无线新闻,webview://https://iptv345.com/?act=play&token=39d46a0857602af33ad5c324a9c06beb&tid=gt&id=6
 无线新闻,webview://https://iptv345.com/?act=play&token=a74ff1780e36b93dd2769f9baf3989bf&tid=gt&id=6 
@@ -137,8 +141,10 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
+重庆卫视,http://171.38.65.37:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://113.206.113.70:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
-重庆卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=重庆卫视
+重庆卫视,http://zqh2333.top:2222/rtp/239.93.25.107:5140
 重庆卫视,http://home.kuaidi521.com:35455/nptv/chongqing.m3u8
 重庆卫视,http://113.206.113.70:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://nas.xianbao.info:35455/nptv/chongqing.m3u8
@@ -810,7 +816,7 @@ CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
 海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
 重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
-重庆卫视,webview://https://iptv345.com/?act=play&token=558b80ffb45204231672febd8f46ab86&tid=ws&id=19
+重庆卫视 webview://https://iptv345.com/?act=play&token=79655e73dd92221b487359fad5115c66&tid=ws&id=19
 重庆卫视 webview://https://iptv345.com/?act=play&token=026cb01394114f4a725223e2c3c1899d&tid=ws&id=19
 深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
 四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
