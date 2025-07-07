@@ -19,7 +19,7 @@
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
 金色学堂,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=jinse
 
-东方财经,http://171.213.157.52:9999/udp/239.93.1.165:5140
+东方财经,http://171.213.144.82:8886/udp/239.93.1.165:5140
 东方财经,http://home.kaijuns.cn:4000/rtp/239.121.4.71:8400
 东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111
 东方财经,http://8.138.7.223/tv/cqyx2.php?id=dfcj
@@ -66,6 +66,8 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
 凤凰中文,https://fenghuang.tv12.xyz/165.m3u8
 凤凰中文,http://yuzhe.ltd:5555/udp/239.93.0.162:2192
+凤凰中文,http://171.213.144.82:8886/udp/239.93.0.162:2192
+凤凰中文,http://171.213.149.203:2345/udp/239.93.0.162:2192
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 凤凰中文,http://171.38.65.37:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -81,6 +83,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
 凤凰资讯,https://fenghuang.tv12.xyz/168.m3u8
 凤凰资讯,http://yuzhe.ltd:5555/udp/239.93.0.118:2191
+凤凰资讯,http://171.213.144.82:8886/udp/239.93.0.118:2191
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://171.38.65.37:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -159,10 +162,9 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
-重庆影视,http://211.158.152.119:8010/udp/225.0.4.62:7980
+重庆影视,http://211.158.152.119:8007/udp/225.0.4.62:7980
 重庆影视,http://211.158.152.119:8009/udp/225.0.4.62:7980
 重庆影视,http://211.158.153.214:8009/udp/225.0.4.62:7980
-重庆影视,
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://27.8.238.203:8009/udp/225.0.4.59:7980
