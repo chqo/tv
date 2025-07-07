@@ -129,15 +129,15 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 港澳台web,#genre#
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
-凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=9ee1d6cf332fbafd76a1dc3acc39a950&tid=gt&id=1 
-凤凰卫视中文台 webview://https://iptv345.com/?act=play&token=7577fbd14f49b8bf8d57efcfbe41e2ac&tid=gt&id=1
-凤凰卫视中文台 webview://https://iptv345.com/?act=play&token=4c128bd1b423afaea2d2fdb2d47f4410&tid=gt&id=1
+凤凰卫视中文台,webview://http://www.guangbomi.com/tv/hk/ifeng1.html
+凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=7577fbd14f49b8bf8d57efcfbe41e2ac&tid=gt&id=1
+凤凰卫视中文台 ,webview://https://iptv345.com/?act=play&token=4c128bd1b423afaea2d2fdb2d47f4410&tid=gt&id=1
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=2ccd7376a936cdb305378a5a5e6b68f9&tid=gt&id=2 
-凤凰卫视资讯台 webview://https://iptv345.com/?act=play&token=7497e7f90a5bf27ad601882b478a4433&tid=gt&id=2
+凤凰卫视资讯台,webview://webview://http://www.guangbomi.com/tv/hk/fhzx.html
 凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=1f8f63a7fa1694633c1c6730ae3d4c2e&tid=gt&id=2 
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=ba0dedd1fe6b6e4c75d710bb66647a81&tid=gt&id=3
-凤凰卫视香港台 webview://https://iptv345.com/?act=play&token=d173c0502ab8eb59ab5519912c027b28&tid=gt&id=3 
+凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=d173c0502ab8eb59ab5519912c027b28&tid=gt&id=3 
 香港有线新闻台,video://https://www.iptv345.com/?act=play&token=f5aedff9d0cb3f6e0035b0d583687a70&tid=gt&id=11
 无线新闻,webview://https://iptv345.com/?act=play&token=39d46a0857602af33ad5c324a9c06beb&tid=gt&id=6
 无线新闻,webview://https://iptv345.com/?act=play&token=a74ff1780e36b93dd2769f9baf3989bf&tid=gt&id=6 
@@ -160,6 +160,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://live.2410.prod.xinhuazhiyun.com/live/df84dde191350c8fee56c0d08a30a813.flv
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
+重庆卫视,webview://http://www.guangbomi.com/tv/cq/weishi.html
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
 重庆影视,http://211.158.152.119:8007/udp/225.0.4.62:7980
@@ -246,6 +247,7 @@ CCTV16,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CCTV16_4K
 央视综合,#genre#
 CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+CCTV1,webview://http://www.guangbomi.com/tv/zy/cctv1.html
 CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
 CCTV2,webview://https://tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13
 CCTV3,webview://https://tv.cctv.com/live/cctv3/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.14
