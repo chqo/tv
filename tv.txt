@@ -127,14 +127,15 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 港澳台web,#genre#
+凤凰卫视中文台,webview://http://www.damuwu.com/
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
-凤凰卫视中文台,webview://http://www.guangbomi.com/tv/hk/ifeng1.html
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=7577fbd14f49b8bf8d57efcfbe41e2ac&tid=gt&id=1
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=4c128bd1b423afaea2d2fdb2d47f4410&tid=gt&id=1
+凤凰卫视中文台 webview://https://iptv345.com/?act=play&token=74676b9968a632560087e3215c516d90&tid=gt&id=1
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=2ccd7376a936cdb305378a5a5e6b68f9&tid=gt&id=2 
-凤凰卫视资讯台,webview://webview://http://www.guangbomi.com/tv/hk/fhzx.html
+凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=0249a1a181ae2753c1fff01449894d6f&tid=gt&id=2 
 凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=1f8f63a7fa1694633c1c6730ae3d4c2e&tid=gt&id=2 
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=ba0dedd1fe6b6e4c75d710bb66647a81&tid=gt&id=3
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=d173c0502ab8eb59ab5519912c027b28&tid=gt&id=3 
@@ -160,7 +161,6 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://live.2410.prod.xinhuazhiyun.com/live/df84dde191350c8fee56c0d08a30a813.flv
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
-重庆卫视,webview://http://www.guangbomi.com/tv/cq/weishi.html
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
 重庆影视,http://211.158.152.119:8007/udp/225.0.4.62:7980
@@ -627,6 +627,7 @@ CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV 第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
+CCTV女性时尚,webview://https://iptv345.com/?act=play&token=fa96bb10b2b3e1911b4754336d2f9000&tid=ys&id=43
 CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV3,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV5,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
@@ -736,8 +737,8 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
-海南卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&
-三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&
+海南卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=13
+三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 陕西卫视,webview://http://live.snrtv.com/star
 海峡卫视,webview://https://www.fjtv.net/folder526/folder536/
