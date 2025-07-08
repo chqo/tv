@@ -126,7 +126,6 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 港澳台web,#genre#
-凤凰卫视中文台,webview://https://www.kds.tw/tv-show-20063-1.html
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=7577fbd14f49b8bf8d57efcfbe41e2ac&tid=gt&id=1
@@ -147,27 +146,25 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
+重庆卫视,http://123.52.15.154:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://171.38.65.37:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://113.206.113.70:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
-重庆卫视,http://113.205.95.95:8883/nptv/chongqing.m3u8
 重庆卫视,http://zqh2333.top:2222/rtp/239.93.25.107:5140
-重庆卫视,http://home.kuaidi521.com:35455/nptv/chongqing.m3u8
 重庆卫视,http://113.206.113.70:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://nas.xianbao.info:35455/nptv/chongqing.m3u8
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
-重庆卫视,http://live.2410.prod.xinhuazhiyun.com/live/df84dde191350c8fee56c0d08a30a813.flv
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
-重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
+重庆卫视,webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
 重庆影视,http://125.80.213.167:9999/rtp/235.254.196.209:1108
 重庆影视,http://211.158.153.221:8007/udp/225.0.4.62:7980
-
+重庆影视,http://cqcu1.live.cbncdn.cn/session/9bab2172-5bf5-11f0-86d6-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?token=4f848736a2b58955bb4d411c7e655843_1752063488_1752063488&p=3073
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://27.8.238.203:8009/udp/225.0.4.59:7980
-重庆新闻,hybrid-webview://https://sj.cbg.cn/wap/list/4918/1.html
+重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
 重庆汽摩,http://211.158.153.221:8007/udp/225.0.4.61:7980
