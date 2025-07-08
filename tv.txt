@@ -62,20 +62,19 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
                                                                                  
 香港频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,hybrid-webview://http://www.hkstv.tv/index/live.html
+香港卫视,webview://http://www.hkstv.tv/index/live.html
 
 凤凰中文,https://fenghuang.tv12.xyz/165.m3u8
 凤凰中文,http://yuzhe.ltd:5555/udp/239.93.0.162:2192
 凤凰中文,http://171.213.144.82:8886/udp/239.93.0.162:2192
-凤凰中文,http://171.213.149.203:2345/udp/239.93.0.162:2192
+凤凰中文,http://171.213.200.25:8088/udp/239.93.0.162:2192
+凤凰中文,http://125.105.234.86:9999/udp/233.50.200.42:5140
+凤凰中文,http://183.128.95.154:8000/udp/233.50.200.42:5140
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 凤凰中文,http://171.38.65.37:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://122.245.125.29:50000/udp/233.50.200.191:5140
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
-凤凰中文,http://115.190.105.236:8123/phoenix/fhzw.flv?token=OK 
 凤凰中文,http://8.138.7.223/tv/fh.php?id=1
-凤凰中文,http://8.138.7.223/tv/aktv.php?id=18     
 凤凰中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -84,13 +83,13 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,https://fenghuang.tv12.xyz/168.m3u8
 凤凰资讯,http://yuzhe.ltd:5555/udp/239.93.0.118:2191
 凤凰资讯,http://171.213.144.82:8886/udp/239.93.0.118:2191
+凤凰资讯,http://125.105.234.86:9999/udp/233.50.200.192:5140
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://171.38.65.37:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰资讯,http://115.190.105.236:8123/phoenix/fhzx.flv?token=OK 
 凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
-凤凰资讯,http://8.138.7.223/tv/aktv.php?id=19
 凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 凤凰资讯,https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
@@ -127,7 +126,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 港澳台web,#genre#
-凤凰卫视中文台,webview://http://www.damuwu.com/
+凤凰卫视中文台,webview://https://www.kds.tw/tv-show-20063-1.html
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=7577fbd14f49b8bf8d57efcfbe41e2ac&tid=gt&id=1
@@ -163,16 +162,15 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
-重庆影视,http://211.158.152.119:8007/udp/225.0.4.62:7980
-重庆影视,http://211.158.152.119:8009/udp/225.0.4.62:7980
-重庆影视,http://211.158.153.214:8009/udp/225.0.4.62:7980
+重庆影视,http://125.80.213.167:9999/rtp/235.254.196.209:1108
+重庆影视,http://211.158.153.221:8007/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://27.8.238.203:8009/udp/225.0.4.59:7980
 重庆新闻,hybrid-webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆汽摩,http://211.158.153.214:8008/udp/225.0.4.61:7980
+重庆汽摩,http://211.158.153.221:8007/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆新闻,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CQTVNewsHD
