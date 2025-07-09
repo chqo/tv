@@ -67,8 +67,8 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,https://fenghuang.tv12.xyz/165.m3u8
 凤凰中文,http://yuzhe.ltd:5555/udp/239.93.0.162:2192
 凤凰中文,http://171.213.144.82:8886/udp/239.93.0.162:2192
-凤凰中文,http://171.213.200.25:8088/udp/239.93.0.162:2192
-凤凰中文,http://125.105.234.86:9999/udp/233.50.200.42:5140
+凤凰中文,http://171.213.231.77:8089/udp/239.93.0.162:2192
+凤凰中文,http://115.207.212.121:8889/udp/233.50.200.42:5140
 凤凰中文,http://183.128.95.154:8000/udp/233.50.200.42:5140
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
@@ -83,7 +83,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,https://fenghuang.tv12.xyz/168.m3u8
 凤凰资讯,http://yuzhe.ltd:5555/udp/239.93.0.118:2191
 凤凰资讯,http://171.213.144.82:8886/udp/239.93.0.118:2191
-凤凰资讯,http://125.105.234.86:9999/udp/233.50.200.192:5140
+凤凰资讯,http://171.213.231.77:8089/udp/239.93.0.118:2191
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://171.38.65.37:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -159,9 +159,10 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
-重庆影视,http://125.80.213.167:9999/rtp/235.254.196.209:1108
+重庆影视,http://125.80.158.131:7788/rtp/235.254.196.209:1108
+重庆影视,http://125.80.152.126:7788/rtp/235.254.196.209:1108
 重庆影视,http://211.158.153.221:8007/udp/225.0.4.62:7980
-重庆影视,http://cqcu1.live.cbncdn.cn/session/9bab2172-5bf5-11f0-86d6-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?token=4f848736a2b58955bb4d411c7e655843_1752063488_1752063488&p=3073
+
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://27.8.238.203:8009/udp/225.0.4.59:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
