@@ -159,9 +159,8 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
-重庆影视,http://125.80.158.131:7788/rtp/235.254.196.209:1108
-重庆影视,http://125.80.152.126:7788/rtp/235.254.196.209:1108
 重庆影视,http://211.158.153.221:8007/udp/225.0.4.62:7980
+重庆影视,http://123.145.15.188:8005/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://27.8.238.203:8009/udp/225.0.4.59:7980
