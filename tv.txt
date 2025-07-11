@@ -2,6 +2,7 @@
 饭店简介,http://sy02iytt5.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#http://syjx2hcld.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
+生态环境,http://ygbh.site/php/bfgd.php?id=149
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 生态环境,http://8.138.7.223/tv/cqyx2.php?id=shengtai
 
@@ -66,10 +67,10 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
 凤凰中文,https://fenghuang.tv12.xyz/165.m3u8
 凤凰中文,http://yuzhe.ltd:5555/udp/239.93.0.162:2192
-凤凰中文,http://171.213.144.82:8886/udp/239.93.0.162:2192
+凤凰中文,http://183.148.56.171:4022/udp/233.50.200.191:5140
 凤凰中文,http://171.213.231.77:8089/udp/239.93.0.162:2192
-凤凰中文,http://115.207.212.121:8889/udp/233.50.200.42:5140
-凤凰中文,http://183.128.95.154:8000/udp/233.50.200.42:5140
+凤凰中文,http://171.213.171.93:4022/udp/239.93.0.162:2192
+凤凰中文,http://171.213.192.54:82/udp/239.93.0.162:2192
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 凤凰中文,http://171.38.65.37:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -82,7 +83,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
 凤凰资讯,https://fenghuang.tv12.xyz/168.m3u8
 凤凰资讯,http://yuzhe.ltd:5555/udp/239.93.0.118:2191
-凤凰资讯,http://171.213.144.82:8886/udp/239.93.0.118:2191
+凤凰资讯,http://171.213.171.93:4022/udp/239.93.0.118:2191
 凤凰资讯,http://171.213.231.77:8089/udp/239.93.0.118:2191
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
@@ -159,15 +160,16 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
-重庆影视,http://211.158.153.221:8007/udp/225.0.4.62:7980
-重庆影视,http://123.145.15.188:8005/udp/225.0.4.62:7980
+重庆影视,http://211.158.153.221:8008/udp/225.0.4.62:7980
+重庆影视,http://125.80.152.126:7788/rtp/235.254.196.209:1108
+重庆影视,http://125.80.158.131:7788/rtp/235.254.196.209:1108
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://27.8.238.203:8009/udp/225.0.4.59:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆汽摩,http://211.158.153.221:8007/udp/225.0.4.61:7980
+重庆汽摩,http://124.162.19.248:4022/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆新闻,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CQTVNewsHD
