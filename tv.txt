@@ -606,7 +606,12 @@ NEWTV精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3
 
 央卫视web,#genre#
 CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
+CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+CCTV1,webview://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtmlshare=true&type=15&articleid=5234612
+CCTV1,webview://https://tv.cctv.com/live/cctv1/index.shtmlhttps://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
+CCTV1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
 CCTV1,webview://http://www.guangbomi.com/tv/zy/cctv1.html
+CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV3,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
@@ -1930,3 +1935,4 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 小品一起来笑吧,webview://https://www.yy.com/1454859415
 央视春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 川渝春晚,https://svipsvip.ffzyread1.com/20250129/35455_18491156/index.m3u8
+                                                                                                                                                                                                                                         
