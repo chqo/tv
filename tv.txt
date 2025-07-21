@@ -69,8 +69,8 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,https://fenghuang.tv12.xyz/165.m3u8
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
-凤凰中文,http://220.184.228.132:4022/udp/233.50.200.191:5140
-凤凰中文,http://171.213.215.106:9999/udp/239.93.0.162:2192
+凤凰中文,https://live.sxrtv.com/iptv/fhzw.flv
+凤凰中文,http://115.207.212.121:8889/udp/233.50.200.42:5140
 凤凰中文,http://183.156.34.243:8686/udp/233.50.200.42:5140
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
@@ -83,8 +83,8 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
 凤凰资讯,https://fenghuang.tv12.xyz/168.m3u8
 凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-凤凰资讯,http://171.213.215.106:9999/udp/239.93.0.118:2191
-凤凰资讯,http://183.156.34.243:8686/udp/233.50.200.192:5140
+凤凰资讯,https://live.sxrtv.com/iptv/fhzx.flv 
+凤凰资讯,http://115.207.212.121:8889/udp/233.50.200.192:5140
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
@@ -113,7 +113,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰香港,http://j.s.bkpcp.top/js/fhxg
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+凤凰香港,https://live.sxrtv.com/iptv/fhhk.flv
 
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
@@ -163,12 +163,12 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
-重庆影视,http://211.158.155.161:8007/udp/225.0.4.62:7980
-重庆影视,http://113.249.11.225:4022/rtp/235.254.196.209:1108
+重庆影视,http://27.8.194.144:4022/udp/225.0.4.62:7980
+重庆影视,http://27.10.212.253:8007/udp/225.0.4.62:7980
 重庆影视,http://124.162.19.248:4022/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,http://211.158.155.161:8007/udp/225.0.4.59:7980
+重庆新闻,http://27.8.194.144:4022/udp/225.0.4.59:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
@@ -278,6 +278,47 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 陕西卫视,http://go.bkpcp.top/mg/sxws
 兵团卫视,http://go.bkpcp.top/mg/btws
 黑龙江视,http://go.bkpcp.top/mg/hljws
+CCTV2,https://live.sxrtv.com/iptv/cctv2.flv 
+CCTV3,https://live.sxrtv.com/iptv/cctv3.flv 
+CCTV4,https://live.sxrtv.com/iptv/cctv4.flv
+ CCTV5,https://live.sxrtv.com/iptv/cctv5.flv 
+CCTV5+,https://live.sxrtv.com/iptv/cctv5p.flv 
+CCTV6,https://live.sxrtv.com/iptv/cctv6.flv 
+CCTV7,https://live.sxrtv.com/iptv/cctv7.flv 
+CCTV8,https://live.sxrtv.com/iptv/cctv8.flv 
+CCTV9,https://live.sxrtv.com/iptv/cctv9.flv 
+CCTV10,https://live.sxrtv.com/iptv/cctv10.flv 
+CCTV11,https://live.sxrtv.com/iptv/cctv11.flv 
+CCTV12,https://live.sxrtv.com/iptv/cctv12.flv 
+CCTV13,https://live.sxrtv.com/iptv/cctv13.flv 
+CCTV14,https://live.sxrtv.com/iptv/cctv14.flv 
+CCTV15,https://live.sxrtv.com/iptv/cctv15.flv 
+CCTV16,https://live.sxrtv.com/iptv/cctv16.flv 
+CCTV17,https://live.sxrtv.com/iptv/cctv17.flv 
+CHC影迷电影,https://live.sxrtv.com/iptv/chcymdy.flv 
+CHC动作电影,https://live.sxrtv.com/iptv/chcdzdy.flv 
+重庆卫视,https://live.sxrtv.com/iptv/cqws.flv 
+江苏卫视,https://live.sxrtv.com/iptv/jsws.flv 
+浙江卫视,https://live.sxrtv.com/iptv/zjws.flv 
+东方卫视,https://live.sxrtv.com/iptv/dfws.flv 
+深圳卫视,https://live.sxrtv.com/iptv/szws.flv 
+北京卫视,https://live.sxrtv.com/iptv/bjws.flv 
+山东卫视,https://live.sxrtv.com/iptv/sdws.flv 
+天津卫视,https://live.sxrtv.com/iptv/tjws.flv 
+四川卫视,https://live.sxrtv.com/iptv/scws.flv 
+黑龙江卫视,https://live.sxrtv.com/iptv/hljws.flv 
+安徽卫视,https://live.sxrtv.com/iptv/ahws.flv 
+山西卫视,https://live.sxrtv.com/iptv/sxws.flv 
+湖北卫视,https://live.sxrtv.com/iptv/hubws.flv 
+旅游卫视,https://live.sxrtv.com/iptv/hinws.flv 
+陕西卫视,https://live.sxrtv.com/iptv/shxws.flv 
+东南卫视,https://live.sxrtv.com/iptv/dnws.flv 
+吉林卫视,https://live.sxrtv.com/iptv/jlws.flv 
+辽宁卫视,https://live.sxrtv.com/iptv/lnws.flv 
+湖南卫视,https://live.sxrtv.com/iptv/hunws.flv 
+广东卫视,https://live.sxrtv.com/iptv/gdws.flv 
+河南卫视,https://live.sxrtv.com/iptv/hnws.flv 
+河北卫视,https://live.sxrtv.com/iptv/hbws.flv 
 CCTV1,http://ss.baihuan.online:35455/mgtv/608807420.m3u8
 CCTV2,http://ss.baihuan.online:35455/mgtv/631780532.m3u8
 CCTV3,http://ss.baihuan.online:35455/mgtv/624878271.m3u8
