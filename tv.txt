@@ -16,15 +16,12 @@
 
 金色学堂,http://b.402089.xyz:4022/udp/233.50.200.122:5140
 金色学堂,http://b.402089.xyz:4022/udp/233.50.201.186:5140
-金色学堂,http://123.157.31.182:7912/rtp/233.50.201.186:5140
+金色学堂,http://122.231.248.162:8000/udp/233.50.200.122:5140
 金色学堂,http://home.kaijuns.cn:4000/rtp/239.121.4.78:8442
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
 金色学堂,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=jinse
 
-东方财经,http://171.213.144.82:8886/udp/239.93.1.165:5140
 东方财经,http://home.kaijuns.cn:4000/rtp/239.121.4.71:8400
-东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111
-东方财经,http://8.138.7.223/tv/cqyx2.php?id=dfcj
 东方财经,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=dfcj
 
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
@@ -34,9 +31,11 @@
 法国时尚,https://stream1.freetv.fun/bd28dee32d184c56184c3de286f5920575e384cf4264034409a2e8fa74b02d05.m3u8
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-动作电影,http://ss.baihuan.online:35455/mgtv/644368714.m3u8
-家庭影院,http://ss.baihuan.online:35455/mgtv/644368373.m3u8
-影迷电影,http://ss.baihuan.online:35455/mgtv/952383261.m3u8
+CHC动作电影,http://ss.baihuan.online:35455/mgtv/644368714.m3u8
+CHC家庭影院,http://ss.baihuan.online:35455/mgtv/644368373.m3u8
+CHC影迷电影,http://ss.baihuan.online:35455/mgtv/952383261.m3u8
+CHC影迷电影,https://live.sxrtv.com/iptv/chcymdy.flv 
+CHC动作电影,https://live.sxrtv.com/iptv/chcdzdy.flv 
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
@@ -52,6 +51,7 @@ CCTV风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
 CCTV第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
 CCTV怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 CCTV女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
+CCTV女性时尚,http://www.lizhinas.top:1009/udp/239.252.219.94:5140
 CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
 CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 
@@ -70,21 +70,20 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
 凤凰中文,https://live.sxrtv.com/iptv/fhzw.flv
-凤凰中文,http://115.207.212.121:8889/udp/233.50.200.42:5140
-凤凰中文,http://183.156.34.243:8686/udp/233.50.200.42:5140
+凤凰中文,http://183.145.163.28:4022/udp/233.50.200.191:5140
+凤凰中文,http://122.231.248.162:8000/udp/233.50.200.42:5140
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 凤凰中文,http://8.138.7.223/tv/fh.php?id=1
 凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://yuzhe.ltd:5555/udp/239.93.0.162:2192
 凤凰中文,https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 
 凤凰资讯,https://fenghuang.tv12.xyz/168.m3u8
 凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 凤凰资讯,https://live.sxrtv.com/iptv/fhzx.flv 
-凤凰资讯,http://115.207.212.121:8889/udp/233.50.200.192:5140
+凤凰资讯,http://183.145.163.28:4022/udp/233.50.200.192:5140
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
@@ -93,7 +92,6 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://yuzhe.ltd:5555/udp/239.93.0.118:2191
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -153,8 +151,10 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
+重庆卫视,http://taolinhz.3322.org:4000/udp/233.50.201.143:5140
 重庆卫视,http://123.144.177.92:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://b.zgjok.com:35455/nptv/chongqing.m3u8
+重庆卫视,http://live.chinacert.cftest5.cn/nptv/chongqing.m3u8
+重庆卫视,http://taolinhz.3322.org:4000/udp/233.50.200.114:5140
 重庆卫视,http://www.lizhinas.top:1009/udp/239.252.220.94:5140
 重庆卫视,http://zqh2333.top:2222/rtp/239.93.25.107:5140
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
@@ -164,7 +164,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
 重庆影视,http://27.8.194.144:4022/udp/225.0.4.62:7980
-重庆影视,http://27.10.212.253:8007/udp/225.0.4.62:7980
+重庆影视,http://106.86.155.227:20005/rtp/235.254.196.209:1108
 重庆影视,http://124.162.19.248:4022/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
@@ -295,8 +295,6 @@ CCTV14,https://live.sxrtv.com/iptv/cctv14.flv
 CCTV15,https://live.sxrtv.com/iptv/cctv15.flv 
 CCTV16,https://live.sxrtv.com/iptv/cctv16.flv 
 CCTV17,https://live.sxrtv.com/iptv/cctv17.flv 
-CHC影迷电影,https://live.sxrtv.com/iptv/chcymdy.flv 
-CHC动作电影,https://live.sxrtv.com/iptv/chcdzdy.flv 
 重庆卫视,https://live.sxrtv.com/iptv/cqws.flv 
 江苏卫视,https://live.sxrtv.com/iptv/jsws.flv 
 浙江卫视,https://live.sxrtv.com/iptv/zjws.flv 
@@ -342,6 +340,48 @@ CCTV8,http://ss.baihuan.online:35455/nptv/cctv8k.m3u8
 CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+CCTV-01高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+CCTV-02高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+CCTV-03高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
+CCTV-04高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
+CCTV-05高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+CCTV-5+高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+CCTV-06高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+CCTV-07高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
+CCTV-08高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
+CCTV-09高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+CCTV-10高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+CCTV-11高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+CCTV-12高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+CCTV-13高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+CCTV-14高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+CCTV-15高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+CCTV-16高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+CCTV-17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
+北京卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+东方卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
+浙江卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
+江苏卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
+湖南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
+广东卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
+深圳卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
+天津卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
+安徽卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
+山东卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
+辽宁卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
+河北卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
+河南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
+江西卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
+四川卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
+重庆卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
+贵州卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+湖北卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+广西卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
+东南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
+海南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
+青海卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
+吉林卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
+黑龙江视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 CCTV1,webview://http://www.guangbomi.com/tv/zy/cctv1.html
 CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
 CCTV2,webview://https://tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13
