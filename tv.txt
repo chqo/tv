@@ -10,7 +10,7 @@
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 中国天气,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=tianqiSD
 
-重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+重温经典,http://112.27.145.212:9901/tsfile/live/1544_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
@@ -137,12 +137,12 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 港澳台web,#genre#
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
-凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=74676b9968a632560087e3215c516d90&tid=gt&id=1
+凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=7177e53452bf4febbd6a63c8c961fcf7&tid=gt&id=1
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=623da2f18ff5c92c18bd7b3166a19b1e&tid=gt&id=1
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=1f8f63a7fa1694633c1c6730ae3d4c2e&tid=gt&id=2 
-凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=3e09d2117eeaf26a525505ebff6beaa5&tid=gt&id=2
-凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=ba0dedd1fe6b6e4c75d710bb66647a81&tid=gt&id=3
+凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=31d8fdcadb2444f1c0e3e164385eedd8&tid=gt&id=2 
+凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=26d1e61edfdcbc3b0df63c1040978269&tid=gt&id=3
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=d173c0502ab8eb59ab5519912c027b28&tid=gt&id=3 
 香港有线新闻台,video://https://www.iptv345.com/?act=play&token=f5aedff9d0cb3f6e0035b0d583687a70&tid=gt&id=11
 凤凰卫视中文台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
@@ -161,10 +161,10 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 
 重庆频道,#genre#
 重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
+重庆卫视,http://live.chinacert.cftest5.cn/nptv/chongqing.m3u8
 重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
 重庆卫视,https://live.sxrtv.com/iptv/cqws.flv
 重庆卫视,http://taolinhz.3322.org:4000/udp/233.50.201.143:5140
-重庆卫视,http://123.144.177.92:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://live.chinacert.cftest5.cn/nptv/chongqing.m3u8
 重庆卫视,http://taolinhz.3322.org:4000/udp/233.50.200.114:5140
 重庆卫视,http://www.lizhinas.top:1009/udp/239.252.220.94:5140
