@@ -23,7 +23,9 @@
 
 东方财经,http://home.kaijuns.cn:4000/rtp/239.121.4.71:8400
 东方财经,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=dfcj
-
+东方财经,https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1753683469-0-0-d13dfc0722b5eaed913afbc6172f18b0&ycfrom=yicaiwww
+东方财经,https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1753684113-0-0-50a662f32682df042d1024347fa411eb&ycfrom=yicaiwww
+东方财经,video://https://www.yicai.com/tv/#dfcj
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
@@ -144,7 +146,6 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 港澳台web,#genre#
-凤凰卫视中文台,video://http://qctv.fengshows.cn/live/0701pin36.flv?txSecret=5aecd2d5b5a3ab530cf9fc8e72b6d0a6&txTime=688433a2
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=7177e53452bf4febbd6a63c8c961fcf7&tid=gt&id=1
