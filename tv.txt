@@ -161,13 +161,11 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 港澳台web,#genre#
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
-凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=7177e53452bf4febbd6a63c8c961fcf7&tid=gt&id=1
-凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=623da2f18ff5c92c18bd7b3166a19b1e&tid=gt&id=1
+凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=65984b2d4016751fe5a9b0452790e927&tid=gt&id=1
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
-凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=1f8f63a7fa1694633c1c6730ae3d4c2e&tid=gt&id=2 
-凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=31d8fdcadb2444f1c0e3e164385eedd8&tid=gt&id=2 
+凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=21e7c0426aa69e7debcf979e11db1c8c&tid=gt&id=2
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=26d1e61edfdcbc3b0df63c1040978269&tid=gt&id=3
-凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=d173c0502ab8eb59ab5519912c027b28&tid=gt&id=3 
+凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=dcbc959eb0d89c17110cf048215aafaa&tid=gt&id=3 
 香港有线新闻台,video://https://www.iptv345.com/?act=play&token=f5aedff9d0cb3f6e0035b0d583687a70&tid=gt&id=11
 凤凰卫视中文台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
 凤凰卫视资讯台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
@@ -176,11 +174,10 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
 无线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-30-0.html
 无线翡翠,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-0-0.html
-无线新闻,webview://https://iptv345.com/?act=play&token=39d46a0857602af33ad5c324a9c06beb&tid=gt&id=6
-无线新闻,webview://https://iptv345.com/?act=play&token=a74ff1780e36b93dd2769f9baf3989bf&tid=gt&id=6 
+无线新闻,webview://https://iptv345.com/?act=play&token=aee894f490fef2bc0b48a5f72c554af9&tid=gt&id=6
 翡翠台,video://https://www.iptv345.com/?act=play&token=9f0765e8942d9859e817ae5dddeab374&tid=gt&id=5
 翡翠台,webview://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
-翡翠台,webview://https://iptv345.com/?act=play&token=bb4740767c9f85ddfc6f08ed1d40726a&tid=gt&id=5 
+翡翠台,webview://https://iptv345.com/?act=play&token=0f6b05db01c68deb6592f364145609bf&tid=gt&id=5 
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 Now新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-18-0.html
 无线翡翠网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-0-0.html
@@ -199,11 +196,6 @@ Amc电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-159-0.html
 
 重庆频道,#genre#
-重庆卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227240/index.m3u8
-重庆卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225831/index.m3u8
-重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
-重庆卫视,http://live.chinacert.cftest5.cn/nptv/chongqing.m3u8
-重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
 重庆卫视,https://live.sxrtv.com/iptv/cqws.flv
 重庆卫视,http://taolinhz.3322.org:4000/udp/233.50.201.143:5140
 重庆卫视,http://live.chinacert.cftest5.cn/nptv/chongqing.m3u8
@@ -216,12 +208,9 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
-重庆影视,http://211.92.69.184:8888/udp/225.0.4.62:7980
-重庆影视,http://113.250.203.245:3388/rtp/235.254.196.209:1108
-重庆影视,http://125.81.198.49:8899/rtp/235.254.196.209:1108
+重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,http://211.92.69.184:8888/udp/225.0.4.59:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
@@ -1415,8 +1404,6 @@ MV歌曲,#genre#
 解放军军歌,webview://https://haokan.baidu.com/v?vid=10348236269222487544
 咱当兵的人,http://t0723k4lg.hn-bkt.clouddn.com/%E5%92%B1%E5%BD%93%E5%85%B5%E7%9A%84%E4%BA%BA.mp4#https://d.kstore.dev/download/10141/%E5%92%B1%E5%BD%93%E5%85%B5%E7%9A%84%E4%BA%BA.mp4
 咱当兵的人,webview://https://haokan.baidu.com/v?vid=4461151188740000613
-军中绿花,http://t0723k4lg.hn-bkt.clouddn.com/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4#https://d.kstore.dev/download/10141/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4
-军中绿花,webview://https://haokan.baidu.com/v?vid=8710997439224403020
 我是一个兵,http://t0723k4lg.hn-bkt.clouddn.com/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5.mp4#https://d.kstore.dev/download/10141/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5.mp4
 我是一个兵,webview://https://haokan.baidu.com/v?vid=5556484511245370945
 一二三四歌,http://t0723k4lg.hn-bkt.clouddn.com/%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E6%AD%8C.mp4
@@ -1424,6 +1411,8 @@ MV歌曲,#genre#
 打靶归来,http://t0723k4lg.hn-bkt.clouddn.com/%E6%89%93%E9%9D%B6%E5%BD%92%E6%9D%A5.mp4#https://d.kstore.dev/download/10141/%E6%89%93%E9%9D%B6%E5%BD%92%E6%9D%A5.mp4
 打靶归来,webview://https://haokan.baidu.com/v?vid=5568427832035839609
 中国人民志愿军战歌,http://t0723k4lg.hn-bkt.clouddn.com/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#http://szlgi6geg.hn-bkt.clouddn.com/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://gh-proxy.com/https://github.com/73330/ch/raw/main/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/中国人民志愿军战歌.mp4
+军中绿花,http://t0723k4lg.hn-bkt.clouddn.com/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4#https://d.kstore.dev/download/10141/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4
+军中绿花,webview://https://haokan.baidu.com/v?vid=8710997439224403020
 兵哥哥,http://t0723k4lg.hn-bkt.clouddn.com/%E5%85%B5%E5%93%A5%E5%93%A5.mp4#https://d.kstore.dev/download/10141/%E5%85%B5%E5%93%A5%E5%93%A5.mp4
 兵哥哥,webview://https://haokan.baidu.com/v?vid=6744734448349765938
 强军战歌,http://t0723k4lg.hn-bkt.clouddn.com/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4
