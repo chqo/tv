@@ -1408,11 +1408,10 @@ MV歌曲,#genre#
 齐峰-我和草原有个约定,http://szlgi6geg.hn-bkt.clouddn.com/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#https://gh-proxy.com/https://github.com/73330/ch/raw/main/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#http://t0723k4lg.hn-bkt.clouddn.com/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#https://d.kstore.dev/download/10141/齐峰-我和草原有个约定.mp4
 我的家,http://szlgi6geg.hn-bkt.clouddn.com/%E6%88%91%E7%9A%84%E5%AE%B6.mp4#https://d.kstore.dev/download/10141/%E6%88%91%E7%9A%84%E5%AE%B6.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E6%88%91%E7%9A%84%E5%AE%B6.mp4#https://gh-proxy.com/https://github.com/73330/ch/raw/main/%E6%88%91%E7%9A%84%E5%AE%B6.mp4
 我的家,webview://https://v.hinews.cn/xinwen/show-1502933.html
-我的家,hybrid-webview://https://tv.cctv.com/2025/01/29/VIDEAxEojZaPhUjYKkfl1ozS250129.shtml?spm=C88599.PDce0uxb481B.EhD4Dewe7qdu.1
-十大钢琴名曲,https://d.kstore.dev/download/10141/贝多芬钢琴曲.mp4
+我的家,webview://https://tv.cctv.com/2025/01/29/VIDEAxEojZaPhUjYKkfl1ozS250129.shtml?spm=C88599.PDce0uxb481B.EhD4Dewe7qdu.1
 
 八一军歌曲,#genre#
-解放军军歌,http://t0723k4lg.hn-bkt.clouddn.com/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4
+解放军军歌,http://t0723k4lg.hn-bkt.clouddn.com/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4
 解放军军歌,webview://https://haokan.baidu.com/v?vid=10348236269222487544
 咱当兵的人,http://t0723k4lg.hn-bkt.clouddn.com/%E5%92%B1%E5%BD%93%E5%85%B5%E7%9A%84%E4%BA%BA.mp4#https://d.kstore.dev/download/10141/%E5%92%B1%E5%BD%93%E5%85%B5%E7%9A%84%E4%BA%BA.mp4
 咱当兵的人,webview://https://haokan.baidu.com/v?vid=4461151188740000613
@@ -1433,6 +1432,12 @@ MV歌曲,#genre#
 为了谁,webview://https://haokan.baidu.com/v?vid=4170238460949801486
 军人本色,http://t0723k4lg.hn-bkt.clouddn.com/%E5%86%9B%E4%BA%BA%E6%9C%AC%E8%89%B2.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E5%86%9B%E4%BA%BA%E6%9C%AC%E8%89%B2.mp4#https://d.kstore.dev/download/10141/%E5%86%9B%E4%BA%BA%E6%9C%AC%E8%89%B2.mp4
 军人本色,webview://https://haokan.baidu.com/v?vid=10637511395933240359
+人民军对忠于党歌曲,http://t0723k4lg.hn-bkt.clouddn.com/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%BF%A0%E4%BA%8E%E5%85%9A.mp4#https://d.kstore.dev/download/10141/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%BF%A0%E4%BA%8E%E5%85%9A.mp4
+人民军对忠于党歌曲,webview://https://https://haokan.baidu.com/v?vid=6085464454499513092
+五星红旗迎风飘扬歌曲,http://t0723k4lg.hn-bkt.clouddn.com/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E8%BF%8E%E9%A3%8E%E9%A3%98%E6%89%AC.mp4#https://d.kstore.dev/download/10141/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E8%BF%8E%E9%A3%8E%E9%A3%98%E6%89%AC.mp4
+五星红旗迎风飘扬歌曲,webview://https://haokan.baidu.com/v?vid=3775383003863007205
+我的老班长,http://t0723k4lg.hn-bkt.clouddn.com/%E6%88%91%E7%9A%84%E8%80%81%E7%8F%AD%E9%95%BF.mp4#https://d.kstore.dev/download/10141/%E6%88%91%E7%9A%84%E8%80%81%E7%8F%AD%E9%95%BF.mp4
+我的老班长,webview://https://haokan.baidu.com/v?vid=3589380234073970068
 热血颂,http://t0723k4lg.hn-bkt.clouddn.com/%E7%83%AD%E8%A1%80%E9%A2%82.mp4#https://d.kstore.dev/download/10141/%E7%83%AD%E8%A1%80%E9%A2%82.mp4
 热血颂,webview://https://haokan.baidu.com/v?vid=12973241150602995613
 映山红,http://t0723k4lg.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4#https://d.kstore.dev/download/10141/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
