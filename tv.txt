@@ -89,7 +89,8 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
 凤凰中文,https://live.sxrtv.com/iptv/fhzw.flv
-凤凰中文,http://171.213.166.56:4443/udp/239.93.0.162:2192
+凤凰中文,http://171.213.175.209:8886/udp/239.93.0.162:2192
+凤凰中文,http://60.182.104.209:4022/udp/233.50.200.191:5140
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 凤凰中文,http://8.138.7.223/tv/fh.php?id=1
@@ -104,7 +105,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/a85fcabf7ab9c2eabf9a659e0624e260.flv
 凤凰资讯,https://live.sxrtv.com/iptv/fhzx.flv 
 凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
-凤凰资讯,http://171.213.166.56:4443/udp/239.93.0.118:2191
+凤凰资讯,http://171.213.175.209:8886/udp/239.93.0.118:2191
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
@@ -1427,8 +1428,8 @@ MV歌曲,#genre#
 军人本色,webview://https://haokan.baidu.com/v?vid=10637511395933240359
 人民军对忠于党歌曲,http://t0723k4lg.hn-bkt.clouddn.com/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%BF%A0%E4%BA%8E%E5%85%9A.mp4#https://d.kstore.dev/download/10141/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%BF%A0%E4%BA%8E%E5%85%9A.mp4
 人民军对忠于党歌曲,webview://https://https://haokan.baidu.com/v?vid=6085464454499513092
-五星红旗迎风飘扬歌曲,http://t0723k4lg.hn-bkt.clouddn.com/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E8%BF%8E%E9%A3%8E%E9%A3%98%E6%89%AC.mp4#https://d.kstore.dev/download/10141/%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E8%BF%8E%E9%A3%8E%E9%A3%98%E6%89%AC.mp4
-五星红旗迎风飘扬歌曲,webview://https://haokan.baidu.com/v?vid=3775383003863007205
+歌唱祖国,http://t0723k4lg.hn-bkt.clouddn.com/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4#https://d.kstore.dev/download/10141/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4
+歌唱祖国,webview://https://haokan.baidu.com/v?vid=3775383003863007205
 我的老班长,http://t0723k4lg.hn-bkt.clouddn.com/%E6%88%91%E7%9A%84%E8%80%81%E7%8F%AD%E9%95%BF.mp4#https://d.kstore.dev/download/10141/%E6%88%91%E7%9A%84%E8%80%81%E7%8F%AD%E9%95%BF.mp4
 我的老班长,webview://https://haokan.baidu.com/v?vid=3589380234073970068
 热血颂,http://t0723k4lg.hn-bkt.clouddn.com/%E7%83%AD%E8%A1%80%E9%A2%82.mp4#https://d.kstore.dev/download/10141/%E7%83%AD%E8%A1%80%E9%A2%82.mp4
