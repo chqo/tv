@@ -85,13 +85,13 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰中文,http://8.138.7.223/tv/20250806.php?ab=phenix&id=fhzw
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/508387409493578e7855320350fcebe3.flv?time=1754730154
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/d11748b55e67d0f9cd4d3b4dce8b2a83.flv
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1f38f5ce41e4b5c5838b95dd0498dfca.flv
+凤凰中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
+凤凰中文,https://stream1.freetv.fun/daeb9e15e92a937b5997e93493291a0f77778084da1e26df1a0c79d869766fb6.m3u8
+凤凰中文,https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.m3u8
+凤凰中文,https://stream1.freetv.fun/e7d0cd878707246efad30abe50ddcbc0ee53d06988bf83158e6a4410b0ed2af8.ctv
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
 凤凰中文,https://live.sxrtv.com/iptv/fhzw.flv
-凤凰中文,http://171.213.175.209:8886/udp/239.93.0.162:2192
-凤凰中文,http://60.182.104.209:4022/udp/233.50.200.191:5140
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 凤凰中文,http://8.138.7.223/tv/fh.php?id=1
@@ -103,10 +103,10 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 凤凰资讯,http://8.138.7.223/tv/20250806.php?ab=phenix&id=fhzx
 凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/a85fcabf7ab9c2eabf9a659e0624e260.flv
+凤凰资讯,https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
+凤凰资讯,https://stream1.freetv.fun/87e19f1c2ea4c98b600a729e1dc4968f992ee91c2eb81cc59a928a7e23eaa44c.ctv
 凤凰资讯,https://live.sxrtv.com/iptv/fhzx.flv 
 凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
-凤凰资讯,http://171.213.175.209:8886/udp/239.93.0.118:2191
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
@@ -134,6 +134,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 无线新闻,http://8.138.7.223/tv/aktv.php?id=17
 
+凤凰香港,https://stream1.freetv.fun/009db3c60ccb787a928dce1eecaf640b47399b069207138e7691be41e1d3c219.ctv
 凤凰香港,http://8.138.7.223/tv/20250806.php?ab=phenix&id=fhhk
 凤凰香港,https://fenghuang.tv12.xyz/171.m3u8
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -147,7 +148,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://live.sxrtv.com/iptv/fhhk.flv
-
+凤凰电影,rtmp://39.107.120.164/live/diyp_fhdy
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -202,6 +203,7 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 
 重庆频道,#genre#
 重庆卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/1.m3u8
+重庆卫视,http://182.126.119.36:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://taolinhz.3322.org:4000/udp/233.50.200.114:5140
 重庆卫视,http://nas.swes.cn:8089/udp/239.93.1.107:5140
 重庆卫视,https://live.sxrtv.com/iptv/cqws.flv
