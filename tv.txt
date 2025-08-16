@@ -35,12 +35,9 @@
 法国时尚,https://stream1.freetv.fun/bd28dee32d184c56184c3de286f5920575e384cf4264034409a2e8fa74b02d05.m3u8
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-CHC动作电影,http://ss.baihuan.online:35455/mgtv/644368714.m3u8
-CHC家庭影院,http://ss.baihuan.online:35455/mgtv/644368373.m3u8
 CHC家庭影院,http://m.061899.xyz/mg/jtyy
 CHC动作电影,http://m.061899.xyz/mg/dzdy
 CHC影迷电影,http://m.061899.xyz/mg/ymdy
-CHC影迷电影,http://ss.baihuan.online:35455/mgtv/952383261.m3u8
 CHC影迷电影,https://live.sxrtv.com/iptv/chcymdy.flv 
 CHC动作电影,https://live.sxrtv.com/iptv/chcdzdy.flv 
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
@@ -176,7 +173,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 港澳台web,#genre#
-凤凰中文网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
+凤凰中文网页,hybrid-video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
 凤凰资讯网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
 凤凰香港网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
 有线新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
@@ -264,7 +261,6 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 
 重庆频道,#genre#
 重庆卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cqws.flv
-重庆卫视,http://k.061899.xyz/m.php?id=cqws
 重庆卫视,http://106.118.70.191:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://222.95.140.66:58888/udp/239.49.8.57:9830
 重庆卫视,http://www.li0580.top:4022/udp/233.50.201.143:5140
@@ -272,9 +268,6 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 重庆卫视,http://taolinhz.3322.org:4000/udp/233.50.201.143:5140
 重庆卫视,http://taolinhz.3322.org:4000/udp/233.50.200.114:5140
 重庆卫视,http://taolinhz.3322.org:4000/udp/233.50.201.66:5140
-重庆卫视,http://myddns.com.cn:9999/udp/233.50.201.143:5140
-重庆卫视,http://myddns.com.cn:9999/udp/233.50.200.114:5140
-重庆卫视,http://myddns.com.cn:9999/udp/233.50.201.66:5140
 重庆卫视,https://migu.188766.xyz/?migutoken=5a02437d2d455a269232af8dc3ca1e7b&id=cqws&type=dy&token=361a6452c8d0c1e2a997bc2360ffe0a0
 重庆卫视,http://taolinhz.3322.org:4000/udp/233.50.200.114:5140
 重庆卫视,http://myddns.com.cn:9999/udp/233.50.201.66:5140
@@ -287,7 +280,7 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
+重庆卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
 
 重庆影视,http://123.146.181.193:8888/udp/225.0.4.62:7980
