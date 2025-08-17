@@ -69,6 +69,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 快乐垂钓,http://tvbox6.icu/tv/mgtv.php?id=218
+快乐垂钓,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi45Mi41NC4yMzUmdGVybT0xJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZjaHM9JmRlZj0xJnM9ZGJjMzEzNDBkN2Y1NzFkM2ZkZWJkYjczOWE2ODdmOWImdWlkPSZ1dWlkPWVjOWM1MDRkY2FlY2RjMTdjMGRiNWJkMTBjNjM4YWY3LTZhNWMzNmViJnY9MiZhcz0wJmVzPTE3NTU0MzY2MTc,/KLCDMPP360.m3u8
 快乐垂钓,http://www.bg3nit.top:9999/rtp/239.253.93.213:6391
 快乐垂钓,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=klcdHD
 快乐垂钓,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
@@ -104,9 +105,9 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰中文,http://blog.cqshushu.com/gddf.php?id=fhzw&token=a18df1fc0b3bdf34e1b4b60340bb8f90
-凤凰资讯,http://blog.cqshushu.com/gddf.php?id=fhzx&token=a18df1fc0b3bdf34e1b4b60340bb8f90
-凤凰香港,http://blog.cqshushu.com/gddf.php?id=fhhk&token=a18df1fc0b3bdf34e1b4b60340bb8f90
+凤凰中文,http://blog.cqshushu.com/gddf.php?id=fhzw&token=57cb99eff14e1602d91fd80a21c0aa94
+凤凰资讯,http://blog.cqshushu.com/gddf.php?id=fhzx&token=57cb99eff14e1602d91fd80a21c0aa94
+凤凰香港,http://blog.cqshushu.com/gddf.php?id=fhhk&token=57cb99eff14e1602d91fd80a21c0aa94
 凤凰中文,http://blog.cqshushu.com/gddf.php?id=fhzw&token=561f82637b5dc4f57b41fa5427d11c45
 凤凰资讯,http://blog.cqshushu.com/gddf.php?id=fhzx&token=561f82637b5dc4f57b41fa5427d11c45
 凤凰香港,http://blog.cqshushu.com/gddf.php?id=fhhk&token=561f82637b5dc4f57b41fa5427d11c45
@@ -176,6 +177,9 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 港澳台web,#genre#
+凤凰中文网页,video://http://212.87.212.76:53789/live/71e7f7cc7dc1c51b06b1b3b520s07ds.flv
+凤凰中文网页,video://http://www.damuwu.com/e/DownSys/play/?classid=10&id=11&pathid=0
+凤凰资讯网页,video://http://www.damuwu.com/e/DownSys/play/?classid=10&id=12&pathid=0
 凤凰中文网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
 凤凰资讯网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
 凤凰香港网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
@@ -192,7 +196,7 @@ Now新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=26d1e61edfdcbc3b0df63c1040978269&tid=gt&id=3
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=dcbc959eb0d89c17110cf048215aafaa&tid=gt&id=3 
 香港有线新闻台,video://https://www.iptv345.com/?act=play&token=f5aedff9d0cb3f6e0035b0d583687a70&tid=gt&id=11
-凤凰卫视中文台,hybrid-webview://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
+凤凰卫视中文台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
 凤凰卫视资讯台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
 凤凰卫视香港台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
 有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
@@ -288,6 +292,7 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://iptv345.com/?act=play&token=b3bfdb2daa55fb0238a7a03b93b66908&tid=ws&id=19
+重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=185620290e571bf7b1c6f59f589539eb&tid=ws&id=19 
 
 重庆影视,http://123.146.181.193:8888/udp/225.0.4.62:7980
 重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
@@ -1165,6 +1170,7 @@ CCTV5,webview://https://yangshipin.cn/tv/home?pid=600001818
 CCTV5+,webview://https://yangshipin.cn/tv/home?pid=600001817
 CCTV6,webview://https://yangshipin.cn/tv/home?pid=600108442
 CCTV6,video://https://m.1905.com/m/cctv6/gzh/
+CCTV6,video://https://www.1905.com/cctv6/live/?index3
 CCTV7,webview://https://yangshipin.cn/tv/home?pid=600004092
 CCTV8,webview://https://yangshipin.cn/tv/home?pid=600001803
 CCTV8,webview://https://www.yangshipin.cn/tv/home?pid=600001803JJHFR
