@@ -177,9 +177,9 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 港澳台web,#genre#
-凤凰中文网页,video://http://212.87.212.76:53789/live/71e7f7cc7dc1c51b06b1b3b520s07ds.flv
-凤凰中文网页,video://http://www.damuwu.com/e/DownSys/play/?classid=10&id=11&pathid=0
-凤凰资讯网页,video://http://www.damuwu.com/e/DownSys/play/?classid=10&id=12&pathid=0
+凤凰中文网页,http://212.87.212.76:53789/live/71e7f7cc7dc1c51b06b1b3b520s07ds.flv
+凤凰中文网页,webview://http://www.damuwu.com/e/DownSys/play/?classid=10&id=11&pathid=0
+凤凰资讯网页,webview://http://www.damuwu.com/e/DownSys/play/?classid=10&id=12&pathid=0
 凤凰中文网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
 凤凰资讯网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
 凤凰香港网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
