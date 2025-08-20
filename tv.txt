@@ -36,7 +36,9 @@
 法国时尚,https://stream1.freetv.fun/e007d8373848e8163a7e31e2efaf118ca5dec3c7accf19f82520b035b6b81156.m3u8
 法国时尚,https://stream1.freetv.fun/bd28dee32d184c56184c3de286f5920575e384cf4264034409a2e8fa74b02d05.m3u8
 法国时尚,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
+CHC家庭影院,https://migu.188766.xyz/?migutoken=04c4784f421ef9de2b58277cf2201adb&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1&token=46a5ba6d93c0fc1c097469c2cb0186ab
+CHC动作电影,https://migu.188766.xyz/?migutoken=9edc1b04104ffca2ae141280640dab8d&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1&token=46a5ba6d93c0fc1c097469c2cb0186ab
+CHC影迷电影,https://migu.188766.xyz/?migutoken=638eda345ef2ba766fdfc3e9fed3bb22&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1&token=46a5ba6d93c0fc1c097469c2cb0186ab
 CHC家庭影院,https://migu.188766.xyz/?migutoken=79f9015fc8083287dbc4f032640ab1db&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1&token=361a6452c8d0c1e2a997bc2360ffe0a0
 CHC动作电影,https://migu.188766.xyz/?migutoken=03c4f1cd2cafc75a8385adc58cc87a8d&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1&token=361a6452c8d0c1e2a997bc2360ffe0a0
 CHC影迷电影,https://migu.188766.xyz/?migutoken=a9996514440891113861749f00b45240&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1&token=361a6452c8d0c1e2a997bc2360ffe0a0
@@ -108,6 +110,9 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰中文,http://api.mg.itv888.cn:8080/streams/av3zqsgq64m/index.m3u8
+凤凰中文,http://blog.cqshushu.com/gddf.php?id=fhzw&token=46a5ba6d93c0fc1c097469c2cb0186ab
+凤凰资讯,http://blog.cqshushu.com/gddf.php?id=fhzx&token=46a5ba6d93c0fc1c097469c2cb0186ab
+凤凰香港,http://blog.cqshushu.com/gddf.php?id=fhhk&token=46a5ba6d93c0fc1c097469c2cb0186ab
 凤凰中文,http://blog.cqshushu.com/gddf.php?id=fhzw&token=361a6452c8d0c1e2a997bc2360ffe0a0
 凤凰资讯,http://blog.cqshushu.com/gddf.php?id=fhzx&token=361a6452c8d0c1e2a997bc2360ffe0a0
 凤凰香港,http://blog.cqshushu.com/gddf.php?id=fhhk&token=361a6452c8d0c1e2a997bc2360ffe0a0
@@ -193,7 +198,7 @@ Now新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=26d1e61edfdcbc3b0df63c1040978269&tid=gt&id=3
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=dcbc959eb0d89c17110cf048215aafaa&tid=gt&id=3 
 香港有线新闻台,video://https://www.iptv345.com/?act=play&token=f5aedff9d0cb3f6e0035b0d583687a70&tid=gt&id=11
-凤凰卫视中文台,hybrid-webview://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
+凤凰卫视中文台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
 凤凰卫视资讯台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
 凤凰卫视香港台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
 有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
@@ -264,6 +269,7 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 时尚运动网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-134-0.html
 
 重庆频道,#genre#
+重庆卫视,https://migu.188766.xyz/?migutoken=db36aaafba29720b97ca07e3c741ce94&id=cqws&type=dy&token=46a5ba6d93c0fc1c097469c2cb0186ab
 重庆卫视,http://router.870503.xyz:18885/udp/239.45.1.84:5140
 重庆卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cqws.flv
 重庆卫视,http://222.95.140.66:58888/udp/239.49.8.57:9830
