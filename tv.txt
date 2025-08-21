@@ -96,6 +96,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰中文,http://api.mytv666.top/api/hk.php?id=6465653065613934326364336430636165653637343630386633623132626433267469643d77696e74763132332669643d32
 凤凰中文,http://api.mytv666.top/api/hk.php?id=3635353536383939393264346132646363626433646461373332353365633339267469643d74762669643d3230
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhwszwt-012346789.flv
+凤凰中文,http://live.urren.net/live/d681f190771fe5d645486bb29227abd6.flv
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fa3124cef08c27fbae91978f07b63260.flv?time=1755576554
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/e4364473586d669c1a1d6e3da5d623e5.flv?time=1755520718
 凤凰中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
@@ -271,12 +272,11 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 时尚运动网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-134-0.html
 
 重庆频道,#genre#
+重庆卫视,http://live.jnjyapp.cn/live/cqws.flv
 重庆卫视,http://home.kaijuns.cn:4000/rtp/239.121.4.36:8190
 重庆卫视,https://migu.188766.xyz/?migutoken=db36aaafba29720b97ca07e3c741ce94&id=cqws&type=dy&token=46a5ba6d93c0fc1c097469c2cb0186ab
 重庆卫视,http://router.870503.xyz:18885/udp/239.45.1.84:5140
-重庆卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cqws.flv
 重庆卫视,http://106.53.99.30/tv/jzb.php?id=cqws
-重庆卫视,http://222.95.140.66:58888/udp/239.49.8.57:9830
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-8.ctv
 重庆卫视,https://stream1.freetv.fun/ipv6-zhong-qing-wei-shi-5.m3u8
 重庆卫视,http://www.li0580.top:4022/udp/233.50.201.143:5140
@@ -288,7 +288,6 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 重庆卫视,http://myddns.com.cn:9999/udp/233.50.201.66:5140
 重庆卫视,http://nas.swes.cn:8089/udp/239.93.1.107:5140
 重庆卫视,https://live.sxrtv.com/iptv/cqws.flv
-重庆卫视,http://taolinhz.3322.org:4000/udp/233.50.201.143:5140
 重庆卫视,http://live.chinacert.cftest5.cn/nptv/chongqing.m3u8
 重庆卫视,http://www.lizhinas.top:1009/udp/239.252.220.94:5140
 重庆卫视,http://zqh2333.top:2222/rtp/239.93.25.107:5140
@@ -344,6 +343,7 @@ CETV-4,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cetv-4SD
 CCTV4K,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CCTV4K
 CCTV16,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CCTV16_4K
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
+重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id?id=cqws
 江苏卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=jiangsuHD
 北京卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=beijingHD
 浙江卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=zhejiangHD
