@@ -49,6 +49,9 @@ CHC动作电影,http://m.061899.xyz/mg/dzdy
 CHC影迷电影,http://m.061899.xyz/mg/ymdy
 CHC影迷电影,https://live.sxrtv.com/iptv/chcymdy.flv 
 CHC动作电影,https://live.sxrtv.com/iptv/chcdzdy.flv 
+CHC动作电影,video://http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHC影迷电影,video://http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHC家庭影院,video://http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 动作电影频道,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
 家庭影院频道,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 影迷电影频道,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
@@ -83,6 +86,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 快乐垂钓,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
 快乐垂钓,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
 快乐垂钓,webview://https://live.mgtv.com/?channelld=21870
+快乐垂钓,video://https://live.mgtv.com/?channelId=218
 四海钓鱼,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=diaoyu
 四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8#http://tvbox6.icu/tv/migu.php?id=shdy
                                                                                  
@@ -270,6 +274,11 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 
 重庆频道,#genre#
 重庆卫视,http://live.jnjyapp.cn/live/cqws.flv
+重庆卫视,http://www.li0580.top:4022/udp/233.50.201.143:5140
+重庆卫视,http://www.li0580.top:4022/udp/233.50.200.114:5140
+重庆卫视,http://www.li0580.top:4022/udp/233.50.201.66:5140
+重庆卫视,http://router.870503.xyz:18885/rtp/239.45.1.84:5140
+重庆卫视,http://314644.xyz:17777/rtp/239.49.8.57:9830
 重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8
 重庆卫视,http://home.kaijuns.cn:4000/rtp/239.121.4.36:8190
 重庆卫视,https://migu.188766.xyz/?migutoken=db36aaafba29720b97ca07e3c741ce94&id=cqws&type=dy&token=46a5ba6d93c0fc1c097469c2cb0186ab
@@ -1563,6 +1572,9 @@ CCTV14 少儿,https://hls-gateway.vpstv.net/streams/476900.m3u8
 卡酷少儿,http://120.76.248.139/live/bfgd/4200000106.m3u8
 金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8
 金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
+金鹰卡通,video://https://live.mgtv.com/?channelId=287
+嘉佳卡通,video://https://www.gdtv.cn/tvChannelDetail/66
+哈哈炫动,video://https://live.kankanews.com/huikan?id=9
 金鹰卡通,webview://https://live.mgtv.com/?channelId\u003d221
 金鹰卡通,http://www.peanutbar.cn:8099/tsfile/live/1005_1.m3u8
 卡酷少儿,http://111.43.126.240:9003/hls/71/index.m3u8
