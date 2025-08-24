@@ -1773,8 +1773,8 @@ DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjp
 苹果香,http://t1e5id101.hn-bkt.clouddn.com/%E8%8B%B9%E6%9E%9C%E9%A6%99.mp4#https://d.kstore.dev/download/10141/%E8%8B%B9%E6%9E%9C%E9%A6%99.mp4
 苹果香,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=8605411962249424308
 苹果香,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=1155282808538408496
-苹果香,video://https://www.iqiyi.com/v_1ccyh9rz8cs.html
-苹果香,video://https://tv.sohu.com/v/dXMvMzQ2NjQxMDgxLzU2ODA4NjcxNy5zaHRtbA.html
+苹果香,webview://https://www.iqiyi.com/v_1ccyh9rz8cs.html
+苹果香,webview://https://tv.sohu.com/v/dXMvMzQ2NjQxMDgxLzU2ODA4NjcxNy5zaHRtbA.html
 马健涛-搀扶,http://t1e5id101.hn-bkt.clouddn.com/%E6%90%80%E6%89%B6.mp4
 马健涛-搀扶,https://d.kstore.dev/download/10141/%E6%90%80%E6%89%B6.mp4
 马健涛-搀扶,webview://https://haokan.baidu.com/v?vid=10219187159168129992
