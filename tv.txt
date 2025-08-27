@@ -91,9 +91,6 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
-凤凰中文,http://8.138.7.223/tv/fh.php?id=1
-凤凰中文,http://8.138.7.223/tv/20250806.php?ab=phenix&id=fhzw
-凤凰中文,http://play-aliyun.zego.im/live/74a3a331e17dcaa22162da141fbe35f9.flv
 凤凰中文,http://live.xmqkx.com/live/gwS5kbEwNmWObygXxkdd6UZDdYr0rZAqkFgLZRwPewJMVnfHy8.flv
 凤凰中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
 凤凰中文,https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.m3u8
@@ -262,6 +259,7 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 
 重庆频道,#genre#
 重庆卫视,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010053/1.m3u8?
+重庆卫视,http://117.64.102.223:4022/rtp/238.1.78.31:6176
 重庆卫视,http://chiceren.myds.me:58888/rtp/239.254.200.203:6323
 重庆卫视,http://zwymjp.softether.net:4022/rtp/239.76.253.92:9000
 重庆卫视,https://stream1.freetv.fun/4c72e26ca8c3c3b622efb0d089e1a67b8f30ab39a52882e1813a9c82419f66f4.ctv
@@ -292,8 +290,8 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 重庆卫视,webview://https://iptv345.com/?act=play&token=688c3f3a4ec06ffbaf16364784129d62&tid=ws&id=19
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=185620290e571bf7b1c6f59f589539eb&tid=ws&id=19 
 
-重庆影视,http://14.106.85.188:2345/rtp/235.254.196.209:1108
-重庆影视,http://106.81.149.115:8883/rtp/235.254.196.209:1108
+重庆影视,http://125.80.251.189:7788/rtp/235.254.196.209:1108
+重庆影视,http://27.12.169.142:8899/udp/225.0.4.62:7980
 重庆影视,https://stream1.freetv.fun/a25616f36c29a674da9d4ae6be762f96ad6a0335ab86c977f4b999426ad92bd6.ctv
 重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
 
