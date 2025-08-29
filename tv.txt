@@ -94,9 +94,8 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
-凤凰中文,http://api.mytv666.top/api/hk.php?id=3635353536383939393264346132646363626433646461373332353365633339267469643d74762669643d3230
-凤凰资讯,http://api.mytv666.top/api/hk.php?id=3639313932626236616366636537633734323039313738383137613037633739267469643d74762669643d3231
-凤凰香港,http://api.mytv666.top/api/hk.php?id=6366393933363838303835353235313030313837656130343336356238356364267469643d74762669643d3232
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 凤凰中文,http://live.xmqkx.com/live/gwS5kbEwNmWObygXxkdd6UZDdYr0rZAqkFgLZRwPewJMVnfHy8.flv
 凤凰中文,https://stream1.freetv.fun/bde4a425201648653d2bab6e1b9e58d3602d8919739ae8a0eb33e1c97ff205a8.ctv
 凤凰中文,https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.m3u8
@@ -296,8 +295,8 @@ FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 重庆卫视,webview://https://iptv345.com/?act=play&token=688c3f3a4ec06ffbaf16364784129d62&tid=ws&id=19
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=185620290e571bf7b1c6f59f589539eb&tid=ws&id=19 
 
-重庆影视,http://125.80.251.189:7788/rtp/235.254.196.209:1108
-重庆影视,http://27.12.169.142:8899/udp/225.0.4.62:7980
+重庆影视,http://124.162.84.190:4022/udp/225.0.4.62:7980
+重庆影视,http://27.9.21.252:4022/udp/225.0.4.62:7980
 重庆影视,https://stream1.freetv.fun/a25616f36c29a674da9d4ae6be762f96ad6a0335ab86c977f4b999426ad92bd6.ctv
 重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
 
@@ -339,8 +338,6 @@ CCTV15音乐,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cctv15HD
 CCTV16奥林匹克,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cctv16HD
 CCTV17农业农村,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cctv17HD
 CGTN,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cgtnSD
-CETV-1,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cetv-1SD
-CETV-4,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cetv-4SD
 CCTV4K,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CCTV4K
 CCTV16,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CCTV16_4K
 重庆卫视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=chongqingHD
@@ -384,6 +381,35 @@ CCTV16,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=CCTV16_4K
 东南卫视,http://112.27.235.94:8000/hls/38/index.m3u8
 
 央视综合,#genre#
+CCTV1,http://8.138.7.223/tv/migu666.php?name=cctv1
+CCTV2,http://8.138.7.223/tv/migu666.php?name=cctv2
+CCTV3,http://8.138.7.223/tv/migu666.php?name=cctv3
+CCTV4,http://8.138.7.223/tv/migu666.php?name=cctv4
+CCTV5,http://8.138.7.223/tv/migu666.php?name=cctv5
+CCTV5+,http://8.138.7.223/tv/migu666.php?name=CCTV5%2B
+CCTV6,http://8.138.7.223/tv/migu666.php?name=cctv6
+CCTV7,http://8.138.7.223/tv/migu666.php?name=cctv7
+CCTV8,http://8.138.7.223/tv/migu666.php?name=cctv8
+CCTV9,http://8.138.7.223/tv/migu666.php?name=cctv9
+CCTV10,http://8.138.7.223/tv/migu666.php?name=cctv10
+CCTV11,http://8.138.7.223/tv/migu666.php?name=cctv11
+CCTV12,http://8.138.7.223/tv/migu666.php?name=cctv12
+CCTV13,http://8.138.7.223/tv/migu666.php?name=cctv13
+CCTV14,http://8.138.7.223/tv/migu666.php?name=cctv14
+CCTV15,http://8.138.7.223/tv/migu666.php?name=cctv15
+CCTV17,http://8.138.7.223/tv/migu666.php?name=cctv17
+东方卫视,http://8.138.7.223/tv/migu666.php?name=东方卫视
+江苏卫视,http://8.138.7.223/tv/migu666.php?name=江苏卫视
+广东卫视,http://8.138.7.223/tv/migu666.php?name=广东卫视
+江西卫视,http://8.138.7.223/tv/migu666.php?name=江西卫视
+河南卫视,http://8.138.7.223/tv/migu666.php?name=河南卫视
+陕西卫视,http://8.138.7.223/tv/migu666.php?name=陕西卫视
+大湾区卫视,http://8.138.7.223/tv/migu666.php?name=大湾区卫视
+湖北卫视,http://8.138.7.223/tv/migu666.php?name=湖北卫视
+吉林卫视,http://8.138.7.223/tv/migu666.php?name=吉林卫视
+青海卫视,http://8.138.7.223/tv/migu666.php?name=青海卫视
+海南卫视,http://8.138.7.223/tv/migu666.php?name=海南卫视
+海峡卫视,http://8.138.7.223/tv/migu666.php?name=海峡卫视
 CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1
 CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2
 CCTV3,http://106.52.196.79:80/TV/mui.php?id=cctv3
@@ -791,10 +817,9 @@ CCTV14,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225738/1.m3u8
 CCTV14,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226150/1.m3u8
 CCTV15,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226147/1.m3u8
 CCTV16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8
-CETV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/1.m3u8
-CETV4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
-CETV4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226069/1.m3u8
-CGTN,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/1.m3u8
+重庆卫视,http://39.134.136.198:6410/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive
+重庆卫视,http://39.134.136.198:6410/000000001000/1000000001000001096/index.m3u8?channel-id=ystenlive
+重庆卫视,http://39.134.136.198:6410/000000001000/5000000004000025797/index.m3u8?channel-id=bestzb
 江苏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225720/1.m3u8
 黑龙江卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225722/1.m3u8
 东方卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225725/1.m3u8
