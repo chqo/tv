@@ -91,6 +91,8 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,http://j.s.bkpcp.top/js/fhzw
 凤凰中文,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
@@ -110,7 +112,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8http://bxtv.3a.ink/api.php?id=fhzw
 凤凰中文,http://api.mg.itv888.cn:8080/streams/av3zqsgq64m/index.m3u8
 凤凰中文,http://blog.cqshushu.com/gddf.php?id=fhzw&token=7cc5f153970fa3619008859687f353ce
 凤凰资讯,http://blog.cqshushu.com/gddf.php?id=fhzx&token=7cc5f153970fa3619008859687f353ce
@@ -119,6 +121,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰资讯,http://blog.cqshushu.com/gddf.php?id=fhzx&token=46a5ba6d93c0fc1c097469c2cb0186ab
 凤凰香港,http://blog.cqshushu.com/gddf.php?id=fhhk&token=46a5ba6d93c0fc1c097469c2cb0186ab
 凤凰资讯,http://j.s.bkpcp.top/js/fhzx
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰香港,http://j.s.bkpcp.top/js/fhxg
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
@@ -129,6 +132,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 凤凰香港,http://api.mg.itv888.cn:8080/streams/408c9vgbd2m/index.m3u8
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt	
 凤凰资讯,http://live.urren.net/live/42fd475cd3d34bf158c7f9c5c1d5e450.flv
 凤凰资讯,http://live.xmqkx.com/live/7KUcGQoK76UZDdK0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
 凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
@@ -215,10 +219,11 @@ Now新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
+重庆卫视,http://61.184.46.85:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010053/1.m3u8?
 重庆卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3$4M%20FHD
 重庆卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000001096/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3$8M%20FHD
 重庆卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000004000025797/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=3$7M%20FHD
-重庆卫视,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010053/1.m3u8?
 重庆卫视,http://chiceren.myds.me:58888/rtp/239.254.200.203:6323
 重庆卫视,https://stream1.freetv.fun/6e791210c230ac80150ac665d290211dcc8a6498a6c270f6c83c93045addb0a1.m3u8
 重庆卫视,https://stream1.freetv.fun/4c72e26ca8c3c3b622efb0d089e1a67b8f30ab39a52882e1813a9c82419f66f4.ctv
@@ -239,6 +244,7 @@ Now新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 重庆卫视,webview://https://iptv345.com/?act=play&token=688c3f3a4ec06ffbaf16364784129d62&tid=ws&id=19
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=185620290e571bf7b1c6f59f589539eb&tid=ws&id=19 
 
+重庆影视,http://27.9.21.252:4022/udp/225.0.4.62:7980
 重庆影视,http://211.158.153.237:8008/udp/225.0.4.62:7980
 重庆影视,http://27.9.90.255:8008/udp/225.0.4.62:7980
 重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
