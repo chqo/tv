@@ -431,12 +431,12 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 黑龙江视,http://go.bkpcp.top/mg/hljws
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
-CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
-CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
-CCTV1,webview://http://www.guangbomi.com/tv/zy/cctv1.html
-CCTV1,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
+CCTV1,hybrid-webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
+CCTV1,hybrid-webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV1,hybrid-webview://http://www.guangbomi.com/tv/zy/cctv1.html
+CCTV1,hybrid-webview://https://v.lib.tju.edu.cn/tv-show-detail/3
 CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV1,webview://http://www.guangbomi.com/tv/zy/cctv1.html
+CCTV1,hybrid-webview://http://www.guangbomi.com/tv/zy/cctv1.html
 CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
 CCTV2,webview://https://tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13
 CCTV3,webview://https://tv.cctv.com/live/cctv3/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.14
