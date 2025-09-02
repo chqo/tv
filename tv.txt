@@ -245,6 +245,8 @@ Now新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 
 央视综合,#genre#
 CCTV1,http://k.061899.xyz/m.php?id=cctv1
+CCTV1,http://live.xmqkx.com/live/1001_1.m3u8
+CCTV1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 CCTV1,http://106.118.70.171:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV1,http://8.138.7.223/tv/migu666.php?name=cctv1
@@ -264,8 +266,6 @@ CCTV13,http://8.138.7.223/tv/migu666.php?name=cctv13
 CCTV14,http://8.138.7.223/tv/migu666.php?name=cctv14
 CCTV15,http://8.138.7.223/tv/migu666.php?name=cctv15
 CCTV17,http://8.138.7.223/tv/migu666.php?name=cctv17
-CCTV1,http://live.xmqkx.com/live/1001_1.m3u8
-CCTV1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 CCTV13,http://k.061899.xyz/m.php?id=cctv13
 CCTV13,http://live.xmqkx.com/live/1013_1.m3u8
 CCTV13,https://stream1.freetv.fun/5e0c514e6ba3d091c01c511c50880499f6584b993ae7c5de863424917928ece8.ctv
@@ -463,15 +463,16 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 西藏卫视,http://k.061899.xyz/m.php?id=xzws
 海南卫视,http://k.061899.xyz/m.php?id=hinws
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
+CCTV1,webview://https://tv.cctv.com/live/cctv1/
 CCTV1,webview://https://www.yangshipin.cn/tv/home
 CCTV1,video://https://www.cctv.com/
 CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
 CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
-CCTV1,hybrid-webview://http://www.guangbomi.com/tv/zy/cctv1.html
+CCTV1,webview://http://www.guangbomi.com/tv/zy/cctv1.html
 CCTV1,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
 CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV1,video://http://www.guangbomi.com/tv/zy/cctv1.html
+CCTV1,hybrid-webview://http://www.guangbomi.com/tv/zy/cctv1.html
 CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
 CCTV2,webview://https://tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13
 CCTV3,webview://https://tv.cctv.com/live/cctv3/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.14
