@@ -219,10 +219,6 @@ Now新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
-重庆卫视,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010053/1.m3u8?
-重庆卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3$4M%20FHD
-重庆卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000001096/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3$8M%20FHD
-重庆卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000004000025797/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=3$7M%20FHD
 重庆卫视,http://chiceren.myds.me:58888/rtp/239.254.200.203:6323
 重庆卫视,https://stream1.freetv.fun/4c72e26ca8c3c3b622efb0d089e1a67b8f30ab39a52882e1813a9c82419f66f4.ctv
 重庆卫视,https://stream1.freetv.fun/aa670d101e896ef95d533f4e573fc57f44e771728d1b83640c6b6e1f8ccbcbee.ctv
@@ -234,9 +230,7 @@ Now新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 重庆卫视,webview://https://iptv345.com/?act=play&token=688c3f3a4ec06ffbaf16364784129d62&tid=ws&id=19
 重庆卫视,hybrid-webview://https://iptv345.com/?act=play&token=185620290e571bf7b1c6f59f589539eb&tid=ws&id=19 
 
-重庆影视,http://27.9.21.252:4022/udp/225.0.4.62:7980
 重庆影视,http://211.158.153.237:8008/udp/225.0.4.62:7980
-重庆影视,http://27.9.90.255:8008/udp/225.0.4.62:7980
 重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
@@ -247,7 +241,7 @@ Now新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/p
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
-CCTV1,https://stream1.freetv.fun/5d284520daa692f05f56035b16d3664f0e1d00c595102fbb480bdd9365d80e12.ctv
+CCTV1,https://v.lib.tju.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/b344ec174a-0-0-da47262ea3df89348b5d4c1eb96d255e/index.m3u8
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV1,http://8.138.7.223/tv/migu666.php?name=cctv1
 CCTV2,http://8.138.7.223/tv/migu666.php?name=cctv2
@@ -293,7 +287,6 @@ CCTV12,http://106.52.196.79:80/TV/mui.php?id=cctv12
 CCTV13,http://106.52.196.79:80/TV/mui.php?id=cctv13
 CCTV15,http://106.52.196.79:80/TV/mui.php?id=cctv15
 CCTV1,http://router.870503.xyz:18885/udp/239.45.3.145:5140
-CCTV1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/19214a2db90120e01f7fa137893640cd.flv
 CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225673/1.m3u8
 CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225723/1.m3u8
 CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225770/1.m3u8
@@ -432,11 +425,11 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV1,hybrid-webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
-CCTV1,hybrid-webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV1,hybrid-webview://http://www.guangbomi.com/tv/zy/cctv1.html
-CCTV1,hybrid-webview://https://v.lib.tju.edu.cn/tv-show-detail/3
+CCTV1,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
 CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV1,hybrid-webview://http://www.guangbomi.com/tv/zy/cctv1.html
+CCTV1,video://http://www.guangbomi.com/tv/zy/cctv1.html
 CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
 CCTV2,webview://https://tv.cctv.com/live/cctv2/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.13
 CCTV3,webview://https://tv.cctv.com/live/cctv3/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.14
