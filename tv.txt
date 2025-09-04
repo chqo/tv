@@ -2387,3 +2387,14 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 央视春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 川渝春晚,https://svipsvip.ffzyread1.com/20250129/35455_18491156/index.m3u8
       
+80周年阅兵与晚会,#genre#
+抗战胜利80周年阅兵,https://f.video.weibocdn.com/o0/EIgppUZ4lx08r7rgRDws0104120tq2DS0E0b0.mp4?label=mp4_720p&template=864x486.25.0&media_id=5206811431862308&tp=ClyPwxTpev3p5rBIJG7:YTkl0eM8&us=0&ori=1&bf=2&ot=h&ps=3lckmu&uid=7ZwuKJ&ab=,15568-g4,8013-g0,3601-g41&Expires=1757001380&ssig=%2FApFlTu5Ix&KID=unistore,video
+抗战胜利80周年阅兵,webview://https://news.sina.com.cn/c/2025-09-03/doc-infpfakm2783031.shtml
+纪念抗战胜利80周年文艺晚会,https://live.video.weibocdn.com/5206866932272215_wb720avc_index.m3u8
+纪念抗战胜利80周年文艺晚会,https://res.cctvnews.cctv.com/video/3005/record/event/merge10/141291610169442714025013005/9ec838f480fe497e941d41a0b57c64b5-4.m3u8
+纪念抗战胜利80周年文艺晚会,https://f.video.weibocdn.com/o0/nochaj2Nlx08r8AveI4801041204XzmL0E020.mp4?label=mp4_720p&template=996x560.25.0&media_id=5207074526134346&tp=ClyPwxTpev3p5rBIJG7:YTkl0eM8&us=0&ori=1&bf=2&ot=h&ps=3lckmu&uid=7ZwuKJ&ab=,15568-g4,8013-g0,3601-g41&Expires=1757002583&ssig=spadYYo2CV&KID=unistore,video
+纪念抗战胜利80周年文艺晚会,webview://https://tv.cctv.com/2025/09/03/VIDEytnfFINYYYATYr7tY0S8250903.shtml
+纪念抗战胜利80周年文艺晚会,webview://https://weibo.com/l/wblive/p/show/1022:2321325206866933448898
+纪念抗战胜利80周年文艺晚会,webview://https://ysxw.cctv.cn/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=18216110935460793790&channelId=1217&ban=1
+纪念抗战胜利80周年文艺晚会,webview://https://news.youth.cn/sz/202509/t20250904_16216214.htm
+纪念抗战胜利80周年文艺晚会,webview://https://news.qq.com/rain/a/20250904A01ZSP00
