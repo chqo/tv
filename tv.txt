@@ -2388,6 +2388,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 川渝春晚,https://svipsvip.ffzyread1.com/20250129/35455_18491156/index.m3u8
       
 80周年阅兵与晚会,#genre#
+抗战胜利80周年阅兵,https://video19.ifeng.com/video09/2025/09/03/p7368865175413198986-102-124417.mp4
 抗战胜利80周年阅兵,video://https://video19.ifeng.com/video09/2025/09/03/p7368865175413198986-102-124417.mp4?reqtype=tsl
 抗战胜利80周年阅兵,webview://https://v.ifeng.com/c/8mLT0Cah8Cu
 抗战胜利80周年阅兵,webview://https://tv.cctv.com/2025/09/03/VIDE1oshG5VOZzNKcHtrW8id250903.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.2
