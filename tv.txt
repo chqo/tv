@@ -217,12 +217,8 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 重庆频道,#genre#
 重庆卫视,http://cq7.xeace.top:20002/rtp/235.254.196.249:1268
 重庆卫视,http://hfsite4.humh.fun:4022/rtp/238.1.78.31:6176
-重庆卫视,http://router.870503.xyz:18885/rtp/239.45.1.84:5140
-重庆卫视,http://live.xmqkx.com/live/cqws.m3u8
-重庆卫视,http://live.xmqkx.com/live/cqws.flv
 重庆卫视,http://k.061899.xyz/m.php?id=cqws
 重庆卫视,http://106.118.70.171:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://cq7.xeace.top:20002/rtp/235.254.196.249:1268
 重庆卫视,http://314644.xyz:17777/rtp/239.49.8.57:9830
 重庆卫视,http://www.li0580.top:4022/udp/233.50.201.66:5140
 重庆卫视,https://stream1.freetv.fun/aa670d101e896ef95d533f4e573fc57f44e771728d1b83640c6b6e1f8ccbcbee.ctv
@@ -234,7 +230,8 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 重庆卫视,webview://https://iptv345.com/?act=play&token=688c3f3a4ec06ffbaf16364784129d62&tid=ws&id=19
 重庆卫视,webview://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
-重庆影视,http://211.158.153.237:8008/udp/225.0.4.62:7980
+重庆影视,http://106.83.115.236:8188/rtp/235.254.196.209:1108
+重庆影视,http://211.92.42.165:3080/udp/225.0.4.62:7980
 重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
@@ -2389,7 +2386,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
       
 80周年阅兵与晚会,#genre#
 抗战胜利80周年阅兵,https://video19.ifeng.com/video09/2025/09/03/p7368865175413198986-102-124417.mp4
-抗战胜利80周年阅兵,video://https://video19.ifeng.com/video09/2025/09/03/p7368865175413198986-102-124417.mp4?reqtype=tsl
+抗战胜利80周年阅兵,https://video19.ifeng.com/video09/2025/09/03/p7368865175413198986-102-124417.mp4?reqtype=tsl
 抗战胜利80周年阅兵,webview://https://v.ifeng.com/c/8mLT0Cah8Cu
 抗战胜利80周年阅兵,webview://https://tv.cctv.com/2025/09/03/VIDE1oshG5VOZzNKcHtrW8id250903.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.2
 抗战胜利80周年阅兵,webview://https://news.cctv.com/special/2025spj/ybfc/index.shtml?spm=C94212.Pk8cc3AMrVwF.S90142.1
