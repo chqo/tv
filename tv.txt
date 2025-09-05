@@ -2388,13 +2388,12 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 川渝春晚,https://svipsvip.ffzyread1.com/20250129/35455_18491156/index.m3u8
       
 80周年阅兵与晚会,#genre#
-抗战胜利80周年阅兵,https://mpvideo.qpic.cn/0b2exydvaaahmaam4i5q6nufppwdkc7aouaa.f10002.mp4?dis_k=7dad00116712c0eb6529d51646814e0c&dis_t=1757047710&play_scene=10120&auth_info=dIeus55YZ2Bs4+vlnA4KVjsOfmhjFB43OU1rZTZHP2dMMkUDcGxNWEQkJzoNPxpGMwwqPGBcJktsBjo8YhxyZFIy&auth_key=72e7a674a216c8f002312c0a92b66a2f&vid=l3170weo60l&format_id=10002&support_redirect=0&mmversion=false
-抗战胜利80周年阅兵,https://video19.ifeng.com/video09/2025/09/03/p7368865175413198986-102-124417.mp4?reqtype=tsl
+抗战胜利80周年阅兵,video://https://video19.ifeng.com/video09/2025/09/03/p7368865175413198986-102-124417.mp4?reqtype=tsl
 抗战胜利80周年阅兵,webview://https://v.ifeng.com/c/8mLT0Cah8Cu
 抗战胜利80周年阅兵,webview://https://tv.cctv.com/2025/09/03/VIDE1oshG5VOZzNKcHtrW8id250903.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.2
-抗战胜利80周年阅兵,video://https://news.cctv.com/special/2025spj/ybfc/index.shtml?spm=C94212.Pk8cc3AMrVwF.S90142.1
-抗战胜利80周年阅兵,video://https://mp.weixin.qq.com/s/KWqSp0-xeR0hlswnjeFSag
-抗战胜利80周年阅兵,video://https://so.douyin.com/video/detail?aweme_id=7545719033585306914
+抗战胜利80周年阅兵,webview://https://news.cctv.com/special/2025spj/ybfc/index.shtml?spm=C94212.Pk8cc3AMrVwF.S90142.1
+抗战胜利80周年阅兵,webview://https://mp.weixin.qq.com/s/KWqSp0-xeR0hlswnjeFSag
+抗战胜利80周年阅兵,webview://https://so.douyin.com/video/detail?aweme_id=7545719033585306914
 抗战胜利80周年阅兵,webview://https://play.tudou.com/v_show/id_XNjQ5MDY4ODI2OA==.html
 纪念抗战胜利80周年文艺晚会,https://live.video.weibocdn.com/5206866932272215_wb720avc_index.m3u8
 纪念抗战胜利80周年文艺晚会,https://res.cctvnews.cctv.com/video/3005/record/event/merge10/141291610169442714025013005/9ec838f480fe497e941d41a0b57c64b5-4.m3u8
