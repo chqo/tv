@@ -92,6 +92,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
 凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,http://j.s.bkpcp.top/js/fhzw
@@ -192,10 +193,12 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 港澳台web,#genre#
-凤凰卫视中文台,webview://https://m2.iptv807.com/?act=play&token=09e4da38ec7a2fa22f156b2c1085b517&tid=gt&id=1
-凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=aa68620ee073f97914ddb47ad65d3a09&tid=gt&id=1
+凤凰卫视中文台,webview://https://m2.iptv807.com/?act=play&token=82a2685a0fd0b4eeb11ed2ee950fe690&tid=gt&id=1
+凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=82a2685a0fd0b4eeb11ed2ee950fe690&tid=gt&id=1
+凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=82a2685a0fd0b4eeb11ed2ee950fe690&tid=gt&id=1
 凤凰卫视资讯台,webview://https://m.345iptv.com/?act=play&token=ab9b9c81b762db77c2d9e47fd6efc608&tid=gt&id=2
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
+凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=ad42c26b6c3f8e0feb7c8d571490a371&tid=gt&id=2
 凤凰卫视资讯台,webview://https://iptv345.com/?act=play&token=70660a30481ef246bed07142c0873d61&tid=gt&id=2 
 凤凰卫视香港台,webview://https://m.345iptv.com/?act=play&token=184c0075ad4e29ba6f71f3bcf3ef4771&tid=gt&id=3
 凤凰卫视香港台,webview://https://iptv345.com/?act=play&token=26d1e61edfdcbc3b0df63c1040978269&tid=gt&id=3
@@ -215,15 +218,15 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
+重庆卫视,http://168250.xyz:1111/rtp/239.5.1.47:5000
+重庆卫视,http://huijie5421.cn:8800/rtp/239.49.8.57:9830
 重庆卫视,http://cq7.xeace.top:20002/rtp/235.254.196.249:1268
 重庆卫视,http://hfsite4.humh.fun:4022/rtp/238.1.78.31:6176
+重庆卫视,http://hmh.mycloudnas.com:4022/rtp/238.1.78.31:6176
 重庆卫视,http://k.061899.xyz/m.php?id=cqws
-重庆卫视,http://106.118.70.171:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://314644.xyz:17777/rtp/239.49.8.57:9830
 重庆卫视,http://www.li0580.top:4022/udp/233.50.201.66:5140
 重庆卫视,https://stream1.freetv.fun/aa670d101e896ef95d533f4e573fc57f44e771728d1b83640c6b6e1f8ccbcbee.ctv
 重庆卫视,https://stream1.freetv.fun/4c72e26ca8c3c3b622efb0d089e1a67b8f30ab39a52882e1813a9c82419f66f4.ctv
-重庆卫视,https://stream1.freetv.fun/f086c767304aa159b2fabd7242210345a74838560a7016e8b06b107a024682e5.ctv
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
@@ -235,10 +238,10 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,https://stream1.freetv.fun/7cb776c822bdeff24659e9094d1b26668887d8813bb898e0c587634bd0ba3a13.ctv
+重庆新闻,
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
-重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
+重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -247,7 +250,6 @@ CCTV1,http://live.xmqkx.com/live/1001_1.m3u8
 CCTV6,http://live.xmqkx.com/live/1006_1.m3u8
 CCTV8,http://live.xmqkx.com/live/1008_1.m3u8
 CCTV1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
-CCTV1,http://106.118.70.171:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV1,http://8.138.7.223/tv/migu666.php?name=cctv1
 CCTV2,http://8.138.7.223/tv/migu666.php?name=cctv2
@@ -2385,8 +2387,8 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 川渝春晚,https://svipsvip.ffzyread1.com/20250129/35455_18491156/index.m3u8
       
 80周年阅兵与晚会,#genre#
-抗战胜利80周年阅兵,https://video19.ifeng.com/video09/2025/09/03/p7368865175413198986-102-124417.mp4
 抗战胜利80周年阅兵,https://video19.ifeng.com/video09/2025/09/03/p7368865175413198986-102-124417.mp4?reqtype=tsl
+抗战胜利80周年阅兵,webview://https://haokan.baidu.com/v?vid=10569833888141912614
 抗战胜利80周年阅兵,webview://https://v.ifeng.com/c/8mLT0Cah8Cu
 抗战胜利80周年阅兵,webview://https://tv.cctv.com/2025/09/03/VIDE1oshG5VOZzNKcHtrW8id250903.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.2
 抗战胜利80周年阅兵,webview://https://news.cctv.com/special/2025spj/ybfc/index.shtml?spm=C94212.Pk8cc3AMrVwF.S90142.1
