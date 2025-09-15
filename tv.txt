@@ -222,6 +222,7 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
+重庆卫视,http://61.140.126.117:10000/udp/239.77.0.182:5146
 重庆卫视,http://221.227.218.51:8888/rtp/239.49.1.42:6000
 重庆卫视,http://huijie5421.cn:8800/rtp/239.49.8.57:9830
 重庆卫视,http://314644.xyz:17777/rtp/239.49.8.57:9830
@@ -241,14 +242,14 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 重庆卫视,webview://https://iptv345.com/?act=play&token=688c3f3a4ec06ffbaf16364784129d62&tid=ws&id=19
 重庆卫视,webview://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
-重庆影视,http://113.251.230.87:7788/rtp/235.254.196.209:1108
-重庆影视,http://123.145.26.144:8002/udp/225.0.4.62:7980
-重庆影视,http://113.248.218.123:8181/rtp/235.254.196.209:1108
+重庆影视,http://27.10.210.43:8008/udp/225.0.4.62:7980
+重庆影视,http://27.10.209.234:8008/udp/225.0.4.62:7980
+重庆影视,http://113.251.225.138:7788/rtp/235.254.196.209:1108
 重庆影视,http://123.146.51.54:8888/udp/225.0.4.62:7980
 重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,http://123.145.26.144:8002/udp/225.0.4.59:7980
+重庆新闻,http://27.10.210.43:8008/udp/225.0.4.59:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
