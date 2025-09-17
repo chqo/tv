@@ -211,18 +211,16 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
-重庆卫视,http://171.213.236.176:8686/udp/239.93.0.119:5140
+重庆卫视,http://112.67.41.94:8686/rtp/239.253.64.35:5140
+重庆卫视,http://60.13.52.236:65500/newlive/live/hls/37/live.m3u8
+重庆卫视,http://180.105.84.207:8686/rtp/239.49.1.42:6000
 重庆卫视,http://124.116.170.138:8081/rtp/239.112.205.179:5140
-重庆卫视,http://yaching.xmtcenter.com:9999/rtp/239.254.200.203:6323
 重庆卫视,http://b.xiongnas.top:8888/rtp/239.3.1.122:8160
-重庆卫视,http://aik.ddnsfile.top:65235/rtp/239.21.1.233:5002
 重庆卫视,http://huijie5421.cn:8800/rtp/239.49.8.57:9830
 重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
 重庆卫视,http://219.147.245.238:25380/newlive/live/hls/30/live.m3u8
-重庆卫视,http://60.13.52.236:65500/newlive/live/hls/37/live.m3u8
 重庆卫视,http://183.249.78.44:10800/newlive/live/hls/25/live.m3u8
 重庆卫视,http://61.162.52.6:8088/newlive/live/hls/33/live.m3u8
-重庆卫视,http://huijie5421.cn:8800/rtp/239.49.8.57:9830
 重庆卫视,http://314644.xyz:17777/rtp/239.49.8.57:9830
 重庆卫视,http://nas.swes.cn:8089/udp/239.93.1.107:5140
 重庆卫视,http://zqh2333.top:2222/rtp/239.93.25.107:5140
