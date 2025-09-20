@@ -190,8 +190,8 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 
 港澳台web,#genre#
 凤凰卫视中文台,webview://https://m2.iptv807.com/?act=play&token=82a2685a0fd0b4eeb11ed2ee950fe690&tid=gt&id=1
-凤凰卫视中文台,video://https://iptv345.com/?act=play&token=82a2685a0fd0b4eeb11ed2ee950fe690&tid=gt&id=1
-凤凰卫视中文台,video://https://345iptv.com/?act=play&token=82a2685a0fd0b4eeb11ed2ee950fe690&tid=gt&id=1
+凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=82a2685a0fd0b4eeb11ed2ee950fe690&tid=gt&id=1
+凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=82a2685a0fd0b4eeb11ed2ee950fe690&tid=gt&id=1
 凤凰卫视资讯台,webview://https://m.345iptv.com/?act=play&token=ab9b9c81b762db77c2d9e47fd6efc608&tid=gt&id=2
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=ad42c26b6c3f8e0feb7c8d571490a371&tid=gt&id=2
@@ -240,13 +240,13 @@ CCTV风云剧场,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=fyjcHD
 重庆卫视,webview://https://m2.iptv807.com/?act=play&token=d63d8e8c037270f399f4d4b42deb6b2d&tid=ws&id=19
 重庆卫视,video://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
-重庆影视,http://106.81.148.235:2345/rtp/235.254.196.209:1108
-重庆影视,http://113.251.230.87:7788/rtp/235.254.196.209:1108
+重庆影视,http://123.146.106.238:3080/udp/225.0.4.62:7980
+重庆影视,http://27.10.209.109:8007/udp/225.0.4.62:7980
 重庆影视,http://113.251.230.87:7788/rtp/235.254.198.180:7980
 重庆影视,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqyingshiHD
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,http://211.158.154.61:8008/udp/225.0.4.59:7980
+重庆新闻,http://123.146.106.238:3080/udp/225.0.4.59:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
