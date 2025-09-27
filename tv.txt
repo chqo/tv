@@ -7,7 +7,7 @@
 
 中国天气,http://8.138.7.223/tv/cqyx2.php?id=tianqiSD
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-
+中国天气,video://https://live.douyin.com/655743522863
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
 重温经典,http://ygbh.site/php/bfgd.php?id=636
@@ -175,6 +175,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰卫视中文台,webview://https://m2.iptv807.com/?act=play&token=82a2685a0fd0b4eeb11ed2ee950fe690&tid=gt&id=1
 凤凰卫视中文台,webview://https://iptv345.com/?act=play&token=82a2685a0fd0b4eeb11ed2ee950fe690&tid=gt&id=1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=82a2685a0fd0b4eeb11ed2ee950fe690&tid=gt&id=1
+凤凰卫视中文台,video://https://live.douyin.com/40184312758
 凤凰卫视资讯台,webview://https://m.345iptv.com/?act=play&token=ab9b9c81b762db77c2d9e47fd6efc608&tid=gt&id=2
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=ad42c26b6c3f8e0feb7c8d571490a371&tid=gt&id=2
@@ -197,6 +198,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
+重庆卫视,http://171.213.132.111:4443/udp/239.93.0.119:5140
+重庆卫视,http://171.213.195.16:808/hls/31/index.m3u8
 重庆卫视,http://nas.xlnas.com:4022/udp/239.93.0.119:5140
 重庆卫视,http://nas.xlnas.com:4022/udp/239.93.1.107:5140
 重庆卫视,http://219.147.245.238:25380/newlive/live/hls/30/live.m3u8
@@ -224,7 +227,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m2.iptv807.com/?act=play&token=d63d8e8c037270f399f4d4b42deb6b2d&tid=ws&id=19
 重庆卫视,video://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
-重庆影视,http://113.251.225.245:4022/udp/235.254.199.180:7980
+重庆影视,http://123.145.22.25:8004/udp/225.0.4.62:7980
+重庆影视,http://124.162.85.150:4022/udp/225.0.4.62:7980
+重庆影视,http://27.9.91.216:8008/udp/225.0.4.62:7980
 重庆影视,http://113.251.225.245:4022/udp/235.254.197.105:7980
 重庆影视,http://113.251.225.245:4022/rtp/235.254.196.209:1108
 
