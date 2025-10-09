@@ -7,7 +7,7 @@
 
 中国天气,http://8.138.7.223/tv/cqyx2.php?id=tianqiSD
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-
+重温经典,http://106.53.99.30/tv/hot.php?id=cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
 重温经典,http://ygbh.site/php/bfgd.php?id=636
@@ -91,12 +91,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
-凤凰中文,http://8.138.7.223/api/011hk.php?id=1&token=af6e493318c0fc24f78e55a9c245409b598b9c22a22afec0e764c6501bfe82d4 
-凤凰资讯,http://8.138.7.223/api/011hk.php?id=2&token=af6e493318c0fc24f78e55a9c245409b598b9c22a22afec0e764c6501bfe82d4 
-凤凰香港,http://8.138.7.223/api/011hk.php?id=3&token=af6e493318c0fc24f78e55a9c245409b598b9c22a22afec0e764c6501bfe82d4
-凤凰中文,http://8.138.7.223/api/01hk.php?id=fhwszwt&token=af6e493318c0fc24f78e55a9c245409b598b9c22a22afec0e764c6501bfe82d4
-凤凰资讯,http://8.138.7.223/api/01hk.php?id=fhwszxt&token=af6e493318c0fc24f78e55a9c245409b598b9c22a22afec0e764c6501bfe82d4
-凤凰香港,http://8.138.7.223/api/01hk.php?id=fhwsxgt&token=af6e493318c0fc24f78e55a9c245409b598b9c22a22afec0e764c6501bfe82d4 
 凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://iptv.4666888.xyz/iptv2.php?id=60
@@ -203,7 +197,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
-重庆卫视,http://113.206.185.26:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://125.82.181.57:9999/rtp/235.254.198.34:1412
 重庆卫视,http://211.158.155.204:8009/udp/225.0.4.187:7980
 重庆卫视,http://168250.xyz:1111/rtp/239.5.1.47:5000
 重庆卫视,http://222.95.140.66:58888/udp/239.49.8.57:9830
@@ -230,15 +224,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m2.iptv807.com/?act=play&token=d63d8e8c037270f399f4d4b42deb6b2d&tid=ws&id=19
 重庆卫视,video://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
-重庆影视,http://211.158.48.138:8010/udp/225.0.4.62:7980
-重庆影视,http://211.158.155.204:8009/udp/225.0.4.62:7980
-重庆影视,http://124.162.85.150:4022/udp/225.0.4.62:7980
-重庆影视,http://27.9.91.216:8008/udp/225.0.4.62:7980
-重庆影视,http://113.251.225.245:4022/udp/235.254.197.105:7980
-重庆影视,http://113.251.225.245:4022/rtp/235.254.196.209:1108
+重庆影视,http://211.158.48.108:8008/udp/225.0.4.62:7980
+重庆影视,http://113.206.222.202:4000/udp/225.0.4.62:7980
+重庆影视,http://27.10.77.166:8008/udp/225.0.4.62:7980
+重庆影视,http://125.82.181.57:9999/rtp/235.254.196.209:1108
+重庆影视,http://119.84.196.124:7777/rtp/235.254.196.209:1108
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,http://211.158.48.138:8010/udp/225.0.4.59:7980
+重庆新闻,http://125.82.181.57:9999/rtp/235.254.196.208:1104
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
@@ -246,6 +239,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
+CCTV1,http://8.138.7.223/tv/migu720.php?id=CCTV1
+CCTV2,http://8.138.7.223/tv/migu720.php?id=CCTV2
+CCTV3,http://8.138.7.223/tv/migu720.php?id=CCTV3
+CCTV4,http://8.138.7.223/tv/migu720.php?id=CCTV4
+CCTV5,http://8.138.7.223/tv/migu720.php?id=CCTV5
+CCTV6,http://8.138.7.223/tv/migu720.php?id=CCTV6
+CCTV8,http://8.138.7.223/tv/migu720.php?id=CCTV8
+CCTV13,http://8.138.7.223/tv/migu720.php?id=CCTV13
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -335,6 +336,65 @@ CCTV17,http://k.061899.xyz/m.php?id=cctv17
 新疆卫视,http://k.061899.xyz/m.php?id=xjws
 西藏卫视,http://k.061899.xyz/m.php?id=xzws
 海南卫视,http://k.061899.xyz/m.php?id=hinws
+CCTV1综合,http://106.53.99.30/tv/hot.php?id=cctv1
+CCTV2财经,http://106.53.99.30/tv/hot.php?id=cctv2
+CCTV3综艺,http://106.53.99.30/tv/hot.php?id=cctv3
+CCTV4中文国际,http://106.53.99.30/tv/hot.php?id=cctv4
+CCTV4美洲,http://106.53.99.30/tv/hot.php?id=cctv4m
+CCTV4欧洲,http://106.53.99.30/tv/hot.php?id=cctv4o
+CCTV5体育,http://106.53.99.30/tv/hot.php?id=cctv5
+CCTV5+体育赛事,http://106.53.99.30/tv/hot.php?id=cctv5p
+CCTV6电影,http://106.53.99.30/tv/hot.php?id=cctv6
+CCTV7国防军事,http://106.53.99.30/tv/hot.php?id=cctv7
+CCTV8电视剧,http://106.53.99.30/tv/hot.php?id=cctv8
+CCTV9纪录,http://106.53.99.30/tv/hot.php?id=cctv9
+CCTV10科教,http://106.53.99.30/tv/hot.php?id=cctv10
+CCTV11戏曲,http://106.53.99.30/tv/hot.php?id=cctv11
+CCTV12社会与法,http://106.53.99.30/tv/hot.php?id=cctv12
+CCTV13新闻,http://106.53.99.30/tv/hot.php?id=cctv13
+CCTV14少儿,http://106.53.99.30/tv/hot.php?id=cctv14
+CCTV15音乐,http://106.53.99.30/tv/hot.php?id=cctv15
+CCTV16奥运,http://106.53.99.30/tv/hot.php?id=cctv16
+CCTV17农业农村,http://106.53.99.30/tv/hot.php?id=cctv17
+CHC家庭影院,http://106.53.99.30/tv/hot.php?id=jtyy
+CHC动作电影,http://106.53.99.30/tv/hot.php?id=dzdy
+CHC影迷电影,http://106.53.99.30/tv/hot.php?id=ymdy
+CCTV发现之旅,http://106.53.99.30/tv/hot.php?id=fxzl
+CCTV中学生,http://106.53.99.30/tv/hot.php?id=zxs
+CCTV老故事,http://106.53.99.30/tv/hot.php?id=lgs
+CETV 1 中国教育,http://106.53.99.30/tv/hot.php?id=cetv1
+CETV 2 中国教育,http://106.53.99.30/tv/hot.php?id=cetv2
+CETV 4 中国教育,http://106.53.99.30/tv/hot.php?id=cetv4
+湖南卫视,http://106.53.99.30/tv/hot.php?id=hunws
+北京卫视,http://106.53.99.30/tv/hot.php?id=bjws
+浙江卫视,http://106.53.99.30/tv/hot.php?id=zjws
+广东卫视,http://106.53.99.30/tv/hot.php?id=gdws
+江苏卫视,http://106.53.99.30/tv/hot.php?id=jsws
+东方卫视,http://106.53.99.30/tv/hot.php?id=dfws
+陕西卫视,http://106.53.99.30/tv/hot.php?id=sxws
+江西卫视,http://106.53.99.30/tv/hot.php?id=jxws
+湖北卫视,http://106.53.99.30/tv/hot.php?id=hubws
+吉林卫视,http://106.53.99.30/tv/hot.php?id=jlws
+青海卫视,http://106.53.99.30/tv/hot.php?id=qhws
+河南卫视,http://106.53.99.30/tv/hot.php?id=hnws
+东南卫视,http://106.53.99.30/tv/hot.php?id=dnws
+大湾区卫视,http://106.53.99.30/tv/hot.php?id=dwqws
+海南卫视,http://106.53.99.30/tv/hot.php?id=hinws
+重庆卫视,http://106.53.99.30/tv/hot.php?id=cqws
+黑龙江卫视,http://106.53.99.30/tv/hot.php?id=hljws
+吉林卫视,http://106.53.99.30/tv/hot.php?id=jlws
+内蒙古卫视,http://106.53.99.30/tv/hot.php?id=nmgws
+甘肃卫视,http://106.53.99.30/tv/hot.php?id=gsws
+河北卫视,http://106.53.99.30/tv/hot.php?id=hbws
+山西卫视,http://106.53.99.30/tv/hot.php?id=sxiws
+山东卫视,http://106.53.99.30/tv/hot.php?id=sdws
+深圳卫视,http://106.53.99.30/tv/hot.php?id=szws
+云南卫视,http://106.53.99.30/tv/hot.php?id=ynws
+贵州卫视,http://106.53.99.30/tv/hot.php?id=gzws
+四川卫视,http://106.53.99.30/tv/hot.php?id=scws
+新疆卫视,http://106.53.99.30/tv/hot.php?id=xjws
+西藏卫视,http://106.53.99.30/tv/hot.php?id=xzws
+重温经典,http://106.53.99.30/tv/hot.php?id=cwjd
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV1,http://k.061899.xyz/m.php?id=cctv1
