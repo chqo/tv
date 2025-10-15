@@ -219,18 +219,15 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://iptv345.com/?act=play&token=a92799b7c3014cd056de5525363b7f5d&tid=gt&id=30
 
 重庆频道,#genre#
-重庆卫视,https://tvpull.careryun.com/live/dfa8c4d7401834d92f178148d3fc7fa5.m3u8?txSecret=783f29fa9e4e2583b9535dd5750de152&txTime=68ee52f1
 重庆卫视,http://113.206.222.202:4000/udp/225.0.4.187:7980
 重庆卫视,http://183.66.66.199:2345/rtp/235.254.198.34:1412
 重庆卫视,http://106.81.41.202:2190/udp/235.254.197.103:7980
 重庆卫视,http://106.81.41.202:2190/rtp/235.254.198.34:1412
 重庆卫视,http://183.66.66.199:2345/rtp/235.254.197.103:7980
-重庆卫视,http://125.80.159.237:7788/rtp/235.254.198.34:1412
 重庆卫视,http://113.251.225.245:4022/udp/235.254.199.34:7980
-重庆卫视,http://27.15.188.173:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://27.15.113.199:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://222.223.84.112:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://101.74.29.166:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://61.163.181.78:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$线路7
+重庆卫视,http://110.80.17.38:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0$线路6
+重庆卫视,http://180.165.20.37:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$线路1
 重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://168250.xyz:1111/rtp/239.5.1.47:5000
 重庆卫视,http://222.95.140.66:58888/udp/239.49.8.57:9830
@@ -257,9 +254,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://113.206.222.202:4000/udp/225.0.4.62:7980
 重庆影视,http://183.66.66.199:2345/rtp/235.254.196.209:1108
 重庆影视,http://183.66.66.199:2345/rtp/235.254.198.180:7980
-重庆影视,http://125.80.159.237:7788/rtp/235.254.196.209:1108
 重庆影视,http://125.80.159.237:7788/udp/235.254.199.180:7980
-重庆影视,http://125.80.251.184:7788/udp/235.254.199.180:7980
 重庆影视,http://113.251.225.245:4022/udp/235.254.199.180:7980
 重庆影视,http://113.251.225.245:4022/udp/235.254.197.105:7980
 重庆影视,http://113.251.225.245:4022/rtp/235.254.196.209:1108
