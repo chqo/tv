@@ -248,7 +248,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m2.iptv807.com/?act=play&token=d63d8e8c037270f399f4d4b42deb6b2d&tid=ws&id=19
 重庆卫视,video://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
-重庆影视,http://123.145.22.25:8004/udp/225.0.4.62:7980
+重庆影视,http://27.8.195.39:4022/udp/225.0.4.62:7980
+重庆影视,http://27.10.215.11:8010/udp/225.0.4.62:7980
+重庆影视,http://27.10.211.216:8010/udp/225.0.4.62:7980
 重庆影视,http://113.206.222.202:4000/udp/225.0.4.62:7980
 重庆影视,http://106.81.41.202:2190/rtp/235.254.196.209:1108
 重庆影视,http://113.206.222.202:4000/udp/225.0.4.62:7980
@@ -259,8 +261,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://113.251.225.245:4022/udp/235.254.197.105:7980
 重庆影视,http://113.251.225.245:4022/rtp/235.254.196.209:1108
 重庆影视,http://27.15.188.173:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆影视,http://27.15.113.199:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆影视,http://27.10.211.216:8008/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://8.138.7.223/api/31cq.php?id=2&token=49c8612ef4fe518c0eecc987e4109fa7993d96fac447bfcbca86781cc3499fec 
