@@ -16,7 +16,8 @@
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
-金色学堂,http://106.86.155.230:20001/udp/235.254.197.40:7980
+
+金色学堂,http://a.708d.com:10010/udp/239.45.1.118:5140
 金色学堂,http://home.kaijuns.cn:4000/rtp/239.121.4.78:8442
 金色学堂,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8
 金色学堂,http://b.402089.xyz:4022/udp/233.50.200.122:5140
@@ -199,6 +200,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://113.206.222.202:4000/udp/225.0.4.187:7980
 重庆卫视,http://183.66.66.199:2345/rtp/235.254.198.34:1412
 重庆卫视,http://106.81.41.202:2190/udp/235.254.197.103:7980
+重庆卫视,http://171.213.215.248:4022/udp/239.93.1.107:5140
+重庆卫视,http://171.213.156.219:4022/udp/239.93.0.119:5140
+重庆卫视,http://a.708d.com:10010/udp/239.45.1.84:5140
+重庆卫视,http://sjx_jt.x3322.net:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://a.708d.com:10010/udp/239.45.1.84:5140
 重庆卫视,http://183.66.66.199:2345/rtp/235.254.197.103:7980
 重庆卫视,http://113.251.225.245:4022/udp/235.254.199.34:7980
@@ -226,6 +231,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m2.iptv807.com/?act=play&token=d63d8e8c037270f399f4d4b42deb6b2d&tid=ws&id=19
 重庆卫视,video://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
+重庆影视,http://123.144.36.202:9000/udp/225.0.4.62:7980
 重庆影视,http://14.110.105.246:2345/rtp/235.254.196.209:1108
 重庆影视,http://14.110.105.246:2345/rtp/235.254.198.180:7980
 重庆影视,http://27.8.195.39:4022/udp/225.0.4.62:7980
@@ -247,6 +253,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
+重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
 重庆汽摩,http://113.251.225.245:4022/udp/235.254.199.169:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
