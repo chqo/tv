@@ -199,6 +199,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://106.53.99.30/tv/hot.php?id=cqws
+重庆卫视,https://tvpull.careryun.com/live/dfa8c4d7401834d92f178148d3fc7fa5.m3u8?txSecret=f0ed32ec6f47e5e9b5e6ed2fe318f479&txTime=68f7163c
 重庆卫视,http://220.176.218.102:9000/udp/239.252.220.94:5140
 重庆卫视,http://222.95.140.66:58888/udp/239.49.8.57:9830
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -255,7 +256,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 CCTV1,http://106.53.99.30/tv/cctv1.php
 CCTV2,http://106.53.99.30/tv/cctv2.php
 CCTV1,https://migu.188766.xyz/?migutoken=a69665c05769a1bfc150b7ad19ce1c07&id=CCTV1&type=yy
-CCTV1,https://tvpull.careryun.com/live/6affc23769b9b98ae2aef4a030603d8b.m3u8?txSecret=3f4dcbed9c60bb5fcc843f2a68f51500&txTime=68f639f7
 CCTV6,https://tvpull.careryun.com/live/6212fce3f9dbc18dd52290c9b11c878b.m3u8?txSecret=7aac4f9b2bfd5b8bb28416405da22388&txTime=68f639f7
 CCTV8,https://migu.188766.xyz/?migutoken=481c587cc48b6b7744d0c5f5b9a0f0be&id=CCTV8&type=yy
 CCTV8,https://stream1.freetv.fun/2e306ebe387de83590a676b156f6db16f86d4c598cb04b945d3a9deb2a2f5f68.ctv
@@ -263,6 +263,23 @@ CCTV8,https://stream1.freetv.fun/fc2535afafc8ca6e18d81098a0eb9ea0a6b4e67150a1850
 CCTV8,https://stream1.freetv.fun/c56d3dd0b4ddf0b1b4cc8bc46e01b5cba32d1ee02e602c39e09971b5b5971235.ctv
 CCTV8,https://stream1.freetv.fun/cb997f441801a5bca8c092be9816cd3915e26d24e20df6a2e511d3c750eea86e.ctv
 CCTV13,http://106.53.99.30/tv/cctv13.php
+CCTV1,http://iptv.cqshushu.com/migu.php?pid=cctv1&token=41206abed55e7c3acacee81b580418e8
+CCTV2,http://iptv.cqshushu.com/migu.php?pid=cctv2&token=41206abed55e7c3acacee81b580418e8
+CCTV3,http://iptv.cqshushu.com/migu.php?pid=cctv3&token=41206abed55e7c3acacee81b580418e8
+CCTV4,http://iptv.cqshushu.com/migu.php?pid=cctv4&token=41206abed55e7c3acacee81b580418e8
+CCTV5,http://iptv.cqshushu.com/migu.php?pid=cctv5&token=41206abed55e7c3acacee81b580418e8
+CCTV5+,http://iptv.cqshushu.com/migu.php?pid=cctv5p&token=41206abed55e7c3acacee81b580418e8
+CCTV6,http://iptv.cqshushu.com/migu.php?pid=cctv6&token=41206abed55e7c3acacee81b580418e8
+CCTV7,http://iptv.cqshushu.com/migu.php?pid=cctv7&token=41206abed55e7c3acacee81b580418e8
+CCTV8,http://iptv.cqshushu.com/migu.php?pid=cctv8&token=41206abed55e7c3acacee81b580418e8
+CCTV9,http://iptv.cqshushu.com/migu.php?pid=cctv9&token=41206abed55e7c3acacee81b580418e8
+CCTV10,http://iptv.cqshushu.com/migu.php?pid=cctv10&token=41206abed55e7c3acacee81b580418e8
+CCTV11,http://iptv.cqshushu.com/migu.php?pid=cctv11&token=41206abed55e7c3acacee81b580418e8
+CCTV12,http://iptv.cqshushu.com/migu.php?pid=cctv12&token=41206abed55e7c3acacee81b580418e8
+CCTV13,http://iptv.cqshushu.com/migu.php?pid=cctv13&token=41206abed55e7c3acacee81b580418e8
+CCTV14,http://iptv.cqshushu.com/migu.php?pid=cctv14&token=41206abed55e7c3acacee81b580418e8
+CCTV15,http://iptv.cqshushu.com/migu.php?pid=cctv15&token=41206abed55e7c3acacee81b580418e8
+CCTV17,http://iptv.cqshushu.com/migu.php?pid=cctv17&token=41206abed55e7c3acacee81b580418e8
 CCTV1,http://8.138.7.223/tv/migu720.php?id=CCTV1
 CCTV2,http://8.138.7.223/tv/migu720.php?id=CCTV2
 CCTV3,http://8.138.7.223/tv/migu720.php?id=CCTV3
@@ -639,6 +656,18 @@ CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 
 卫视频道,#genre#
+浙江卫视,http://iptv.cqshushu.com/migu.php?pid=zjws&token=41206abed55e7c3acacee81b580418e8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?token=41206abed55e7c3acacee81b580418e8
+江苏卫视,http://iptv.cqshushu.com/migu.php?pid=jsws&token=41206abed55e7c3acacee81b580418e8
+东方卫视,http://iptv.cqshushu.com/migu.php?pid=dfws&token=41206abed55e7c3acacee81b580418e8
+广东卫视,http://iptv.cqshushu.com/migu.php?pid=gdws&token=41206abed55e7c3acacee81b580418e8
+湖北卫视,http://iptv.cqshushu.com/migu.php?pid=hubws&token=41206abed55e7c3acacee81b580418e8
+江西卫视,http://iptv.cqshushu.com/migu.php?pid=jxws&token=41206abed55e7c3acacee81b580418e8
+河南卫视,http://iptv.cqshushu.com/migu.php?pid=henws&token=41206abed55e7c3acacee81b580418e8
+陕西卫视,http://iptv.cqshushu.com/migu.php?pid=shxws&token=41206abed55e7c3acacee81b580418e8
+内蒙古卫视,http://iptv.cqshushu.com/migu.php?pid=nmgws&token=41206abed55e7c3acacee81b580418e8
+兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?token=41206abed55e7c3acacee81b580418e8
+大湾区卫视,http://iptv.cqshushu.com/migu.php?pid=dwqws&token=41206abed55e7c3acacee81b580418e8
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
