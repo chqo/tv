@@ -218,14 +218,13 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 重庆频道,#genre#
-重庆卫视,http://2099.tv12.xyz/1699_1761062851854.m3u8
-重庆卫视,http://2099.tv12.xyz/1429_1761062851854.m3u8
-重庆卫视,http://2099.tv12.xyz/892_1761062851854.m3u8
-重庆卫视,http://2099.tv12.xyz/158_1761062851854.m3u8
-重庆卫视,http://2099.tv12.xyz/376_1761062851854.m3u8
-重庆卫视,http://2099.tv12.xyz/547_1761062851854.m3u8
+重庆卫视,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.149:10530
+重庆卫视,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.149:10530
+重庆卫视,http://112.67.35.58:8686/rtp/239.253.64.35:5140
+重庆卫视,http://2099.tv12.xyz/1013_1761136468695.m3u8
 重庆卫视,http://2099.tv12.xyz/1013_1761062851854.m3u8
-重庆卫视,http://2099.tv12.xyz/1198_1761062851854.m3u8
+重庆卫视,http://2099.tv12.xyz/1429_1761136468695.m3u8
+重庆卫视,http://2099.tv12.xyz/1699_1761136468695.m3u8
 重庆卫视,http://36.136.38.87:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://a.708d.com:10010/udp/239.45.1.84:5140
