@@ -123,11 +123,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=d44d68048741416f4c129ed8f4e96246
 凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=d44d68048741416f4c129ed8f4e96246
 凤凰中文,http://iptv.cqshushu.com/migu.php?pid=fhzw&token=d44d68048741416f4c129ed8f4e96246
-凤凰中文,http://iptv.cqshushu.com/migu.php?pid=phoenixtv_hd&token=d44d68048741416f4c129ed8f4e96246
-凤凰资讯,http://iptv.cqshushu.com/migu.php?pid=fhzx&token=d44d68048741416f4c129ed8f4e96246
-凤凰资讯,http://iptv.cqshushu.com/migu.php?pid=phoenixinfo_hd&token=d44d68048741416f4c129ed8f4e96246
-凤凰香港,http://iptv.cqshushu.com/migu.php?pid=fhhk&token=d44d68048741416f4c129ed8f4e96246
-凤凰香港,http://iptv.cqshushu.com/migu.php?pid=hkphoenix_twn&token=d44d68048741416f4c129ed8f4e96246
 凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=5bb59f9404b59bc82be7b4f47598c96f
 凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=5bb59f9404b59bc82be7b4f47598c96f
 凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=5bb59f9404b59bc82be7b4f47598c96f
@@ -218,7 +213,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 重庆频道,#genre#
+重庆卫视,http://36.136.38.87:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://171.213.129.4:8899/udp/239.93.0.119:5140
+重庆卫视,http://171.213.163.188:9999/udp/239.93.0.119:5140
+重庆卫视,http://171.213.147.161:9999/udp/239.93.0.119:5140
 重庆卫视,http://www.hkyc.site:1991/rtp/239.253.64.55:5140
 重庆卫视,http://125.94.173.9:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.149:10530
