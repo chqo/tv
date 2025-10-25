@@ -213,8 +213,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 重庆频道,#genre#
-重庆卫视,http://36.136.38.87:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://171.213.129.4:8899/udp/239.93.0.119:5140
+重庆卫视,http://ha.m-too.top:8333/udp/239.77.1.162:5146
+重庆卫视,http://118.113.138.29:85/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://111.8.242.102:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://60.183.106.117:8000/udp/233.50.200.114:5140
 重庆卫视,http://171.213.163.188:9999/udp/239.93.0.119:5140
 重庆卫视,http://171.213.147.161:9999/udp/239.93.0.119:5140
 重庆卫视,http://www.hkyc.site:1991/rtp/239.253.64.55:5140
