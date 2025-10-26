@@ -213,14 +213,15 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 重庆频道,#genre#
+重庆卫视,http://home.scanflove.com:7788/rtp/235.254.198.34:1412
+重庆卫视,http://183.66.66.199:2345/rtp/235.254.196.249:1268
+重庆卫视,http://221.213.24.113:5003/cqws.m3u8?token=7375646fa4485d6d83ecc5cca9c52380907dd3cf&z=1151
 重庆卫视,http://ha.m-too.top:8333/udp/239.77.1.162:5146
 重庆卫视,http://118.113.138.29:85/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://111.8.242.102:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://60.183.106.117:8000/udp/233.50.200.114:5140
-重庆卫视,http://171.213.163.188:9999/udp/239.93.0.119:5140
-重庆卫视,http://171.213.147.161:9999/udp/239.93.0.119:5140
+重庆卫视,http://183.166.144.200:8688/rtp/238.1.78.31:6176
+重庆卫视,http://home.scanflove.com:7788/rtp/235.254.196.249:1268
 重庆卫视,http://www.hkyc.site:1991/rtp/239.253.64.55:5140
-重庆卫视,http://125.94.173.9:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.149:10530
 重庆卫视,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.149:10530
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -246,24 +247,25 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m2.iptv807.com/?act=play&token=d63d8e8c037270f399f4d4b42deb6b2d&tid=ws&id=19
 重庆卫视,video://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
-重庆影视,http://27.10.214.250:8010/udp/225.0.4.62:7980
+重庆影视,http://27.9.90.65:8008/udp/225.0.4.62:7980
+重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
+重庆影视,http://home.scanflove.com:7788/rtp/235.254.198.180:7980
 重庆影视,http://183.66.66.199:2345/rtp/235.254.198.180:7980
 重庆影视,http://125.80.159.237:7788/udp/235.254.199.180:7980
 重庆影视,http://113.251.225.245:4022/udp/235.254.199.180:7980
 重庆影视,http://113.251.225.245:4022/udp/235.254.197.105:7980
 重庆影视,http://113.251.225.245:4022/rtp/235.254.196.209:1108
-重庆影视,http://14.110.105.246:2345/rtp/235.254.197.105:7980
-重庆影视,http://14.110.105.246:2345/rtp/235.254.198.180:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,http://14.110.105.246:2345/rtp/235.254.196.199:7980
+重庆新闻,http://home.scanflove.com:7788/rtp/235.254.196.208:1104
 重庆新闻,http://183.66.66.199:2345/rtp/235.254.196.208:1104
-重庆新闻,http://14.110.105.246:2345/rtp/235.254.196.208:1104
+重庆新闻,http://113.251.225.245:4022/rtp/235.254.196.208:1104
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
 重庆汽摩,http://113.251.225.245:4022/udp/235.254.199.169:7980
+重庆汽摩,http://home.scanflove.com:7788/rtp/235.254.196.221:1156
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -271,10 +273,8 @@ CCTV1,http://106.53.99.30/tv/cctv1.php
 CCTV2,http://106.53.99.30/tv/cctv2.php
 CCTV1,https://migu.188766.xyz/?migutoken=a69665c05769a1bfc150b7ad19ce1c07&id=CCTV1&type=yy
 CCTV6,https://tvpull.careryun.com/live/6212fce3f9dbc18dd52290c9b11c878b.m3u8?txSecret=7aac4f9b2bfd5b8bb28416405da22388&txTime=68f639f7
-CCTV8,https://migu.188766.xyz/?migutoken=481c587cc48b6b7744d0c5f5b9a0f0be&id=CCTV8&type=yy
+CCTV8,http://home.scanflove.com:7788/rtp/235.254.198.57:1504
 CCTV8,https://stream1.freetv.fun/2e306ebe387de83590a676b156f6db16f86d4c598cb04b945d3a9deb2a2f5f68.ctv
-CCTV8,https://stream1.freetv.fun/fc2535afafc8ca6e18d81098a0eb9ea0a6b4e67150a1850257d369550e3ce7f9.ctv
-CCTV8,https://stream1.freetv.fun/c56d3dd0b4ddf0b1b4cc8bc46e01b5cba32d1ee02e602c39e09971b5b5971235.ctv
 CCTV8,https://stream1.freetv.fun/cb997f441801a5bca8c092be9816cd3915e26d24e20df6a2e511d3c750eea86e.ctv
 CCTV13,http://106.53.99.30/tv/cctv13.php
 CCTV1,http://b.tvbox6.icu/tv/ysp.php?id=1
@@ -1749,8 +1749,8 @@ CCTV5+,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-7-0
 CCTV13,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-15-0.html
 
 少儿频道,#genre#
-重庆少儿,http://27.10.211.216:8008/udp/225.0.4.71:7980
-重庆少儿,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=cqseHD
+重庆少儿,http://home.scanflove.com:7788/rtp/235.254.196.214:1128
+重庆少儿,http://183.66.66.199:2345/rtp/235.254.196.214:1128
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -1990,10 +1990,8 @@ DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjp
 马健涛-搀扶,https://d.kstore.dev/download/10141/%E6%90%80%E6%89%B6.mp4
 马健涛-搀扶,webview://https://haokan.baidu.com/v?vid=10219187159168129992
 马健涛-搀扶,webview://https://www.kugou.com/mv/7x46t2a/
-我曾经发了疯的想,http://t1e5id101.hn-bkt.clouddn.com/%E6%88%91%E6%9B%BE%E7%BB%8F%E5%8F%91%E4%BA%86%E7%96%AF%E7%9A%84%E6%83%B3.mp4
 我曾经发了疯的想,https://d.kstore.dev/download/10141/%E6%88%91%E6%9B%BE%E7%BB%8F%E5%8F%91%E4%BA%86%E7%96%AF%E7%9A%84%E6%83%B3.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E6%88%91%E6%9B%BE%E7%BB%8F%E5%8F%91%E4%BA%86%E7%96%AF%E7%9A%84%E6%83%B3.mp4#webview://https://haokan.baidu.com/v?vid=13834537035857913063
 空荡的酒杯,https://d.kstore.dev/download/10141/%E7%A9%BA%E8%8D%A1%E7%9A%84%E9%85%92%E6%9D%AF.mp4
-空荡的酒杯,http://szlgi6geg.hn-bkt.clouddn.com/%E7%A9%BA%E8%8D%A1%E7%9A%84%E9%85%92%E6%9D%AF.mp4
 空荡的酒杯,webview://https://haokan.baidu.com/v?vid=8904661395565380238
 画你,https://d.kstore.dev/download/10141/%E7%94%BB%E4%BD%A0.mp4
 画你,http://t4dci99nw.hn-bkt.clouddn.com/%E7%94%BB%E4%BD%A0.mp4
