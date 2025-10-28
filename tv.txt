@@ -20,10 +20,8 @@
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
-金色学堂,http://2099.tv12.xyz/1565_1761062851854.m3u8
-金色学堂,http://2099.tv12.xyz/963_1761062851854.m3u8
-金色学堂,http://2099.tv12.xyz/555_1761062851854.m3u8
-金色学堂,http://2099.tv12.xyz/166_1761062851854.m3u8
+
+金色学堂,http://home.hiant.cfd:9999/udp/233.50.201.186:5140
 金色学堂,http://a.708d.com:10010/udp/239.45.1.118:5140
 金色学堂,http://home.kaijuns.cn:4000/rtp/239.121.4.78:8442
 金色学堂,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8
@@ -31,11 +29,7 @@
 金色学堂,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
 金色学堂,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=jinse
-东方财经,http://2099.tv12.xyz/1569_1761062851854.m3u8
-东方财经,http://2099.tv12.xyz/917_1761062851854.m3u8
-东方财经,http://2099.tv12.xyz/160_1761062851854.m3u8
-东方财经,http://2099.tv12.xyz/162_1761062851854.m3u8
-东方财经,http://2099.tv12.xyz/549_1761062851854.m3u8
+
 东方财经,http://nas.xlnas.com:4022/udp/239.93.1.165:5140
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 东方财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
@@ -213,14 +207,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 翡翠台,https://hls-gateway.vpstv.net/streams/709380.m3u8
 
 重庆频道,#genre#
-重庆卫视,http://14.109.231.176:3388/rtp/235.254.197.103:7980
+重庆卫视,http://14.106.87.211:2345/rtp/235.254.198.34:1412
 重庆卫视,http://183.66.66.199:2345/rtp/235.254.196.249:1268
-重庆卫视,http://116.179.187.106:888/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://home.scanflove.com:7788/rtp/235.254.198.34:1412
+重庆卫视,http://175.11.73.151:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://101.74.30.157:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://202.168.168.50:5000/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://ha.m-too.top:8333/udp/239.77.1.162:5146
 重庆卫视,http://118.113.138.29:85/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://home.scanflove.com:7788/rtp/235.254.196.249:1268
 重庆卫视,http://www.hkyc.site:1991/rtp/239.253.64.55:5140
 重庆卫视,http://cqknas.myqnapcloud.com:8808/rtp/239.69.1.149:10530
 重庆卫视,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.149:10530
@@ -247,7 +241,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,video://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
 重庆影视,http://27.9.90.65:8008/udp/225.0.4.62:7980
-重庆影视,http://14.109.231.176:3388/rtp/235.254.196.209:1108
+重庆影视,http://14.106.87.211:2345/rtp/235.254.196.209:1108
 重庆影视,http://14.109.226.201:8181/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
 重庆影视,http://183.66.66.199:2345/rtp/235.254.198.180:7980
