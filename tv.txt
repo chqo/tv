@@ -216,6 +216,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,video://https://saileitv.com/play.html?channelId=n3fad9608
 
 重庆频道,#genre#
+重庆卫视,http://m.xgzx.ip-ddns.com:8688/rtp/239.252.220.94:5140
 重庆卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.198.34:1412
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -244,7 +245,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m.345iptv.com/?act=play&token=2b694faab5559f0f66d8b217551b65e0&tid=ws&id=19
 重庆卫视,webview://https://m2.iptv807.com/?act=play&token=d63d8e8c037270f399f4d4b42deb6b2d&tid=ws&id=19
 重庆卫视,video://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
-
+重庆影视,http://27.9.91.36:8009/rtp/225.0.4.62:7980
 重庆影视,http://27.9.90.65:8008/udp/225.0.4.62:7980
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
 重庆影视,http://183.66.66.199:2345/rtp/235.254.198.180:7980
