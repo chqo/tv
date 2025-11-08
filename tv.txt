@@ -23,13 +23,13 @@
 
 金色学堂,http://home.hiant.cfd:9999/udp/233.50.201.186:5140
 金色学堂,http://a.708d.com:10010/udp/239.45.1.118:5140
-金色学堂,http://106.81.43.194:4022/rtp/235.254.197.157:7980
+金色学堂,http://106.81.148.210:8188/rtp/235.254.197.157:7980
 金色学堂,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8
 金色学堂,http://b.402089.xyz:4022/udp/233.50.200.122:5140
 金色学堂,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
 金色学堂,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=jinse
-东方财经,http://106.81.43.194:4022/rtp/235.254.199.103:7980
+东方财经,http://106.81.148.210:8188/rtp/235.254.199.103:7980
 东方财经,http://nas.xlnas.com:4022/udp/239.93.1.165:5140
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 东方财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
@@ -87,8 +87,8 @@ CCTV第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
 CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
-CCTV女性时尚,http://106.81.43.194:4022/rtp/235.254.199.195:7980
-CCTV女性时尚,http://14.110.199.49:4022/rtp/235.254.199.195:7980
+CCTV女性时尚,http://106.81.148.210:8188/rtp/235.254.199.195:7980
+CCTV女性时尚,http://home.scanflove.com:7788/rtp/235.254.199.195:7980
 CCTV女性时尚,http://113.251.225.245:4022/udp/235.254.199.195:7980
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
@@ -220,9 +220,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,video://https://saileitv.com/play.html?channelId=n3fad9608
 
 重庆频道,#genre#
-重庆卫视,http://171.213.156.118:20000/udp/239.93.0.119:5140
+重庆卫视,http://123.144.188.88:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://word.mtoo.vip:8333/udp/239.77.1.162:5146
-重庆卫视,http://106.81.43.194:4022/rtp/235.254.197.237:7980
+重庆卫视,http://106.81.148.210:8188/rtp/235.254.197.237:7980
 重庆卫视,http://14.109.229.137:4022/rtp/235.254.197.237:7980
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0$线路1
 重庆卫视,http://shyd.695847.xyz/cms001/ch00000090990000001129/index.m3u8?IAS
@@ -243,13 +243,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m2.iptv807.com/?act=play&token=d63d8e8c037270f399f4d4b42deb6b2d&tid=ws&id=19
 重庆卫视,video://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
-重庆影视,http://14.109.228.201:3388/rtp/235.254.199.180:7980
-重庆影视,http://106.81.43.194:4022/rtp/235.254.199.180:7980
+重庆影视,http://27.9.39.86:8002/rtp/225.0.4.62:7980
+重庆影视,http://14.109.229.137:4022/rtp/235.254.199.180:7980
+重庆影视,http://106.81.148.210:8188/rtp/235.254.199.180:7980
 重庆影视,http://27.9.90.65:8008/udp/225.0.4.62:7980
 重庆影视,http://123.144.32.248:8585/rtp/225.0.4.62:7980
 重庆影视,http://211.158.152.137:8007/udp/225.0.4.62:7980
 重庆影视,http://211.158.152.137:8009/udp/225.0.4.62:7980
-重庆影视,http://14.109.228.201:3388/rtp/235.254.196.209:1108
+重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.199.180:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
@@ -1595,7 +1596,7 @@ DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjp
 要怪就怪这个秋,https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E8%A6%81%E6%80%AA%E5%B0%B1%E6%80%AA%E8%BF%99%E4%B8%AA%E7%A7%8B.mp4#https://d.kstore.dev/download/10141/要怪就怪这个秋.mp4
 要怪就怪这个秋,webview://https://haokan.baidu.com/v?vid=7721255144929830659
 夜夜夜漫长,https://vd4.bdstatic.com/mda-ne3sj6taxuk4evuv/hd/cae_h264_delogo/1651699677408737983/mda-ne3sj6taxuk4evuv.mp4
-真心就像一张白纸,https://gh-proxy.com/https://github.com/chqo/tv/blob/main/%E7%9C%9F%E5%BF%83%E5%B0%B1%E5%83%8F%E4%B8%80%E5%BC%A0%E7%99%BD%E7%BA%B8.mp4#https://d.kstore.dev/download/10141/真心就像一张白纸.mp4
+真心就像一张白纸,https://gh-proxy.com/https://github.com/chqo/tv/raw//main/%E7%9C%9F%E5%BF%83%E5%B0%B1%E5%83%8F%E4%B8%80%E5%BC%A0%E7%99%BD%E7%BA%B8.mp4#https://d.kstore.dev/download/10141/真心就像一张白纸.mp4
 真心就像一张白纸,webview://https://haokan.baidu.com/v?vid=10243595671379087362
 美丽的姑娘,https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E7%BE%8E%E4%B8%BD%E5%A7%91%E5%A8%98.mp4#https://d.kstore.dev/download/10141/美丽姑娘.mp4
 美丽的姑娘,webview://https://haokan.baidu.com/v?vid=10552476009970004234
@@ -1608,7 +1609,7 @@ DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjp
 人间半途,webview://https://haokan.baidu.com/v?vid=4326196669136002678
 负我不负她,https://vd2.bdstatic.com/mda-qdubamj00puytssi/720p/h264/1714377617474457863/mda-qdubamj00puytssi.mp4
 负我不负她,https://vd4.bdstatic.com/mda-pjh2pm1d8m5gj5n0/576p/h264/1697594213694786562/mda-pjh2pm1d8m5gj5n0.mp4
-电量1%都没等到你消息,http://t1e5id101.hn-bkt.clouddn.com/%E7%94%B5%E9%87%8F1%25%E9%83%BD%E6%B2%A1%E7%AD%89%E5%88%B0%E4%BD%A0%E6%B6%88%E6%81%AF.mp4
+电量1%都没等到你消息,https://gh-proxy.com/https://github.com/chqo/tv/raw//main/%E7%94%B5%E9%87%8F1%25%E9%83%BD%E6%B2%A1%E7%AD%89%E5%88%B0%E4%BD%A0%E6%B6%88%E6%81%AF.mp4#https://d.kstore.dev/download/10141/电量1%都没等到你消息.mp4
 电量1%都没等到你消息,webview://https://haokan.baidu.com/v?vid=4563356886813865822
 大风吹,http://vdown2.kuwo.cn/resource//t5/0/eTNBMFltlx07LI3bUVOg01041201VIsY0E010.mp4
 野花香,https://vd3.bdstatic.com/mda-kkiij0tpgib4mvnm/sc/cae_h264_nowatermark/1605819994/mda-kkiij0tpgib4mvnm.mp4
