@@ -23,13 +23,14 @@
 
 金色学堂,http://home.hiant.cfd:9999/udp/233.50.201.186:5140
 金色学堂,http://a.708d.com:10010/udp/239.45.1.118:5140
-金色学堂,http://125.80.152.114:7788/rtp/235.254.197.157:7980
+金色学堂,http://106.81.43.30:4022/rtp/235.254.197.157:7980
 金色学堂,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8
 金色学堂,http://b.402089.xyz:4022/udp/233.50.200.122:5140
 金色学堂,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
 金色学堂,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=jinse
-东方财经,http://125.80.152.114:7788/rtp/235.254.199.103:7980
+
+东方财经,http://106.81.43.30:4022/rtp/235.254.199.103:7980
 东方财经,http://nas.xlnas.com:4022/udp/239.93.1.165:5140
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 东方财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
@@ -87,7 +88,7 @@ CCTV第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
 CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
-CCTV女性时尚,http://125.80.152.114:7788/rtp/235.254.199.195:7980
+CCTV女性时尚,http://106.81.43.30:4022/rtp/235.254.199.195:7980
 CCTV女性时尚,http://home.scanflove.com:7788/rtp/235.254.199.195:7980
 CCTV女性时尚,http://113.251.225.245:4022/udp/235.254.199.195:7980
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
@@ -218,7 +219,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,video://https://saileitv.com/play.html?channelId=n3fad9608
 
 重庆频道,#genre#
-重庆卫视,http://27.8.239.63:8009/udp/225.0.4.62:7980
+重庆卫视,http://106.81.43.30:4022/rtp/235.254.198.34:1412
 重庆卫视,http://171.213.133.30:2345/udp/239.93.0.119:5140
 重庆卫视,http://shyd.695847.xyz/cms001/ch00000090990000001129/index.m3u8?IAS
 重庆卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -251,6 +252,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://27.9.125.144:4022/rtp/225.0.4.62:7980
 重庆影视,http://27.9.39.86:8004/rtp/225.0.4.62:7980
 重庆影视,http://123.144.32.248:8585/rtp/225.0.4.62:7980
+重庆影视,http://106.81.43.30:4022/rtp/235.254.199.180:7980
 重庆影视,http://14.109.225.73:3388/rtp/235.254.196.209:1108
 重庆影视,http://125.80.152.114:7788/rtp/235.254.196.209:1108
 重庆影视,http://183.66.66.199:2345/rtp/235.254.196.209:1108
