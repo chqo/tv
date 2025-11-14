@@ -9,9 +9,7 @@
 中国天气,http://8.138.7.223/tv/cqyx2.php?id=tianqiSD
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 中国天气,video://https://live.douyin.com/655743522863
-中国天气,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
 
-重温经典,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
 重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典 
 重温经典,http://106.53.99.30/tv/hot.php?id=cwjd
@@ -22,6 +20,7 @@
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
+
 金色学堂,http://14.109.224.226:3388/rtp/235.254.197.157:7980
 金色学堂,http://home.hiant.cfd:9999/udp/233.50.201.186:5140
 金色学堂,http://a.708d.com:10010/udp/239.45.1.118:5140
@@ -32,7 +31,6 @@
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
 金色学堂,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=jinse
 
-东方财经,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfcj_4000.m3u8
 东方财经,http://14.109.224.226:3388/rtp/235.254.199.103:7980
 东方财经,http://nas.xlnas.com:4022/udp/239.93.1.165:5140
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
@@ -58,9 +56,6 @@ CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pa
 CHC动作电影,https://migu.188766.xyz/?migutoken=0d8dea27bdfd0d3a1fad59f5ffa56626&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC影迷电影,https://migu.188766.xyz/?migutoken=02158a23e7b7dec047009f7b4685c373&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 CHC家庭影院,https://migu.188766.xyz/?migutoken=fae25b096c9766210f76e9c9b88cce5c&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
-CHC影迷电影,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
-CHC动作电影,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
-CHC家庭影院,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC影迷电影,http://180.213.170.24:8188/rtp/239.5.1.51:5000$线路1
 CHC影迷电影,http://168250.xyz:1111/rtp/239.5.1.51:5000$线路2
 CHC影迷电影,http://lt.96335.top:4566/rtp/239.81.0.240:4056$线路3
@@ -113,27 +108,12 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
-凤凰中文,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
-凤凰资讯,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8
-凤凰中文,http://iptv.nanomi.cn:4000/udp/239.93.1.9:2192
-凤凰中文,http://iptv.nanomi.cn:4000/udp/239.93.0.162:2192
-凤凰资讯,http://iptv.nanomi.cn:4000/udp/239.93.1.4:2191
-凤凰资讯,http://iptv.nanomi.cn:4000/udp/239.93.0.118:2191
+凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=ac97a1c522448338fb340746799d65e0
+凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=ac97a1c522448338fb340746799d65e0
+凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=ac97a1c522448338fb340746799d65e0
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
 凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯 
 凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港 
-凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=5bb59f9404b59bc82be7b4f47598c96f
-凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=5bb59f9404b59bc82be7b4f47598c96f
-凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=5bb59f9404b59bc82be7b4f47598c96f
-凤凰中文,http://iptv.cqshushu.com/migu.php?pid=fhzw&token=5bb59f9404b59bc82be7b4f47598c96f
-凤凰中文,http://iptv.cqshushu.com/migu.php?pid=hk_fhzw&token=5bb59f9404b59bc82be7b4f47598c96f
-凤凰资讯,http://iptv.cqshushu.com/migu.php?pid=fhzx&token=5bb59f9404b59bc82be7b4f47598c96f
-凤凰资讯,http://iptv.cqshushu.com/migu.php?pid=hk_fhzx&token=5bb59f9404b59bc82be7b4f47598c96f
-凤凰香港,http://iptv.cqshushu.com/migu.php?pid=fhhk&token=5bb59f9404b59bc82be7b4f47598c96f
-凤凰香港,http://iptv.cqshushu.com/migu.php?pid=hk_fhhk&token=5bb59f9404b59bc82be7b4f47598c96f
-翡翠台,http://iptv.cqshushu.com/migu.php?pid=hk_fct&token=5bb59f9404b59bc82be7b4f47598c96f
-翡翠台,http://iptv.cqshushu.com/migu.php?pid=hk_fct4k&token=5bb59f9404b59bc82be7b4f47598c96f
-无线新闻,http://iptv.cqshushu.com/migu.php?pid=hk_wxxw&token=5bb59f9404b59bc82be7b4f47598c96f
 凤凰中文,http://106.53.99.30/tv/hk.php?id=fhzw
 凤凰资讯,http://106.53.99.30/tv/hk.php?id=fhzx
 凤凰香港,http://106.53.99.30/tv/hk.php?id=fhxg
@@ -212,7 +192,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,rtmp://39.107.120.164/live/diyp_fhdy
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
 翡翠台,http://t.061899.xyz/tl/168.php?id=fct
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
@@ -227,7 +207,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,video://https://saileitv.com/play.html?channelId=n3fad9608
 
 重庆频道,#genre#
-重庆卫视,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
 重庆卫视,http://14.109.224.226:3388/rtp/235.254.198.34:1412
 重庆卫视,http://171.213.131.79:10000/udp/239.93.0.119:5140
 重庆卫视,http://171.213.177.155:8886/udp/239.93.0.119:5140
@@ -277,26 +256,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
-CCTV1,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
-CCTV2,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
-CCTV3,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
-CCTV4,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
-CCTV4K,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
-CCTV5,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
-CCTV5+,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
-CCTV6,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
-CCTV7,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
-CCTV8,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
-CCTV9,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
-CCTV10,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
-CCTV11,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
-CCTV12,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
-CCTV13,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
-CCTV14,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
-CCTV15,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
-CCTV16,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
-CCTV16-4k,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000
-CCTV17,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
 CCTV1,http://8.138.7.223/tv/migu720.php?id=CCTV1
 CCTV2,http://8.138.7.223/tv/migu720.php?id=CCTV2
 CCTV3,http://8.138.7.223/tv/migu720.php?id=CCTV3
