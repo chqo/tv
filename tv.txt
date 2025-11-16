@@ -22,7 +22,7 @@
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
 金色学堂,http://phmanet.com:9999/rtp/239.76.254.75:9000
-金色学堂,http://36.24.66.255:8888/rtp/233.50.201.186:5140
+金色学堂,http://125.80.253.106:7788/rtp/235.254.197.157:7980
 金色学堂,http://home.hiant.cfd:9999/udp/233.50.201.186:5140
 金色学堂,http://a.708d.com:10010/udp/239.45.1.118:5140
 金色学堂,http://106.81.43.30:4022/rtp/235.254.197.157:7980
@@ -32,7 +32,7 @@
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
 金色学堂,http://8.138.7.223/tv/cqyx2.php?mode=dx&id=jinse
 
-东方财经,http://14.109.224.226:3388/rtp/235.254.199.103:7980
+东方财经,http://125.80.253.106:7788/rtp/235.254.199.103:7980
 东方财经,http://nas.xlnas.com:4022/udp/239.93.1.165:5140
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 东方财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
@@ -90,7 +90,7 @@ CCTV第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
 CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
-CCTV女性时尚,http://14.109.224.226:3388/rtp/235.254.199.195:7980
+CCTV女性时尚,http://125.80.253.106:7788/rtp/235.254.199.195:7980
 CCTV女性时尚,http://home.scanflove.com:7788/rtp/235.254.199.195:7980
 CCTV女性时尚,http://phmanet.com:9999/rtp/239.76.254.55:9000
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
@@ -112,7 +112,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=ac97a1c522448338fb340746799d65e0
 凤凰中文,http://36.24.66.255:8888/rtp/233.50.202.35:5140
 凤凰资讯,http://36.24.66.255:8888/rtp/233.50.202.36:5140
-
 凤凰资讯,http://106.53.99.30/tv/hot.php?id=fhzx
 凤凰香港,http://106.53.99.30/tv/hot.php?id=fhhk
 凤凰中文,http://106.53.99.30/tv/hk.php?id=fhzw
@@ -189,14 +188,12 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,video://https://saileitv.com/play.html?channelId=n3fad9608
 
 重庆频道,#genre#
+重庆卫视,http://125.80.253.106:7788/rtp/235.254.198.34:1412
+重庆卫视,http://14.109.224.167:3388/rtp/235.254.198.34:1412
 重庆卫视,http://171.213.177.155:8886/udp/239.93.0.119:5140
 重庆卫视,http://36.24.66.255:8888/rtp/233.50.201.143:5140
-重庆卫视,http://shyd.695847.xyz/cms001/ch00000090990000001129/index.m3u8?IAS
 重庆卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://180.111.29.99:8888/rtp/239.49.1.42:6000
-重庆卫视,http://219.141.46.201:8188/udp/238.255.2.78:5999
-重庆卫视,http://114.104.183.153:8686/udp/238.1.78.31:6176$线路1
-重庆卫视,http://219.141.46.201:8188/udp/238.255.2.78:5999$线路2
 重庆卫视,http://171.12.10.141:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$线路3
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -217,16 +214,18 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,video://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
 重庆影视,http://27.9.38.168:8002/rtp/225.0.4.62:7980
-重庆影视,http://27.9.125.144:4022/rtp/225.0.4.62:7980
+重庆影视,http://123.145.30.49:8001/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8004/rtp/225.0.4.62:7980
 重庆影视,http://211.158.152.193:8008/rtp/225.0.4.62:7980
+重庆影视,http://14.109.224.167:3388/rtp/235.254.196.209:1108
+重庆影视,http://125.80.253.106:7788/rtp/235.254.196.209:1108
 重庆影视,http://125.80.251.179:7788/rtp/235.254.196.209:1108
-重庆影视,http://183.66.66.199:2345/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.199.180:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,http://14.109.224.226:3388/rtp/235.254.197.199:7980
+重庆新闻,http://14.109.224.167:3388/rtp/235.254.197.199:7980
+重庆新闻,http://125.80.253.106:7788/rtp/235.254.197.199:7980
 重庆新闻,http://home.scanflove.com:7788/rtp/235.254.197.199:7980
 重庆新闻,http://125.80.152.114:7788/rtp/235.254.196.208:1104
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
@@ -234,7 +233,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
 重庆汽摩,http://home.scanflove.com:7788/rtp/235.254.199.169:7980
-重庆汽摩,http://183.66.66.199:2345/rtp/235.254.199.169:7980
+重庆汽摩,http://125.80.253.106:7788/rtp/235.254.199.169:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
