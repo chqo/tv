@@ -197,10 +197,12 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,video://https://saileitv.com/play.html?channelId=n3fad9608
 
 重庆频道,#genre#
-重庆卫视,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8
-重庆卫视,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8
-重庆卫视,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8
-重庆卫视,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8
+重庆卫视,http://58.144.249.3:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
+重庆卫视,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CHONGQING/G_CHONGQING.m3u8
+重庆卫视,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CHONGQING-CQ/G_CHONGQING-CQ.m3u8
+重庆卫视,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CHONGQING-HQ/G_CHONGQING-HQ.m3u8
+重庆卫视,http://58.215.92.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
+重庆卫视,https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.m3u8
 重庆卫视,http://125.80.253.106:7788/rtp/235.254.198.34:1412
 重庆卫视,http://14.109.224.167:3388/rtp/235.254.198.34:1412
 重庆卫视,http://171.213.177.155:8886/udp/239.93.0.119:5140
@@ -226,15 +228,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m2.iptv807.com/?act=play&token=d63d8e8c037270f399f4d4b42deb6b2d&tid=ws&id=19
 重庆卫视,video://https://m.345iptv.com/?act=play&token=179c67b93ece3c2d1044292d49120f7b&tid=ws&id=19
 
+重庆影视,http://123.145.20.242:8004/udp/225.0.4.62:7980
+重庆影视,http://123.145.30.69:8004/udp/225.0.4.62:7980
+重庆影视,http://123.145.24.195:8004/udp/225.0.4.62:7980
 重庆影视,http://27.9.91.188:8008/rtp/225.0.4.62:7980
 重庆影视,http://27.11.195.242:8008/rtp/225.0.4.62:7980
 重庆影视,http://27.9.38.168:8002/rtp/225.0.4.62:7980
-重庆影视,http://123.145.30.49:8001/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8004/rtp/225.0.4.62:7980
 重庆影视,http://211.158.152.193:8008/rtp/225.0.4.62:7980
-重庆影视,http://14.109.224.167:3388/rtp/235.254.196.209:1108
-重庆影视,http://125.80.253.106:7788/rtp/235.254.196.209:1108
-重庆影视,http://125.80.251.179:7788/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.199.180:7980
 
@@ -260,8 +261,6 @@ CCTV5,http://8.138.7.223/tv/migu720.php?id=CCTV5
 CCTV6,http://8.138.7.223/tv/migu720.php?id=CCTV6
 CCTV8,http://8.138.7.223/tv/migu720.php?id=CCTV8
 CCTV13,http://8.138.7.223/tv/migu720.php?id=CCTV13
-CCTV8,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8
-CCTV8,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8
 CCTV8,http://110.80.17.38:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://8.07456.me:24901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://iptv.cqshushu.com/migu.php?pid=cctv1&token=5bb59f9404b59bc82be7b4f47598c96f
