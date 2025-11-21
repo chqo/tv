@@ -199,7 +199,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://14.109.231.155:8181/rtp/235.254.198.34:1412
 重庆卫视,http://106.116.241.171:8008/rtp/239.254.200.203:6323
 重庆卫视,https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.m3u8
-重庆卫视,http://171.213.231.155:4022/udp/239.93.0.119:5140
+重庆卫视,http://119.4.35.184:4022/udp/239.93.0.119:5140
 重庆卫视,http://36.24.66.255:8888/rtp/233.50.201.143:5140
 重庆卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
