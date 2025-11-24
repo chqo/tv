@@ -6,6 +6,7 @@
 生态环境,http://b.402089.xyz:4022/rtp/233.50.202.103:5140
 生态环境,http://b.402089.xyz:4022/rtp/233.50.202.37:5140
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
+中国天气,http://118.117.77.224:8688/rtp/239.93.4.21:7062
 中国天气,http://www.hkyc.site:1991/rtp/239.253.64.79:5140
 中国天气,http://phmanet.com:9999/rtp/239.76.253.61:9000
 中国天气,http://lt.96335.top:4566/rtp/239.81.0.63:4056
@@ -23,6 +24,7 @@
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
+金色学堂,http://118.117.77.224:8688/rtp/239.93.5.11:8060
 金色学堂,http://phmanet.com:9999/rtp/239.76.254.75:9000
 金色学堂,http://home.hiant.cfd:9999/udp/233.50.201.186:5140
 金色学堂,http://home.scanflove.com:7788/rtp/235.254.197.157:7980
@@ -32,7 +34,7 @@
 金色学堂,http://shyd.695847.xyz/cms001/ch00000090990000001194/index.m3u8?IAS
 金色学堂,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
-
+东方财经,http://118.117.77.224:8688/rtp/239.93.5.223:9810
 东方财经,http://phmanet.com:9999/rtp/239.76.254.69:9000
 东方财经,http://nas.xlnas.com:4022/udp/239.93.1.165:5140
 东方财经,http://home.scanflove.com:7788/rtp/235.254.199.103:7980
@@ -92,6 +94,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
+凤凰中文,http://118.117.77.224:8688/rtp/239.93.5.31:8012
+凤凰资讯,http://118.117.77.224:8688/rtp/239.93.5.118:8708
+凤凰中文,http://182.136.122.102:8099/rtp/239.93.5.31:8012
+凤凰资讯,http://182.136.122.102:8099/rtp/239.93.5.118:8708
 凤凰资讯,https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 凤凰中文,http://phmanet.com:9999/rtp/239.76.253.135:9000
 凤凰中文,http://phmanet.com:9999/rtp/239.76.246.134:1234
@@ -173,10 +179,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_CHONGQING-HQ
-重庆卫视,http://2099.tv12.xyz/104_1763960100918.m3u8
+重庆卫视,http://171.213.147.40:6868/udp/239.93.0.119:5140
+重庆卫视,http://171.213.142.6:4022/rtp/239.93.0.119:5140
+重庆卫视,http://182.136.122.102:8099/rtp/239.93.5.7:8024
+重庆卫视,http://171.213.214.33:8188/rtp/239.93.0.119:5140
+重庆卫视,http://171.213.219.185:8188/rtp/239.93.0.119:5140
+重庆卫视,http://118.117.77.224:8688/rtp/239.93.5.48:8282	
+ 重庆卫视,http://118.117.77.224:8688/rtp/239.93.5.7:8024
 重庆卫视,http://www.hkyc.site:1991/rtp/239.253.64.35:5140
-重庆卫视,http://phmanet.com:9999/rtp/239.76.246.92:1234
-重庆卫视,http://phmanet.com:9999/rtp/239.76.253.92:9000
 重庆卫视,http://lt.96335.top:4566/rtp/239.81.0.47:4056
 重庆卫视,http://vallest.uk/livehttpplay?channel_id=20040
 重庆卫视,http://116.233.22.3:4022/udp/239.45.1.84:5140
