@@ -94,12 +94,16 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=cd4f33d5719ac3350ae416eb-172136354785924&wsIPSercert=8cad001f79352373fc8e0432c79c005f#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=f5b29cd871de40de7ca544f1-171499266886353&wsIPSercert=3d792996e0657f7664baae4483829055#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9d7959a08df9f49385e6201f-171033235696189&wsIPSercert=248675b454fce6f3c4d4d83b437d5764#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4c91883c02c3d24856fee98a-167972102859014&wsIPSercert=18cec0348f8755a359db06ef244e1d1a&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
-凤凰中文,http://118.117.77.224:8688/rtp/239.93.5.31:8012
-凤凰资讯,http://118.117.77.224:8688/rtp/239.93.5.118:8708
-凤凰中文,http://182.136.122.102:8099/rtp/239.93.5.31:8012
-凤凰资讯,http://182.136.122.102:8099/rtp/239.93.5.118:8708
+凤凰中文,http://125.110.45.148:8044/rtp/233.50.202.35:5140
+凤凰资讯,http://125.110.45.148:8044/rtp/233.50.202.36:5140
+凤凰中文,http://125.105.12.84:4000/rtp/233.50.202.35:5140
+凤凰资讯,http://125.105.12.84:4000/rtp/233.50.202.36:5140
+凤凰中文,http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
+凤凰资讯,http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
+凤凰中文,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰资讯,https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
-凤凰中文,http://phmanet.com:9999/rtp/239.76.253.135:9000
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://phmanet.com:9999/rtp/239.76.246.134:1234
 凤凰资讯,http://phmanet.com:9999/rtp/239.76.246.135:1234
 凤凰资讯,http://phmanet.com:9999/rtp/239.76.253.134:9000
@@ -158,6 +162,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文,video://http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 
 凤凰电影,rtmp://39.107.120.164/live/diyp_fhdy
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
@@ -178,18 +183,20 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,video://https://saileitv.com/play.html?channelId=n3fad9608
 
 重庆频道,#genre#
-重庆卫视,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_CHONGQING-HQ
-重庆卫视,http://171.213.147.40:6868/udp/239.93.0.119:5140
-重庆卫视,http://171.213.142.6:4022/rtp/239.93.0.119:5140
-重庆卫视,http://182.136.122.102:8099/rtp/239.93.5.7:8024
+重庆卫视,http://171.213.148.245:9090/rtp/239.93.0.119:5140
+重庆卫视,http://171.213.132.21:5858/rtp/239.93.0.119:5140
+重庆卫视,http://171.213.227.46:8888/rtp/239.93.0.119:5140
 重庆卫视,http://171.213.214.33:8188/rtp/239.93.0.119:5140
 重庆卫视,http://171.213.219.185:8188/rtp/239.93.0.119:5140
-重庆卫视,http://118.117.77.224:8688/rtp/239.93.5.48:8282	
- 重庆卫视,http://118.117.77.224:8688/rtp/239.93.5.7:8024
+重庆卫视,http://171.88.145.159:4022/udp/239.93.0.119:5140	
+重庆卫视,http://118.117.77.224:8688/rtp/239.93.5.7:8024
 重庆卫视,http://www.hkyc.site:1991/rtp/239.253.64.35:5140
 重庆卫视,http://lt.96335.top:4566/rtp/239.81.0.47:4056
 重庆卫视,http://vallest.uk/livehttpplay?channel_id=20040
-重庆卫视,http://116.233.22.3:4022/udp/239.45.1.84:5140
+重庆卫视,http://125.105.12.84:4000/rtp/233.50.201.143:5140
+重庆卫视,http://125.110.45.148:8044/rtp/233.50.200.114:5140
+重庆卫视,http://220.187.217.158:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
 重庆卫视,http://106.116.241.171:8008/rtp/239.254.200.203:6323
 重庆卫视,http://8.07456.me:24901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.m3u8
@@ -218,16 +225,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://27.11.194.29:8008/udp/225.0.4.62:7980
 重庆影视,http://27.11.57.66:8005/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8004/rtp/225.0.4.62:7980
-重庆影视,http://113.251.227.34:7788/rtp/235.254.196.209:1108
-重庆影视,http://14.109.230.124:7980/rtp/235.254.196.209:1108
-重庆影视,http://14.109.230.132:7980/rtp/235.254.196.209:1108
+重庆影视,http://14.109.229.73:7980/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.199.180:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://27.11.57.66:8005/udp/225.0.4.59:7980
 重庆新闻,http://home.scanflove.com:7788/rtp/235.254.197.199:7980
-重庆新闻,http://14.109.230.124:7980/rtp/235.254.196.208:1104
+重庆新闻,http://14.109.229.73:7980/rtp/235.254.196.208:1104
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
