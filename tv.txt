@@ -224,10 +224,12 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,video://https://m.345iptv.com/?act=play&token=d1d638cef5c51052b8a9d748ba38664a&tid=ws&id=19
 
 重庆影视,http://27.8.162.18:6011/rtp/225.0.4.62:7980
-重庆影视,http://27.14.26.81:3080/rtp/225.0.4.62:7980
+重庆影视,http://123.145.18.163:8001/rtp/225.0.4.62:7980
 重庆影视,http://113.205.252.13:4000/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
+重庆影视,http://123.145.15.254:8001/rtp/225.0.4.62:7980
 重庆影视,http://123.145.25.203:8001/rtp/225.0.4.62:7980
+重庆影视,http://125.80.157.49:7788/rtp/235.254.196.209:1108
 重庆影视,http://125.80.153.90:7788/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.199.180:7980
@@ -241,7 +243,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
 重庆汽摩,http://home.scanflove.com:7788/rtp/235.254.199.169:7980
-重庆汽摩,http://113.251.227.34:7788/rtp/235.254.199.169:7980
+重庆汽摩,http://125.80.157.49:7788/rtp/235.254.199.169:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
