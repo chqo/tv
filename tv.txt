@@ -226,6 +226,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,video://https://saileitv.com/play.html?channelId=n3fad9608
 
 重庆频道,#genre#
+重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
 重庆卫视,http://114.228.251.8:9999/rtp/239.49.1.42:6000
 重庆卫视,http://119.41.167.150:8188/rtp/239.253.64.35:5140
 重庆卫视,http://125.76.196.117:8989/rtp/239.109.205.30:8168
@@ -844,6 +845,14 @@ CCTV-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 天元围棋,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_TIANYUANWQ
 炫动卡通,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_XUANDONG
 优漫卡通,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_YOUMAN
+四川卫视,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
+山东卫视,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/sdws4K.m3u8
+广东卫视,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/gdws4K.m3u8
+深圳卫视,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/szws4K.m3u8
+东方卫视,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/dfws4K.m3u8
+北京卫视,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
+江苏卫视,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/jsws4K.m3u8
+浙江卫视,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/zjws4K.m3u8
 CCTV1,http://www.hkyc.site:1991/rtp/239.253.64.120:5140
 CCTV2,http://www.hkyc.site:1991/rtp/239.253.64.195:5140
 CCTV3,http://www.hkyc.site:1991/rtp/239.253.64.244:5140
