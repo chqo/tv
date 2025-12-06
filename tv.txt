@@ -82,10 +82,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,webview://http://www.hkstv.tv/index/live.html
-凤凰中文,http://rihou.cc:555/tv/\Pd\凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/\Pd\凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/\Pd\凤凰香港
-无线新闻,http://rihou.cc:555/tv/\Pd\无线新闻
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 凤凰资讯,http://rihou.cc:555/tv/\Bx\凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/\Bx\凤凰香港
 凤凰中文,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
@@ -263,6 +267,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://27.8.158.62:6011/rtp/225.0.4.62:7980
 重庆影视,http://123.145.25.31:8001/rtp/225.0.4.62:7980
 重庆影视,http://113.205.252.13:4000/rtp/225.0.4.62:7980
+重庆影视,http://58.17.134.3:8005/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 重庆影视,http://125.80.157.49:7788/rtp/235.254.196.209:1108
 重庆影视,http://125.80.153.90:7788/rtp/235.254.196.209:1108
