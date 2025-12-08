@@ -51,6 +51,9 @@ CHC家庭影院,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live
 CHC家庭影院,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC家庭影院,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC家庭影院,http://sh.lnott.top:880/dx93.m3u8
+CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
+CHC动作电影,http://gat.bkpcp.top/ymg.php?id=dzdy
+CHC影迷电影,http://gat.bkpcp.top/ymg.php?id=ymdy
 CHC动作电影,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
 CHC动作电影,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
 CCTV第一剧场,http://106.116.125.246:4022/rtp/239.254.201.218:7258
@@ -601,6 +604,7 @@ CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV1,http://k.061899.xyz/m.php?id=cctv1
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV8,http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV13,http://k.061899.xyz/m.php?id=cctv13
 CCTV13,https://stream1.freetv.fun/5e0c514e6ba3d091c01c511c50880499f6584b993ae7c5de863424917928ece8.ctv
 CCTV13,http://hfsite4.humh.fun:4022/rtp/238.1.79.35:4392
