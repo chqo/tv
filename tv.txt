@@ -95,6 +95,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 凤凰中文,http://106.116.241.52:8008/rtp/239.254.201.2:5226
 凤凰资讯,http://106.116.241.52:8008/rtp/239.254.201.3:5227
+凤凰中文,http://106.116.241.8:9999/rtp/239.254.201.2:5226
+凤凰中文,http://27.184.28.228:4022/rtp/239.254.201.2:5226
+凤凰资讯,http://27.184.28.228:4022/rtp/239.254.201.3:5227
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
@@ -104,6 +107,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 凤凰资讯,http://rihou.cc:555/tv/\Bx\凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/\Bx\凤凰香港
+凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
+无线新闻,http://rihou.cc:555/tv/[SX]无线新闻
+无线翡翠,http://rihou.cc:555/tv/[SX]无线翡翠
 凤凰中文,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
 凤凰资讯,https://cdn9.163189.xyz/smt1.1.php?id=phoenixinfo_hd
 凤凰香港,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
@@ -119,9 +127,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线翡翠,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-凤凰中文,https://tzh911.qzz.io/play-smt.php?id=phoenixtv_hd
-凤凰资讯,https://tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd
-凤凰香港,https://tzh911.qzz.io/play-smt.php?id=hkphoenix_twn
 凤凰中文,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
 凤凰中文,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
 凤凰资讯,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8
@@ -136,6 +141,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzw
 凤凰资讯,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzx
 凤凰香港,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhhk
+凤凰中文,http://tv.tslgpt.top:5050/smart.php?id=phoenixtv_hd&token=boxgpt
+凤凰资讯,http://tv.tslgpt.top:5050/smart.php?id=phoenixinfo_hd&token=boxgpt
+凤凰香港,http://tv.tslgpt.top:5050/smart.php?id=hkphoenix_twn&token=boxgpt
 凤凰中文,https://stream1.freetv.fun/d3c92459e8f551fb9d596197050f5caa3441cc4b4300514833d9bcfe23aeddb8.ctv
 凤凰中文,https://stream1.freetv.fun/a4e7e8c192fe538f4878412af5f611bf10948212e980cf029ac0500a7cb8962f.ctv
 凤凰中文,https://stream1.freetv.fun/09795bca5e6ded2663fb01532c4eabede841ece1adbfda56242e677e4d8f132f.ctv
@@ -149,18 +157,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
 凤凰中文,http://180.114.162.2:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
 凤凰资讯,http://180.114.162.2:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
-凤凰中文,http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
-凤凰中文,http://183.61.225.53:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
-凤凰资讯,http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
-凤凰资讯,http://183.61.225.53:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
-凤凰中文,http://124.236.93.34:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰中文,http://phmanet.com:9999/rtp/239.76.246.134:1234
-凤凰资讯,http://phmanet.com:9999/rtp/239.76.246.135:1234
-凤凰资讯,http://phmanet.com:9999/rtp/239.76.253.134:9000
-凤凰资讯,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=live1200
-凤凰香港 ,https://httop.top/fengshows-fenghk
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
@@ -168,8 +166,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-凤凰中文,http://36.24.66.255:8888/rtp/233.50.202.35:5140
-凤凰资讯,http://36.24.66.255:8888/rtp/233.50.202.36:5140
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
@@ -187,6 +183,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx 
@@ -201,7 +198,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-凤凰电影,http://106.112.254.245:8989/rtp/239.254.201.1:5214
+凤凰电影,http://106.116.241.52:8008/rtp/239.254.201.1:5214
 凤凰电影,http://27.184.28.228:4022/rtp/239.254.201.1:5214
 凤凰电影,rtmp://39.107.120.164/live/diyp_fhdy
 凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
@@ -229,16 +226,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
 重庆卫视,http://61.150.11.199:4023/rtp/239.109.205.30:8168
 重庆卫视,https://60.191.56.186:8888/hls/35/index.m3u8
-重庆卫视,http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/cqwsHD.m3u8
-重庆卫视,http://60.165.65.39:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8
-重庆卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
-重庆卫视,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
-重庆卫视,http://114.236.92.138:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8
-重庆卫视,http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8
-重庆卫视,http://113.142.189.133:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8
-重庆卫视,http://124.236.93.34:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8
-重庆卫视,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8
-重庆卫视,http://183.3.202.19:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8
 重庆卫视,http://180.114.162.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8
 重庆卫视,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
 重庆卫视,http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8
