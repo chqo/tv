@@ -26,11 +26,11 @@
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
-金色学堂,http://14.109.228.134:3388/rtp/235.254.197.157:7980
+金色学堂,http://14.110.103.248:4022/rtp/235.254.197.157:7980
 金色学堂,http://61.150.11.199:4023/rtp/239.109.205.65:8456
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
-东方财经,http://14.109.228.134:3388/rtp/235.254.199.103:7980
+东方财经,http://14.110.103.248:4022/rtp/235.254.199.103:7980
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
@@ -85,8 +85,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
-凤凰中文,http://27.184.28.228:4022/rtp/239.254.201.2:5226
-凤凰资讯,http://27.184.28.228:4022/rtp/239.254.201.3:5227
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
@@ -185,6 +183,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://110.184.220.156:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://183.66.66.199:2345/rtp/235.254.196.249:1268
 重庆卫视,http://125.80.157.49:7788/rtp/235.254.197.103:7980
 重庆卫视,http://14.109.227.21:3388/rtp/235.254.197.103:7980
 重庆卫视,http://14.109.227.131:3388/rtp/235.254.199.34:7980
@@ -211,10 +210,12 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,video://https://m.345iptv.com/?act=play&token=d1d638cef5c51052b8a9d748ba38664a&tid=ws&id=19
 
+重庆影视,http://183.66.66.199:2345/rtp/235.254.196.209:1108
+重庆影视,http://183.66.66.199:2345/rtp/235.254.198.180:7980
 重庆影视,http://113.205.252.13:4000/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8005/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
-重庆影视,http://14.109.227.131:3388/rtp/235.254.196.209:1108
+重庆影视,http://14.110.103.248:4022/rtp/235.254.196.209:1108
 重庆影视,http://125.80.158.137:7788/rtp/235.254.196.209:1108
 重庆影视,http://113.251.225.132:7788/rtp/235.254.196.209:1108
 重庆影视,http://106.83.112.179:8188/rtp/235.254.196.209:1108
@@ -222,15 +223,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://106.83.112.179:8188/rtp/235.254.197.199:7980
-重庆新闻,http://106.81.36.130:4022/rtp/235.254.196.208:1104
-重庆新闻,http://home.scanflove.com:7788/rtp/235.254.197.199:7980
+重庆新闻,http://14.110.103.248:4022/rtp/235.254.197.199:7980
 重庆新闻,http://58.17.134.3:8002/rtp/225.0.4.59:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
 重庆汽摩,http://home.scanflove.com:7788/rtp/235.254.199.169:7980
-重庆汽摩,http://14.110.103.248:4022/rtp/235.254.199.169:7980
+重庆汽摩,http://183.66.66.199:2345/rtp/235.254.196.221:1156
 重庆汽摩,http://106.83.112.179:8188/rtp/235.254.199.169:7980
 重庆汽摩,http://113.251.225.132:7788/rtp/235.254.199.169:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
@@ -1535,7 +1535,7 @@ CCTV13,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-15-
 
 少儿频道,#genre#
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.196.214:1128
-重庆少儿,http://14.109.228.141:3388/rtp/235.254.199.166:7980
+重庆少儿,http://183.66.66.199:2345/rtp/235.254.196.214:1128
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
