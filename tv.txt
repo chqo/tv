@@ -25,11 +25,13 @@
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
-
+金色学堂,http://14.109.224.50:3388/rtp/235.254.197.157:7980
 金色学堂,http://www.sjwyp.com:4022/rtp/239.254.201.182:7227
 金色学堂,http://61.150.11.199:4023/rtp/239.109.205.65:8456
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
+东方财经,http://106.87.49.127:8888/rtp/235.254.199.103:7980
+东方财经,http://14.109.224.50:3388/rtp/235.254.199.103:7980
 东方财经,http://www.sjwyp.com:4022/rtp/239.254.201.181:7214
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
@@ -68,7 +70,7 @@ CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
 CCTV女性时尚,http://www.dwphic.com:9999/udp/239.69.1.86:10156
 CCTV女性时尚,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_NVXINGSS
-CCTV女性时尚,http://106.116.241.52:8008/rtp/239.254.201.228:7255
+CCTV女性时尚,http://14.109.224.50:3388/rtp/235.254.199.195:7980
 CCTV女性时尚,http://home.scanflove.com:7788/rtp/235.254.199.195:7980
 CCTV女性时尚,http://phmanet.com:9999/rtp/239.76.254.55:9000
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
@@ -182,7 +184,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,webview://https://saileitv.com/play.html?channelId=n3fad9608
 
 重庆频道,#genre#
-重庆卫视,http://150.255.114.132:8188/rtp/239.254.96.198:8198
+重庆卫视,http://183.66.66.199:2345/rtp/235.254.198.34:1412
 重庆卫视,http://218.206.221.78:90/hls/80/index.m3u8
 重庆卫视,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://123.146.61.43:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -198,8 +200,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,video://https://m.345iptv.com/?act=play&token=d1d638cef5c51052b8a9d748ba38664a&tid=ws&id=19
 
-重庆影视,http://123.146.61.43:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆影视,http://125.80.158.137:7788/rtp/235.254.196.209:1108
+重庆影视,http://183.66.66.199:2345/rtp/235.254.196.209:1108
 重庆影视,http://123.146.61.43:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆影视,http://106.87.49.127:8888/rtp/235.254.199.180:7980
+重庆影视,http://14.109.224.50:3388/rtp/235.254.196.209:1108
 重庆影视,http://27.10.89.216:8012/rtp/225.0.4.62:7980
 重庆影视,http://106.83.116.129:8188/rtp/235.254.196.209:1108
 重庆影视,http://211.158.153.6:8004/udp/225.0.4.62:7980
@@ -210,13 +215,21 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://106.83.116.129:8188/rtp/235.254.197.199:7980
 重庆新闻,http://14.110.108.69:4022/rtp/235.254.197.199:7980
+重庆新闻,http://183.66.66.199:2345/rtp/235.254.196.208:1104
 重庆新闻,http://58.17.134.3:8001/rtp/225.0.4.59:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
-
-重庆汽摩,http://106.83.119.210:8188/rtp/235.254.199.169:7980
+重庆文体娱乐,http://106.87.49.127:8888/rtp/235.254.197.108:7980
+重庆文体娱乐,http://14.109.224.50:3388/rtp/235.254.197.108:7980
+重庆文体娱乐,http://14.110.108.69:4022/rtp/235.254.197.108:7980
+重庆文体娱乐,http://183.66.66.199:2345/rtp/235.254.196.212:1120
+重庆红岩文化,http://106.87.49.127:8888/rtp/235.254.197.107:7980
+重庆红岩文化,http://14.109.224.50:3388/rtp/235.254.197.107:7980
+重庆红岩文化,http://14.110.108.69:4022/rtp/235.254.197.107:7980
+重庆红岩文化,http://183.66.66.199:2345/rtp/235.254.196.211:1116
+重庆汽摩,http://106.87.49.127:8888/rtp/235.254.199.169:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -1536,7 +1549,7 @@ CCTV5+,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-7-0
 CCTV13,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-15-0.html
 
 少儿频道,#genre#
-重庆少儿,http://home.scanflove.com:7788/rtp/235.254.196.214:1128
+重庆少儿,http://14.109.224.50:3388/rtp/235.254.199.166:7980
 重庆少儿,http://123.146.61.43:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
