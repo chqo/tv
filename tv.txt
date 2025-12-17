@@ -5,7 +5,7 @@
 生态环境,http://223.8.180.79:8066/rtp/239.1.1.110:8110
 生态环境,http://www.sjwyp.com:4022/rtp/239.254.201.187:6226
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
-
+中国天气,http://116.9.0.196:4000/rtp/239.81.0.63:4056
 中国天气,http://223.8.180.79:8066/rtp/239.1.1.107:8107
 中国天气,http://www.hkyc.site:1991/rtp/239.253.64.79:5140
 中国天气,http://lt.96335.top:4566/rtp/239.81.0.63:4056
@@ -27,6 +27,7 @@
 金色学堂,http://223.8.180.79:8066/rtp/239.1.1.82:8082
 金色学堂,http://www.sjwyp.com:4022/rtp/239.254.201.182:7227
 金色学堂,http://61.150.11.199:4023/rtp/239.109.205.65:8456
+金色学堂,http://home.scanflove.com:7788/rtp/235.254.197.157:7980
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
 东方财经,http://223.8.180.79:8066/rtp/239.1.1.85:8085
@@ -36,22 +37,24 @@
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
 CHC影迷电影,http://sh.lnott.top:880/dx101.m3u8
-CHC影迷电影,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
-CHC影迷电影,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
-CHC影迷电影,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
-CHC家庭影院,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
-CHC家庭影院,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
-CHC家庭影院,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
+CHC影迷电影,http://home.scanflove.com:7788/rtp/235.254.199.248:7980	
+CHC家庭影院,http://home.scanflove.com:7788/rtp/235.254.199.246:7980	
+CHC动作电影,http://home.scanflove.com:7788/rtp/235.254.199.247:7980
+CHC影迷电影,http://116.9.0.196:4000/rtp/239.81.0.240:4056	
+CHC家庭影院,http://116.9.0.196:4000/rtp/239.81.0.238:4056	
+CHC动作电影,http://116.9.0.196:4000/rtp/239.81.0.239:4056
 CHC家庭影院,http://sh.lnott.top:880/dx93.m3u8
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC动作电影,http://gat.bkpcp.top/ymg.php?id=dzdy
 CHC影迷电影,http://gat.bkpcp.top/ymg.php?id=ymdy
-CHC动作电影,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
-CHC动作电影,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
 CCTV第一剧场,http://106.116.125.246:4022/rtp/239.254.201.218:7258
 CCTV风云剧场,http://106.116.125.246:4022/rtp/239.254.201.219:7257
 CCTV风云音乐,http://106.116.125.246:4022/rtp/239.254.201.221:7259
 CCTV怀旧剧场,http://106.116.125.246:4022/rtp/239.254.201.220:7256
+CCTV怀旧剧场,http://home.scanflove.com:7788/rtp/235.254.199.205:7980	
+CCTV第一剧场,http://home.scanflove.com:7788/rtp/235.254.199.211:7980	
+CCTV风云剧场,http://home.scanflove.com:7788/rtp/235.254.199.207:7980	
+CCTV风云音乐,http://home.scanflove.com:7788/rtp/235.254.199.208:7980
 CHC家庭影院,http://m.061899.xyz/mg/jtyy
 CHC动作电影,http://m.061899.xyz/mg/dzdy
 CHC影迷电影,http://m.061899.xyz/mg/ymdy
@@ -183,9 +186,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,webview://https://saileitv.com/play.html?channelId=n3fad9608&channelName=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 
 重庆频道,#genre#
+重庆卫视,http://116.9.0.196:4000/rtp/239.81.0.47:4056
 重庆卫视,http://score.9498345.xyz:16618/udp/239.81.0.47:4056
 重庆卫视,http://183.66.66.199:2345/rtp/235.254.198.34:1412
-重庆卫视,http://218.206.221.78:90/hls/80/index.m3u8
+重庆卫视,http://home.scanflove.com:7788/rtp/235.254.198.34:1412
 重庆卫视,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://123.146.61.43:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://116.76.254.170:44330/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -200,20 +204,23 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,video://https://m.345iptv.com/?act=play&token=d1d638cef5c51052b8a9d748ba38664a&tid=ws&id=19
 
+重庆影视,http://125.80.157.49:7788/rtp/235.254.196.209:1108
 重庆影视,http://125.80.159.230:7788/rtp/235.254.196.209:1108
 重庆影视,http://183.66.66.199:2345/rtp/235.254.196.209:1108
 重庆影视,http://123.146.61.43:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆影视,http://106.87.49.127:8888/rtp/235.254.199.180:7980
 重庆影视,http://27.10.89.216:8012/rtp/225.0.4.62:7980
 重庆影视,http://106.83.118.213:8188/rtp/235.254.196.209:1108
+重庆影视,http://106.87.49.127:8888/rtp/235.254.196.209:1108
 重庆影视,http://211.158.153.6:8004/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8005/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 重庆影视,http://14.109.224.132:3388/rtp/235.254.196.209:1108
+重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://106.83.118.213:8188/rtp/235.254.197.199:7980
-重庆新闻,http://14.109.224.132:3388/rtp/235.254.197.199:7980
+重庆新闻,http://home.scanflove.com:7788/rtp/235.254.196.208:1104
 重庆新闻,http://183.66.66.199:2345/rtp/235.254.196.208:1104
 重庆新闻,http://58.17.134.3:8001/rtp/225.0.4.59:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
@@ -222,14 +229,20 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
 重庆文体娱乐,http://106.83.118.213:8188/rtp/235.254.197.108:7980
 重庆文体娱乐,http://125.80.159.230:7788/rtp/235.254.197.108:7980
+重庆文体娱乐,http://125.80.157.49:7788/rtp/235.254.199.187:7980
 重庆文体娱乐,http://14.109.224.132:3388/rtp/235.254.199.187:7980
 重庆文体娱乐,http://183.66.66.199:2345/rtp/235.254.196.212:1120
+重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.196.212:1120
 重庆红岩文化,http://106.83.118.213:8188/rtp/235.254.197.107:7980
 重庆红岩文化,http://125.80.159.230:7788/rtp/235.254.197.107:7980
+重庆红岩文化,http://125.80.157.49:7788/rtp/235.254.199.182:7980
 重庆红岩文化,http://14.109.224.132:3388/rtp/235.254.199.182:7980
 重庆红岩文化,http://183.66.66.199:2345/rtp/235.254.196.211:1116
+重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.196.211:1116
+重庆汽摩,http://125.80.157.49:7788/rtp/235.254.199.169:7980
 重庆汽摩,http://125.80.159.230:7788/rtp/235.254.199.169:7980
 重庆汽摩,http://183.66.66.199:2345/rtp/235.254.199.169:7980
+重庆汽摩,http://home.scanflove.com:7788/rtp/235.254.199.169:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -241,6 +254,41 @@ CCTV5,http://8.138.7.223/tv/migu720.php?id=CCTV5
 CCTV6,http://8.138.7.223/tv/migu720.php?id=CCTV6
 CCTV8,http://8.138.7.223/tv/migu720.php?id=CCTV8
 CCTV13,http://8.138.7.223/tv/migu720.php?id=CCTV13
+CCTV1,http://116.76.254.170:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2,http://116.76.254.170:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://116.76.254.170:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://116.76.254.170:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://116.76.254.170:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://116.76.254.170:44330/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8,http://116.76.254.170:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9 ,http://116.76.254.170:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,	http://116.76.254.170:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11,	http://116.76.254.170:44330/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12,	http://116.76.254.170:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13,	http://116.76.254.170:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,	http://116.76.254.170:44330/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15,	http://116.76.254.170:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5+,http://116.76.254.170:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://116.76.254.170:44330/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://116.76.254.170:44330/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://116.76.254.170:44330/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://116.76.254.170:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://116.76.254.170:44330/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://116.76.254.170:44330/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://116.76.254.170:44330/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://116.76.254.170:44330/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://116.76.254.170:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://116.76.254.170:44330/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://116.76.254.170:44330/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,,http://116.76.254.170:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://116.76.254.170:44330/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://116.76.254.170:44330/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://116.76.254.170:44330/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://116.76.254.170:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://116.76.254.170:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://116.76.254.170:44330/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2,https://play.kankanlive.com/live/1698234898628961.m3u8
 CCTV4,https://play.kankanlive.com/live/1698234936258960.m3u8
@@ -1549,7 +1597,7 @@ CCTV5+,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-7-0
 CCTV13,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-15-0.html
 
 少儿频道,#genre#
-重庆少儿,http://14.109.224.50:3388/rtp/235.254.199.166:7980
+重庆少儿,http://home.scanflove.com:7788/rtp/235.254.199.166:7980
 重庆少儿,http://123.146.61.43:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
