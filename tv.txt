@@ -13,6 +13,7 @@
 
 中国天气,http://113.17.152.74:8001/udp/239.81.0.63:4056
 中国天气,http://www.hkyc.site:1991/rtp/239.253.64.79:5140
+中国天气,http://www.96335.top:4566/udp/239.81.0.63:4056
 中国天气,http://lt.96335.top:4566/rtp/239.81.0.63:4056
 中国天气,http://36.136.13.250:8811/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
@@ -192,6 +193,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,webview://https://saileitv.com/play.html?channelId=n3fad9608&channelName=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 
 重庆频道,#genre#
+重庆卫视,http://www.96335.top:4566/udp/239.81.0.47:4056
+重庆卫视,http://113.17.152.74:8001/udp/239.81.0.47:4056
+重庆卫视,http://1.207.2.181:8881/rtp/238.255.2.78:5999
 重庆卫视,http://113.17.152.74:8001/udp/239.81.0.47:4056
 重庆卫视,http://60.223.72.69:8001/rtp/226.0.2.50:8312
 重庆卫视,http://117.88.187.92:8888/rtp/239.49.1.42:6000
@@ -208,6 +212,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 
+重庆影视,http://14.109.224.103:3388/rtp/235.254.196.209:1108
 重庆影视,http://106.83.115.201:8188/rtp/235.254.196.209:1108
 重庆影视,http://14.109.224.103:3388/rtp/235.254.196.209:1108
 重庆影视,http://14.109.230.13:3388/rtp/235.254.196.209:1108
