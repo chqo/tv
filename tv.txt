@@ -192,6 +192,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,webview://https://saileitv.com/play.html?channelId=n3fad9608&channelName=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 
 重庆频道,#genre#
+重庆卫视,http://106.83.118.227:8188/rtp/235.254.196.249:1268
 重庆卫视,http://27.14.160.128:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://27.14.154.99:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://1.207.2.181:8881/rtp/238.255.2.78:5999
@@ -208,6 +209,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 
+重庆影视,http://123.145.31.4:8001/udp/225.0.4.62:7980
+重庆影视,http://106.83.118.227:8188/rtp/235.254.196.209:1108
 重庆影视,http://14.109.230.253:8000/rtp/235.254.196.209:1108
 重庆影视,http://125.80.158.143:7788/rtp/235.254.196.209:1108
 重庆影视,http://14.109.226.221:3388/rtp/235.254.196.209:1108
@@ -221,6 +224,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
+重庆新闻,http://106.83.118.227:8188/rtp/235.254.196.208:1104
 重庆新闻,http://58.17.134.3:8005/udp/225.0.4.59:7980
 重庆新闻,http://home.scanflove.com:7788/rtp/235.254.196.208:1104
 重庆新闻,http://183.66.66.199:2345/rtp/235.254.196.208:1104
@@ -229,13 +233,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
-
+重庆文体娱乐,http://106.83.118.227:8188/rtp/235.254.196.212:1120
 重庆文体娱乐,http://211.158.152.46:8001/udp/225.0.4.65:7980
 重庆文体娱乐,http://58.17.134.3:8005/udp/225.0.4.65:7980
 重庆文体娱乐,http://14.109.225.246:3388/rtp/235.254.196.212:1120
 重庆文体娱乐,http://183.66.66.199:2345/rtp/235.254.196.212:1120
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.196.212:1120
 
+重庆红岩文化,http://106.83.118.227:8188/rtp/235.254.196.211:1116
 重庆红岩文化,http://211.158.152.46:8001/udp/225.0.4.69:7980
 重庆红岩文化,http://58.17.134.3:8005/udp/225.0.4.69:7980
 重庆红岩文化,http://14.109.225.246:3388/rtp/235.254.196.211:1116
@@ -245,6 +250,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
 重庆汽摩,http://58.17.134.3:8005/udp/225.0.4.61:7980
 重庆汽摩,http://14.109.225.246:3388/rtp/235.254.199.169:7980
+重庆汽摩,http://106.83.118.227:8188/rtp/235.254.196.221:1156
 重庆汽摩,http://home.scanflove.com:7788/rtp/235.254.199.169:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
