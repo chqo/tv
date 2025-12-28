@@ -97,6 +97,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
+凤凰中文,http://183.234.238.18:8927/live1129.m3u8
+凤凰资讯,http://183.234.238.18:8926/live1128.m3u8
 凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8
 凤凰资讯,http://218.206.193.218:8888/hls/109/index.m3u8
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
@@ -192,6 +194,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,webview://https://saileitv.com/play.html?channelId=n3fad9608&channelName=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 
 重庆频道,#genre#
+重庆卫视,http://112.193.40.49:85/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://61.185.200.249:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://183.66.66.199:2345/rtp/235.254.198.34:1412
 重庆卫视,http://110.72.76.125:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0
@@ -213,7 +217,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://27.14.160.128:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆影视,http://27.14.154.99:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆影视,http://211.158.152.46:8001/udp/225.0.4.62:7980
-重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
+重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8005/udp/225.0.4.62:7980
 重庆影视,http://183.66.66.199:2345/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
@@ -241,6 +245,16 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆红岩文化,http://14.109.225.246:3388/rtp/235.254.196.211:1116
 重庆红岩文化,http://183.66.66.199:2345/rtp/235.254.196.211:1116
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.196.211:1116
+
+重庆红叶,http://14.109.225.141:3388/rtp/235.254.199.188:7980
+重庆红叶,http://106.83.117.135:8188/rtp/235.254.199.188:7980
+重庆红叶,http://58.17.134.3:8001/udp/225.0.4.62:7980
+重庆红叶,http://183.66.66.199:2345/rtp/235.254.199.188:7980
+
+重庆社会与法,http://106.83.117.135:8188/rtp/235.254.199.181:7980
+重庆社会与法,http://14.109.225.141:3388/rtp/235.254.199.181:7980
+重庆社会与法,http://58.17.134.3:8001/rtp/225.0.4.190:7980
+重庆社会与法,http://183.66.66.199:2345/rtp/235.254.199.181:7980
 
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
 重庆汽摩,http://58.17.134.3:8005/udp/225.0.4.61:7980
