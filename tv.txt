@@ -23,7 +23,7 @@
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
-金色学堂,http://14.109.224.70:3388/rtp/235.254.197.157:7980
+金色学堂,http://106.87.49.27:8888/rtp/235.254.197.157:7980
 金色学堂,http://117.65.93.14:8878/rtp/238.1.78.76:6480
 金色学堂,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.239:5540
 金色学堂,http://www.sjwyp.com:4022/rtp/239.254.201.182:7227
@@ -32,7 +32,7 @@
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
 
-东方财经,http://14.109.224.70:3388/rtp/235.254.199.103:7980
+东方财经,http://106.87.49.27:8888/rtp/235.254.199.103:7980
 东方财经,http://223.247.170.5:4000/rtp/238.1.78.73:6456
 东方财经,http://171.213.157.97:2222/rtp/239.94.2.236:5140
 东方财经,http://183.66.66.199:2345/rtp/235.254.199.103:7980
@@ -69,7 +69,7 @@ CCTV第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
 CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 	
-CCTV女性时尚,http://14.109.224.70:3388/rtp/235.254.199.195:7980
+CCTV女性时尚,http://106.87.49.27:8888/rtp/235.254.199.195:7980
 CCTV女性时尚,http://www.dwphic.com:9999/udp/239.69.1.86:10156
 CCTV女性时尚,http://183.66.66.199:2345/rtp/235.254.199.195:7980
 CCTV女性时尚,http://home.scanflove.com:7788/rtp/235.254.199.195:7980
@@ -180,8 +180,12 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,webview://https://saileitv.com/play.html?channelId=n3fad9608&channelName=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 
 重庆频道,#genre#
-重庆卫视,http://211.158.49.86:8007/rtp/225.0.4.30:7980
+重庆卫视,http://123.145.13.92:8004/rtp/225.0.4.30:7980
+重庆卫视,http://27.8.49.196:4022/rtp/225.0.4.30:7980
+重庆卫视,http://14.109.226.117:3388/rtp/235.254.197.103:7980	
+重庆卫视,http://14.109.226.117:3388/rtp/235.254.199.34:7980
 重庆卫视,http://36.44.74.164:5555/rtp/239.109.205.30:8168
+重庆卫视,http://124.114.57.87:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://101.204.170.213:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://www.96335.top:4566/rtp/239.81.0.47:4056
@@ -198,8 +202,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://m.345iptv.com/?act=play&token=fb8e4d72ba5789884a1da41c46d47960&tid=ws&id=19
 
+重庆影视,http://14.109.226.117:3388/rtp/235.254.197.105:7980
 重庆影视,http://14.109.228.130:8181/rtp/235.254.196.209:1108
 重庆影视,http://106.87.49.27:8888/rtp/235.254.196.209:1108
+重庆影视,http://106.87.49.27:8888/rtp/235.254.197.105:7980
 重庆影视,http://14.109.227.101:3388/rtp/235.254.196.209:1108
 重庆影视,http://125.80.251.41:4022/rtp/235.254.196.209:1108
 重庆影视,http://211.158.153.37:8001/rtp/225.0.4.62:7980
@@ -1359,7 +1365,6 @@ CCTV13,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-15-
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.199.166:7980
 重庆少儿,http://183.66.66.199:2345/rtp/235.254.199.166:7980
 重庆少儿,http://58.17.134.3:8001/rtp/225.0.4.45:7980
-浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -1368,16 +1373,18 @@ CCTV13,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-15-
 哈哈炫动,video://https://live.kankanews.com/huikan?id=9
 CCTV14少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
-CCTV14 少儿,https://hls-gateway.vpstv.net/streams/476900.m3u8
-金鹰卡通,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_JINYING
-卡酷少儿,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_KAKU
+CCTV14少儿,https://hls-gateway.vpstv.net/streams/476900.m3u8
+卡酷少儿,http://106.87.49.27:8888/rtp/235.254.199.49:7980
 炫动卡通,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_XUANDONG
 优漫卡通,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_YOUMAN
 动漫秀场,https://hls-gateway.vpstv.net/streams/708843.m3u8
 卡酷少儿,http://120.76.248.139/live/bfgd/4200000106.m3u8
-金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8
+金鹰卡通,http://106.87.49.27:8888/rtp/235.254.199.50:7980	
+金鹰卡通,http://106.87.49.27:8888/rtp/235.254.197.165:7980
 金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
 金鹰卡通,video://https://live.mgtv.com/?channelId=287
+嘉佳卡通,http://106.87.49.27:8888/rtp/235.254.197.182:7980	
+嘉佳卡通,http://106.87.49.27:8888/rtp/235.254.199.110:7980
 嘉佳卡通,video://https://www.gdtv.cn/tvChannelDetail/66
 哈哈炫动,video://https://live.kankanews.com/huikan?id=9
 金鹰卡通,webview://https://live.mgtv.com/?channelId\u003d221
@@ -1406,43 +1413,6 @@ CCTV14 少儿,https://hls-gateway.vpstv.net/streams/476900.m3u8
 广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
 嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
 南京儿童,webview://https://www.nbs.cn/live/?id=110095
-动漫1,webview://https://www.yy.com/1351417866
-动漫2,webview://https://www.yy.com/1354768828
-动漫3,webview://https://www.yy.com/1420843376
-动漫4,webview://https://www.yy.com/22777075
-动漫5,webview://https://www.yy.com/1382788679
-动漫6,webview://https://www.yy.com/25055036
-动漫7,webview://https://www.yy.com/23993334
-动漫8,webview://https://www.yy.com/1382747970
-动漫9,webview://https://www.yy.com/1458722520
-动漫10,webview://https://www.yy.com/1382689904
-动漫11,webview://https://www.yy.com/1507304388
-动漫12,webview://https://www.yy.com/76101626
-动漫13,webview://https://www.yy.com/1354768831
-动漫14,webview://https://www.yy.com/1354143938
-动漫15,webview://https://www.yy.com/24180320
-动漫16,webview://https://www.yy.com/26664495
-动漫17,webview://https://www.yy.com/1382626335
-动漫18,webview://https://www.yy.com/1354076248
-动漫19,webview://https://www.yy.com/35742228
-动漫20,webview://https://www.yy.com/1353098382
-动漫灵剑尊,webview://https://www.yy.com/28796627
-动漫熊出没,webview://https://www.yy.com/1352866135
-动漫大主宰,webview://https://www.yy.com/1353937086
-动漫永生,webview://https://www.yy.com/1350984033
-动漫妖神记1,webview://https://www.yy.com/1382735551
-动漫妖神记2,webview://https://www.yy.com/1382745171
-动漫妖神记之黑狱篇,webview://https://www.yy.com/1382745173
-动漫宇宙护卫队,webview://https://www.yy.com/1382736837
-动漫熊出没之探险日记,webview://https://www.yy.com/1354930977
-动漫灌篮高手,webview://https://www.yy.com/1382735626
-动漫灌篮高手,webview://https://www.yy.com/1356243352
-动漫火影忍者,webview://https://www.yy.com/1355336008
-动漫神厨小福贵,webview://https://www.yy.com/1382736860
-动漫萌鸡小队,webview://https://www.yy.com/1382736904
-动漫超级战队,webview://https://www.yy.com/1382736836
-动漫海绵宝宝,webview://https://www.yy.com/1414964403
-动漫西游记,webview://https://www.yy.com/1353323999
 哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
 哪吒2闹海,https://vip.dytt-kan.com/20250802/3080_a9986cb0/index.m3u8
 哪吒2闹海,https://c1.7bbffvip.com/video/nazhazhimotongnaohai/修复版/index.m3u8
