@@ -90,6 +90,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 凤凰中文,http://36.44.78.226:5555/rtp/239.111.205.78:5140
 凤凰资讯,http://36.44.74.164:5555/rtp/239.111.205.82:5140
+凤凰中文,http://59.32.97.118:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://183.234.238.18:8926/live1128.m3u8
 凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8
 凤凰资讯,http://218.206.193.218:8888/hls/109/index.m3u8
@@ -182,14 +183,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆频道,#genre#
 重庆卫视,http://36.44.78.226:5555/rtp/239.109.205.30:8168
 重庆卫视,http://27.8.49.196:4022/rtp/225.0.4.30:7980
-重庆卫视,http://124.114.57.87:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://101.204.170.213:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://124.114.57.250:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://122.230.50.95:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://175.11.72.229:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0
 重庆卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,https://60.191.56.186:8888/hls/35/index.m3u8
 重庆卫视,http://www.96335.top:4566/rtp/239.81.0.47:4056
 重庆卫视,http://lt.96335.top:4566/rtp/239.81.0.47:4056
-重庆卫视,http://123.146.107.38:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://175.11.72.229:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://116.76.254.170:44330/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://183.222.242.31:8088/hls/27/index.m3u8
 重庆卫视,http://score.9498345.xyz:16618/udp/239.81.0.47:4056
 重庆卫视,http://183.66.66.199:2345/rtp/235.254.198.34:1412
@@ -199,11 +200,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://m.345iptv.com/?act=play&token=fb8e4d72ba5789884a1da41c46d47960&tid=ws&id=19
 
-重庆影视,http://14.109.226.117:3388/rtp/235.254.197.105:7980
-重庆影视,http://14.109.228.130:8181/rtp/235.254.196.209:1108
+重庆影视,http://14.109.227.107:8181/rtp/235.254.197.105:7980
+重庆影视,http://14.109.227.56:3388/rtp/235.254.197.105:7980
 重庆影视,http://106.87.49.27:8888/rtp/235.254.196.209:1108
 重庆影视,http://106.87.49.27:8888/rtp/235.254.197.105:7980
-重庆影视,http://14.109.227.101:3388/rtp/235.254.196.209:1108
 重庆影视,http://125.80.251.41:4022/rtp/235.254.196.209:1108
 重庆影视,http://211.158.153.37:8001/rtp/225.0.4.62:7980
 重庆影视,http://211.158.49.86:8007/rtp/225.0.4.62:7980
@@ -211,7 +211,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://58.17.134.3:8005/udp/225.0.4.62:7980
 重庆影视,http://183.66.66.199:2345/rtp/235.254.196.209:1108
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.196.209:1108
-重庆影视,http://123.146.107.38:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://106.87.49.27:8888/rtp/235.254.196.208:1104
@@ -1365,6 +1364,7 @@ CCTV13,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-0-15-
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+哈哈炫动,http://59.32.97.118:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
 哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
 哈哈炫动,video://https://live.kankanews.com/huikan?id=9
@@ -1372,26 +1372,22 @@ CCTV14少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 CCTV14少儿,https://hls-gateway.vpstv.net/streams/476900.m3u8
 卡酷少儿,http://106.87.49.27:8888/rtp/235.254.199.49:7980
-炫动卡通,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_XUANDONG
-优漫卡通,http://ip-tv.tttttttttt.top/k-web/ku9/js/yinhe.js?id=G_YOUMAN
-动漫秀场,https://hls-gateway.vpstv.net/streams/708843.m3u8
+卡酷少儿,http://59.32.97.118:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://120.76.248.139/live/bfgd/4200000106.m3u8
 金鹰卡通,http://106.87.49.27:8888/rtp/235.254.199.50:7980	
 金鹰卡通,http://106.87.49.27:8888/rtp/235.254.197.165:7980
+金鹰卡通,http://59.32.97.118:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
 金鹰卡通,video://https://live.mgtv.com/?channelId=287
+嘉佳卡通,http://219.144.157.62:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://59.32.97.118:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://106.87.49.27:8888/rtp/235.254.197.182:7980	
 嘉佳卡通,http://106.87.49.27:8888/rtp/235.254.199.110:7980
 嘉佳卡通,video://https://www.gdtv.cn/tvChannelDetail/66
 哈哈炫动,video://https://live.kankanews.com/huikan?id=9
 金鹰卡通,webview://https://live.mgtv.com/?channelId\u003d221
 金鹰卡通,http://www.peanutbar.cn:8099/tsfile/live/1005_1.m3u8
-黑龙江少儿,http://111.43.126.240:9003/hls/6371/index.m3u8
 优漫卡通,webview://https://live.jstv.com/?channelId=543
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-福建少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-江西少儿,http://php.jdshipin.com:8880/iptv.php?id=jxse
-江西少儿,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv6.m3u8
 海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 海南少儿,http://www.hkyc.site:1991/rtp/239.253.64.124:5140
 山东少儿,webview://https://v.iqilu.com/live/sepd/
