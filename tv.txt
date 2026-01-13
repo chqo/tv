@@ -170,13 +170,15 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://rihou.cc:555/tv/[JR]重庆卫视
-重庆卫视,http://49.64.171.168:8887/rtp/239.49.1.42:6000
+重庆卫视,http://36.136.13.230:8811/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://113.218.204.144:9002/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://113.25.105.248:10000/rtp/239.1.1.36:8036
 重庆卫视,http://113.25.70.49:8892/rtp/239.1.1.36:8036
 重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
 重庆卫视,http://39.152.103.17:8089/tsfile/live/1048_1.m3u8
 重庆卫视,http://www.sjwyp.com:4022/rtp/239.254.200.203:6323
+重庆卫视,http://112.99.195.122:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://60.187.245.106:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://61.185.200.3:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://36.136.38.87:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
