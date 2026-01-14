@@ -30,8 +30,7 @@
 金色学堂,http://61.150.11.21:4023/rtp/239.109.205.65:8456
 金色学堂,http://www.stoneshi1984.ren:58120/rtp/239.109.205.65:8456
 金色学堂,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.239:5540
-金色学堂,http://183.66.66.199:2345/rtp/235.254.197.157:7980
-金色学堂,http://home.scanflove.com:7788/rtp/235.254.197.157:7980
+金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 金色学堂,http://sh.lnott.top:880/dx109.m3u8
 东方财经,http://58.46.31.79:9999/tsfile/live/1117_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -166,6 +165,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://182.150.115.26:5003/cqws.m3u8
+重庆卫视,http://www.stoneshi1984.ren:58120/rtp/239.109.205.30:8168
+重庆卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.40:5140
+重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.79:10790
+重庆卫视,http://117.36.76.86:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://118.116.13.23:85/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://118.193.115.2:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://183.62.8.58:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://218.92.37.174:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://113.218.204.144:9002/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://113.25.70.49:8892/rtp/239.1.1.36:8036
@@ -1395,10 +1402,17 @@ CCTV14少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 CCTV14少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://113.218.204.144:9002/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0	
+优漫卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.103:11030
+金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://www.stoneshi1984.ren:58120/rtp/239.109.205.42:8272
+金鹰卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.104:11040	
 卡酷少儿,http://36.136.38.87:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://113.218.204.144:9002/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0	
-佳佳卡通,http://36.136.38.87:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://www.stoneshi1984.ren:58120/rtp/239.112.205.138:5140
+卡酷少儿,http://dodge.lwfz.fun:8800/rtp/239.16.20.105:11050
+嘉佳卡通,http://36.136.38.87:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.107:11070
+嘉佳卡通,http://www.stoneshi1984.ren:58120/rtp/239.112.205.135:5140
 金鹰卡通,http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
