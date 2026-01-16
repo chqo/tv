@@ -171,18 +171,13 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://120.198.84.146:9901/tsfile/live/1058_1.m3u8
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
 重庆卫视,http://218.78.179.62:7777/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://144.123.165.186:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://117.36.76.86:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://118.116.13.23:85/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://118.193.115.2:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://183.62.8.58:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://218.92.37.174:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://113.218.204.144:9002/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://113.25.70.49:8892/rtp/239.1.1.36:8036
 重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
 重庆卫视,http://39.152.103.17:8089/tsfile/live/1048_1.m3u8
-重庆卫视,http://www.sjwyp.com:4022/rtp/239.254.200.203:6323
 重庆卫视,http://101.18.24.3:808/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://112.99.195.122:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://60.187.245.106:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -191,57 +186,64 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://36.136.13.250:8811/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://110.80.17.38:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
-重庆卫视,http://www.96335.top:4566/rtp/239.81.0.47:4056
 重庆卫视,http://lt.96335.top:4566/rtp/239.81.0.47:4056
 重庆卫视,http://score.9498345.xyz:16618/udp/239.81.0.47:4056
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://m.345iptv.com/?act=play&token=fb8e4d72ba5789884a1da41c46d47960&tid=ws&id=19
 	
-重庆影视,http://14.109.224.183:3388/rtp/235.254.197.105:7980
+重庆影视,http://125.85.58.116:8188/rtp/235.254.197.105:7980
 重庆影视,http://106.87.51.27:8888/rtp/235.254.197.105:7980
 重庆影视,http://125.80.251.183:7788/rtp/235.254.197.105:7980
 重庆影视,http://211.158.153.37:8001/rtp/225.0.4.62:7980
 重庆影视,http://27.10.75.188:8001/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 重庆影视,http://125.80.251.41:4022/rtp/235.254.197.105:7980
+重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://106.87.51.27:8888/rtp/235.254.196.208:1104
 重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重庆新闻,http://58.17.134.3:8001/rtp/225.0.4.59:7980
 重庆新闻,http://125.80.251.41:4022/rtp/235.254.197.104:7980
+重庆新闻,http://home.scanflove.com:7788/rtp/235.254.197.104:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,hybrid-webview://https://www.cbg.cn/web/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
 
-重庆文体娱乐,http://14.109.224.183:3388/rtp/235.254.197.108:7980
+重庆文体娱乐,http://125.85.58.116:8188/rtp/235.254.197.108:7980
 重庆文体娱乐,http://125.80.251.183:7788/rtp/235.254.196.212:1120
 重庆文体娱乐,http://106.87.51.27:8888/rtp/235.254.196.212:1120
 重庆文体娱乐,http://58.17.134.3:8001/udp/225.0.4.65:7980
 重庆文体娱乐,http://125.80.251.41:4022/rtp/235.254.197.108:7980
+重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
 重庆红岩文化,http://106.87.51.27:8888/rtp/235.254.196.211:1116
 重庆红岩文化,http://125.80.251.183:7788/rtp/235.254.196.211:1116
 重庆红岩文化,http://58.17.134.3:8001/udp/225.0.4.69:7980
 重庆红岩文化,http://125.80.251.41:4022/rtp/235.254.197.107:7980
+重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
 重庆红叶,http://106.87.51.27:8888/rtp/235.254.197.111:7980
 重庆红叶,http://125.80.251.183:7788/rtp/235.254.197.111:7980
 重庆红叶,http://58.17.134.3:8001/udp/225.0.4.62:7980
 重庆红叶,http://125.80.251.41:4022/rtp/235.254.197.111:7980
+重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
 重庆社会与法,http://106.87.51.27:8888/rtp/235.254.197.106:7980
 重庆社会与法,http://125.80.251.183:7788/rtp/235.254.197.106:7980
 重庆社会与法,http://58.17.134.3:8001/rtp/225.0.4.190:7980
 重庆社会与法,http://125.80.251.41:4022/rtp/235.254.197.106:7980
+重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
 重庆新农村,http://125.80.251.183:7788/rtp/235.254.197.109:7980	
 重庆新农村,http://106.87.49.95:8888/rtp/235.254.198.174:7980	
 重庆新农村,http://125.80.251.41:4022/rtp/235.254.199.174:7980
+重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
 重庆汽摩,http://58.17.134.3:8005/udp/225.0.4.61:7980
