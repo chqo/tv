@@ -8,6 +8,8 @@
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 
 中国天气,http://113.25.70.49:8892/rtp/239.1.1.107:8107
+中国天气,http://121.37.23.195:1234/959986621
+中国天气,http://114.222.195.194:1234/959986621
 中国天气,https://mg.pl10000.top/959986621
 中国天气,http://www.96335.top:4566/udp/239.81.0.63:4056
 中国天气,http://lt.96335.top:4566/rtp/239.81.0.63:4056
@@ -40,6 +42,7 @@
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
+CHC影迷电影,http://123.56.166.4:3030/952383261
 CHC影迷电影,https://mg.pl10000.top/952383261
 CHC影迷电影,http://www.96335.top:4566/rtp/239.81.0.240:4056
 CHC家庭影院,http://www.96335.top:4566/rtp/239.81.0.238:4056
@@ -79,7 +82,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 快乐垂钓,webview://https://live.mgtv.com/?channelld=21870
 快乐垂钓,video://https://live.mgtv.com/?channelId=218
 
-四海钓鱼,http://27.184.16.191:7088/rtp/239.254.201.185:6363#http://113.25.70.49:8892/rtp/239.1.1.111:8111#http://120.76.248.139/live/bfgd/4200000229.m3u8
+四海钓鱼,http://121.37.23.195:1234/637444975#http://27.184.16.191:7088/rtp/239.254.201.185:6363#http://113.25.70.49:8892/rtp/239.1.1.111:8111#http://120.76.248.139/live/bfgd/4200000229.m3u8
                                                                              
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -168,7 +171,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,webview://https://saileitv.com/play.html?channelId=n3fad9608&channelName=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 
 重庆频道,#genre#
-重庆卫视,http://182.150.115.26:5003/cqws.m3u8
+重庆卫视,http://123.56.166.4:3030/738910914
+重庆卫视,http://121.37.23.195:1234/738910914
+重庆卫视,http://114.222.195.194:1234/738910914
 重庆卫视,https://mg.pl10000.top/738910914
 重庆卫视,http://27.41.245.32:801/hls/59/index.m3u8
 重庆卫视,http://118.122.144.115:8888/newlive/live/hls/26/live.m3u8
@@ -1452,9 +1457,9 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/110
 
 少儿频道,#genre#
-重庆少儿,http://14.109.224.95:8000/rtp/235.254.197.110:7980
-重庆少儿,http://211.158.153.37:8001/rtp/225.0.4.191:7980
-重庆少儿,http://125.80.251.41:4022/rtp/235.254.197.110:7980
+重庆少儿,http://106.81.36.222:8883/rtp/235.254.197.110:7980
+重庆少儿,http://125.80.158.137:7788/rtp/235.254.197.110:7980
+重庆少儿,http://38.75.136.137:98/gslb/dsdqpub/cqse.m3u8?auth=testpub
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
 CCTV14少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 CCTV14少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1471,6 +1476,7 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 卡酷少儿,http://120.198.84.146:9901/tsfile/live/1062_1.m3u8
 卡酷少儿,http://www.stoneshi1984.ren:58120/rtp/239.112.205.138:5140
 卡酷少儿,http://dodge.lwfz.fun:8800/rtp/239.16.20.105:11050
+嘉佳卡通,http://123.56.166.4:3030/614952364
 嘉佳卡通,http://36.136.38.87:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.107:11070
 嘉佳卡通,http://120.198.84.146:9901/tsfile/live/1070_1.m3u8
@@ -1602,6 +1608,11 @@ DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjp
 十首伤感DJ情歌,https://vdse.bdstatic.com//5319e5b5cd1ad9d27a21b9bf4ad534ba.mp4
 
 歌曲欣赏,#genre#
+解不开的扣,https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E8%A7%A3%E4%B8%8D%E5%BC%80%E7%9A%84%E6%89%A3.mp4#https://haokan.baidu.com/v?vid=4629121581117935876
+热水养花,https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E7%83%AD%E6%B0%B4%E5%85%BB%E8%8A%B1%20.mp4#https://haokan.baidu.com/v?vid=9651595731870746945
+留下的人我会珍惜,https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E7%95%99%E4%B8%8B%E7%9A%84%E4%BA%BA%E6%88%91%E4%BC%9A%E7%8F%8D%E6%83%9C.mp4#https://haokan.baidu.com/v?vid=17111179001347658521
+心死在冬季,https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E5%BF%83%E6%AD%BB%E5%9C%A8%E5%86%AC%E5%AD%A3-%E4%BB%BB%E5%A4%8F.mp4#
+https://haokan.baidu.com/v?vid=3442006268879350118
 手心有你,http://t7i1fn96a.hn-bkt.clouddn.com/%E6%89%8B%E5%BF%83%E6%9C%89%E4%BD%A0.mp4#https://d.kstore.dev/download/10141/%E6%89%8B%E5%BF%83%E6%9C%89%E4%BD%A0.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E6%89%8B%E5%BF%83%E6%9C%89%E4%BD%A0.mp4
 手心有你,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=14909758681472739336
 手心有你,webview://https://haokan.baidu.com/v?vid=8170172931527705785
