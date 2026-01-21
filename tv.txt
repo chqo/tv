@@ -89,7 +89,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,webview://http://www.hkstv.tv/index/live.html
-
+凤凰中文,http://119.125.134.203:9999/tsfile/live/1019_1.m3u8
 凤凰中文,http://14.21.90.68:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://182.150.115.26:5003/custom22.m3u8
 凤凰资讯,http://182.150.115.26:5003/custom23.m3u8
@@ -173,6 +173,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://180.118.239.153:1212/738910914
 重庆卫视,http://118.122.144.115:8888/newlive/live/hls/26/live.m3u8
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.79:10790
+重庆卫视,http://171.43.64.131:85/tsfile/live/faacts/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://218.78.179.62:7777/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://117.36.76.86:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://183.62.8.58:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
