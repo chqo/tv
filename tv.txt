@@ -2,14 +2,14 @@
 饭店简介,http://t7i1fn96a.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#http://t5woogkks.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
-生态环境,http://118.79.7.151:6001/rtp/226.0.2.120:8872
 生态环境,http://113.25.70.49:8892/rtp/239.1.1.110:8110
 生态环境,http://www.li0580.top:4022/rtp/233.50.202.103:5140
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 
 中国天气,http://113.25.70.49:8892/rtp/239.1.1.107:8107
-中国天气,http://121.37.23.195:1234/959986621
+中国天气,http://58.60.62.202:1234/959986621
 中国天气,http://114.222.195.194:1234/959986621
+中国天气,http://8.138.148.11:3000/959986621
 中国天气,https://mg.pl10000.top/959986621
 中国天气,http://www.96335.top:4566/udp/239.81.0.63:4056
 中国天气,http://lt.96335.top:4566/rtp/239.81.0.63:4056
@@ -42,9 +42,9 @@
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
+CHC影迷电影,http://8.138.148.11:3000/952383261
 CHC影迷电影,http://58.60.62.202:1234/952383261
 CHC影迷电影,http://123.56.166.4:3030/952383261
-CHC影迷电影,https://mg.pl10000.top/952383261
 CHC影迷电影,http://www.96335.top:4566/rtp/239.81.0.240:4056
 CHC家庭影院,http://www.96335.top:4566/rtp/239.81.0.238:4056
 CHC动作电影,http://www.96335.top:4566/rtp/239.81.0.239:4056
@@ -83,12 +83,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 快乐垂钓,webview://https://live.mgtv.com/?channelld=21870
 快乐垂钓,video://https://live.mgtv.com/?channelId=218
 
-四海钓鱼,http://58.60.62.202:1234/637444975#http://116.76.20.122:3000/637444975#http://27.184.16.191:7088/rtp/239.254.201.185:6363#http://113.25.70.49:8892/rtp/239.1.1.111:8111#http://120.76.248.139/live/bfgd/4200000229.m3u8
+四海钓鱼,http://58.60.62.202:1234/637444975#http://8.138.148.11:3000/637444975#http://27.184.16.191:7088/rtp/239.254.201.185:6363#http://113.25.70.49:8892/rtp/239.1.1.111:8111#http://120.76.248.139/live/bfgd/4200000229.m3u8
                                                                              
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
+凤凰中文,http://61.150.11.76:4023/rtp/239.111.205.78:5140
+凤凰资讯,http://61.150.11.76:4023/rtp/239.111.205.82:5140
 凤凰中文,http://119.125.134.203:9999/tsfile/live/1019_1.m3u8
 凤凰中文,http://14.21.90.68:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://182.150.115.26:5003/custom22.m3u8
@@ -169,16 +171,18 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://182.150.115.26:5003/cqws.m3u8
-重庆卫视,http://1.199.165.18:8822/rtp/239.16.20.79:10790
+重庆卫视,http://61.150.11.76:4023/rtp/239.109.205.30:8168
+重庆卫视,http://8.138.148.11:3000/738910914
 重庆卫视,http://14.109.229.206:2345/rtp/235.254.197.103:7980
 重庆卫视,http://58.60.62.202:1234/738910914
-重庆卫视,http://116.76.20.122:3000/738910914
 重庆卫视,http://123.56.166.4:3030/738910914
+重庆卫视,http://www.96335.top:4566/udp/239.81.0.47:4056
 重庆卫视,http://www.stoneshi1984.ren:58120/rtp/239.112.205.40:5140
 重庆卫视,http://www.stoneshi1984.ren:58120/rtp/239.109.205.30:8168
 重庆卫视,http://118.122.144.115:8888/newlive/live/hls/26/live.m3u8
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.79:10790
+重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 重庆卫视,http://117.36.76.86:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://111.23.208.105:9999/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://171.43.64.131:85/tsfile/live/faacts/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -189,7 +193,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://113.25.70.49:8892/rtp/239.1.1.36:8036
 重庆卫视,http://61.185.200.3:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
 重庆卫视,http://lt.96335.top:4566/rtp/239.81.0.47:4056
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
@@ -198,7 +201,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://m.345iptv.com/?act=play&token=fb8e4d72ba5789884a1da41c46d47960&tid=ws&id=19
 
-重庆影视,http://106.81.144.84:8883/rtp/235.254.197.105:7980
+重庆影视,http://125.80.153.93:7788/rtp/235.254.197.105:7980
 重庆影视,http://14.109.229.206:2345/rtp/235.254.197.105:7980
 重庆影视,http://106.87.51.46:8888/rtp/235.254.197.105:7980
 重庆影视,http://123.144.35.74:9000/udp/225.0.4.62:7980
@@ -221,7 +224,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆文体娱乐,http://14.109.229.206:2345/rtp/235.254.197.108:7980
 重庆文体娱乐,http://123.144.35.74:9000/udp/225.0.4.65:7980
-重庆文体娱乐,http://106.81.144.84:8883/rtp/235.254.196.212:1120
+重庆文体娱乐,http://125.80.153.93:7788/rtp/235.254.196.212:1120
 重庆文体娱乐,http://58.17.134.3:8001/udp/225.0.4.65:7980
 重庆文体娱乐,http://116.168.39.205:10000/rtp/225.0.4.65:7980
 重庆文体娱乐,http://125.80.153.93:7788/rtp/235.254.197.108:7980
@@ -243,15 +246,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆社会与法,http://106.87.51.46:8888/rtp/235.254.197.106:7980
 重庆社会与法,http://14.109.229.206:2345/rtp/235.254.197.106:7980
-重庆社会与法,http://106.81.144.84:8883/rtp/235.254.197.106:7980
+重庆社会与法,http://125.80.153.93:7788/rtp/235.254.197.106:7980
 重庆社会与法,http://58.17.134.3:8001/rtp/225.0.4.190:7980
 重庆社会与法,http://125.80.153.93:7788/rtp/235.254.197.106:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
 重庆新农村,http://106.87.51.46:8888/rtp/235.254.197.109:7980
 重庆新农村,http://14.109.229.206:2345/rtp/235.254.197.109:7980
-重庆新农村,http://106.81.144.84:8883/rtp/235.254.197.109:7980
-重庆新农村,http://125.80.153.93:7788/rtp/235.254.199.174:7980
+重庆新农村,http://125.80.153.93:7788/rtp/235.254.197.109:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
@@ -260,6 +262,78 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
+CCTV1,http://gxyd.484947.xyz/PLTV/77777777/224/3221225654/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV2,http://gxyd.484947.xyz/PLTV/77777777/224/3221225657/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV3,http://gxyd.484947.xyz/PLTV/77777777/224/3221225713/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV4,http://gxyd.484947.xyz/PLTV/77777777/224/3221225761/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV5,http://gxyd.484947.xyz/PLTV/77777777/224/3221225660/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV5+,http://gxyd.484947.xyz/PLTV/77777777/224/3221225712/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV6,http://gxyd.484947.xyz/PLTV/77777777/224/3221225715/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV7,http://gxyd.484947.xyz/PLTV/77777777/224/3221225700/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV8,http://gxyd.484947.xyz/PLTV/77777777/224/3221225716/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV9,http://gxyd.484947.xyz/PLTV/77777777/224/3221225663/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV10,http://gxyd.484947.xyz/PLTV/77777777/224/3221225704/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV11,http://gxyd.484947.xyz/PLTV/77777777/224/3221225739/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV12,http://gxyd.484947.xyz/PLTV/77777777/224/3221225645/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV13,http://gxyd.484947.xyz/PLTV/77777777/224/3221225742/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV14,http://gxyd.484947.xyz/PLTV/77777777/224/3221225648/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV15,http://gxyd.484947.xyz/PLTV/77777777/224/3221225693/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV16,http://gxyd.484947.xyz/PLTV/77777777/224/3221225956/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV17,http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV1,http://www.96335.top:4566/udp/239.81.0.102:4056
+CCTV2,http://www.96335.top:4566/udp/239.81.0.115:4056
+CCTV3,http://www.96335.top:4566/udp/239.81.0.231:4056
+CCTV4,http://www.96335.top:4566/udp/239.81.0.96:4056
+CCTV5,http://www.96335.top:4566/udp/239.81.0.232:4056
+CCTV5+,http://www.96335.top:4566/udp/239.81.0.101:4056
+CCTV6,http://www.96335.top:4566/udp/239.81.0.233:4056
+CCTV7,http://www.96335.top:4566/udp/239.81.0.116:4056
+CCTV8,http://www.96335.top:4566/udp/239.81.0.234:4056
+CCTV9,http://www.96335.top:4566/udp/239.81.0.117:4056
+CCTV10,http://www.96335.top:4566/udp/239.81.0.118:4056
+CCTV11,http://www.96335.top:4566/udp/239.81.0.229:4056
+CCTV12,http://www.96335.top:4566/udp/239.81.0.119:4056
+CCTV13,http://www.96335.top:4566/udp/239.81.0.206:4056
+CCTV14,http://www.96335.top:4566/udp/239.81.0.120:4056
+CCTV15,http://www.96335.top:4566/udp/239.81.0.230:4056
+CCTV17,http://www.96335.top:4566/udp/239.81.0.228:4056
+北京卫视,http://www.96335.top:4566/udp/239.81.0.109:4056
+天津卫视,http://www.96335.top:4566/udp/239.81.0.113:4056
+东方卫视,http://www.96335.top:4566/udp/239.81.0.111:4056
+浙江卫视,http://www.96335.top:4566/udp/239.81.0.108:4056
+安徽卫视,http://www.96335.top:4566/udp/239.81.0.211:4056
+江苏卫视,http://www.96335.top:4566/udp/239.81.0.106:4056
+山东卫视,http://www.96335.top:4566/udp/239.81.0.114:4056
+广东卫视,http://www.96335.top:4566/udp/239.81.0.104:4056
+四川卫视,http://www.96335.top:4566/udp/239.81.0.130:4056
+深圳卫视,http://www.96335.top:4566/udp/239.81.0.103:4056
+湖南卫视,http://www.96335.top:4566/udp/239.81.0.110:4056
+湖北卫视,http://www.96335.top:4566/udp/239.81.0.112:4056
+河北卫视,http://www.96335.top:4566/udp/239.81.0.94:4056
+江西卫视,http://www.96335.top:4566/udp/239.81.0.204:4056
+东南卫视,http://www.96335.top:4566/udp/239.81.0.215:4056
+贵州卫视,http://www.96335.top:4566/udp/239.81.0.95:4056
+辽宁卫视,http://www.96335.top:4566/udp/239.81.0.210:4056
+黑龙江卫视,http://www.96335.top:4566/udp/239.81.0.105:4056
+甘肃卫视,http://www.96335.top:4566/udp/239.81.0.207:4056
+重庆卫视,http://www.96335.top:4566/udp/239.81.0.47:4056
+吉林卫视,http://www.96335.top:4566/udp/239.81.0.58:4056
+陕西卫视,http://www.96335.top:4566/udp/239.81.0.89:4056
+山西卫视,http://www.96335.top:4566/udp/239.81.0.49:4056
+河南卫视,http://www.96335.top:4566/udp/239.81.0.44:4056
+宁夏卫视,http://www.96335.top:4566/udp/239.81.0.60:4056
+内蒙古卫视,http://www.96335.top:4566/udp/239.81.0.54:4056
+青海卫视,http://www.96335.top:4566/udp/239.81.0.53:4056
+新疆卫视,http://www.96335.top:4566/udp/239.81.0.46:4056
+西藏卫视,http://www.96335.top:4566/udp/239.81.0.55:4056
+云南卫视,http://www.96335.top:4566/udp/239.81.0.45:4056
+海南卫视,http://www.96335.top:4566/udp/239.81.0.48:4056
+三沙卫视,http://www.96335.top:4566/udp/239.81.0.242:4056
+大湾区卫视,http://www.96335.top:4566/udp/239.81.0.32:4056
+厦门卫视,http://www.96335.top:4566/udp/239.81.0.212:4056
+兵团卫视,http://www.96335.top:4566/udp/239.81.0.213:4056
+山东教育卫视,http://www.96335.top:4566/udp/239.81.0.93:4056
+广西卫视,http://www.96335.top:4566/udp/239.81.0.107:4056
 CCTV1,http://www.iptvvpn.cn:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0	
 CCTV2,http://www.iptvvpn.cn:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0	
 CCTV3,http://www.iptvvpn.cn:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0	
@@ -706,6 +780,44 @@ CCTV16,https://60.191.56.186:8888/hls/16/index.m3u8
 厦门卫视,http://182.150.115.26:5003/xmws.m3u8
 海南卫视,http://182.150.115.26:5003/custom14.m3u8
 三沙卫视,http://182.150.115.26:5003/custom15.m3u8
+湖南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225719/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+浙江卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225731/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+江苏卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225722/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+安徽卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225701/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+北京卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225651/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+东方卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225718/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+山东卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225672/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+广东卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225666/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+大湾区卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+深圳卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225725/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+东南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225904/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+广西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225767/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+贵州卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225770/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+海南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225752/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+河北卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225773/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+河南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225806/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+黑龙江卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225734/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+湖北卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225721/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+吉林卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225678/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+江西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225957/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+康巴卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226270/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+辽宁卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225779/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+内蒙古卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225751/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+宁夏卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225782/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+青海卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225705/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+厦门卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225823/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+山西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225785/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+陕西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225754/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+四川卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225757/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+天津卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225675/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+西藏卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225800/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+西藏卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225828/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+新疆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225788/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+延边卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226273/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+云南卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225794/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+甘肃卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225764/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
+兵团卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225795/index.m3u8?servicetype=3&IASHttpSessionId=OTT$源1
 浙江卫视,https://60.191.56.186:8888/hls/17/index.m3u8
 山东卫视,https://60.191.56.186:8888/hls/46/index.m3u8
 浙江少儿,https://60.191.56.186:8888/hls/23/index.m3u8
@@ -1411,6 +1523,7 @@ CCTV14少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 CCTV14少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://58.60.62.202:1234/626064703
+优漫卡通,http://8.138.148.11:3000/626064703
 优漫卡通,http://dodge.lwfz.fun:8800/rtp/239.16.10.44:2000
 优漫卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.103:11030
 优漫卡通,http://www.stoneshi1984.ren:58120/rtp/239.112.205.185:5140
@@ -1429,6 +1542,7 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 卡酷少儿,http://www.stoneshi1984.ren:58120/rtp/239.112.205.138:5140
 卡酷少儿,http://dodge.lwfz.fun:8800/rtp/239.16.20.105:11050
 嘉佳卡通,http://123.56.166.4:3030/614952364
+嘉佳卡通,http://8.138.148.11:3000/614952364
 嘉佳卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.107:11070
 嘉佳卡通,http://36.136.38.87:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.107:11070
