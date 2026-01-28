@@ -2,6 +2,7 @@
 饭店简介,http://t7i1fn96a.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#http://t5woogkks.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
+生态环境,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.220.216:5140
 生态环境,http://113.25.70.49:8892/rtp/239.1.1.110:8110
 生态环境,http://www.li0580.top:4022/rtp/233.50.202.103:5140
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
@@ -70,6 +71,7 @@ CCTV第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
 CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV女性时尚,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.94:5140
 CCTV女性时尚,http://www.dwphic.com:9999/udp/239.69.1.86:10156
 CCTV女性时尚,http://home.scanflove.com:7788/rtp/235.254.199.195:7980
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
@@ -96,6 +98,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://182.150.115.26:5003/custom23.m3u8
 凤凰中文,http://113.25.70.49:8892/rtp/239.1.1.126:8126
 凤凰资讯,http://113.25.70.49:8892/rtp/239.1.1.127:8127
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,http://www.stoneshi1984.ren:58120/rtp/239.111.205.78:5140
 凤凰资讯,http://www.stoneshi1984.ren:58120/rtp/239.111.205.82:5140
 凤凰中文,http://www.li0580.top:4022/rtp/233.50.202.35:5140
@@ -170,6 +173,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,webview://https://saileitv.com/play.html?channelId=n3fad9608&channelName=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 
 重庆频道,#genre#
+重庆卫视,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.220.94:5140
+重庆卫视,http://www.alihomes.top:8188/rtp/239.254.96.42:7320
 重庆卫视,http://61.150.11.76:4023/rtp/239.109.205.30:8168
 重庆卫视,http://sdqd.sohu.blog:880/chs034.m3u8
 重庆卫视,http://8.138.148.11:3000/738910914
@@ -191,6 +196,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://113.218.204.144:9002/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://61.185.200.3:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视:http://t.061899.xyz/tl/tl.php?id=cqws
 重庆卫视,http://lt.96335.top:4566/rtp/239.81.0.47:4056
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
@@ -200,9 +206,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m.345iptv.com/?act=play&token=fb8e4d72ba5789884a1da41c46d47960&tid=ws&id=19
 
 重庆影视,http://106.83.116.63:8188/rtp/235.254.197.105:7980
-重庆影视,http://106.87.48.206:8888/rtp/235.254.197.105:7980
+重庆影视,http://106.87.51.253:8888/rtp/235.254.197.105:7980
 重庆影视,http://123.144.35.74:9000/udp/225.0.4.62:7980
 重庆影视,http://211.158.153.37:8001/rtp/225.0.4.62:7980
+重庆影视,http://27.8.230.128:6011/rtp/225.0.4.62:7980
 重庆影视,http://27.10.75.188:8001/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 重庆影视,http://cq.sohu.blog/cqyx.php?id=cqys
@@ -218,36 +225,36 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
 
-重庆文体娱乐,http://106.87.48.206:8888/rtp/235.254.197.108:7980
-重庆文体娱乐,http://14.109.228.142:8000/rtp/235.254.197.108:7980
+重庆文体娱乐,http://106.83.116.63:8188/rtp/235.254.197.108:7980
+重庆文体娱乐,http://106.87.51.253:8888/rtp/235.254.197.108:7980
 重庆文体娱乐,http://123.144.35.74:9000/udp/225.0.4.65:7980
 重庆文体娱乐,http://58.17.134.3:8001/udp/225.0.4.65:7980
 重庆文体娱乐,http://125.80.153.93:7788/rtp/235.254.197.108:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 重庆文体娱乐,http://cq.sohu.blog/cqyx.php?id=cqwt
 
-重庆红岩文化,http://106.87.48.206:8888/rtp/235.254.197.107:7980
+重庆红岩文化,http://106.87.51.253:8888/rtp/235.254.197.107:7980
 重庆红岩文化,http://106.83.116.63:8188/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8001/udp/225.0.4.69:7980
-重庆红岩文化,http://125.80.153.93:7788/rtp/235.254.197.107:7980
+重庆红岩文化,http://123.144.35.74:9000/udp/225.0.4.69:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 重庆红岩文化,http://cq.sohu.blog/cqyx.php?id=cqss
 
-重庆红叶,http://106.87.48.206:8888/rtp/235.254.197.111:7980
+重庆红叶,http://106.87.51.253:8888/rtp/235.254.197.111:7980
 重庆红叶,http://106.83.116.63:8188/rtp/235.254.197.111:7980
-重庆红叶,http://14.109.228.142:8000/rtp/235.254.197.111:7980
+重庆红叶,http://123.144.35.74:9000/udp/225.0.4.62:7980
 重庆红叶,http://58.17.134.3:8001/udp/225.0.4.62:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 重庆红叶,http://cq.sohu.blog/cqyx.php?id=cqkj
 
-重庆社会与法,http://106.87.48.206:8888/rtp/235.254.197.106:7980
+重庆社会与法,http://106.87.51.253:8888/rtp/235.254.197.106:7980
 重庆社会与法,http://106.83.116.63:8188/rtp/235.254.197.106:7980
 重庆社会与法,http://58.17.134.3:8001/rtp/225.0.4.190:7980
-重庆社会与法,http://125.80.153.93:7788/rtp/235.254.197.106:7980
+重庆社会与法,http://123.144.35.74:9000/rtp/225.0.4.190:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 重庆社会与法,http://cq.sohu.blog/cqyx.php?id=cqsh
 
-重庆新农村,http://106.87.48.206:8888/rtp/235.254.197.109:7980
+重庆新农村,http://106.87.51.253:8888/rtp/235.254.197.109:7980
 重庆新农村,http://106.83.116.63:8188/rtp/235.254.197.109:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 重庆新农村,http://cq.sohu.blog/cqyx.php?id=cqnc
@@ -256,6 +263,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://58.17.134.3:8005/udp/225.0.4.61:7980
 重庆汽摩,http://125.80.153.93:7788/rtp/235.254.196.221:1156
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
+重庆汽摩,http://cq.sohu.blog/cqyx.php?id=cqqm
 
 央视综合,#genre#
 CCTV1,http://gxyd.484947.xyz/PLTV/77777777/224/3221225654/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -276,6 +284,14 @@ CCTV14,http://gxyd.484947.xyz/PLTV/77777777/224/3221225648/index.m3u8?servicetyp
 CCTV15,http://gxyd.484947.xyz/PLTV/77777777/224/3221225693/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 CCTV16,http://gxyd.484947.xyz/PLTV/77777777/224/3221225956/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 CCTV17,http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV1,http://rihou.cc:555/tv/[mg]CCTV-01
+CCTV2,http://rihou.cc:555/tv/[mg]CCTV-02
+CCTV3,http://rihou.cc:555/tv/[mg]CCTV-03
+CCTV5,http://rihou.cc:555/tv/[mg]CCTV-05
+CCTV6,http://rihou.cc:555/tv/[mg]CCTV-06
+CCTV8,http://rihou.cc:555/tv/[mg]CCTV-08
+CCTV13,http://rihou.cc:555/tv/[mg]CCTV-13
+CCTV15,http://rihou.cc:555/tv/[mg]CCTV-15
 CCTV1,http://www.96335.top:4566/udp/239.81.0.102:4056
 CCTV2,http://www.96335.top:4566/udp/239.81.0.115:4056
 CCTV3,http://www.96335.top:4566/udp/239.81.0.231:4056
