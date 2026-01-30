@@ -194,13 +194,13 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://125.80.154.48:4022/rtp/235.254.197.105:7980
 重庆影视,http://123.144.35.74:9000/udp/225.0.4.62:7980
 重庆影视,http://211.158.153.37:8001/rtp/225.0.4.62:7980
+重庆影视,http://27.9.124.217:4022/udp/225.0.4.62:7980
 重庆影视,http://27.8.230.128:6011/rtp/225.0.4.62:7980
 重庆影视,http://27.10.75.188:8001/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 重庆影视,http://cq.sohu.blog/cqyx.php?id=cqys
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
 重庆影视,http://38.75.136.137:98/gslb/dsdqpub/cqys.m3u8?auth=testpub
-重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://cq.sohu.blog/cqyx.php?id=cqxw
@@ -230,13 +230,13 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆红叶,http://106.83.112.150:8188/rtp/235.254.197.111:7980
 重庆红叶,http://125.80.154.48:4022/rtp/235.254.197.111:7980
 重庆红叶,http://123.144.35.74:9000/udp/225.0.4.62:7980
-重庆红叶,http://58.17.134.3:8001/udp/225.0.4.62:7980
+重庆红叶,http://58.17.134.3:8001/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 重庆红叶,http://cq.sohu.blog/cqyx.php?id=cqkj
 
 重庆社会与法,http://106.83.112.150:8188/rtp/235.254.197.106:7980
 重庆社会与法,http://125.80.154.48:4022/rtp/235.254.197.106:7980
-重庆社会与法,http://58.17.134.3:8001/rtp/225.0.4.190:7980
+重庆社会与法,http://58.17.134.3:8001/rtp/225.0.4.64:7980
 重庆社会与法,http://123.144.35.74:9000/rtp/225.0.4.190:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 重庆社会与法,http://cq.sohu.blog/cqyx.php?id=cqsh
@@ -244,6 +244,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新农村,http://106.87.49.158:8888/rtp/235.254.197.109:7980
 重庆新农村,http://106.83.112.150:8188/rtp/235.254.197.109:7980
 重庆新农村,http://125.80.154.48:4022/rtp/235.254.197.109:7980
+重庆新农村,http://58.17.134.3:8001/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 重庆新农村,http://cq.sohu.blog/cqyx.php?id=cqnc
 
@@ -1408,6 +1409,7 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 少儿频道,#genre#
 重庆少儿,http://cq.sohu.blog/cqyx.php?id=cqse
+重庆少儿,http://58.17.134.3:8001/udp/225.0.4.71:7980
 重庆少儿,http://38.75.136.137:98/gslb/dsdqpub/cqse.m3u8?auth=testpub
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
 CCTV14少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
