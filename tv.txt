@@ -3,8 +3,6 @@
 
 特色频道,#genre#
 生态环境,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.220.216:5140
-生态环境,http://113.25.70.49:8892/rtp/239.1.1.110:8110
-生态环境,http://www.li0580.top:4022/rtp/233.50.202.103:5140
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 
 中国天气,http://113.25.70.49:8892/rtp/239.1.1.107:8107
@@ -30,14 +28,13 @@
 
 金色学堂,http://218.78.179.62:7777/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 金色学堂,http://8.138.7.223/tv/5gtv.php?id=40
-金色学堂,http://www.li0580.top:4022/rtp/233.50.201.186:5140
+金色学堂,http://123.157.31.182:7912/rtp/233.50.201.186:5140
 金色学堂,http://113.25.70.49:8892/rtp/239.1.1.82:8082
 金色学堂,http://www.stoneshi1984.ren:58120/rtp/239.109.205.65:8456
 金色学堂,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.239:5540
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 
 东方财经,http://8.138.7.223/tv/5gtv.php?id=227
-东方财经,http://www.li0580.top:4022/rtp/233.50.200.177:5140
 东方财经,http://113.25.70.49:8892/rtp/239.1.1.85:8085
 东方财经,http://www.sjwyp.com:4022/rtp/239.254.201.181:7214
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
@@ -50,6 +47,9 @@ CHC影迷电影,http://123.56.166.4:3030/952383261
 CHC影迷电影,http://www.96335.top:4566/rtp/239.81.0.240:4056
 CHC家庭影院,http://www.96335.top:4566/rtp/239.81.0.238:4056
 CHC动作电影,http://www.96335.top:4566/rtp/239.81.0.239:4056
+CHC高清电影,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.83:5140
+CHC家庭影院,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.84:5140
+CHC动作电影,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.85:5140
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
 CHC影迷电影,http://lt.96335.top:4566/rtp/239.81.0.240:4056
@@ -62,9 +62,23 @@ CHC影迷电影,http://sh.lnott.top:880/dx101.m3u8
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC动作电影,http://gat.bkpcp.top/ymg.php?id=dzdy
 CHC影迷电影,http://gat.bkpcp.top/ymg.php?id=ymdy
+CHC家庭影院,http://gat.bkpcp.top:80/ymg.php?id=jtyy
 CHC家庭影院,http://m.061899.xyz/mg/jtyy
 CHC动作电影,http://m.061899.xyz/mg/dzdy
 CHC影迷电影,http://m.061899.xyz/mg/ymdy
+CHC动作电影,http://go.bkpcp.top/mg/dzdy
+CHC影迷电影,http://go.bkpcp.top/mg/ymdy
+CHC家庭影院,http://go.bkpcp.top/mg/jtyy
+CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
+第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
@@ -93,15 +107,12 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
-凤凰中文,
-凤凰中文,
-凤凰资讯,
+凤凰中文,http://123.157.31.182:7912/rtp/233.50.202.35:5140
+凤凰资讯,http://123.157.31.182:7912/rtp/233.50.202.36:5140
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,http://www.stoneshi1984.ren:58120/rtp/239.111.205.78:5140
 凤凰资讯,http://www.stoneshi1984.ren:58120/rtp/239.111.205.82:5140
 凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
-凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
@@ -123,15 +134,29 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
+凤凰中文,http://j.s.bkpcp.top/js/fhzw
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰资讯,http://j.s.bkpcp.top/js/fhzx
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰香港,http://j.s.bkpcp.top/js/fhxg
+凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
+无线翡翠,http://r.jdshipin.com/qClQf
+无线翡翠,http://r.jdshipin.com/qrfbg
+无线翡翠,http://r.jdshipin.com/62WM7
+无线翡翠,http://r.jdshipin.com/n90gt
+无线翡翠,http://r.jdshipin.com/GeWKr
+无线新闻,http://r.jdshipin.com/CkuBd
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 无线翡翠,https://cdn6.101.qzz.io/163189/fct
+无线新闻,http://hls.168.us.kg/u/83/master.m3u8
+无线翡翠,http://hls.168.us.kg/u/81/master.m3u8
 无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
 凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
-无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -152,6 +177,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆频道,#genre#
 重庆卫视,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.220.94:5140
 重庆卫视,http://www.alihomes.top:8188/rtp/239.254.96.42:7320
+重庆卫视,https://my5353.com/nZ0gbw
+重庆卫视,http://123.157.31.182:7912/rtp/233.50.201.143:5140
+重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
+重庆卫视,http://43.251.226.89:8080/play/52.m3u8
 重庆卫视,http://111.170.157.210:1081/?id=738910914&auth=95d4c11f9a4bc430bf05d5da4ace7ccbaebee3cff9ed4fe6499fe63db2e84b5170bc87de4e3066d8c0293a718e3161bf
 重庆卫视,http://8.138.148.11:3000/738910914
 重庆卫视,http://tv.sohu.blog/d/fjbst.php?id=195
@@ -165,6 +194,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.79:10790
 重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+重庆卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=2026020108020848757400817444ceb766459d5db0e9f7&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260201080208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=218.28.233.106&SecurityKey=20260201080208&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2d544624681ea0311e6418bce0ef133c
 重庆卫视,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://58.245.255.38:9999/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://111.23.208.105:9999/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -181,10 +211,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
-重庆卫视,webview://https://m.345iptv.com/?act=play&token=fb8e4d72ba5789884a1da41c46d47960&tid=ws&id=19
+重庆卫视,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆影视,http://14.110.97.133:4022/rtp/235.254.197.105:7980
-重庆影视,http://106.87.49.158:8888/rtp/235.254.197.105:7980
+重庆影视,http://14.109.225.193:8181/rtp/235.254.197.105:7980
+重庆影视,http://106.87.48.58:8888/rtp/235.254.197.105:7980
 重庆影视,http://123.144.35.74:9000/udp/225.0.4.62:7980
 重庆影视,http://211.158.153.37:8001/rtp/225.0.4.62:7980
 重庆影视,http://27.9.124.217:4022/udp/225.0.4.62:7980
@@ -204,34 +234,33 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
 
-重庆文体娱乐,http://106.87.49.158:8888/rtp/235.254.197.108:7980
+重庆文体娱乐,http://106.87.48.58:8888/rtp/235.254.197.108:7980
 重庆文体娱乐,http://123.144.35.74:9000/udp/225.0.4.65:7980
 重庆文体娱乐,http://58.17.134.3:8001/udp/225.0.4.65:7980
 重庆文体娱乐,http://125.80.153.93:7788/rtp/235.254.197.108:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 重庆文体娱乐,http://cq.sohu.blog/cqyx.php?id=cqwt
 
-重庆红岩文化,http://113.248.109.51:18888/rtp/235.254.197.107:7980
-重庆红岩文化,http://106.87.49.158:8888/rtp/235.254.197.107:7980
+重庆红岩文化,http://106.87.48.58:8888/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8001/udp/225.0.4.69:7980
 重庆红岩文化,http://123.144.35.74:9000/udp/225.0.4.69:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 重庆红岩文化,http://cq.sohu.blog/cqyx.php?id=cqss
 
-重庆红叶,http://106.87.49.158:8888/rtp/235.254.197.111:7980
+重庆红叶,http://106.87.48.58:8888/rtp/235.254.197.111:7980
 重庆红叶,http://123.144.35.74:9000/udp/225.0.4.62:7980
 重庆红叶,http://58.17.134.3:8001/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 重庆红叶,http://cq.sohu.blog/cqyx.php?id=cqkj
 
-重庆社会与法,http://106.87.49.158:8888/rtp/235.254.197.106:7980
+重庆社会与法,http://106.87.48.58:8888/rtp/235.254.197.106:7980
 重庆社会与法,http://58.17.134.3:8001/rtp/225.0.4.64:7980
 重庆社会与法,http://123.144.35.74:9000/rtp/225.0.4.190:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 重庆社会与法,http://cq.sohu.blog/cqyx.php?id=cqsh
 
-重庆新农村,http://106.87.49.158:8888/rtp/235.254.197.109:7980
 重庆新农村,
+重庆新农村,http://106.87.48.58:8888/rtp/235.254.197.109:7980
 重庆新农村,http://58.17.134.3:8001/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 重庆新农村,http://cq.sohu.blog/cqyx.php?id=cqnc
@@ -239,6 +268,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
 重庆汽摩,http://58.17.134.3:8005/udp/225.0.4.61:7980
 重庆汽摩,http://125.80.153.93:7788/rtp/235.254.196.221:1156
+重庆汽摩,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.220.181:5140
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆汽摩,http://cq.sohu.blog/cqyx.php?id=cqqm
 
@@ -261,6 +291,36 @@ CCTV14,http://gxyd.484947.xyz/PLTV/77777777/224/3221225648/index.m3u8?servicetyp
 CCTV15,http://gxyd.484947.xyz/PLTV/77777777/224/3221225693/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 CCTV16,http://gxyd.484947.xyz/PLTV/77777777/224/3221225956/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 CCTV17,http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+CCTV7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+CCTV8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+CCTV9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+CCTV10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+CCTV11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+CCTV12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+CCTV1,http://23.237.228.134/live5/CCTV1.m3u8
+CCTV2,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV5,http://23.237.228.134/live5/CCTV5.m3u8
+CCTV5+,http://23.237.228.134/live5/CCTV5p.m3u8
+CCTV7,http://23.237.228.134/live5/CCTV7.m3u8
+CCTV9,http://23.237.228.134/live5/CCTV9.m3u8
+CCTV10,http://23.237.228.134/live5/CCTV10.m3u8
+CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
+CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
+CCTV15,http://23.237.228.134/live3/CCTV15.m3u8
+CCTV17,http://23.237.228.134/live3/CCTV17.m3u8
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV1,http://k.061899.xyz/m.php?id=cctv1
 CCTV13,http://hls.hsrtv.cn/live/hsyouxian.m3u8
@@ -1419,7 +1479,10 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://www.stoneshi1984.ren:58120/rtp/239.109.205.42:8272
 金鹰卡通,http://120.198.84.146:9901/tsfile/live/1040_1.m3u8
-金鹰卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.104:11040	
+金鹰卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.104:11040
+炫动卡通,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.43:5140
+卡酷卡通,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.109:5140
+嘉佳卡通,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.92:5140	
 卡酷少儿,http://36.136.38.87:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://113.218.204.144:9002/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0	
 卡酷少儿,http://120.198.84.146:9901/tsfile/live/1062_1.m3u8
@@ -2352,6 +2415,40 @@ DJ情歌6首[1920*1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43f
 犯错,https://vd3.bdstatic.com/mda-jihqxgj2sagpjf6a/sc/mda-jihqxgj2sagpjf6a.mp4
 现场一曲《最美的情缘》DJ版,https://vd3.bdstatic.com/mda-ih4mz2ubqfx9q9gb/sc/mda-ih4mz2ubqfx9q9gb.mp4
 
+群星专辑,#genre#
+张惠妹精选10首,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpfe9nfog65hhstjqpn0&ratio=720p&line=0
+刘若英精选50首,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csi2q17og65ogriq3jv0&ratio=720p&line=0
+程响歌曲1,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/%E7%A8%8B%E5%93%8D%E6%AD%8C%E6%9B%B2.mp4
+程响歌曲2,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/%E7%A8%8B%E5%93%8D%E6%AD%8C%E6%9B%B22.mp4
+韩曲综合,https://www.cwq06605523399.top:9003/%E5%BD%B1%E8%A7%86/%E7%94%B5%E5%BD%B1/%E9%9F%A9%E6%9B%B2%E7%BB%BC%E5%90%88.mp4
+林忆莲30首经典金曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
+周杰伦精选120首,https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
+林俊杰精选81首,https://txmov2.a.kwimgs.com/upic/2024/01/09/12/BMjAyNDAxMDkxMjA2MDdfMzQ4MzI0MjA1OF8xMjE2Nzg4Mjk4NTZfMF8z_b_Bc9f7d3b0c4b69136e61d8328a8538bd2.mp4?clientCacheKey=3xajh8b4u5j6uva_b.mp4
+潘玮柏精选28首,https://txmov2.a.kwimgs.com/upic/2021/02/18/21/BMjAyMTAyMTgyMTI0MzNfODI4NTk1NTQ0XzQ0NTk2NzM2MDU3XzJfMw==_b_B92f3c6849966ee988590af29cfd9237b.mp4?tag=1-1750435163-std-1-6qxcke5wod-82a7afd374de76aa&clientCacheKey=3xabaxhvbd3me8s_b.mp4
+SHE精选40首,https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3MzAxOTEyNDhfODI4NTk1NTQ0XzEwOTI2ODgxNTQyOF8yXzM=_b_B1770e5ac950c20cda3df1678ded64cbc.mp4
+徐良精选30首,https://alimov2.a.kwimgs.com/upic/2024/05/08/20/BMjAyNDA1MDgyMDAyMjFfMTg1NzcxNTYxOF8xMzE5MDIyNTY0NzNfMl8z_b_B62cb1e50d6a0dea4efc3e6da93662aa4.mp4
+许嵩精选30首,https://alimov2.a.kwimgs.com/upic/2020/09/14/21/BMjAyMDA5MTQyMTMzMDdfODI4NTk1NTQ0XzM2MDUzMTE1NjM5XzJfMw==_b_B789c6ea6a87d1b67019f19f16c9f71f7.mp4
+汪苏泷精选20首,https://txmov2.a.kwimgs.com/upic/2020/09/30/22/BMjAyMDA5MzAyMjA3NDNfODI4NTk1NTQ0XzM2ODY2MzQxNzg4XzJfMw==_b_Bb726df27e24fda5e4d31b724d84ab8d4.mp4
+陶喆精选30首,https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzEzMzhfODM0NDUzMTQ2XzEwOTgxMDA2NzAyNF8wXzM=_b_B5e5a6bf1ef67081a9a226a2f6145ea2d.mp4
+陈奕迅精选34首,https://txmov2.a.kwimgs.com/upic/2022/12/22/17/BMjAyMjEyMjIxNzM3NDNfMTg1NzcxNTYxOF85MTcyMjE1NDQzNV8yXzM=_b_B16479ab3769c6fcfed15a06b75c2656e.mp4
+邓紫棋精选30首,https://txmov2.a.kwimgs.com/upic/2023/05/08/12/BMjAyMzA1MDgxMjIwNTNfMzQ4MzI0MjA1OF8xMDI1NjYyMjM5MDZfMF8z_b_B0675fa55fe8ce0583fb05fa02330e9f1.mp4
+薛之谦精选30首,https://txmov2.a.kwimgs.com/upic/2023/07/28/13/BMjAyMzA3MjgxMzUwMzRfODM0NDUzMTQ2XzEwOTA3NjA4NDU2Nl8wXzM=_b_B480250201ec7378867d92e4d29f7a644.mp4
+五月天精选37首,https://txmov2.a.kwimgs.com/upic/2021/12/07/23/BMjAyMTEyMDcyMzU2MzBfMjgwMTM4ODFfNjIzMTcwNTU3MTlfMl8z_b_Bd70a16353267a52b31d11f2cb77c6c5b.mp4
+蔡依林精选102首,https://txmov2.a.kwimgs.com/upic/2025/06/12/20/BMjAyNTA2MTIyMDUzMjFfNDQzMTI2Mjg0XzE2NjY1MzM5MjYxMV8yXzM=_b_B3bed4c7c1a80388966791d398e318edd.mp4
+任然精选20首,https://txmov2.a.kwimgs.com/upic/2020/09/23/14/BMjAyMDA5MjMxNDA1MjFfMTc4NDYxNDcyNl8zNjQ5NDI4NzI1Nl8yXzM=_b_B0f6d5151ab2c346816996328a0b66b78.mp4
+张韶涵精选96首,https://txmov2.a.kwimgs.com/upic/2023/04/24/02/BMjAyMzA0MjQwMjA4MDlfMjE0OTExOTI2N18xMDEzNTM2NjA5OTFfMF8z_b_Baa658d527c452cd09e6dc0e9684c1bed.mp4
+王心凌精选69首,https://txmov2.a.kwimgs.com/upic/2023/07/26/22/BMjAyMzA3MjYyMjExNTNfMzYxMjUyNDA3MV8xMDg5NTQ4NjE1ODlfMF8z_b_Bdded2693ce6f7de089cfd7030b45bef7.mp4
+莫文蔚精选72首,https://txmov2.a.kwimgs.com/upic/2023/07/27/21/BMjAyMzA3MjcyMTQ2MjdfMzYxMjUyNDA3MV8xMDkwMzM1MjA2NTJfMF8z_b_B144de29e473911c6e9187c9d591b8943.mp4
+陈慧琳精选30首,https://txmov2.a.kwimgs.com/upic/2025/02/09/20/BMjAyNTAyMDkyMDIzNTVfMTg1NzcxNTYxOF8xNTY0NDk2NjMzNTZfMl8z_b_Bd072695cb8d3a79a9d1ac8cdb5b3b3bc.mp4
+蔡健雅精选30首,https://txmov2.a.kwimgs.com/upic/2023/08/18/21/BMjAyMzA4MTgyMTA4MzZfODM0NDUzMTQ2XzExMDgyNTA1MjcwM18wXzM=_b_B0d509c2419313652932c68153a65e4ed.mp4
+王杰精选30首,https://txmov2.a.kwimgs.com/upic/2020/09/06/17/BMjAyMDA5MDYxNzU1MjJfMTc4NDYxNDcyNl8zNTYyMjQ2ODIxNl8yXzM=_b_Bc35f6a28c8cf25ea947bc122c176b034.mp4
+乔洋精选20首,https://txmov2.a.kwimgs.com/upic/2024/01/05/17/BMjAyNDAxMDUxNzEwMTJfNDQzMTI2Mjg0XzEyMTM5OTg3NTU2MV8yXzM=_b_Bf81e0b3d32a3fe727949531d0929868e.mp4
+庄心妍精选44首,https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
+梁静茹精选40首,https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzA3MTVfODM0NDUzMTQ2XzEwOTgwOTYwMjQ1OV8wXzM=_b_Bd9c215cb7ac961de3d5db54cb7bffed6.mp4
+王力宏精选30首,https://txmov2.a.kwimgs.com/upic/2020/09/30/21/BMjAyMDA5MzAyMTU2NTNfODI4NTk1NTQ0XzM2ODY1NDA2MDM3XzJfMw==_b_Bf61393cb3ef5f8ab4b687ae367ed1211.mp4
+孙燕姿精选30首,https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
+周深精选72首,https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
+
 灼灼韶华全集,#genre#
 灼灼韶华01集,http://jx.999315.xyz/yzzy/20250911/19012_e35026a2/index.m3u8
 灼灼韶华02集,http://jx.999315.xyz/yzzy/20250911/19013_edd6a7e0/index.m3u8
@@ -2434,13 +2531,13 @@ DJ情歌6首[1920*1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43f
 沉默的荣耀39,http://jx.999315.xyz/yzzy/20251016/20461_331715f2/index.m3u8
 
 80周年阅兵与晚会,#genre#
+抗战胜利80周年阅兵,https://vvip.high26-playback.com/20250903/20785_ad349260/index.m3u8
 抗战胜利80周年阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
+抗战胜利80周年阅兵,https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
 抗战胜利80周年阅兵,https://video19.ifeng.com/video09/2025/09/03/p7368865175413198986-102-124417.mp4?reqtype=tsl
-抗战胜利80周年阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8 
 抗战胜利80周年阅兵,webview://https://haokan.baidu.com/v?vid=10569833888141912614
 抗战胜利80周年阅兵,webview://https://v.ifeng.com/c/8mLT0Cah8Cu
 抗战胜利80周年阅兵,webview://https://tv.cctv.com/2025/09/03/VIDE1oshG5VOZzNKcHtrW8id250903.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.2
-抗战胜利80周年阅兵,webview://https://news.cctv.com/special/2025spj/ybfc/index.shtml?spm=C94212.Pk8cc3AMrVwF.S90142.1
 抗战胜利80周年阅兵,video://https://mp.weixin.qq.com/s/KWqSp0-xeR0hlswnjeFSag
 抗战胜利80周年阅兵,webview://https://so.douyin.com/video/detail?aweme_id=7545719033585306914
 抗战胜利80周年阅兵,webview://https://play.tudou.com/v_show/id_XNjQ5MDY4ODI2OA==.html
