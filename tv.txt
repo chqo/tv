@@ -170,11 +170,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.79:10790
 重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-重庆卫视,http://111.170.157.210:1081/?id=738910914&auth=95d4c11f9a4bc430bf05d5da4ace7ccbaebee3cff9ed4fe6499fe63db2e84b5170bc87de4e3066d8c0293a718e3161bf
 重庆卫视,http://8.138.148.11:3000/738910914
 重庆卫视,http://tv.sohu.blog/d/fjbst.php?id=195
 重庆卫视,http://58.60.62.202:1234/738910914
 重庆卫视,http://123.56.166.4:3030/738910914
+重庆卫视,http://118.122.144.115:8888/newlive/live/hls/26/live.m3u8
 重庆卫视,http://36.136.38.87:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://www.stoneshi1984.ren:58120/rtp/239.109.205.30:8168
 重庆卫视,http://www.alihomes.top:8188/rtp/239.254.96.42:7320
@@ -200,10 +200,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆影视,http://106.87.51.68:8888/rtp/235.254.197.105:7980
 重庆影视,http://106.83.115.137:8188/rtp/235.254.197.105:7980
-重庆影视,http://211.158.153.37:8001/rtp/225.0.4.62:7980
+重庆影视,http://27.10.208.22:8002/udp/225.0.4.62:7980
+重庆影视,http://27.10.208.22:8004/rtp/225.0.4.62:7980
+重庆影视,http://27.8.164.196:6011/rtp/225.0.4.62:7980
+重庆影视,http://220.192.180.234:8888/rtp/225.0.4.62:7980
 重庆影视,http://27.9.124.217:4022/udp/225.0.4.62:7980
-重庆影视,http://27.9.38.84:8001/udp/225.0.4.62:7980
-重庆影视,http://27.10.75.188:8001/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 重庆影视,http://cq.sohu.blog/cqyx.php?id=cqys
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
