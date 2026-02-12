@@ -101,8 +101,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,webview://http://www.hkstv.tv/index/live.html
 
-凤凰中文,http://115.190.252.60:17173/fh.php?id=fhzw
-凤凰资讯,http://115.190.252.60:17173/fh.php?id=fhzx
 凤凰中文,http://www.stoneshi1984.ren:58120/rtp/239.111.205.78:5140
 凤凰资讯,http://www.stoneshi1984.ren:58120/rtp/239.111.205.82:5140
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
@@ -111,9 +109,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-凤凰中文,https://mgev.188766.xyz/?migutoken=0b2019460a2de764257eb6713346d30d&id=fhzw&pp=1
-凤凰资讯,https://mgev.188766.xyz/?migutoken=5e0cbb4a6313e3d4ef513746806981c2&id=fhzx&pp=1
-凤凰香港,https://mgev.188766.xyz/?migutoken=92abbfde086cb757f6b541b464825111&id=fhhk&pp=1
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Uk]凤凰资讯
@@ -144,9 +139,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线翡翠,http://r.jdshipin.com/n90gt
 无线翡翠,http://r.jdshipin.com/GeWKr
 无线新闻,http://r.jdshipin.com/CkuBd
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-无线新闻,https://cdn6.101.qzz.io/163189/wxxw
-无线翡翠,https://cdn6.101.qzz.io/163189/fct
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 无线翡翠,http://hls.168.us.kg/u/81/master.m3u8
 无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
@@ -166,21 +158,21 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
-重庆卫视,http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
-重庆卫视,http://8.138.148.11:3000/738910914
 重庆卫视,http://tv.sohu.blog/d/fjbst.php?id=195
+重庆卫视,http://8.138.148.11:3000/738910914
 重庆卫视,http://58.60.62.202:1234/738910914
 重庆卫视,http://8.138.5.76:1234/738910914
 重庆卫视,http://8.148.86.54:3300/738910914
 重庆卫视,http://36.134.89.155:1234/738910914
 重庆卫视,http://123.145.190.181:2000/738910914
 重庆卫视,http://123.56.166.4:3030/738910914
-重庆卫视,http://cssbyd.imwork.net:8082/hls/35/index.m3u8
-重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 重庆卫视,http://www.stoneshi1984.ren:58120/rtp/239.109.205.30:8168
 重庆卫视,http://www.alihomes.top:8188/rtp/239.254.96.42:7320
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.79:10790
+重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+重庆卫视,http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
+重庆卫视,http://cssbyd.imwork.net:8082/hls/35/index.m3u8
 重庆卫视,http://118.122.144.115:8888/newlive/live/hls/26/live.m3u8
 重庆卫视,http://36.136.38.87:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,https://my5353.com/nZ0gbw
@@ -242,6 +234,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆红岩文化,http://106.87.49.153:8888/rtp/235.254.197.107:7980
 重庆红岩文化,http://106.83.115.110:8188/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8005/udp/225.0.4.69:7980
+重庆红岩文化,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 重庆红岩文化,http://cq.sohu.blog/cqyx.php?id=cqss
 
