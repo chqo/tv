@@ -124,10 +124,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzw
 凤凰资讯,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzx
 凤凰香港,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhhk
-凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-无线新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
@@ -135,11 +131,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
-凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
-翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
@@ -167,8 +160,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 无线翡翠,http://hls.168.us.kg/u/81/master.m3u8
 无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
-凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
-凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
@@ -180,7 +171,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,webview://https://sailei.dpdns.org/play.html?channelId=n496e6eec&channelName=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
 凤凰资讯,webview://https://sailei.dpdns.org/play.html?channelId=n4966a4fb&channelName=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
 
-凤凰电影,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -188,7 +178,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://tv.sohu.blog/d/fjbst.php?id=195
 重庆卫视,http://116.235.252.164:8888/rtp/233.18.204.143:5140
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
-重庆卫视,https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
 重庆卫视,http://39.107.237.139:1234/738910914
 重庆卫视,http://58.60.62.202:1234/738910914
 重庆卫视,http://8.148.86.54:3300/738910914
