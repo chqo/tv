@@ -2501,7 +2501,7 @@ DJ情歌6首[1920*1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43f
 沉默的荣耀38,http://jx.999315.xyz/yzzy/20251016/20460_69910d61/index.m3u8
 沉默的荣耀39,http://jx.999315.xyz/yzzy/20251016/20461_331715f2/index.m3u8
 
-80周年阅兵与晚会,#genre123456#
+80周年阅兵,#genre#(456789)
 抗战胜利80周年阅兵,https://vvip.high26-playback.com/20250903/20785_ad349260/index.m3u8
 抗战胜利80周年阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
 抗战胜利80周年阅兵,https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
