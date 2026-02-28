@@ -16,7 +16,7 @@
 重温经典,http://106.53.99.30/tv/hot.php?id=cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
-重温经典,http://rihou.cc:555/tv/[Pd]重温经典
+重温经典,https://5266.kstore.space/k-web/ku9/js/tvghjs.js?id=CWJD_4000
 重温经典,http://m.061899.xyz/mg/cwjd 
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
@@ -35,6 +35,10 @@
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
+CHC动作电影,https://5266.kstore.space/k-web/ku9/js/tvghjs.js?id=wqCHCdzdyH265_4000
+CHC影迷电影,https://5266.kstore.space/k-web/ku9/js/tvghjs.js?id=lnwsCHC-HDH265_4000
+CHC家庭影院,https://5266.kstore.space/k-web/ku9/js/tvghjs.js?id=jbtygqCHCjtyyH265_4000
+CHC影迷电影,http://A/ku9/js/咪咕超简版.js?id=952383261
 CHC影迷电影,http://58.60.62.202:1234/952383261
 CHC影迷电影,http://123.56.166.4:3030/952383261
 CHC家庭影院,http://m.061899.xyz/mg/jtyy
@@ -101,6 +105,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 快乐垂钓,video://https://live.mgtv.com/?channelId=218
 
 四海钓鱼,http://58.60.62.202:1234/637444975#http://123.145.183.26:2000/637444975#http://123.56.166.4:3030/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
+四海钓鱼,http://A/ku9/js/咪咕超简版.js?id=637444975
                                                                              
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -110,18 +115,23 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://www.stoneshi1984.ren:58120/rtp/239.111.205.82:5140
 凤凰中文,http://115.190.252.60:17173/fh.php?id=fhzw
 凤凰资讯,http://115.190.252.60:17173/fh.php?id=fhzx
+凤凰中文,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzw
+凤凰资讯,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzx
+凤凰香港,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhhk
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 无线新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
 凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Uk]凤凰资讯
-无线新闻,http://rihou.cc:555/tv/[Uk]无线新闻
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
 翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
@@ -169,6 +179,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆频道,#genre#
 重庆卫视,http://tv.sohu.blog/d/fjbst.php?id=195
 重庆卫视,http://116.235.252.164:8888/rtp/233.18.204.143:5140
+重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://58.60.62.202:1234/738910914
 重庆卫视,http://8.148.86.54:3300/738910914
 重庆卫视,http://113.124.186.222:7788/738910914
@@ -198,11 +209,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
+重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆影视,http://106.87.49.153:8888/rtp/235.254.197.105:7980
 重庆影视,http://106.83.115.110:8188/rtp/235.254.197.105:7980
 重庆影视,http://58.17.134.3:8005/rtp/225.0.4.62:7980
 重庆影视,http://cq.sohu.blog/cqyx.php?id=cqys
@@ -217,19 +228,16 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html
 
-重庆文体娱乐,http://106.87.49.153:8888/rtp/235.254.197.108:7980
 重庆文体娱乐,http://106.83.115.110:8188/rtp/235.254.197.108:7980
 重庆文体娱乐,http://58.17.134.3:8005/udp/225.0.4.65:7980
 重庆文体娱乐,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
-重庆红岩文化,http://106.87.49.153:8888/rtp/235.254.197.107:7980
 重庆红岩文化,http://106.83.115.110:8188/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8005/udp/225.0.4.69:7980
 重庆红岩文化,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
-重庆红叶,http://106.87.49.153:8888/rtp/235.254.197.111:7980
 重庆红叶,http://106.83.115.110:8188/rtp/235.254.197.111:7980
 重庆红叶,http://58.17.134.3:8005/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
@@ -240,7 +248,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆社会与法,http://game.x3322.net:8899/udp/225.0.4.64:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
-重庆新农村,http://106.83.115.110:8188/rtp/235.254.197.109:7980
 重庆新农村,http://106.87.49.153:8888/rtp/235.254.197.109:7980
 重庆新农村,http://58.17.134.3:8005/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
@@ -255,6 +262,34 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 央视综合,#genre#
 CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV1,http://A/ku9/js/cctvnews.js?id=cctv1
+CCTV2,http://A/ku9/js/cctvnews.js?id=cctv2
+CCTV3,http://A/ku9/js/cctvnews.js?id=cctv2
+CCTV4,http://A/ku9/js/cctvnews.js?id=cctv4
+CCTV7,http://A/ku9/js/cctvnews.js?id=cctv7
+CCTV8,http://A/ku9/js/cctvnews.js?id=cctv8
+CCTV9,http://A/ku9/js/cctvnews.js?id=cctv9
+CCTV10,http://A/ku9/js/cctvnews.js?id=cctv10
+CCTV12,http://A/ku9/js/cctvnews.js?id=cctv12
+CCTV13,http://A/ku9/js/cctvnews.js?id=cctv13
+CCTV17,http://A/ku9/js/cctvnews.js?id=cctv17
+CCTV1,http://A/ku9/js/咪咕超简版.js?id=608807420
+CCTV2,http://A/ku9/js/咪咕超简版.js?id=631780532
+CCTV3,http://A/ku9/js/咪咕超简版.js?id=624878271
+CCTV4,http://A/ku9/js/咪咕超简版.js?id=631780421
+CCTV5,http://A/ku9/js/咪咕超简版.js?id=641886683
+CCTV5+,http://A/ku9/js/咪咕超简版.js?id=641886773
+CCTV6,http://A/ku9/js/咪咕超简版.js?id=624878396
+CCTV7,http://A/ku9/js/咪咕超简版.js?id=673168121
+CCTV8,http://A/ku9/js/咪咕超简版.js?id=624878356
+CCTV9,http://A/ku9/js/咪咕超简版.js?id=673168140
+CCTV10,http://A/ku9/js/咪咕超简版.js?id=624878405
+CCTV11,http://A/ku9/js/咪咕超简版.js?id=667987558
+CCTV12,http://A/ku9/js/咪咕超简版.js?id=673168185
+CCTV13,http://A/ku9/js/咪咕超简版.js?id=608807423
+CCTV14,http://A/ku9/js/咪咕超简版.js?id=624878440
+CCTV15,http://A/ku9/js/咪咕超简版.js?id=673168223
+CCTV17,http://A/ku9/js/咪咕超简版.js?id=673168256
 CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
@@ -462,6 +497,22 @@ CCTV17,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 宁夏卫视,http://tvtj1.jxwltx.com:8003/linxws.m3u8
 青海卫视,http://tvtj1.jxwltx.com:8003/live1096.m3u8
 吉林卫视,http://tvtj1.jxwltx.com:8003/jlws.m3u8  
+东方卫视,http://A/ku9/js/咪咕超简版.js?id=651632648
+江苏卫视,http://A/ku9/js/咪咕超简版.js?id=623899368
+广东卫视,http://A/ku9/js/咪咕超简版.js?id=608831231
+江西卫视,http://A/ku9/js/咪咕超简版.js?id=783847495
+河南卫视,http://A/ku9/js/咪咕超简版.js?id=790187291
+陕西卫视,http://A/ku9/js/咪咕超简版.js?id=738910838
+大湾区卫视,http://A/ku9/js/咪咕超简版.js?id=608917627
+湖北卫视,http://A/ku9/js/咪咕超简版.js?id=947472496
+吉林卫视,http://A/ku9/js/咪咕超简版.js?id=947472500
+青海卫视,http://A/ku9/js/咪咕超简版.js?id=947472506
+东南卫视,http://A/ku9/js/咪咕超简版.js?id=849116810
+海南卫视,http://A/ku9/js/咪咕超简版.js?id=947472502
+海峡卫视,http://A/ku9/js/咪咕超简版.js?id=849119120
+中国农林卫视,http://A/ku9/js/咪咕超简版.js?id=956904896
+兵团卫视,http://A/ku9/js/咪咕超简版.js?id=956923145
+辽宁卫视,http://A/ku9/js/咪咕超简版.js?id=630291707
 CCTV1, http://110.80.17.38:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0  
 CCTV2, http://110.80.17.38:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0  
 CCTV3, http://110.80.17.38:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0  
@@ -656,6 +707,25 @@ CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+CCTV1,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001859
+CCTV2,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001800
+CCTV3,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001801
+CCTV4,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001814
+CCTV4,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002264
+CCTV5,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001818
+CCTV5,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001817
+CCTV6,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600108442
+CCTV7,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600004092
+CCTV8,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001803
+CCTV9,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600004078
+CCTV10,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001805
+CCTV11,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001806
+CCTV12,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001807
+CCTV13,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001811
+CCTV14,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=60000180??
+CCTV15,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001815
+CCTV16,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600098637
+CCTV17,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001810
 CCTV1,webview://https://saileitv.com/play.html?channelId=47cdbb52
 CCTV1,webview://https://m2.iptv807.com/?act=play&token=a122117b4f318ae80ad4f13d3cbcd44e&tid=ys&id=1
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
@@ -687,6 +757,10 @@ CCTV14,webview://https://tv.cctv.com/live/cctvchild/?spm=C28340.POZbQEOQYmoL.Exi
 CCTV15,webview://https://tv.cctv.com/live/cctv15/?spm=C28340.PlzJnpThRAqb.ExidtyEJcS5K.27
 
 卫视频道,#genre#
+贵州卫视,http://A/ku9/js/湘西卫视秒播.js?id=http://9bwaz8y2.gzstv.com/live/CH01_lo
+江苏卫视,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jswspro
+江西卫视,http://A/ku9/js/湘西卫视秒播.js?id=http://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1
+内蒙古卫视,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/3208526general
 东方卫视,http://61.184.46.85:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视中文台,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视资讯台,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -848,6 +922,40 @@ CCTV1,https://60.191.56.186:8888/hls/40/index.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+风云剧场,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600099658
+第一剧场,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600099655
+怀旧剧场,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600099620
+北京卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002309
+江苏卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002521
+东方卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002483
+浙江卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002520
+湖南卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002475
+湖北卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002508
+广东卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002485
+广西卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002509
+黑龙江卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002498
+海南卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002506
+重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
+深圳卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002481
+四川卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002516
+河南卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002525
+东南卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002484
+贵州卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002490
+江西卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002503
+辽宁卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002505
+安徽卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002532
+河北卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002493
+山东卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002513
+天津卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600152137
+吉林卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190405
+陕西卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190400
+宁夏卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190737
+内蒙古卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190401
+云南卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190402
+山西卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190407
+青海卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190406
+西藏卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190403
+甘肃卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190408
 山东卫视,video://https://v.iqilu.com/live/sdtv/index.html
 北京卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
 江苏卫视,video://https://live.jstv.com/?channelId=534
@@ -1294,7 +1402,7 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 浙江卫视,webview://https://www.cztv.com/liveTV/101
 大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
-深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
+深圳卫视,video://https://www.sztv.com.cn/pindao/index.html?id=7867
 北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
@@ -1469,6 +1577,7 @@ CCTV14少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 CCTV14少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://sdqd.sohu.blog:880/chs074.m3u8
+优漫卡通,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/ymktpro
 卡酷少儿,http://sdqd.sohu.blog:880/chs075.m3u8
 金鹰卡通,http://sdqd.sohu.blog:880/chs076.m3u8
 优漫卡通,http://124.162.255.1:5400/626064703
@@ -1519,8 +1628,10 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,video://https://www.gdtv.cn/tvChannelDetail/54
+江西少儿,http://A/ku9/js/湘西卫视秒播.js?id=http://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv6
+少儿频道,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2318general
+成都少儿,https://www.pantxt.top/f/D1oi3/k-web/ku9/js/cdu.js?id=cdse
 深圳少儿,video://https://www.sztv.com.cn/pindao/index.html?id=7881
-深圳卫视,video://https://www.sztv.com.cn/pindao/index.html?id=7867
 叮当全集剧集,http://cfss.cc/cdn/hy/11601963.m3u8
 四驱兄弟剧集,http://cfss.cc/cdn/hy/11352922.m3u8
 樱桃小丸子剧,http://cfss.cc/cdn/hy/11342394.m3u8
