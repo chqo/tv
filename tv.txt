@@ -1,8 +1,8 @@
 九洲饭店,#genre#
-饭店简介,http://t9mr1hxu7.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/饭店.mp4
+饭店简介,http://tb78ubhnc.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
-生态环境,http://118.78.196.252:55555/rtp/226.0.2.120:8872
+生态环境,http://118.78.196.93:55555/rtp/226.0.2.120:8872
 生态环境,http://60.223.72.73:8003/rtp/226.0.2.120:8872
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 
@@ -215,6 +215,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆影视,http://106.87.49.42:8888/rtp/235.254.197.105:7980
 重庆影视,http://106.83.112.108:8188/rtp/235.254.197.105:7980
+重庆影视,http://27.12.125.226:8899/udp/225.0.4.62:7980
+重庆影视,http://27.8.194.49:4022/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8005/rtp/225.0.4.62:7980
 重庆影视,http://cq.sohu.blog/cqyx.php?id=cqys
 重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
