@@ -2566,3 +2566,4 @@ DJ情歌6首[1920*1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43f
 
 春晚,#genre#
 2026春晚,webview://https://tv.cctv.com/2026/02/17/VIDEL49Kb41pNPCMAJlntgJ6260217.shtml?spm=C55953877151.PuvgIQ6NQbQd.0.0
+2026春晚,video://https://tv.cctv.com/2026/02/17/VIDEL49Kb41pNPCMAJlntgJ6260217.shtml?spm=C55953877151.PuvgIQ6NQbQd.0.0
