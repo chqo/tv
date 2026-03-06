@@ -129,6 +129,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzw
 凤凰资讯,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzx
 凤凰香港,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhhk
+凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
@@ -181,8 +182,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://tv.sohu.blog/d/fjbst.php?id=195
+重庆卫视,https://live.yst.de5.net/api/scgd.php?id=809
 重庆卫视,http://111.56.90.5/000000000000/1000000001000001096/1.m3u8
-重庆卫视,http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
 重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://47.105.93.105:7002/738910914
 重庆卫视,http://39.107.237.139:1234/738910914
@@ -211,16 +212,17 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://110.80.17.38:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://218.78.179.62:7777/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
 重庆卫视:http://t.061899.xyz/tl/tl.php?id=cqws
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-重庆卫视,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=chongqing&videoTVChannel=chongqing&P2PChannelID=pd://cctv_p2p_hdchongqing&tai=chongqing&VideoName=chongqing&channelID=chongqing
 重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,video://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
 重庆影视,http://106.87.50.96:8888/rtp/235.254.197.105:7980
+重庆影视,http://106.83.113.13:8188/rtp/235.254.197.105:7980
 重庆影视,http://106.83.113.13:8188/rtp/235.254.197.105:7980
 重庆影视,http://27.12.125.226:8899/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
@@ -235,6 +237,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
 重庆文体娱乐,http://106.87.50.96:8888/rtp/235.254.197.108:7980
+重庆文体娱乐,http://106.83.113.13:8188/rtp/235.254.197.108:7980
 重庆文体娱乐,http://106.83.113.13:8188/rtp/235.254.197.108:7980
 重庆文体娱乐,http://58.17.134.3:8001/udp/225.0.4.65:7980
 重庆文体娱乐,http://game.x3322.net:8899/udp/225.0.4.194:7980
@@ -276,6 +279,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
+CCTV1,https://iptv.catvod.com/live.php?id=CCTV1&line=1
 CCTV1,http://t.061899.xyz/tl/dq.php?id=cctv1
 CCTV2,http://t.061899.xyz/tl/dq.php?id=cctv2
 CCTV3,http://t.061899.xyz/tl/dq.php?id=cctv3
@@ -312,54 +316,78 @@ CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-CCTV1[1920x1080],https://live.yst.de5.net/api/scgd.php?id=101
-CCTV2[1920x1080],https://live.yst.de5.net/api/scgd.php?id=801
-CCTV3[1920x1080],https://live.yst.de5.net/api/scgd.php?id=103
-CCTV4[1920x1080],https://live.yst.de5.net/api/scgd.php?id=39
-CCTV5[1920x1080],https://live.yst.de5.net/api/scgd.php?id=105
-CCTV5+[1920x1080],https://live.yst.de5.net/api/scgd.php?id=107
-CCTV6[1920x1080],https://live.yst.de5.net/api/scgd.php?id=12
-CCTV7[1920x1080],https://live.yst.de5.net/api/scgd.php?id=802
-CCTV8[1920x1080],https://live.yst.de5.net/api/scgd.php?id=118
-CCTV9[1920x1080],https://live.yst.de5.net/api/scgd.php?id=803
-CCTV10[1920x1080],https://live.yst.de5.net/api/scgd.php?id=804
-CCTV11[1920x1080],https://live.yst.de5.net/api/scgd.php?id=55
-CCTV12[1920x1080],https://live.yst.de5.net/api/scgd.php?id=805
-CCTV13[1920x1080],https://live.yst.de5.net/api/scgd.php?id=5
-CCTV14[1920x1080],https://live.yst.de5.net/api/scgd.php?id=806
-CCTV15[1920x1080],https://live.yst.de5.net/api/scgd.php?id=70
-CCTV17[1920x1080],https://live.yst.de5.net/api/scgd.php?id=817
-安徽卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=807
-北京卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=110
-重庆卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=809
-东方卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=115
-东南卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=77
-广东卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=114
-广西卫视 [1024x576],https://live.yst.de5.net/api/scgd.php?id=207
-贵州卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=138
-海南卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=206
-河北卫视，https://live.yst.de5.net/api/scgd.php?id=203
-黑龙江卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=121
-湖北卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=120
-河南卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=79
-吉林卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=208
-江苏卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=112
-江西卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=202
-辽宁卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=808
-湖南卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=111
-内蒙古卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=217
-青海卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=204
-山东卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=117
-山西卫视 [1024x576],https://live.yst.de5.net/api/scgd.php?id=201
-陕西卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=555
-四川卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=83
-深圳卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=109
-天津卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=119
-西藏卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=215
-云南卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=136
-浙江卫视 [1920x1080],https://live.yst.de5.net/api/scgd.php?id=113
-兵团卫视 [1024x576],https://live.yst.de5.net/api/scgd.php?id=4003
-康巴卫视 [1024x576],https://live.yst.de5.net/api/scgd.php?id=3494
+CCTV1,https://live.yst.de5.net/api/scgd.php?id=101
+CCTV2,https://live.yst.de5.net/api/scgd.php?id=801
+CCTV3,https://live.yst.de5.net/api/scgd.php?id=103
+CCTV4,https://live.yst.de5.net/api/scgd.php?id=39
+CCTV5,https://live.yst.de5.net/api/scgd.php?id=105
+CCTV5+,https://live.yst.de5.net/api/scgd.php?id=107
+CCTV6,https://live.yst.de5.net/api/scgd.php?id=12
+CCTV7,https://live.yst.de5.net/api/scgd.php?id=802
+CCTV8,https://live.yst.de5.net/api/scgd.php?id=118
+CCTV9,https://live.yst.de5.net/api/scgd.php?id=803
+CCTV10,https://live.yst.de5.net/api/scgd.php?id=804
+CCTV11,https://live.yst.de5.net/api/scgd.php?id=55
+CCTV12,https://live.yst.de5.net/api/scgd.php?id=805
+CCTV13,https://live.yst.de5.net/api/scgd.php?id=5
+CCTV14,https://live.yst.de5.net/api/scgd.php?id=806
+CCTV15,https://live.yst.de5.net/api/scgd.php?id=70
+CCTV17,https://live.yst.de5.net/api/scgd.php?id=817
+安徽卫视,https://live.yst.de5.net/api/scgd.php?id=807
+北京卫视,https://live.yst.de5.net/api/scgd.php?id=110
+重庆卫视,https://live.yst.de5.net/api/scgd.php?id=809
+东方卫视,https://live.yst.de5.net/api/scgd.php?id=115
+东南卫视,https://live.yst.de5.net/api/scgd.php?id=77
+广东卫视,https://live.yst.de5.net/api/scgd.php?id=114
+广西卫视,https://live.yst.de5.net/api/scgd.php?id=207
+贵州卫视,https://live.yst.de5.net/api/scgd.php?id=138
+海南卫视,https://live.yst.de5.net/api/scgd.php?id=206
+河北卫视,https://live.yst.de5.net/api/scgd.php?id=203
+黑龙江卫视,https://live.yst.de5.net/api/scgd.php?id=121
+湖北卫视,https://live.yst.de5.net/api/scgd.php?id=120
+河南卫视,https://live.yst.de5.net/api/scgd.php?id=79
+吉林卫视,https://live.yst.de5.net/api/scgd.php?id=208
+江苏卫视,https://live.yst.de5.net/api/scgd.php?id=112
+江西卫视,https://live.yst.de5.net/api/scgd.php?id=202
+辽宁卫视,https://live.yst.de5.net/api/scgd.php?id=808
+湖南卫视,https://live.yst.de5.net/api/scgd.php?id=111
+内蒙古卫视,https://live.yst.de5.net/api/scgd.php?id=217
+青海卫视,https://live.yst.de5.net/api/scgd.php?id=204
+山东卫视,https://live.yst.de5.net/api/scgd.php?id=117
+山西卫视,https://live.yst.de5.net/api/scgd.php?id=201
+陕西卫视,https://live.yst.de5.net/api/scgd.php?id=555
+四川卫视,https://live.yst.de5.net/api/scgd.php?id=83
+深圳卫视,https://live.yst.de5.net/api/scgd.php?id=109
+天津卫视,https://live.yst.de5.net/api/scgd.php?id=119
+西藏卫视,https://live.yst.de5.net/api/scgd.php?id=215
+云南卫视,https://live.yst.de5.net/api/scgd.php?id=136
+浙江卫视,https://live.yst.de5.net/api/scgd.php?id=113
+兵团卫视,https://live.yst.de5.net/api/scgd.php?id=4003
+康巴卫视,https://live.yst.de5.net/api/scgd.php?id=3494
+CCTV1,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14,http://iptv.4666888.xyz/iptv2A.php?id=12
+CCTV16,http://iptv.4666888.xyz/iptv2A.php?id=32
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV11,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV1,http://9.zubo.cc.cd/bjlt.php?id=1
 CCTV2,http://9.zubo.cc.cd/bjlt.php?id=2
 CCTV3,http://9.zubo.cc.cd/bjlt.php?id=3
@@ -1518,6 +1546,9 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 炫动卡通,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.43:5140
 卡酷卡通,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.109:5140
 嘉佳卡通,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.92:5140	
+金鹰卡通,https://live.yst.de5.net/api/scgd.php?id=3446
+卡酷少儿,https://live.yst.de5.net/api/scgd.php?id=4001
+嘉佳卡通,https://live.yst.de5.net/api/scgd.php?id=3568
 卡酷少儿,http://36.136.38.87:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://113.218.204.144:9002/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0	
 卡酷少儿,http://120.198.84.146:9901/tsfile/live/1062_1.m3u8
