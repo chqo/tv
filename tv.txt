@@ -27,6 +27,7 @@
 金色学堂,http://8.138.7.223/tv/5gtv.php?id=40
 金色学堂,http://www.stoneshi1984.ren:58120/rtp/239.109.205.65:8456
 金色学堂,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.239:5540
+金色学堂,http://iptv.zhangliang.cc:8012/rtp/225.0.4.239:7980
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 
 东方财经,http://8.138.7.223/tv/5gtv.php?id=227
@@ -127,6 +128,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzw
 凤凰资讯,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzx
 凤凰香港,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhhk
+凤凰中文,http://156.238.248.80:8880/play/537.m3u8
+凤凰资讯,http://156.238.248.80:8880/play/538.m3u8
+凤凰香港,http://156.238.248.80:8880/play/539.m3u8
+凤凰香港,http://156.238.248.80:8880/play/540.m3u8
 凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -179,6 +184,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
+重庆卫视,http://111.56.90.5/000000000000/5000000004000025797/index.m3u8
+重庆卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.30:7980
+重庆卫视,http://game.x3322.net:8899/rtp/225.0.4.187:7980
 重庆卫视,https://live.yst.de5.net/api/scgd.php?id=809
 重庆卫视,http://47.105.93.105:7002/738910914
 重庆卫视,http://39.107.237.139:1234/738910914
@@ -214,7 +222,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,video://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆影视,http://106.87.49.170:8888/rtp/235.254.197.105:7980
+重庆影视,http://106.87.51.240:8888/rtp/235.254.197.105:7980
 重庆影视,http://106.80.125.176:7788/rtp/235.254.197.105:7980
 重庆影视,http://106.80.125.57:7788/rtp/235.254.197.105:7980
 重庆影视,http://106.83.119.218:8188/rtp/235.254.197.105:7980
@@ -222,62 +230,86 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://27.11.54.49:8002/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
+重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,http://106.87.49.170:8888/rtp/235.254.197.104:7980
+重庆新闻,http://iptv.zhangliang.cc:8012/rtp/225.0.4.59:7980
 重庆新闻,http://58.17.134.3:8001/rtp/225.0.4.59:7980
 重庆新闻,http://home.scanflove.com:7788/rtp/235.254.197.104:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆文体娱乐,http://106.87.49.170:8888/rtp/235.254.197.108:7980
+重庆文体娱乐,http://106.87.51.240:8888/rtp/235.254.197.108:7980
 重庆文体娱乐,http://106.83.119.218:8188/rtp/235.254.197.108:7980
 重庆文体娱乐,http://106.87.49.170:8888/rtp/235.254.197.108:7980
 重庆文体娱乐,http://58.17.134.3:8001/udp/225.0.4.65:7980
+重庆文体娱乐,http://iptv.zhangliang.cc:8012/udp/225.0.4.65:7980
 重庆文体娱乐,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
-重庆红岩文化,http://106.87.49.170:8888/rtp/235.254.197.107:7980
+重庆红岩文化,http://106.87.51.240:8888/rtp/235.254.197.107:7980
 重庆红岩文化,http://106.83.119.218:8188/rtp/235.254.197.107:7980
 重庆红岩文化,http://106.87.49.170:8888/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8001/udp/225.0.4.69:7980
+重庆红岩文化,http://iptv.zhangliang.cc:8012/udp/225.0.4.69:7980
 重庆红岩文化,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
-重庆红叶,http://106.87.49.170:8888/rtp/235.254.197.111:7980
+重庆红叶,http://106.87.51.240:8888/rtp/235.254.197.111:7980
 重庆红叶,http://106.83.119.218:8188/rtp/235.254.197.111:7980
 重庆红叶,http://106.87.49.170:8888/rtp/235.254.197.111:7980
 重庆红叶,http://58.17.134.3:8001/udp/225.0.4.63:7980
+重庆红叶,http://iptv.zhangliang.cc:8012/udp/225.0.4.63:798
 重庆红叶,http://game.x3322.net:8899/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
-重庆社会与法,http://106.87.49.170:8888/rtp/235.254.197.106:7980
+重庆社会与法,http://106.87.51.240:8888/rtp/235.254.197.106:7980
 重庆社会与法,http://106.83.119.218:8188/rtp/235.254.197.106:7980
 重庆社会与法,http://106.87.49.170:8888/rtp/235.254.197.106:7980
 重庆社会与法,http://58.17.134.3:8001/udp/225.0.4.64:7980
+重庆社会与法,http://iptv.zhangliang.cc:8012/rtp/225.0.4.64:7980
 重庆社会与法,http://game.x3322.net:8899/udp/225.0.4.64:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
-重庆新农村,http://106.87.49.170:8888/rtp/235.254.197.109:7980
+重庆新农村,http://106.87.51.240:8888/rtp/235.254.197.109:7980
 重庆新农村,http://106.83.119.218:8188/rtp/235.254.197.109:7980
 重庆新农村,http://106.87.49.170:8888/rtp/235.254.197.109:7980
 重庆新农村,http://58.17.134.3:8001/udp/225.0.4.70:7980
+重庆新农村,http://iptv.zhangliang.cc:8012/udp/225.0.4.70:7980
 重庆新农村,http://game.x3322.net:8899/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
-重庆少儿,http://106.87.49.170:8888/rtp/235.254.197.110:7980
+重庆少儿,http://106.87.51.240:8888/rtp/235.254.197.110:7980
 重庆少儿,http://106.83.119.218:8188/rtp/235.254.197.110:7980
 重庆少儿,http://58.17.134.3:8001/udp/225.0.4.71:7980
+重庆少儿,http://iptv.zhangliang.cc:8012/rtp/225.0.4.71:7980
 重庆少儿,http://game.x3322.net:8899/udp/225.0.4.71:7980
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
 
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
 重庆汽摩,http://58.17.134.3:8001/udp/225.0.4.61:7980
-重庆汽摩,http://106.87.49.170:8888/rtp/235.254.197.117:7980
+重庆汽摩,http://106.87.51.240:8888/rtp/235.254.197.117:7980
+重庆汽摩,http://iptv.zhangliang.cc:8012/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
+CCTV1,http://iptv.zhangliang.cc:8012/rtp/225.0.4.74:7980
+CCTV2,http://iptv.zhangliang.cc:8012/rtp/225.0.4.132:7980
+CCTV3,http://iptv.zhangliang.cc:8012/rtp/225.0.4.142:7980
+CCTV4,http://iptv.zhangliang.cc:8012/rtp/225.0.4.176:7980
+CCTV5,http://iptv.zhangliang.cc:8012/rtp/225.0.4.143:7980
+CCTV5+,http://iptv.zhangliang.cc:8012/rtp/225.0.4.73:7980
+CCTV6,http://iptv.zhangliang.cc:8012/rtp/225.0.4.144:7980
+CCTV7,http://iptv.zhangliang.cc:8012/rtp/225.0.4.127:7980
+CCTV8,http://iptv.zhangliang.cc:8012/rtp/225.0.4.137:7980
+CCTV9,http://iptv.zhangliang.cc:8012/rtp/225.0.4.131:7980
+CCTV10,http://iptv.zhangliang.cc:8012/rtp/225.0.4.130:7980
+CCTV11,http://iptv.zhangliang.cc:8012/rtp/225.0.4.218:7980
+CCTV12,http://iptv.zhangliang.cc:8012/rtp/225.0.4.129:7980
+CCTV13,http://iptv.zhangliang.cc:8012/rtp/225.0.4.219:7980
+CCTV14,http://iptv.zhangliang.cc:8012/rtp/225.0.4.128:7980
+CCTV15,http://iptv.zhangliang.cc:8012/rtp/225.0.4.220:7980
 CCTV1,https://iptv.catvod.com/live.php?id=CCTV1&line=1
 CCTV1,http://t.061899.xyz/tl/dq.php?id=cctv1
 CCTV2,http://t.061899.xyz/tl/dq.php?id=cctv2
