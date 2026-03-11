@@ -2,7 +2,7 @@
 饭店简介,http://tb78ubhnc.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
-生态环境,http://110.178.145.184:8188/rtp/239.1.1.110:8110
+生态环境,http://118.78.196.245:55555/rtp/226.0.2.120:8872
 生态环境,http://118.79.139.18:6001/rtp/226.0.2.120:8872
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 
@@ -176,21 +176,16 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰香港,https://fenghuang.tv12.xyz/171.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰中文,video://https://sailei.dpdns.org/play.html?channelId=n496e6eec&channelName=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
-凤凰资讯,video://https://sailei.dpdns.org/play.html?channelId=n4966a4fb&channelName=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
-重庆卫视,http://111.56.90.5/000000000000/5000000004000025797/index.m3u8
 重庆卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.30:7980
 重庆卫视,http://game.x3322.net:8899/rtp/225.0.4.187:7980
-重庆卫视,https://live.yst.de5.net/api/scgd.php?id=809
-重庆卫视,http://47.105.93.105:7002/738910914
+重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://39.107.237.139:1234/738910914
 重庆卫视,http://58.60.62.202:1234/738910914
-重庆卫视,http://8.148.86.54:3300/738910914
 重庆卫视,http://219.151.254.219:1234/738910914
 重庆卫视,http://113.124.186.222:7788/738910914
 重庆卫视,http://123.145.183.26:2000/738910914
@@ -201,6 +196,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://www.alihomes.top:8188/rtp/239.254.96.42:7320
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.79:10790
+重庆卫视,http://111.56.90.5/000000000000/5000000004000025797/index.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://cssbyd.imwork.net:8082/hls/35/index.m3u8
 重庆卫视,http://110.80.17.38:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
