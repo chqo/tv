@@ -157,7 +157,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://156.238.248.80:8880/play/68.m3u8
-重庆卫视,http://58.35.95.16:9898/rtp/233.18.204.143:5140
 重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://39.107.237.139:1234/738910914
 重庆卫视,http://58.60.62.202:1234/738910914
@@ -194,7 +193,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,video://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆影视,http://106.80.125.62:7788/rtp/235.254.197.105:7980
+重庆影视,http://14.109.132.90:4001/rtp/235.254.197.105:7980
 重庆影视,http://106.81.32.221:2345/rtp/235.254.197.105:7980
 重庆影视,http://106.87.49.26:8888/rtp/235.254.197.105:7980
 重庆影视,http://27.11.54.49:8002/udp/225.0.4.62:7980
@@ -210,7 +209,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆文体娱乐,http://106.80.125.62:7788/rtp/235.254.197.108:7980
+重庆文体娱乐,http://14.109.132.90:4001/rtp/235.254.197.108:7980
 重庆文体娱乐,http://106.81.32.221:2345/rtp/235.254.197.108:7980
 重庆文体娱乐,http://106.87.49.26:8888/rtp/235.254.197.108:7980
 重庆文体娱乐,http://58.17.134.3:8003/udp/225.0.4.65:7980
@@ -218,7 +217,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆文体娱乐,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
-重庆红岩文化,http://106.80.125.62:7788/rtp/235.254.197.107:7980
+重庆红岩文化,http://14.109.132.90:4001/rtp/235.254.197.107:7980
 重庆红岩文化,http://106.81.32.221:2345/rtp/235.254.197.107:7980
 重庆红岩文化,http://106.87.49.26:8888/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8003/udp/225.0.4.69:7980
@@ -226,7 +225,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆红岩文化,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
-重庆红叶,http://106.80.125.62:7788/rtp/235.254.197.111:7980
+重庆红叶,http://14.109.132.90:4001/rtp/235.254.197.111:7980
 重庆红叶,http://106.81.32.221:2345/rtp/235.254.197.111:7980
 重庆红叶,http://106.87.49.26:8888/rtp/235.254.197.111:7980
 重庆红叶,http://58.17.134.3:8003/udp/225.0.4.63:7980
@@ -234,7 +233,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆红叶,http://game.x3322.net:8899/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
-重庆社会与法,http://106.80.125.62:7788/rtp/235.254.197.106:7980
+重庆社会与法,http://14.109.132.90:4001/rtp/235.254.197.106:7980
 重庆社会与法,http://106.81.32.221:2345/rtp/235.254.197.106:7980
 重庆社会与法,http://106.87.49.26:8888/rtp/235.254.197.106:7980
 重庆社会与法,http://58.17.134.3:8003/udp/225.0.4.64:7980
@@ -263,6 +262,30 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
+CCTV1,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://183.223.157.33:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://183.223.157.33:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://183.223.157.33:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://183.223.157.33:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://183.223.157.33:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://183.223.157.33:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://183.223.157.33:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://183.223.157.33:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://183.223.157.33:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://183.223.157.33:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://183.223.157.33:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://183.223.157.33:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://183.223.157.33:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://183.223.157.33:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://183.223.157.33:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://183.223.157.33:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://183.223.157.33:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://183.223.157.33:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://183.223.157.33:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://iptv.zhangliang.cc:8012/rtp/225.0.4.74:7980
 CCTV2,http://iptv.zhangliang.cc:8012/rtp/225.0.4.132:7980
 CCTV3,http://iptv.zhangliang.cc:8012/rtp/225.0.4.142:7980
