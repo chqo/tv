@@ -1592,7 +1592,7 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 猫和老鼠,https://live.iill.top/huya/11352879
 哆啦A梦,https://live.iill.top/huya/11601963
 七龙珠,https://live.iill.top/huya/11601966
-哪吒2,http://tb78ubhnc.hn-bkt.clouddn.com/%E5%93%AA%E5%90%922.mp4
+哪吒2,https://d.kstore.dev/download/10141/哪吒2.mp4#http://tb78ubhnc.hn-bkt.clouddn.com/%E5%93%AA%E5%90%922.mp4
 哪吒2,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=8338502568659060319
 
 
