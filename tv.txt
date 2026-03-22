@@ -8,7 +8,7 @@
 
 中国天气,http://47.119.24.76:59093/959986621
 中国天气,http://58.60.62.202:1234/959986621
-中国天气,http://123.56.166.4:3030/959986621
+中国天气,http://124.71.194.147:1234/959986621
 中国天气,http://123.60.92.73:1234/959986621
 中国天气,http://120.245.84.70:1234/959986621
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
@@ -40,7 +40,7 @@ CHC动作电影,http://47.119.24.76:59093/644368714
 CHC家庭影院,http://47.119.24.76:59093/644368373
 CHC影迷电影,http://123.60.92.73:1234/952383261
 CHC影迷电影,http://58.60.62.202:1234/952383261
-CHC影迷电影,http://123.56.166.4:3030/952383261
+CHC影迷电影,http://124.71.194.147:1234/952383261
 CHC动作电影,http://123.60.92.73:1234/644368714
 CHC家庭影院,http://123.60.92.73:1234/644368373
 CHC家庭影院,http://m.061899.xyz/mg/jtyy
@@ -76,7 +76,7 @@ CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
 CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
 CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
-快乐垂钓,http://123.56.166.4:3030/961930263
+快乐垂钓,http://124.71.194.147:1234/961930263
 快乐垂钓,http://www.374671.xyz:1234/961930263
 快乐垂钓,http://123.145.183.26:2000/961930263
 快乐垂钓,http://123.60.92.73:1234/961930263
@@ -90,7 +90,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 快乐垂钓,video://https://live.mgtv.com/?channelId=21870
 
 四海钓鱼,http://www.374671.xyz:1234/637444975
-四海钓鱼,http://58.60.62.202:1234/637444975#http://123.60.92.73:1234/637444975#http://120.245.84.70:1234/637444975#http://123.56.166.4:3030/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
+四海钓鱼,http://58.60.62.202:1234/637444975#http://123.60.92.73:1234/637444975#http://47.104.224.25:3000/637444975#http://124.71.194.147:1234/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
                                                                             
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -151,25 +151,22 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
-重庆卫视,http://156.238.248.80:8880/play/68.m3u8
-重庆卫视,http://175.10.18.168:9999/tsfile/live/0142_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-重庆卫视,http://shlt.sohu.blog:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://27.11.138.23:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://222.182.121.118:1234/738910914
 重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://47.104.224.25:3000/738910914
 重庆卫视,http://123.60.92.73:1234/738910914
-重庆卫视,http://120.245.84.70:1234/738910914
+重庆卫视,http://124.71.194.147:1234/738910914
 重庆卫视,http://101.43.60.101:3000/738910914
 重庆卫视,http://58.60.62.202:1234/738910914
-重庆卫视,http://123.56.166.4:3030/738910914
-重庆卫视,http://42.237.26.75:1234/738910914
 重庆卫视,http://58.53.92.108:8899/738910914
 重庆卫视,http://www.stoneshi1984.ren:58120/rtp/239.109.205.30:8168
 重庆卫视,http://www.alihomes.top:8188/rtp/239.254.96.42:7320
-重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://game.x3322.net:8899/rtp/225.0.4.187:7980
 重庆卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.30:7980
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.13:2000
+重庆卫视,http://shlt.sohu.blog:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://111.56.90.5/000000000000/5000000004000025797/index.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://cssbyd.imwork.net:8082/hls/35/index.m3u8
@@ -180,6 +177,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://218.78.179.62:7777/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
 重庆卫视,http://111.56.90.5/000000000000/1000000001000001096/1.m3u8
+重庆卫视,http://156.238.248.80:8880/play/68.m3u8
 重庆卫视:http://t.061899.xyz/tl/tl.php?id=cqws
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
@@ -188,13 +186,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,video://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆影视,http://14.109.130.56:4001/rtp/235.254.197.105:7980
-重庆影视,http://106.87.50.51:8888/rtp/235.254.197.105:7980
-重庆影视,http://106.80.125.176:7788/rtp/235.254.197.105:7980
-重庆影视,http://27.11.54.49:8002/udp/225.0.4.62:7980
+重庆影视,http://106.87.51.33:8888/rtp/235.254.197.105:7980
+重庆影视,http://14.109.132.18:4001/rtp/235.254.197.105:7980
+重庆影视,http://14.109.225.66:8181/rtp/235.254.197.105:7980
+重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8004/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8003/rtp/225.0.4.62:7980
+重庆影视,http://27.11.138.23:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
 重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
@@ -206,43 +205,44 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆文体娱乐,http://106.87.50.51:8888/rtp/235.254.197.108:7980
-重庆文体娱乐,http://14.109.130.56:4001/rtp/235.254.197.108:7980
+重庆文体娱乐,http://106.87.51.33:8888/rtp/235.254.197.108:7980
+重庆文体娱乐,http://14.109.132.18:4001/rtp/235.254.197.108:7980
 重庆文体娱乐,http://58.17.134.3:8003/udp/225.0.4.65:7980
 重庆文体娱乐,http://iptv.zhangliang.cc:8012/udp/225.0.4.65:7980
 重庆文体娱乐,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
-重庆红岩文化,http://106.87.50.51:8888/rtp/235.254.197.107:7980
-重庆红岩文化,http://14.109.130.56:4001/rtp/235.254.197.107:7980
+重庆红岩文化,http://106.87.51.33:8888/rtp/235.254.197.107:7980
+重庆红岩文化,http://14.109.132.18:4001/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8003/udp/225.0.4.69:7980
 重庆红岩文化,http://iptv.zhangliang.cc:8012/udp/225.0.4.69:7980
 重庆红岩文化,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
-重庆红叶,http://106.87.50.51:8888/rtp/235.254.197.111:7980
-重庆红叶,http://14.109.130.56:4001/rtp/235.254.197.111:7980
+重庆红叶,http://106.87.51.33:8888/rtp/235.254.197.111:7980
+重庆红叶,http://14.109.132.18:4001/rtp/235.254.197.111:7980
 重庆红叶,http://58.17.134.3:8003/udp/225.0.4.63:7980
 重庆红叶,http://iptv.zhangliang.cc:8012/udp/225.0.4.63:798
 重庆红叶,http://game.x3322.net:8899/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
-重庆社会与法,http://106.87.50.51:8888/rtp/235.254.197.106:7980
-重庆社会与法,http://14.109.130.56:4001/rtp/235.254.197.106:7980
+重庆社会与法,http://106.87.51.33:8888/rtp/235.254.197.106:7980
+重庆社会与法,http://14.109.132.18:4001/rtp/235.254.197.106:7980
 重庆社会与法,http://58.17.134.3:8003/udp/225.0.4.64:7980
+重庆社会与法,http://27.11.138.23:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆社会与法,http://iptv.zhangliang.cc:8012/rtp/225.0.4.64:7980
 重庆社会与法,http://game.x3322.net:8899/udp/225.0.4.64:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
-重庆新农村,http://106.87.50.51:8888/rtp/235.254.197.109:7980
-重庆新农村,http://14.109.130.56:4001/rtp/235.254.197.109:7980
+重庆新农村,http://106.87.51.33:8888/rtp/235.254.197.109:7980
+重庆新农村,http://14.109.132.18:4001/rtp/235.254.197.109:7980
 重庆新农村,http://58.17.134.3:8003/udp/225.0.4.70:7980
 重庆新农村,http://iptv.zhangliang.cc:8012/udp/225.0.4.70:7980
 重庆新农村,http://game.x3322.net:8899/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
-重庆少儿,http://106.87.50.51:8888/rtp/235.254.197.110:7980
-重庆少儿,http://14.109.130.56:4001/rtp/235.254.197.110:7980
+重庆少儿,http://106.87.51.33:8888/rtp/235.254.197.110:7980
+重庆少儿,http://14.109.132.18:4001/rtp/235.254.197.110:7980
 重庆少儿,http://58.17.134.3:8003/udp/225.0.4.71:7980
 重庆少儿,http://iptv.zhangliang.cc:8012/rtp/225.0.4.71:7980
 重庆少儿,http://game.x3322.net:8899/udp/225.0.4.71:7980
@@ -250,7 +250,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
 重庆汽摩,http://58.17.134.3:8003/udp/225.0.4.61:7980
-重庆汽摩,http://106.87.50.51:8888/rtp/235.254.197.117:7980
+重庆汽摩,http://106.87.51.33:8888/rtp/235.254.197.117:7980
 重庆汽摩,http://iptv.zhangliang.cc:8012/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
@@ -1527,9 +1527,9 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 CCTV14少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 CCTV14少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通,http://sdqd.sohu.blog:880/chs074.m3u8
-卡酷少儿,http://sdqd.sohu.blog:880/chs075.m3u8
-金鹰卡通,http://sdqd.sohu.blog:880/chs076.m3u8
+优漫卡通,http://t.061899.xyz/tl/dq.php?id=jjkt
+嘉佳卡通,http://t.061899.xyz/tl/dq.php?id=jjkt
+卡酷少儿,http://t.061899.xyz/tl/dq.php?id=bjkk
 优漫卡通,http://124.162.255.1:5400/626064703
 优漫卡通,http://58.60.62.202:1234/626064703
 优漫卡通,http://39.107.237.139:1234/626064703
@@ -1544,14 +1544,7 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 金鹰卡通,http://www.stoneshi1984.ren:58120/rtp/239.109.205.42:8272
 金鹰卡通,http://120.198.84.146:9901/tsfile/live/1040_1.m3u8
 金鹰卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.104:11040
-炫动卡通,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.43:5140
-卡酷卡通,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.109:5140
-嘉佳卡通,http://jx-zb-dx-1.sohu.blog:7089/rtp/239.252.219.92:5140	
-金鹰卡通,https://live.yst.de5.net/api/scgd.php?id=3446
-卡酷少儿,https://live.yst.de5.net/api/scgd.php?id=4001
-嘉佳卡通,https://live.yst.de5.net/api/scgd.php?id=3568
 卡酷少儿,http://36.136.38.87:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿,http://113.218.204.144:9002/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0	
 卡酷少儿,http://120.198.84.146:9901/tsfile/live/1062_1.m3u8
 卡酷少儿,http://dodge.lwfz.fun:8800/rtp/239.16.20.105:11050
 卡酷少儿,http://www.stoneshi1984.ren:58120/rtp/239.112.205.138:5140
@@ -1565,10 +1558,6 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 嘉佳卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.107:11070
 嘉佳卡通,http://120.198.84.146:9901/tsfile/live/1070_1.m3u8
 嘉佳卡通,http://www.stoneshi1984.ren:58120/rtp/239.112.205.135:5140
-嘉佳卡通,https://migu.188766.xyz/?migutoken=62f4d7ee3d4dc8b234332ce68621a3dc&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
-卡酷少儿,https://migu.188766.xyz/?migutoken=63023938fee50c1f9a5656df9aa179b4&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
-嘉佳卡通,https://hk.188766.xyz/?migutoken=2e400090516fd6d8cb855fd8aeb66cc6&id=gd_jjkt&type=sz
-哈哈炫动,https://migu.188766.xyz/?migutoken=8672cb2b74cce62114d9be0c4970b42e&id=hhxd&type=sz
 嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
 优漫卡通,http://tvtj1.jxwltx.com:8003/custom11.m3u8
 金鹰卡通,http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
