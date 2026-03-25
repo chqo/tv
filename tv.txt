@@ -160,10 +160,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
-重庆卫视,http://123.13.155.82:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://115.225.36.141:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://60.187.247.10:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://zzssw01.55555.io:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://itv.lz001.cf:2222/rtp/239.109.205.30:8168
 重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://47.104.224.25:3000/738910914
@@ -187,7 +184,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://221.232.196.166:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://219.140.4.193:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://125.107.8.161:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://zzssw01.55555.io:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://123.13.155.82:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://115.225.36.141:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://60.187.247.10:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
 重庆卫视,http://111.56.90.5/000000000000/1000000001000001096/1.m3u8
 重庆卫视,http://156.238.248.80:8880/play/68.m3u8
