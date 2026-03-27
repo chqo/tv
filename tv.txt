@@ -9,7 +9,7 @@
 中国天气,http://58.60.62.202:1234/959986621
 中国天气,http://124.71.194.147:1234/959986621
 中国天气,http://123.60.92.73:1234/959986621
-中国天气,http://120.245.84.70:1234/959986621
+中国天气,http://180.157.179.30:7788/959986621
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
@@ -89,7 +89,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 快乐垂钓,video://https://live.mgtv.com/?channelId=21870
 
 四海钓鱼,http://www.374671.xyz:1234/637444975
-四海钓鱼,http://58.60.62.202:1234/637444975#http://123.60.92.73:1234/637444975#http://47.104.224.25:3000/637444975#http://124.71.194.147:1234/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
+四海钓鱼,http://58.60.62.202:1234/637444975#http://180.157.179.30:7788/637444975#http://123.60.92.73:1234/637444975#http://47.104.224.25:3000/637444975#http://124.71.194.147:1234/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
                                                                             
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -101,8 +101,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://www.stoneshi1984.ren:58120/rtp/239.111.205.82:5140
 凤凰中文,http://itv.lz001.cf:2222/rtp/239.111.205.78:5140
 凤凰资讯,http://itv.lz001.cf:2222/rtp/239.111.205.82:5140
-凤凰中文,http://36.44.73.31:5557/rtp/239.111.205.78:5140
-凤凰资讯,http://36.44.73.31:5557/rtp/239.111.205.82:5140
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://t.061899.xyz/tl/dq.php?id=fhzw
 凤凰资讯,http://t.061899.xyz/tl/dq.php?id=fhzx
@@ -156,17 +154,18 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
-重庆卫视,http://www.tangtuanpp.fun:4000/udp/233.50.200.114:5140
+重庆卫视,http://www.wpfhome.cn:5555/rtp/235.254.196.249:1268
 重庆卫视,http://nas.hexuntong.net:8188/rtp/239.3.1.122:8160
 重庆卫视,http://zzssw01.55555.io:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://itv.lz001.cf:2222/rtp/239.109.205.30:8168
 重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://47.104.224.25:3000/738910914
+重庆卫视,http://14.153.176.188:1234/738910914
+重庆卫视,http://171.211.10.124:7788/738910914
+重庆卫视,http://180.157.179.30:7788/738910914
+重庆卫视,http://111.177.182.143:1234/738910914
 重庆卫视,http://123.60.92.73:1234/738910914
 重庆卫视,http://124.71.194.147:1234/738910914
-重庆卫视,http://101.43.60.101:3000/738910914
 重庆卫视,http://58.60.62.202:1234/738910914
-重庆卫视,http://58.53.92.108:8899/738910914
 重庆卫视,http://www.stoneshi1984.ren:58120/rtp/239.109.205.30:8168
 重庆卫视,http://www.alihomes.top:8188/rtp/239.254.96.42:7320
 重庆卫视,http://game.x3322.net:8899/rtp/225.0.4.187:7980
@@ -180,30 +179,26 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,https://60.191.56.186:8888/hls/35/index.m3u8
 重庆卫视,http://118.122.144.115:8888/newlive/live/hls/26/live.m3u8
 重庆卫视,http://221.232.196.166:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://219.140.4.193:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://125.107.8.161:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://123.13.155.82:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://115.225.36.141:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://60.187.247.10:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
 重庆卫视,http://111.56.90.5/000000000000/1000000001000001096/1.m3u8
-重庆卫视,http://156.238.248.80:8880/play/68.m3u8
-重庆卫视:http://t.061899.xyz/tl/tl.php?id=cqws
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,video://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆影视,http://106.80.125.62:7788/rtp/235.254.199.180:7980
-重庆影视,http://106.80.125.176:7788/rtp/235.254.198.180:7980
+重庆影视,http://106.80.125.62:7788/rtp/235.254.197.105:7980
+重庆影视,http://106.80.125.176:7788/rtp/235.254.197.105:7980
 重庆影视,http://106.87.48.37:8888/rtp/235.254.198.180:7980
 重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8004/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8003/rtp/225.0.4.62:7980
+重庆影视,http://www.wpfhome.cn:5555/rtp/235.254.197.105:7980
 重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
 重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
