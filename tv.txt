@@ -1,5 +1,5 @@
 九洲饭店,#genre#
-饭店简介,http://tb78ubhnc.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/饭店.mp4
+饭店简介,http://tcqy6dnjc.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
 生态环境,http://118.77.40.132:8085/rtp/226.0.2.120:8872
@@ -1897,7 +1897,7 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 猫和老鼠,https://live.iill.top/huya/11352879
 哆啦A梦,https://live.iill.top/huya/11601963
 七龙珠,https://live.iill.top/huya/11601966
-哪吒2,https://d.kstore.dev/download/10141/哪吒2.mp4#http://tb78ubhnc.hn-bkt.clouddn.com/%E5%93%AA%E5%90%922.mp4
+哪吒2,https://d.kstore.dev/download/10141/哪吒2.mp4#http://tcqy6dnjc.hn-bkt.clouddn.com/%E5%93%AA%E5%90%922.mp4
 哪吒2,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=8338502568659060319
 
 
