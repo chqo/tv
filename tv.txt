@@ -2893,5 +2893,6 @@ DJ情歌6首[1920*1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43f
 抗战胜利80周年阅兵,webview://https://so.douyin.com/video/detail?aweme_id=7545719033585306914
 抗战胜利80周年阅兵,webview://https://play.tudou.com/v_show/id_XNjQ5MDY4ODI2OA==.html
 
-春晚,#genre#
+九建农业,#genre#
+春晚视频,http://tcqy6dnjc.hn-bkt.clouddn.com/%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91.mp4#https://d.kstore.dev/download/10141/春晚视频.mp4
 春晚,webview://https://tv.cctv.com/2026/02/17/VIDEL49Kb41pNPCMAJlntgJ6260217.shtml
