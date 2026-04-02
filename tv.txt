@@ -172,6 +172,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://www.gaolao.top:8008/rtp/239.112.205.40:5140
 重庆卫视,http://www.wpfhome.cn:5555/rtp/235.254.198.34:1412
 重庆卫视,http://www.hunterpoon.tech:4000/rtp/239.76.253.92:9000
+重庆卫视,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://nas.linktou.top:6001/rtp/226.0.2.50:8312
 重庆卫视,http://221.229.212.86:14970
 重庆卫视,http://hc8q.x3322.net:3000/738910914
@@ -194,6 +195,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://cckj.pw:8899/rtp/239.11.0.116:5140
 重庆卫视,http://www.wpfhome.cn:5555/rtp/235.254.196.249:1268
 重庆卫视,http://nas.hexuntong.net:8188/rtp/239.3.1.122:8160
+重庆卫视,http://111.56.90.5/000000000000/1000000005000265017/1.m3u8
 重庆卫视,http://111.56.90.5/000000000000/1000000001000001096/1.m3u8
 重庆卫视,http://111.56.90.5/000000000000/5000000004000025797/index.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
@@ -2898,5 +2900,5 @@ DJ情歌6首[1920*1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43f
 九建农业视频,#genre#
 春晚视频,http://tcqy6dnjc.hn-bkt.clouddn.com/%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91.mp4#https://d.kstore.dev/download/10141/春晚视频.mp4#https://18127.kstore.space/春晚视频.mp4
 西班牙舞蹈,http://tcqy6dnjc.hn-bkt.clouddn.com/%E8%A5%BF%E7%8F%AD%E7%89%99%E8%88%9E%E8%B9%88.mkv#https://18127.kstore.space/西班牙舞蹈.mkv
-花果图片欣赏,http://tctkbm28e.hn-bkt.clouddn.com/%E8%8A%B1%E6%9E%9C.mp4#https://18127.kstore.space/花果.mp4#https://d.kstore.dev/download/10141/花果.mp4
+花果图片欣赏,http://tctkbm28e.hn-bkt.clouddn.com/%E8%8A%B1%E6%9E%9C.mp4#http://tcqy6dnjc.hn-bkt.clouddn.com/%E8%8A%B1%E6%9E%9C.mp4#https://18127.kstore.space/花果.mp4#https://d.kstore.dev/download/10141/花果.mp4
 春晚,webview://https://tv.cctv.com/2026/02/17/VIDEL49Kb41pNPCMAJlntgJ6260217.shtml
