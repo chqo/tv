@@ -99,8 +99,6 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 香港卫视,webview://https://www.hkstv.tv/live
 香港卫视,video://https://hkstv.tv/live
 
-凤凰中文,http://47.100.29.86:28888/sxg/test1_4000/
-凤凰资讯,http://47.100.29.86:28888/sxg/test2_4000/
 凤凰资讯,http://1.197.204.20:85/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://1.197.204.20:85/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
@@ -155,11 +153,15 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 重庆频道,#genre#
 重庆卫视,http://106.91.103.188:7788/738910914
 重庆卫视,http://43.248.117.152:3000/738910914
+重庆卫视,http://47.106.168.176:1111/738910914
+重庆卫视,http://106.42.109.73:1234/738910914
 重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://14.153.176.188:1234/738910914
 重庆卫视,http://43.143.113.19:1234/738910914
 重庆卫视,http://47.94.208.96:3566/738910914
 重庆卫视,http://110.154.192.64:7788/738910914
+重庆卫视,http://home.660888.xyz:4000/rtp/225.0.4.187:7980
+重庆卫视,http://nas.iszbd.com:4022/rtp/225.0.4.187:7980
 重庆卫视,http://wangfei.uno:9999/rtp/225.1.2.75:11590
 重庆卫视,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://103.45.128.46:2001/jmb/IPTV.php?id=重庆卫视
@@ -194,6 +196,7 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 重庆卫视,https://60.191.56.186:8888/hls/35/index.m3u8
 重庆卫视,http://118.122.144.115:8888/newlive/live/hls/26/live.m3u8
 重庆卫视,http://171.116.254.184:9003/hls/22/index.m3u8
+重庆卫视,https://gxgp.537224.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
 重庆卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001129/index.m3u8
 重庆卫视,http://1.197.204.20:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://101.204.85.200:85/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
