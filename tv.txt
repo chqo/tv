@@ -103,8 +103,6 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 凤凰中文,http://120.198.86.186:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://120.237.39.10:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视,http://120.198.103.68:9901/tsfile/live/1062_1.m3u8
-凤凰卫视,http://120.238.94.82:9901/tsfile/live/1062_1.m3u8
 凤凰卫视,http://36.136.11.222:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://120.237.39.10:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰资讯,http://36.136.11.222:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -114,8 +112,6 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
 凤凰资讯,http://1.197.204.20:85/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://1.197.204.20:85/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-1.m3u8
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,http://wddpmpc.sosos.run:4022/rtp/239.111.205.78:5140
 凤凰中文,http://www.gaolao.top:8008/rtp/239.111.205.78:5140
@@ -133,6 +129,8 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
+凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-1.m3u8
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
@@ -171,7 +169,6 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 
 重庆频道,#genre#
 重庆卫视,http://43.248.117.152:3000/738910914
-重庆卫视,http://47.106.168.176:1111/738910914
 重庆卫视,http://106.42.109.73:1234/738910914
 重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://14.153.176.188:1234/738910914
@@ -217,6 +214,7 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 重庆卫视,http://171.116.254.184:9003/hls/22/index.m3u8
 重庆卫视,https://gxgp.537224.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
 重庆卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001129/index.m3u8
+重庆卫视,http://1.205.154.57:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://1.197.204.20:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://101.204.85.200:85/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://zzssw01.55555.io:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
