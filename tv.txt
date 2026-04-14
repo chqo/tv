@@ -106,12 +106,6 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 凤凰资讯,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.49:5140
 凤凰资讯,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.50:5140
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视,http://36.136.11.222:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://36.136.11.222:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港,http://36.136.11.222:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
-凤凰资讯,http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
-凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
 凤凰资讯,http://1.197.204.20:85/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://1.197.204.20:85/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
@@ -136,6 +130,10 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
 无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
 凤凰中文,http://m.061899.xyz/mg/fhzw
 凤凰资讯,http://m.061899.xyz/mg/fhzx
@@ -165,6 +163,7 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+凤凰资讯,video://https://www.fengshows.com/live
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -210,7 +209,6 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 重庆卫视,http://111.56.90.5/000000000000/1000000005000265017/1.m3u8
 重庆卫视,http://111.56.90.5/000000000000/1000000001000001096/1.m3u8
 重庆卫视,http://111.56.90.5/000000000000/5000000004000025797/index.m3u8
-重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://cssbyd.imwork.net:8082/hls/35/index.m3u8
 重庆卫视,http://36.33.154.144:8000/hls/49/index.m3u8
 重庆卫视,http://36.35.109.8:8000/hls/32/index.m3u8
