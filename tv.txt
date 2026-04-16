@@ -18,6 +18,7 @@
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 重温经典,http://abc.sohu.blog/cwjd.php
+重温经典,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 重温经典,http://183.129.255.66:8480/hls/50/index.m3u8
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 重温经典,http://8.138.7.223/tv/cwjd.php
@@ -36,11 +37,15 @@
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 
 东方财经,http://8.138.7.223/tv/5gtv.php?id=227
+东方财经,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfcj_4000.m3u8
 东方财经,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.1.59:5140
 东方财经,http://www.sjwyp.com:4022/rtp/239.254.201.181:7214
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
+CHC影迷电影,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
+CHC动作电影,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
+CHC家庭影院,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC影迷电影,http://47.119.24.76:59093/952383261
 CHC动作电影,http://47.119.24.76:59093/644368714
 CHC家庭影院,http://47.119.24.76:59093/644368373
@@ -104,6 +109,8 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 凤凰中文,http://1.83.156.52:8888/rtp/239.111.205.78:5140
 凤凰资讯,http://1.83.156.52:8888/rtp/239.111.205.82:5140
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
+凤凰中文,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
+凤凰资讯,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8
 凤凰中文,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.51:5140
 凤凰中文,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.52:5140
 凤凰资讯,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.49:5140
@@ -184,6 +191,7 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://183.129.255.66:8480/hls/37/index.m3u8
+重庆卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
 重庆卫视,http://123.12.186.90:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://home.660888.xyz:4000/rtp/225.0.4.187:7980
 重庆卫视,http://nas.iszbd.com:4022/rtp/225.0.4.187:7980
@@ -308,6 +316,57 @@ http://110.154.192.64:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
+CCTV1,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
+CCTV2,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
+CCTV3,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
+CCTV4,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
+CCTV5,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
+CCTV5+,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
+CCTV6,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
+CCTV7,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
+CCTV8,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
+CCTV9,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
+CCTV10,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
+CCTV11,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
+CCTV12,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
+CCTV13,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
+CCTV14,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
+CCTV15,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
+CCTV16,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
+CCTV16-4k,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8
+CCTV17,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
+北京卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8
+东方卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8
+天津卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjwsH265_4000.m3u8
+重庆卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
+黑龙江卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/hljwsH265_4000.m3u8
+吉林卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jlwsH265_4000.m3u8
+辽宁卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsHDH264_4000.m3u8
+内蒙古卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/nmgws_4000.m3u8
+甘肃卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/gsws_4000.m3u8
+青海卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/qhwsH264_2000.m3u8
+陕西卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8
+山西卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws42_4000.m3u8
+山东卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdwsH265_4000.m3u8
+安徽卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/ahwsH265_4000.m3u8
+河南卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8
+湖北卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8
+湖南卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8
+江西卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8
+江苏卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8
+浙江卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjwsH265_4000.m3u8
+东南卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/dnwsfjwsH265_4000.m3u8
+广东卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/gdwsH265_4000.m3u8
+深圳卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/szwsH265_4000.m3u8
+广西卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxws_4000.m3u8
+云南卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/ynws_4000.m3u8
+贵州卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzwsH265_4000.m3u8
+四川卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/scwsH265_4000.m3u8
+康巴卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/kbwsH264_2000.m3u8
+新疆卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjws_4000.m3u8
+兵团卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/btws_4000.m3u8
+西藏卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8
+海南卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws_4000.m3u8
 CCTV1,http://113.241.133.180:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://171.116.254.184:9003/hls/1/index.m3u8
 CCTV1,http://1.197.204.20:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1704,6 +1763,10 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 优漫卡通,http://t.061899.xyz/tl/dq.php?id=jjkt
 嘉佳卡通,http://t.061899.xyz/tl/dq.php?id=jjkt
 卡酷少儿,http://t.061899.xyz/tl/dq.php?id=bjkk
+卡酷少儿,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8
+金鹰卡通,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jykt_2000.m3u8
+嘉佳卡通,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8
+成都少儿,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-6_2000.m3u8
 卡酷动画,http://iptv.ayemovie.top:5555/rtp/232.0.0.57:8682
 卡酷动画,http://op.ayemovie.top:5555/rtp/232.0.0.57:8682
 卡酷动画,http://xiaoya.ayemovie.top:5555/rtp/232.0.0.57:8682
@@ -1898,8 +1961,8 @@ DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjp
 
 歌曲欣赏,#genre#
 你想我了没,https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E4%BD%A0%E6%83%B3%E6%88%91%E4%BA%86%E6%B2%A1.mp4
-你想我了没,video://https://haokan.baidu.com/v?vid=9331568202470599498
-你想我了没,video://https://haokan.baidu.com/v?vid=6151374868457215770
+你想我了没,webview://https://haokan.baidu.com/v?vid=9331568202470599498
+你想我了没,webview://https://haokan.baidu.com/v?vid=6151374868457215770
 没人心疼我的伤,https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E6%B2%A1%E4%BA%BA%E5%BF%83%E7%96%BC%E6%88%91%E7%9A%84%E4%BC%A4-%E5%8A%B1%E6%98%8E.mp4
 不敢梦到的人,https://gh-proxy.com/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E4%B8%8D%E6%95%A2%E6%A2%A6%E5%88%B0%E7%9A%84%E4%BA%BA-%E5%94%90%E4%B8%80.mp4
 解不开的扣,https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E8%A7%A3%E4%B8%8D%E5%BC%80%E7%9A%84%E6%89%A3.mp4#webview://https://haokan.baidu.com/v?vid=4629121581117935876
