@@ -28,9 +28,10 @@
 金色学堂,http://218.78.179.62:7777/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 金色学堂,http://8.138.7.223/tv/5gtv.php?id=40
 金色学堂,http://www.stoneshi1984.ren:58120/rtp/239.109.205.65:8456
-金色频道,http://iptv.ayemovie.top:5555/rtp/232.0.0.141:9306
-金色频道,http://op.ayemovie.top:5555/rtp/232.0.0.141:9306
-金色频道,http://xiaoya.ayemovie.top:5555/rtp/232.0.0.141:9306
+金色学堂,http://www.lwfz.fun:8800/rtp/239.16.20.115:11150
+金色学堂,http://iptv.ayemovie.top:5555/rtp/232.0.0.141:9306
+金色学堂,http://op.ayemovie.top:5555/rtp/232.0.0.141:9306
+金色学堂,http://xiaoya.ayemovie.top:5555/rtp/232.0.0.141:9306
 金色学堂,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.239:5540
 金色学堂,http://iptv.zhangliang.cc:8012/rtp/225.0.4.239:7980
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
@@ -38,6 +39,7 @@
 东方财经,http://8.138.7.223/tv/5gtv.php?id=227
 东方财经,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfcj_4000.m3u8
 东方财经,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.1.59:5140
+东方财经,http://www.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,http://www.sjwyp.com:4022/rtp/239.254.201.181:7214
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
@@ -122,6 +124,8 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 凤凰资讯,http://1.197.204.20:85/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://1.197.204.20:85/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+凤凰中文,http://hxwangcong.x3322.net:26000/rtp/239.111.205.78:5140
+凤凰资讯,http://hxwangcong.x3322.net:26000/rtp/239.111.205.82:5140
 凤凰中文,http://wddpmpc.sosos.run:4022/rtp/239.111.205.78:5140
 凤凰中文,http://www.gaolao.top:8008/rtp/239.111.205.78:5140
 凤凰资讯,http://wddpmpc.sosos.run:4022/rtp/239.111.205.82:5140
@@ -196,8 +200,11 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆卫视,http://47.94.208.96:3566/738910914
 重庆卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.10.13:2000
+重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
 重庆卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0142
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+重庆卫视,http://hxwangcong.x3322.net:26000/rtp/239.109.205.30:8168
 重庆卫视,http://game.x3322.net:8899/rtp/225.0.4.187:7980
 重庆卫视,http://183.129.255.66:8480/hls/37/index.m3u8
 重庆卫视,http://123.12.186.90:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
