@@ -117,10 +117,7 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
 凤凰中文,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
 凤凰资讯,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8
-凤凰中文,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.51:5140
-凤凰中文,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.52:5140
-凤凰资讯,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.49:5140
-凤凰资讯,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.50:5140
+凤凰中文,http://124.116.170.138:8081/rtp/239.111.205.78:5140
 凤凰资讯,http://1.197.204.20:85/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://1.197.204.20:85/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
@@ -196,12 +193,14 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆卫视,http://hc8q.x3322.net:3000/738910914
 重庆卫视,http://w.yyjn.top:3000/738910914
 重庆卫视,http://39.84.68.109:3000/738910914
+重庆卫视,http://39.107.95.182:3000/738910914
 重庆卫视,http://43.143.113.19:1234/738910914
 重庆卫视,http://47.94.208.96:3566/738910914
 重庆卫视,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
+重庆卫视,http://124.116.170.138:8081/rtp/239.109.205.30:8168
 重庆卫视,http://tv.zhangzp.top:4022/udp/239.125.2.102:4130 
 重庆卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0142
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
