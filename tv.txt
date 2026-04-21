@@ -2,8 +2,9 @@
 饭店简介,http://tctkbm28e.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
-生态环境,http://171.125.69.46:8888/rtp/226.0.2.120:8872
-生态环境,http://171.125.69.56:8888/rtp/226.0.2.120:8872
+生态环境,http://223.10.214.110:6001/rtp/239.1.1.110:8110
+生态环境,http://223.10.214.111:6000/rtp/239.1.1.110:8110
+生态环境,http://223.10.214.111:6001/rtp/239.1.1.110:8110
 生态环境,http://home.yulei.online:9999/rtp/226.0.2.120:8872
 生态环境,http://nas.linktou.top:6001/rtp/226.0.2.120:8872
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
@@ -90,6 +91,7 @@ CCTV第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
 CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 CCTV女性时尚,http://home.scanflove.com:7788/rtp/235.254.199.195:7980
 CCTV女性时尚,http://home.pinkfloyd.cn:5000/rtp/238.1.79.55:4576
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
@@ -118,8 +120,6 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 凤凰中文,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
 凤凰资讯,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8
 凤凰中文,http://124.116.170.138:8081/rtp/239.111.205.78:5140
-凤凰资讯,http://1.197.204.20:85/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://1.197.204.20:85/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,http://hxwangcong.x3322.net:26000/rtp/239.111.205.78:5140
 凤凰资讯,http://hxwangcong.x3322.net:26000/rtp/239.111.205.82:5140
@@ -167,11 +167,8 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 翡翠台,http://120.198.103.68:9901/tsfile/live/1007_1.m3u8
 翡翠台,http://120.198.84.146:9901/tsfile/live/1020_1.m3u8
 翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
-翡翠台,http://120.198.86.186:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-翡翠台,http://120.237.39.10:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
-翡翠,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/GeWKr
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -187,7 +184,6 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
-重庆卫视,http://43.248.117.152:3000/738910914
 重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://58.35.115.185:1234/738910914
 重庆卫视,http://hc8q.x3322.net:3000/738910914
@@ -202,6 +198,7 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
 重庆卫视,http://124.116.170.138:8081/rtp/239.109.205.30:8168
 重庆卫视,http://tv.zhangzp.top:4022/udp/239.125.2.102:4130 
+重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
 重庆卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0142
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://hxwangcong.x3322.net:26000/rtp/239.109.205.30:8168
