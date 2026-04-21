@@ -184,6 +184,10 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
+重庆卫视,http://chengshuai.eu.org:1234/738910914
+重庆卫视,http://houchunxia.eu.org:1234/738910914
+重庆卫视,http://2560.eu.org:1234/738910914
+重庆卫视,http://www.513521.xyz:1234/738910914
 重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://58.35.115.185:1234/738910914
 重庆卫视,http://hc8q.x3322.net:3000/738910914
