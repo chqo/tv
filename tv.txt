@@ -97,8 +97,7 @@ CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
 CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 快乐垂钓,http://43.248.117.152:3000/961930263
 快乐垂钓,http://hc8q.x3322.net:3000/961930263
-快乐垂钓,http://39.84.68.109:3000/961930263
-快乐垂钓,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8
+快乐垂钓,http://183.214.23.27:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 
 四海钓鱼,http://43.143.113.19:1234/637444975#http://43.248.117.152:3000/637444975#http://hc8q.x3322.net:3000/637444975#
@@ -184,12 +183,10 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆卫视,http://houchunxia.eu.org:1234/738910914
 重庆卫视,http://2560.eu.org:1234/738910914
 重庆卫视,http://www.513521.xyz:1234/738910914
+重庆卫视,http://fei01.kmdns.net:8807/738910914
 重庆卫视,http://47.119.24.76:59093/738910914
-重庆卫视,http://58.35.115.185:1234/738910914
 重庆卫视,http://hc8q.x3322.net:3000/738910914
 重庆卫视,http://w.yyjn.top:3000/738910914
-重庆卫视,http://39.84.68.109:3000/738910914
-重庆卫视,http://39.107.95.182:3000/738910914
 重庆卫视,http://43.143.113.19:1234/738910914
 重庆卫视,http://47.94.208.96:3566/738910914
 重庆卫视,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
@@ -978,8 +975,6 @@ CCTV15,webview://https://tv.cctv.com/live/cctv15/?spm=C28340.PlzJnpThRAqb.Exidty
 
 卫视频道,#genre#
 东方卫视,http://61.184.46.85:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视中文台,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视资讯台,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://61.184.46.85:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://61.184.46.85:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://61.184.46.85:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
