@@ -11,8 +11,6 @@
 
 中国天气,http://47.119.24.76:59093/959986621
 中国天气,http://hc8q.x3322.net:3000/959986621
-中国天气,http://124.71.194.147:1234/959986621
-中国天气,http://123.60.92.73:1234/959986621
 中国天气,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
 中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
@@ -54,7 +52,6 @@ CHC影迷电影,http://123.60.92.73:1234/952383261
 CHC影迷电影,http://115.29.208.41:33339/sx-jz-dx.php?id=1028
 CHC动作电影,http://115.29.208.41:33339/sx-jz-dx.php?id=1029
 CHC影迷电影,http://hc8q.x3322.net:3000/952383261
-CHC影迷电影,http://110.154.192.64:7788/952383261
 CHC动作电影,http://hc8q.x3322.net:3000/644368714
 CHC家庭影院,http://hc8q.x3322.net:3000/644368373
 CHC家庭影院,http://m.061899.xyz/mg/jtyy
@@ -130,6 +127,9 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8
+凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8
+凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
