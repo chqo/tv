@@ -181,10 +181,16 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
+重庆卫视,http://2.wyb.cq.cn:8181/rtp/235.254.198.34:1412
 重庆卫视,http://fei01.kmdns.net:8807/738910914
 重庆卫视,http://47.119.24.76:59093/738910914
+重庆卫视,http://39.107.95.182:3000/738910914
+重庆卫视,http://139.155.89.87:1000/738910914
 重庆卫视,http://hc8q.x3322.net:3000/738910914
 重庆卫视,http://w.yyjn.top:3000/738910914
+重庆卫视,http://113.120.243.155:7788/738910914
+重庆卫视,http://101.34.236.223:1112/738910914
+重庆卫视,http://106.52.119.159:1234/738910914
 重庆卫视,http://47.95.214.44:12345/738910914
 重庆卫视,http://43.143.113.19:1234/738910914
 重庆卫视,http://zy.zxcm.top:3000/738910914
@@ -257,6 +263,7 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 
 重庆影视,http://106.80.125.50:7788/rtp/235.254.197.105:7980
 重庆影视,http://106.80.125.179:7788/rtp/235.254.198.180:7980
+重庆影视,http://2.wyb.cq.cn:8181/rtp/235.254.197.105:7980
 重庆影视,http://pve.iszbd.com:4022/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8005/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
@@ -269,12 +276,15 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
+重庆新闻,http://2.wyb.cq.cn:8181/rtp/235.254.196.199:7980
+重庆新闻,http://2.wyb.cq.cn:8181/rtp/235.254.196.208:1104
 重庆新闻,http://iptv.zhangliang.cc:8012/rtp/225.0.4.59:7980
 重庆新闻,http://58.17.134.3:8003/rtp/225.0.4.59:7980
 重庆新闻,http://home.scanflove.com:7788/rtp/235.254.197.104:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
+重庆文体娱乐,http://2.wyb.cq.cn:8181/rtp/235.254.197.108:7980
 重庆文体娱乐,http://www.wpfhome.cn:5555/rtp/235.254.197.108:7980
 重庆文体娱乐,http://58.17.134.3:8003/udp/225.0.4.65:7980
 重庆文体娱乐,http://iptv.zhangliang.cc:8012/udp/225.0.4.65:7980
@@ -282,6 +292,7 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
 重庆红岩文化,http://106.80.125.50:7788/rtp/235.254.197.107:7980
+重庆红岩文化,http://2.wyb.cq.cn:8181/rtp/235.254.197.107:7980
 重庆红岩文化,http://www.wpfhome.cn:5555/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8003/udp/225.0.4.69:7980
 重庆红岩文化,http://iptv.zhangliang.cc:8012/udp/225.0.4.69:7980
@@ -296,6 +307,7 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
 重庆社会与法,http://home.660888.xyz:4000/rtp/225.0.4.64:7980
+重庆社会与法,http://2.wyb.cq.cn:8181/rtp/235.254.197.106:7980
 重庆社会与法,http://pve.iszbd.com:4022/rtp/225.0.4.190:7980
 重庆社会与法,http://www.wpfhome.cn:5555/rtp/235.254.197.106:7980
 重庆社会与法,http://58.17.134.3:8003/udp/225.0.4.64:7980
@@ -304,6 +316,7 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
 重庆新农村,http://106.80.125.50:7788/rtp/235.254.197.109:7980
+重庆新农村,http://2.wyb.cq.cn:8181/rtp/235.254.197.109:7980
 重庆新农村,http://www.wpfhome.cn:5555/rtp/235.254.197.109:7980
 重庆新农村,http://58.17.134.3:8003/udp/225.0.4.70:7980
 重庆新农村,http://iptv.zhangliang.cc:8012/udp/225.0.4.70:7980
@@ -324,6 +337,24 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
+CCTV1,http://115.29.208.41:33339/sx-jz-dx.php?id=0001
+CCTV2,http://115.29.208.41:33339/sx-jz-dx.php?id=0002
+CCTV3,http://115.29.208.41:33339/sx-jz-dx.php?id=0003
+CCTV4,http://115.29.208.41:33339/sx-jz-dx.php?id=0004
+CCTV5,http://115.29.208.41:33339/sx-jz-dx.php?id=0005
+CCTV6,http://115.29.208.41:33339/sx-jz-dx.php?id=0006
+CCTV7,http://115.29.208.41:33339/sx-jz-dx.php?id=0007
+CCTV8,http://115.29.208.41:33339/sx-jz-dx.php?id=0008
+CCTV9,http://115.29.208.41:33339/sx-jz-dx.php?id=0009
+CCTV10,http://115.29.208.41:33339/sx-jz-dx.php?id=0010
+CCTV11,http://115.29.208.41:33339/sx-jz-dx.php?id=0011
+CCTV12,http://115.29.208.41:33339/sx-jz-dx.php?id=0012
+CCTV13,http://115.29.208.41:33339/sx-jz-dx.php?id=1030
+CCTV14,http://115.29.208.41:33339/sx-jz-dx.php?id=0014
+CCTV15,http://115.29.208.41:33339/sx-jz-dx.php?id=0015
+CCTV16,http://115.29.208.41:33339/sx-jz-dx.php?id=0016
+CCTV17,http://115.29.208.41:33339/sx-jz-dx.php?id=0017
+CCTV5+,http://115.29.208.41:33339/sx-jz-dx.php?id=0018
 CCTV1,http://183.214.23.16:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.5/PLTV/4/224/3221227725/index.m3u8
 CCTV1,http://183.214.23.27:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.5/PLTV/4/224/3221227725/index.m3u8
 CCTV1,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
@@ -975,6 +1006,46 @@ CCTV14,webview://https://tv.cctv.com/live/cctvchild/?spm=C28340.POZbQEOQYmoL.Exi
 CCTV15,webview://https://tv.cctv.com/live/cctv15/?spm=C28340.PlzJnpThRAqb.ExidtyEJcS5K.27
 
 卫视频道,#genre#
+山西卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=1008
+四川卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0123
+黑龙江卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0143
+浙江卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0124
+深圳卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0126
+北京卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0122
+辽宁卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0121
+湖南卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0128
+江苏卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0127
+湖北卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0132
+安徽卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0130
+天津卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0135
+广东卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0125
+东方卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0107
+山东卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0131
+上海卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0108
+东南卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0137
+河南卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0139
+重庆卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0142
+贵州卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0120
+河北卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0117
+南方卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0133
+三沙卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0134
+海南卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0114
+江西卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0138
+吉林卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0116
+广西卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0113
+陕西卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0136
+甘肃卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0141
+青海卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0140
+云南卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0119
+宁夏卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0112
+西藏卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0111
+新疆卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0110
+内蒙古卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0109
+厦门卫视,http://115.29.208.41:33339/sx-jz-dx.php?id=0129
+嘉佳卡通,http://115.29.208.41:33339/sx-jz-dx.php?id=1009
+卡酷少儿,http://115.29.208.41:33339/sx-jz-dx.php?id=1010
+快乐垂钓,http://115.29.208.41:33339/sx-jz-dx.php?id=1011
+金鹰卡通,http://115.29.208.41:33339/sx-jz-dx.php?id=1012
 东方卫视,http://61.184.46.85:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://61.184.46.85:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://61.184.46.85:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1801,6 +1872,10 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 优漫卡通,http://t.061899.xyz/tl/dq.php?id=jjkt
 嘉佳卡通,http://t.061899.xyz/tl/dq.php?id=jjkt
 卡酷少儿,http://t.061899.xyz/tl/dq.php?id=bjkk
+嘉佳卡通,http://115.29.208.41:33339/sx-jz-dx.php?id=1009
+卡酷少儿,http://115.29.208.41:33339/sx-jz-dx.php?id=1010
+快乐垂钓,http://115.29.208.41:33339/sx-jz-dx.php?id=1011
+金鹰卡通,http://115.29.208.41:33339/sx-jz-dx.php?id=1012
 卡酷动画,http://www.wpfhome.cn:5555/rtp/235.254.198.49:1472
 少儿动漫,http://www.wpfhome.cn:5555/rtp/235.254.198.116:1740
 金鹰卡通,http://www.wpfhome.cn:5555/rtp/235.254.198.50:1476
