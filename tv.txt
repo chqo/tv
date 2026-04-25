@@ -11,12 +11,9 @@
 
 中国天气,http://47.119.24.76:59093/959986621
 中国天气,http://hc8q.x3322.net:3000/959986621
-中国天气,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
-中国天气,http://score.9498345.xyz:16618/udp/239.81.0.63:4056
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 重温经典,http://abc.sohu.blog/cwjd.php
-重温经典,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 重温经典,http://183.129.255.66:8480/hls/50/index.m3u8
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 重温经典,http://8.138.7.223/tv/cwjd.php
@@ -24,9 +21,7 @@
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
-金色学堂,http://218.78.179.62:7777/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 金色学堂,http://8.138.7.223/tv/5gtv.php?id=40
-金色学堂,http://www.stoneshi1984.ren:58120/rtp/239.109.205.65:8456
 金色学堂,http://www.lwfz.fun:8800/rtp/239.16.20.115:11150
 金色学堂,http://iptv.ayemovie.top:5555/rtp/232.0.0.141:9306
 金色学堂,http://op.ayemovie.top:5555/rtp/232.0.0.141:9306
@@ -36,8 +31,6 @@
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 
 东方财经,http://8.138.7.223/tv/5gtv.php?id=227
-东方财经,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfcj_4000.m3u8
-东方财经,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.1.59:5140
 东方财经,http://www.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,http://www.sjwyp.com:4022/rtp/239.254.201.181:7214
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
@@ -46,7 +39,6 @@
 CHC影迷电影,http://47.119.24.76:59093/952383261
 CHC动作电影,http://47.119.24.76:59093/644368714
 CHC家庭影院,http://47.119.24.76:59093/644368373
-CHC影迷电影,http://123.60.92.73:1234/952383261
 动作影院,http://115.29.208.41:33339/sx-jz-dx.php?id=1024
 家庭影院,http://115.29.208.41:33339/sx-jz-dx.php?id=1025
 CHC影迷电影,http://115.29.208.41:33339/sx-jz-dx.php?id=1028
@@ -202,8 +194,6 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆卫视,http://hxwangcong.x3322.net:26000/rtp/239.109.205.30:8168
 重庆卫视,http://game.x3322.net:8899/rtp/225.0.4.187:7980
 重庆卫视,http://183.129.255.66:8480/hls/37/index.m3u8
-重庆卫视,http://123.12.186.90:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://home.660888.xyz:4000/rtp/225.0.4.187:7980
 重庆卫视,http://nas.iszbd.com:4022/rtp/225.0.4.187:7980
 重庆卫视,http://wangfei.uno:9999/rtp/225.1.2.75:11590
 重庆卫视,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
@@ -214,7 +204,6 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆卫视,http://xiaoya.ayemovie.top:5555/rtp/232.0.0.209:9236
 重庆卫视,http://wddpmpc.sosos.run:4022/rtp/239.109.205.30:8168
 重庆卫视,http://www.gaolao.top:8008/rtp/239.112.205.40:5140
-重庆卫视,http://www.hunterpoon.tech:4000/rtp/239.76.253.92:9000
 重庆卫视,http://nas.linktou.top:6001/rtp/226.0.2.50:8312
 重庆卫视,http://home.pinkfloyd.cn:5000/rtp/238.1.78.31:6176
 重庆卫视,http://guoxue7.3322.org:57022/rtp/239.3.1.122:8160
@@ -231,21 +220,7 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆卫视,http://36.35.109.8:8000/hls/32/index.m3u8
 重庆卫视,https://60.191.56.186:8888/hls/35/index.m3u8
 重庆卫视,http://118.122.144.115:8888/newlive/live/hls/26/live.m3u8
-重庆卫视,http://171.116.254.184:9003/hls/22/index.m3u8
 重庆卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001129/index.m3u8
-重庆卫视,http://1.205.154.57:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://1.197.204.20:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://101.204.85.200:85/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://zzssw01.55555.io:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://222.214.208.34:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://221.232.196.240:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://58.245.255.38:8888/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://182.207.218.109:999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://221.232.196.166:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://125.107.8.161:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://123.13.155.82:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://60.187.247.10:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
 重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
@@ -253,11 +228,9 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,video://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆影视,http://106.80.125.50:7788/rtp/235.254.197.105:7980
-重庆影视,http://106.80.125.179:7788/rtp/235.254.198.180:7980
 重庆影视,http://2.wyb.cq.cn:8181/rtp/235.254.197.105:7980
 重庆影视,http://pve.iszbd.com:4022/rtp/225.0.4.62:7980
-重庆影视,http://58.17.134.3:8005/udp/225.0.4.62:7980
+重庆影视,http://58.17.134.3:8001/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8003/rtp/225.0.4.62:7980
 重庆影视,http://125.86.26.68:8003/rtp/235.254.196.209:1108
@@ -266,9 +239,9 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
 重庆影视,http://iptv.zhangliang.cc:8012/udp/225.0.4.62:7980
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
+重庆影视,http://106.80.125.188:7788/rtp/235.254.197.105:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,http://2.wyb.cq.cn:8181/rtp/235.254.196.199:7980
 重庆新闻,http://2.wyb.cq.cn:8181/rtp/235.254.196.208:1104
 重庆新闻,http://iptv.zhangliang.cc:8012/rtp/225.0.4.59:7980
 重庆新闻,http://58.17.134.3:8003/rtp/225.0.4.59:7980
@@ -283,7 +256,6 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆文体娱乐,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
-重庆红岩文化,http://106.80.125.50:7788/rtp/235.254.197.107:7980
 重庆红岩文化,http://2.wyb.cq.cn:8181/rtp/235.254.197.107:7980
 重庆红岩文化,http://www.wpfhome.cn:5555/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8003/udp/225.0.4.69:7980
@@ -291,14 +263,12 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆红岩文化,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
-重庆红叶,http://106.80.125.50:7788/rtp/235.254.197.111:7980
 重庆红叶,http://www.wpfhome.cn:5555/rtp/235.254.197.111:7980
 重庆红叶,http://58.17.134.3:8003/udp/225.0.4.63:7980
 重庆红叶,http://iptv.zhangliang.cc:8012/udp/225.0.4.63:798
 重庆红叶,http://game.x3322.net:8899/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
-重庆社会与法,http://home.660888.xyz:4000/rtp/225.0.4.64:7980
 重庆社会与法,http://2.wyb.cq.cn:8181/rtp/235.254.197.106:7980
 重庆社会与法,http://pve.iszbd.com:4022/rtp/225.0.4.190:7980
 重庆社会与法,http://www.wpfhome.cn:5555/rtp/235.254.197.106:7980
@@ -307,7 +277,6 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆社会与法,http://game.x3322.net:8899/udp/225.0.4.64:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
-重庆新农村,http://106.80.125.50:7788/rtp/235.254.197.109:7980
 重庆新农村,http://2.wyb.cq.cn:8181/rtp/235.254.197.109:7980
 重庆新农村,http://www.wpfhome.cn:5555/rtp/235.254.197.109:7980
 重庆新农村,http://58.17.134.3:8003/udp/225.0.4.70:7980
@@ -315,7 +284,6 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆新农村,http://game.x3322.net:8899/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
-重庆少儿,http://106.80.125.50:7788/rtp/235.254.197.110:7980
 重庆少儿,http://www.wpfhome.cn:5555/rtp/235.254.197.110:7980
 重庆少儿,http://58.17.134.3:8003/udp/225.0.4.71:7980
 重庆少儿,http://iptv.zhangliang.cc:8012/rtp/225.0.4.71:7980
@@ -348,79 +316,22 @@ CCTV16,http://115.29.208.41:33339/sx-jz-dx.php?id=0016
 CCTV17,http://115.29.208.41:33339/sx-jz-dx.php?id=0017
 CCTV5+,http://115.29.208.41:33339/sx-jz-dx.php?id=0018
 CCTV1,http://113.241.133.180:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://171.116.254.184:9003/hls/1/index.m3u8
-CCTV1,http://1.197.204.20:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://101.204.85.200:85/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://113.241.133.180:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://110.178.210.196:9003/hls/2/index.m3u8
-CCTV2,http://171.116.254.184:9003/hls/2/index.m3u8
-CCTV2,http://1.197.204.20:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://101.204.85.200:85/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://113.241.133.180:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://171.116.254.184:9003/hls/3/index.m3u8
-CCTV3,http://1.197.204.20:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://101.204.85.200:85/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://113.241.133.180:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://110.178.210.196:9003/hls/4/index.m3u8
-CCTV4,http://171.116.254.184:9003/hls/4/index.m3u8
-CCTV4,http://1.197.204.20:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://101.204.85.200:85/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://113.241.133.180:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://113.241.133.180:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://110.178.210.196:9003/hls/6/index.m3u8
-CCTV5,http://171.116.254.184:9003/hls/5/index.m3u8
-CCTV5+,http://171.116.254.184:9003/hls/6/index.m3u8
-CCTV5,http://1.197.204.20:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://1.197.204.20:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://101.204.85.200:85/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://101.204.85.200:85/tsfile/live/faacts/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://113.241.133.180:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://110.178.210.196:9003/hls/7/index.m3u8
-CCTV6,http://171.116.254.184:9003/hls/7/index.m3u8
-CCTV6,http://1.197.204.20:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://101.204.85.200:85/tsfile/live/faacts/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://113.241.133.180:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://171.116.254.184:9003/hls/8/index.m3u8
-CCTV7,http://1.197.204.20:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://101.204.85.200:85/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://113.241.133.180:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://171.116.254.184:9003/hls/9/index.m3u8
-CCTV8,http://1.197.204.20:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://101.204.85.200:85/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://113.241.133.180:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://171.116.254.184:9003/hls/10/index.m3u8
-CCTV9,http://1.197.204.20:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://101.204.85.200:85/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://113.241.133.180:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://171.116.254.184:9003/hls/11/index.m3u8
-CCTV10,http://1.197.204.20:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://101.204.85.200:85/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://113.241.133.180:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://171.116.254.184:9003/hls/12/index.m3u8
-CCTV11,http://1.197.204.20:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://101.204.85.200:85/tsfile/live/faacts/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://113.241.133.180:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://110.178.210.196:9003/hls/13/index.m3u8
-CCTV12,http://171.116.254.184:9003/hls/13/index.m3u8
-CCTV12,http://1.197.204.20:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://101.204.85.200:85/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://113.241.133.180:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://110.178.210.196:9003/hls/14/index.m3u8
-CCTV13,http://171.116.254.184:9003/hls/14/index.m3u8
-CCTV13,http://1.197.204.20:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://101.204.85.200:85/tsfile/live/faacts/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://113.241.133.180:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://171.116.254.184:9003/hls/15/index.m3u8
-CCTV14,http://1.197.204.20:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://101.204.85.200:85/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://113.241.133.180:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://171.116.254.184:9003/hls/16/index.m3u8
-CCTV15,http://1.197.204.20:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://101.204.85.200:85/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://171.116.254.184:9003/hls/17/index.m3u8
-CCTV16,http://1.197.204.20:85/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://171.116.254.184:9003/hls/18/index.m3u8
-CCTV17,http://1.197.204.20:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
