@@ -33,6 +33,7 @@
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 
 东方财经,http://8.138.7.223/tv/5gtv.php?id=227
+东方财经,http://171.8.106.194:8800/rtp/239.16.10.235:2000
 东方财经,http://www.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,http://www.sjwyp.com:4022/rtp/239.254.201.181:7214
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
@@ -78,6 +79,7 @@ CCTV怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620100
 CCTV第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
 CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
+CCTV女性时尚,http://106.116.126.196:4022/rtp/239.254.201.228:7255
 CCTV女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 CCTV女性时尚,http://home.scanflove.com:7788/rtp/235.254.199.195:7980
@@ -169,7 +171,6 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
-重庆卫视,http://2.wyb.cq.cn:8181/rtp/235.254.198.34:1412
 重庆卫视,http://fei01.kmdns.net:8807/738910914
 重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://39.107.95.182:3000/738910914
@@ -184,6 +185,8 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆卫视,http://zy.zxcm.top:3000/738910914
 重庆卫视,http://47.94.208.96:3566/738910914
 重庆卫视,http://124.77.202.8:49155/738910914
+重庆卫视,http://171.8.106.194:8800/rtp/239.16.20.79:10790
+重庆卫视,http://120.11.21.86:58888/rtp/239.253.92.10:6053
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
@@ -230,6 +233,7 @@ http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8#h
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 重庆卫视,video://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
+重庆影视,http://119.85.171.80:8188/rtp/235.254.196.209:1108
 重庆影视,http://2.wyb.cq.cn:8181/rtp/235.254.197.105:7980
 重庆影视,http://pve.iszbd.com:4022/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8001/udp/225.0.4.62:7980
