@@ -11,7 +11,7 @@
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 
 中国天气,http://47.119.24.76:59093/959986621
-中国天气,http://fei01.kmdns.net:8807/959986621
+中国天气,http://w.yyjn.top:3000/959986621
 中国天气,http://hc8q.x3322.net:3000/959986621
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
@@ -112,9 +112,8 @@ http://120.76.248.139/live/bfgd/4200000229.m3u8
 凤凰中文,http://www.gaolao.top:8008/rtp/239.111.205.78:5140
 凤凰资讯,http://wddpmpc.sosos.run:4022/rtp/239.111.205.82:5140
 凤凰资讯,http://www.gaolao.top:8008/rtp/239.111.205.82:5140
-凤凰中文,http://154.219.125.7:8088/iptv2026.php?key=xiangxiws2026&id=凤凰中文
-凤凰资讯,http://154.219.125.7:8088/iptv2026.php?key=xiangxiws2026&id=凤凰资讯
-凤凰香港,http://154.219.125.7:8088/iptv2026.php?key=xiangxiws2026&id=凤凰香港
+凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key-txiptv
+凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key-txiptv
 凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8
