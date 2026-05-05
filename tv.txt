@@ -2,9 +2,6 @@
 饭店简介,http://tebauhmp9.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
-生态环境,http://223.10.214.110:6001/rtp/239.1.1.110:8110
-生态环境,http://223.10.214.111:6000/rtp/239.1.1.110:8110
-生态环境,http://223.10.214.111:6001/rtp/239.1.1.110:8110
 生态环境,http://118.79.115.72:6001/rtp/226.0.2.120:8872
 生态环境,http://home.yulei.online:9999/rtp/226.0.2.120:8872
 生态环境,http://nas.linktou.top:6001/rtp/226.0.2.120:8872
@@ -39,6 +36,9 @@
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
+CHC影迷电影,http://47.119.24.76:59093/952383261
+CHC动作电影,http://47.119.24.76:59093/644368714
+CHC家庭影院,http://47.119.24.76:59093/644368373
 CHC影迷电影,http://w.yyjn.top:3000/952383261
 CHC动作电影,http://w.yyjn.top:3000/644368714
 CHC家庭影院,http://w.yyjn.top:3000/644368373
@@ -170,11 +170,13 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
+重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://hc8q.x3322.net:3000/738910914
 重庆卫视,http://w.yyjn.top:3000/738910914
 重庆卫视,http://49.84.31.10:3566/738910914
 重庆卫视,http://43.143.113.19:1234/738910914
 重庆卫视,http://119.29.13.205:1234/738910914
+重庆卫视,http://106.42.109.73:1234/738910914
 重庆卫视,http://zy.zxcm.top:3000/738910914
 重庆卫视,http://513521.xyz:1234/738910914
 重庆卫视,http://2560.eu.org:1234/738910914
@@ -302,24 +304,23 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
-CCTV1,http://115.29.208.41:33339/sx-jz-dx.php?id=0001
-CCTV2,http://115.29.208.41:33339/sx-jz-dx.php?id=0002
-CCTV3,http://115.29.208.41:33339/sx-jz-dx.php?id=0003
-CCTV4,http://115.29.208.41:33339/sx-jz-dx.php?id=0004
-CCTV5,http://115.29.208.41:33339/sx-jz-dx.php?id=0005
-CCTV6,http://115.29.208.41:33339/sx-jz-dx.php?id=0006
-CCTV7,http://115.29.208.41:33339/sx-jz-dx.php?id=0007
-CCTV8,http://115.29.208.41:33339/sx-jz-dx.php?id=0008
-CCTV9,http://115.29.208.41:33339/sx-jz-dx.php?id=0009
-CCTV10,http://115.29.208.41:33339/sx-jz-dx.php?id=0010
-CCTV11,http://115.29.208.41:33339/sx-jz-dx.php?id=0011
-CCTV12,http://115.29.208.41:33339/sx-jz-dx.php?id=0012
-CCTV13,http://115.29.208.41:33339/sx-jz-dx.php?id=1030
-CCTV14,http://115.29.208.41:33339/sx-jz-dx.php?id=0014
-CCTV15,http://115.29.208.41:33339/sx-jz-dx.php?id=0015
-CCTV16,http://115.29.208.41:33339/sx-jz-dx.php?id=0016
-CCTV17,http://115.29.208.41:33339/sx-jz-dx.php?id=0017
-CCTV5+,http://115.29.208.41:33339/sx-jz-dx.php?id=0018
+CCTV1,http://47.119.24.76:59093/608807420
+CCTV2,http://47.119.24.76:59093/631780532
+CCTV3,http://47.119.24.76:59093/624878271
+CCTV4,http://47.119.24.76:59093/608807419
+CCTV5,http://47.119.24.76:59093/641886683
+CCTV5+,http://47.119.24.76:59093/641886773
+CCTV6,http://47.119.24.76:59093/624878396
+CCTV7,http://47.119.24.76:59093/673168121
+CCTV8,http://47.119.24.76:59093/624878356
+CCTV9,http://47.119.24.76:59093/673168140
+CCTV10,http://47.119.24.76:59093/624878405
+CCTV11,http://47.119.24.76:59093/667987558
+CCTV12,http://47.119.24.76:59093/673168185
+CCTV13,http://47.119.24.76:59093/608807423
+CCTV14,http://47.119.24.76:59093/624878440
+CCTV15,http://47.119.24.76:59093/673168223
+CCTV17,http://47.119.24.76:59093/673168256
 CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
