@@ -96,6 +96,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://www.hkstv.tv/live
 香港卫视,video://https://hkstv.tv/live
 
+凤凰中文,http://112.92.129.96:9898/hls/128/index.m3u8
 凤凰资讯,http://36.136.11.222:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://36.136.11.222:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://36.136.11.222:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
