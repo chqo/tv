@@ -106,17 +106,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-凤凰中文,http://gd.wsd.gd.cn:1698/hls/96/index.m3u8
-凤凰资讯,http://gd.wsd.gd.cn:1698/hls/95/index.m3u8
-翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8
-凤凰资讯,http://218.206.193.218:8888/hls/109/index.m3u8
-凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8
 凤凰中文,http://hxwangcong.x3322.net:26000/rtp/239.111.205.78:5140
 凤凰资讯,http://hxwangcong.x3322.net:26000/rtp/239.111.205.82:5140
 凤凰中文,http://wddpmpc.sosos.run:4022/rtp/239.111.205.78:5140
@@ -125,16 +116,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://www.gaolao.top:8008/rtp/239.111.205.82:5140
 凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key-txiptv
 凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key-txiptv
-凤凰中文,http://182.135.66.163:1888/rtp/239.94.2.51:5140
-凤凰中文,http://182.135.66.163:1888/rtp/239.94.2.52:5140
-凤凰资讯,http://182.135.66.163:1888/rtp/239.94.2.49:5140
-凤凰资讯,http://182.135.66.163:1888/rtp/239.94.2.50:5140
-凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
-凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8
-凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8
-凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
-凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8
+凤凰资讯,http://218.206.193.218:8888/hls/109/index.m3u8
+凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
@@ -144,7 +130,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-1.php
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰中文,http://r.jdshipin.com/cCCzW
@@ -152,16 +137,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
-凤凰中文,http://m.061899.xyz/mg/fhzw
-凤凰资讯,http://m.061899.xyz/mg/fhzx
-凤凰香港,http://m.061899.xyz/mg/fhhk
-凤凰中文,http://t.061899.xyz/tl/dq.php?id=fhzw
-凤凰资讯,http://t.061899.xyz/tl/dq.php?id=fhzx
-凤凰香港,http://t.061899.xyz/tl/dq.php?id=fhhk
 无线翡翠,https://test.tvbjack.de5.net/proxy/618596f922e35e67
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰中文,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
 凤凰资讯,http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
 凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
@@ -182,7 +158,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 
 凤凰电影,http://emby.xlangnan.cn:10316/rtp/239.254.201.1:5214
-凤凰电影,http://154.219.125.7:8088/iptv2026.php?key=xiangxiws2026&id=凤凰电影
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
@@ -2659,7 +2634,7 @@ DJ流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629
 抗战胜利80周年阅兵,webview://https://play.tudou.com/v_show/id_XNjQ5MDY4ODI2OA==.html
 
 九建农业视频,#genre#
-欢迎进行曲,https://gitee.com/dai98/ch/raw/master/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://d.kstore.dev/download/10141/欢迎进行曲.ts#video://https://v.qq.com/x/cover/mzc00200vav0qkv/f0033yrafru.html
+欢迎进行曲,https://gitee.com/dai98/ch/raw/master/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://d.kstore.dev/download/10141/欢迎进行曲.ts#webview://https://v.qq.com/x/cover/mzc00200vav0qkv/f0033yrafru.html
 春晚视频,https://d.kstore.dev/download/10141/春晚视频.mp4
 西班牙舞蹈,http://tcqy6dnjc.hn-bkt.clouddn.com/%E8%A5%BF%E7%8F%AD%E7%89%99%E8%88%9E%E8%B9%88.mkv#https://18127.kstore.space/西班牙舞蹈.mkv
 花果图片欣赏,https://18127.kstore.space/花果.mp4
