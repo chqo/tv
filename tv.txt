@@ -97,6 +97,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://www.hkstv.tv/live
 香港卫视,video://https://hkstv.tv/live
 
+凤凰中文,http://47.100.29.86:21345/qilin.php?id=fhzw
+凤凰资讯,http://47.100.29.86:21345/qilin.php?id=fhzx
+凤凰香港,http://47.100.29.86:21345/qilin.php?id=fhxg
 凤凰中文,http://112.92.129.96:9898/hls/128/index.m3u8
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8
 凤凰资讯,http://36.136.11.222:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -295,7 +298,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://iptv.zhangliang.cc:8012/udp/225.0.4.61:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
-咕咪,#genre#,JS=#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://hk.gh-proxy.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontents.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+咕咪,#genre#,x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://hk.gh-proxy.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontents.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260507181508&Channel_ID=0116_2600037000-99000-200300220103253&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=220.200.155.248&SecurityKey=20260507181508&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8670e71e5a5174d9f55c6b441fc7feea
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260507181508&Channel_ID=0116_2600037000-99000-200300220103253&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=220.200.155.248&SecurityKey=20260507181508&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8670e71e5a5174d9f55c6b441fc7feea
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260507180731&Channel_ID=0116_2600037000-99000-200300220103242&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=36.134.66.172&SecurityKey=20260507180731&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1decc9310f1d29a9461d02c36c949393
@@ -391,6 +394,7 @@ CCTV13,http://47.119.24.76:59093/608807423
 CCTV14,http://47.119.24.76:59093/624878440
 CCTV15,http://47.119.24.76:59093/673168223
 CCTV17,http://47.119.24.76:59093/673168256
+CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
