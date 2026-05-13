@@ -8,6 +8,7 @@
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 
 中国天气,http://36.136.11.222:18885/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+中国天气,http://47.108.228.131:12193/live_ywzh.php?id=100
 中国天气,http://47.119.24.76:59093/959986621
 中国天气,http://w.yyjn.top:3000/959986621
 中国天气,http://hc8q.x3322.net:3000/959986621
@@ -37,6 +38,9 @@
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
+CHC影迷电影,http://47.108.228.131:12193/live_ywzh.php?id=95
+CHC动作电影,http://47.108.228.131:12193/live_ywzh.php?id=96
+CHC家庭影院,http://47.108.228.131:12193/live_ywzh.php?id=97
 CHC影迷电影,http://8.153.110.51:3020/952383261
 CHC动作电影,http://8.153.110.51:3020/644368714
 CHC家庭影院,http://8.153.110.51:3020/644368373
@@ -83,11 +87,13 @@ CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
 CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
 CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
+快乐垂钓,http://47.108.228.131:12193/live_ywzh.php?id=34
 快乐垂钓,http://w.yyjn.top:3000/961930263
 快乐垂钓,http://hc8q.x3322.net:3000/961930263
 快乐垂钓,http://183.214.23.27:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 
+四海钓鱼,http://47.108.228.131:12193/live_ywzh.php?id=31
 四海钓鱼,http://w.yyjn.top:3000/637444975#http://2560.eu.org:1234/637444975#http://43.248.117.152:3000/637444975#http://hc8q.x3322.net:3000/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
 
 香港频道,#genre#
@@ -97,7 +103,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://www.hkstv.tv/live
 香港卫视,video://https://hkstv.tv/live
 
-凤凰中文,http://112.92.129.96:9898/hls/128/index.m3u8
+凤凰中文,http://221.194.141.41:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
+凤凰资讯,http://221.194.141.41:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
+凤凰香港,http://221.194.141.41:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228530/1.m3u8
 凤凰中文,http://47.100.29.86:21345/qilin5.php?id=fhzw
 凤凰资讯,http://47.100.29.86:21345/qilin5.php?id=fhzx
 凤凰香港,http://47.100.29.86:21345/qilin5.php?id=fhxg
@@ -162,9 +170,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
+重庆卫视,http://lysj.aylzline.top:8899/rtp/225.1.2.75:11590
 重庆卫视,http://113.141.220.55:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
 重庆卫视,http://wddpmpc.sosos.run:4022/rtp/239.109.205.30:8168
+重庆卫视,http://47.108.228.131:12193/live_ywzh.php?id=55
 重庆卫视,http://78962588856486165751857.iepose.cn/738910914
 重庆卫视,http://8.153.110.51:3020/738910914
 重庆卫视,http://39.64.190.50:3000/738910914
@@ -308,6 +318,59 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
+CCTV1,http://113.141.220.55:9901/tsfile/live/0001_1.m3u8
+CCTV2,http://113.141.220.55:9901/tsfile/live/0002_1.m3u8
+CCTV3,http://113.141.220.55:9901/tsfile/live/0003_1.m3u8
+CCTV4,http://113.141.220.55:9901/tsfile/live/0004_1.m3u8
+CCTV5,http://113.141.220.55:9901/tsfile/live/0005_1.m3u8
+CCTV6,http://113.141.220.55:9901/tsfile/live/0006_1.m3u8
+CCTV7,http://113.141.220.55:9901/tsfile/live/0007_1.m3u8
+CCTV8,http://113.141.220.55:9901/tsfile/live/0008_1.m3u8
+CCTV9,http://113.141.220.55:9901/tsfile/live/0009_1.m3u8
+CCTV10,http://113.141.220.55:9901/tsfile/live/0010_1.m3u8
+CCTV11,http://113.141.220.55:9901/tsfile/live/0011_1.m3u8
+CCTV12,http://113.141.220.55:9901/tsfile/live/0012_1.m3u8
+CCTV13,http://113.141.220.55:9901/tsfile/live/0013_1.m3u8
+CCTV14,http://113.141.220.55:9901/tsfile/live/0014_1.m3u8
+CCTV15,http://113.141.220.55:9901/tsfile/live/0015_1.m3u8
+湖南卫视,http://113.141.220.55:9901/tsfile/live/0128_1.m3u8
+东方卫视,http://113.141.220.55:9901/tsfile/live/0107_1.m3u8
+江苏卫视,http://113.141.220.55:9901/tsfile/live/0127_1.m3u8
+北京卫视,http://113.141.220.55:9901/tsfile/live/0122_1.m3u8
+浙江卫视,http://113.141.220.55:9901/tsfile/live/0124_1.m3u8
+陕西卫视,http://113.141.220.55:9901/tsfile/live/0136_1.m3u8
+广东卫视,http://113.141.220.55:9901/tsfile/live/0125_1.m3u8
+山西卫视,http://113.141.220.55:9901/tsfile/live/0118_1.m3u8
+四川卫视,http://113.141.220.55:9901/tsfile/live/0123_1.m3u8
+吉林卫视,http://113.141.220.55:9901/tsfile/live/0116_1.m3u8
+宁夏卫视,http://113.141.220.55:9901/tsfile/live/0112_1.m3u8
+辽宁卫视,http://113.141.220.55:9901/tsfile/live/0121_1.m3u8
+黑龙江卫视,http://113.141.220.55:9901/tsfile/live/0143_1.m3u8
+天津卫视,http://113.141.220.55:9901/tsfile/live/0135_1.m3u8
+重庆卫视,http://113.141.220.55:9901/tsfile/live/0142_1.m3u8
+青海卫视,http://113.141.220.55:9901/tsfile/live/0140_1.m3u8
+河南卫视,http://113.141.220.55:9901/tsfile/live/0139_1.m3u8
+江西卫视,http://113.141.220.55:9901/tsfile/live/0138_1.m3u8
+东南卫视,http://113.141.220.55:9901/tsfile/live/0137_1.m3u8
+兵团卫视,http://113.141.220.55:9901/tsfile/live/0115_1.m3u8
+陕西卫视,http://113.141.220.55:9901/tsfile/live/0136_2.m3u8
+CCTV1,http://47.108.228.131:12193/live_ywzh.php?id=1
+CCTV2,http://47.108.228.131:12193/live_ywzh.php?id=2
+CCTV3,http://47.108.228.131:12193/live_ywzh.php?id=3
+CCTV4,http://47.108.228.131:12193/live_ywzh.php?id=4
+CCTV5,http://47.108.228.131:12193/live_ywzh.php?id=5
+CCTV5+,http://47.108.228.131:12193/live_ywzh.php?id=6
+CCTV6,http://47.108.228.131:12193/live_ywzh.php?id=7
+CCTV7,http://47.108.228.131:12193/live_ywzh.php?id=8
+CCTV8,http://47.108.228.131:12193/live_ywzh.php?id=9
+CCTV9,http://47.108.228.131:12193/live_ywzh.php?id=10
+CCTV10,http://47.108.228.131:12193/live_ywzh.php?id=11
+CCTV11,http://47.108.228.131:12193/live_ywzh.php?id=12
+CCTV12,http://47.108.228.131:12193/live_ywzh.php?id=13
+CCTV13,http://47.108.228.131:12193/live_ywzh.php?id=14
+CCTV14,http://47.108.228.131:12193/live_ywzh.php?id=15
+CCTV15,http://47.108.228.131:12193/live_ywzh.php?id=16
+CCTV17,http://47.108.228.131:12193/live_ywzh.php?id=17
 CCTV1,http://houhx.com.cn:2097/608807420
 CCTV2,http://houhx.com.cn:2097/631780532
 CCTV3,http://houhx.com.cn:2097/624878271
@@ -835,6 +898,27 @@ CCTV14,webview://https://tv.cctv.com/live/cctvchild/?spm=C28340.POZbQEOQYmoL.Exi
 CCTV15,webview://https://tv.cctv.com/live/cctv15/?spm=C28340.PlzJnpThRAqb.ExidtyEJcS5K.27
 
 卫视频道,#genre#
+东方卫视,http://47.108.228.131:12193/live_ywzh.php?id=36
+江苏卫视,http://47.108.228.131:12193/live_ywzh.php?id=37
+广东卫视,http://47.108.228.131:12193/live_ywzh.php?id=38
+北京卫视,http://47.108.228.131:12193/live_ywzh.php?id=39
+辽宁卫视,http://47.108.228.131:12193/live_ywzh.php?id=40
+河北卫视,http://47.108.228.131:12193/live_ywzh.php?id=41
+江西卫视,http://47.108.228.131:12193/live_ywzh.php?id=42
+河南卫视,http://47.108.228.131:12193/live_ywzh.php?id=43
+陕西卫视,http://47.108.228.131:12193/live_ywzh.php?id=44
+大湾区卫视,http://47.108.228.131:12193/live_ywzh.php?id=45
+湖北卫视,http://47.108.228.131:12193/live_ywzh.php?id=46
+吉林卫视,http://47.108.228.131:12193/live_ywzh.php?id=47
+青海卫视,http://47.108.228.131:12193/live_ywzh.php?id=48
+东南卫视,http://47.108.228.131:12193/live_ywzh.php?id=49
+海南卫视,http://47.108.228.131:12193/live_ywzh.php?id=50
+海峡卫视,http://47.108.228.131:12193/live_ywzh.php?id=51
+中国农林卫视,http://47.108.228.131:12193/live_ywzh.php?id=52
+兵团卫视,http://47.108.228.131:12193/live_ywzh.php?id=53
+宁夏卫视,http://47.108.228.131:12193/live_ywzh.php?id=54
+重庆卫视,http://47.108.228.131:12193/live_ywzh.php?id=55
+三沙卫视,http://47.108.228.131:12193/live_ywzh.php?id=56
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 兵团卫视,http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
