@@ -18,7 +18,6 @@
 中国天气,http://hc8q.x3322.net:3000/959986621
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
-重温经典,http://183.129.255.66:8480/hls/50/index.m3u8
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://m.061899.xyz/mg/cwjd 
@@ -172,8 +171,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
-重庆卫视,http://old.20190319.xyz:18888/rtp/238.125.1.14:5140
-重庆卫视,http://old.20190319.xyz:18888/rtp/238.125.5.14:5140
+重庆卫视,http://61.185.200.171:9902/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://113.141.220.55:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
 重庆卫视,http://wddpmpc.sosos.run:4022/rtp/239.109.205.30:8168
@@ -212,6 +210,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://guoxue7.3322.org:57022/rtp/239.3.1.122:8160
 重庆卫视,http://tv.zhangzp.top:4022/udp/239.125.2.102:4130 
 重庆卫视,http://jw318.synology.me:888/rtp/239.49.1.42:6000
+重庆卫视,http://61.184.46.85:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://www.alihomes.top:8188/rtp/239.254.96.42:7320
 重庆卫视,http://iptv.zhangliang.cc:8012/udp/225.0.4.30:7980
@@ -223,9 +222,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://36.33.154.144:8000/hls/49/index.m3u8
 重庆卫视,http://36.35.109.8:8000/hls/32/index.m3u8
 重庆卫视,https://60.191.56.186:8888/hls/35/index.m3u8
+重庆卫视,http://old.20190319.xyz:18888/rtp/238.125.1.14:5140
 重庆卫视,http://118.122.144.115:8888/newlive/live/hls/26/live.m3u8
-重庆卫视,http://47.100.29.86:28888/shyd/cms001/ch00000090990000001129/index.m3u8
-重庆卫视,http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
 重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
