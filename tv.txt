@@ -34,9 +34,7 @@
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 
 东方财经,http://8.138.7.223/tv/5gtv.php?id=227
-东方财经,http://171.8.106.194:8800/rtp/239.16.10.235:2000
 东方财经,http://www.lwfz.fun:8800/rtp/239.16.10.235:2000
-东方财经,http://www.sjwyp.com:4022/rtp/239.254.201.181:7214
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
@@ -181,7 +179,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://47.102.141.212:1234/738910914
 重庆卫视,http://49.84.31.10:3566/738910914
 重庆卫视,http://43.143.113.19:1234/738910914
-重庆卫视,http://78962588856486165751857.iepose.cn/738910914
 重庆卫视,http://17752995.xyz:51111/738910914
 重庆卫视,http://139.155.89.87:1000/738910914
 重庆卫视,http://101.34.236.223:1112/738910914
@@ -255,7 +252,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://game.x3322.net:8899/rtp/225.0.4.192:7980
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
 重庆影视,http://106.80.125.179:7788/rtp/235.254.196.209:1108
-重庆影视,http://106.80.125.183:7788/rtp/235.254.196.209:1108
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://2.wyb.cq.cn:8181/rtp/235.254.196.208:1104
@@ -273,7 +269,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆文体娱乐,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
-重庆红岩文化,http://27.12.223.4:9000/rtp/225.0.4.196:7980
 重庆红岩文化,http://nas.iszbd.com:4022/udp/225.0.4.69:7980
 重庆红岩文化,http://pve.iszbd.com:4022/udp/225.0.4.69:7980
 重庆红岩文化,http://www.wpfhome.cn:5555/rtp/235.254.197.107:7980
@@ -288,7 +283,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆红叶,http://game.x3322.net:8899/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
-重庆社会与法,http://27.12.223.4:9000/rtp/225.0.4.190:7980
 重庆社会与法,http://nas.iszbd.com:4022/udp/225.0.4.64:7980
 重庆社会与法,http://pve.iszbd.com:4022/rtp/225.0.4.190:7980
 重庆社会与法,http://www.wpfhome.cn:5555/rtp/235.254.197.106:7980
@@ -296,7 +290,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆社会与法,http://game.x3322.net:8899/udp/225.0.4.64:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
-重庆新农村,http://27.12.223.4:9000/rtp/225.0.4.70:7980
 重庆新农村,http://www.wpfhome.cn:5555/rtp/235.254.197.109:7980
 重庆新农村,http://nas.iszbd.com:4022/udp/225.0.4.70:7980
 重庆新农村,http://pve.iszbd.com:4022/udp/225.0.4.70:7980
@@ -304,7 +297,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新农村,http://game.x3322.net:8899/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
-重庆少儿,http://27.12.223.4:9000/rtp/225.0.4.191:7980
 重庆少儿,http://www.wpfhome.cn:5555/rtp/235.254.197.110:7980
 重庆少儿,http://pve.iszbd.com:4022/udp/225.0.4.71:7980
 重庆少儿,http://nas.iszbd.com:4022/udp/225.0.4.71:7980
