@@ -182,6 +182,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
+重庆卫视,http://222.90.142.147:9999/hls/30/index.m3u8
 重庆卫视,http://sxhz20.00011.vip:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://198.204.228.26/live/cqwshd.m3u8
 重庆卫视,http://221.7.175.154:85/tsfile/live/0142_1.m3u8?key=txiptv
@@ -202,6 +203,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://hc8q.x3322.net:3000/738910914
 重庆卫视,http://w.yyjn.top:3000/738910914
 重庆卫视,http://zy.zxcm.top:3000/738910914
+重庆卫视,http://1.203.110.181:8852/rtp/225.1.8.172:8162
+重庆卫视,http://120.233.73.4:19901/tsfile/live/1038_1.m3u8?key=txiptv
 重庆卫视,http://221.232.198.5:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://1.69.114.40:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://120.253.150.222:60000/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -255,7 +258,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://17782331118.top:8188/rtp/235.254.196.209:1108
 重庆影视,http://dyzy.pub:8003/rtp/235.254.196.209:1108
 重庆影视,http://zqjzs.xicp.cn:7980/rtp/235.254.196.209:1108
-重庆影视,http://nas.iszbd.com:4022/rtp/225.0.4.62:7980
 重庆影视,http://pve.iszbd.com:4022/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8002/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8003/rtp/225.0.4.62:7980
@@ -280,11 +282,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆文体娱乐,http://www.wpfhome.cn:5555/rtp/235.254.197.108:7980
 重庆文体娱乐,http://58.17.134.3:8003/udp/225.0.4.65:7980
 重庆文体娱乐,http://pve.iszbd.com:4022/udp/225.0.4.65:7980
-重庆文体娱乐,http://nas.iszbd.com:4022/udp/225.0.4.65:7980
 重庆文体娱乐,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
-重庆红岩文化,http://nas.iszbd.com:4022/udp/225.0.4.69:7980
 重庆红岩文化,http://pve.iszbd.com:4022/udp/225.0.4.69:7980
 重庆红岩文化,http://www.wpfhome.cn:5555/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8003/udp/225.0.4.69:7980
@@ -292,13 +292,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
 重庆红叶,http://www.wpfhome.cn:5555/rtp/235.254.197.111:7980
-重庆红叶,http://nas.iszbd.com:4022/udp/225.0.4.63:7980
 重庆红叶,http://pve.iszbd.com:4022/udp/225.0.4.63:7980
 重庆红叶,http://58.17.134.3:8003/udp/225.0.4.63:7980
 重庆红叶,http://game.x3322.net:8899/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
-重庆社会与法,http://nas.iszbd.com:4022/udp/225.0.4.64:7980
 重庆社会与法,http://pve.iszbd.com:4022/rtp/225.0.4.190:7980
 重庆社会与法,http://www.wpfhome.cn:5555/rtp/235.254.197.106:7980
 重庆社会与法,http://58.17.134.3:8003/udp/225.0.4.64:7980
@@ -306,7 +304,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
 重庆新农村,http://www.wpfhome.cn:5555/rtp/235.254.197.109:7980
-重庆新农村,http://nas.iszbd.com:4022/udp/225.0.4.70:7980
 重庆新农村,http://pve.iszbd.com:4022/udp/225.0.4.70:7980
 重庆新农村,http://58.17.134.3:8003/udp/225.0.4.70:7980
 重庆新农村,http://game.x3322.net:8899/udp/225.0.4.70:7980
@@ -314,7 +311,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆少儿,http://www.wpfhome.cn:5555/rtp/235.254.197.110:7980
 重庆少儿,http://pve.iszbd.com:4022/udp/225.0.4.71:7980
-重庆少儿,http://nas.iszbd.com:4022/udp/225.0.4.71:7980
 重庆少儿,http://58.17.134.3:8003/udp/225.0.4.71:7980
 重庆少儿,http://game.x3322.net:8899/udp/225.0.4.71:7980
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
@@ -322,7 +318,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
 重庆汽摩,http://58.17.134.3:8003/udp/225.0.4.61:7980
 重庆汽摩,http://pve.iszbd.com:4022/udp/225.0.4.61:7980
-重庆汽摩,http://nas.iszbd.com:4022/udp/225.0.4.61:7980
 重庆汽摩,http://www.wpfhome.cn:5555/rtp/235.254.197.117:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
