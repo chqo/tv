@@ -187,18 +187,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆频道,#genre#
-重庆卫视,http://221.7.175.154:85/tsfile/live/0142_1.m3u8?key=txiptv
-重庆卫视,http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv
-重庆卫视,http://120.233.73.4:19901/tsfile/live/1038_1.m3u8?key=txiptv
-重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
-重庆卫视,http://wddpmpc.sosos.run:4022/rtp/239.109.205.30:8168
-重庆卫视,http://49.68.239.148:1234/738910914
+重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://60.168.105.220:5008/738910914
 重庆卫视,http://124.134.222.104:1234/738910914
 重庆卫视,http://124.77.202.8:49155/738910914
 重庆卫视,http://139.155.89.87:1000/738910914
 重庆卫视,http://8.153.110.51:3020/738910914
 重庆卫视,http://zy.zxcm.top:3000/738910914
+重庆卫视,http://49.68.239.148:1234/738910914
 重庆卫视,http://1.203.110.181:8852/rtp/225.1.8.172:8162
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
@@ -211,7 +207,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://125.43.252.187:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://61.178.227.57:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.203:6323
-重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+重庆卫视,http://221.7.175.154:85/tsfile/live/0142_1.m3u8?key=txiptv
+重庆卫视,http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv
+重庆卫视,http://120.233.73.4:19901/tsfile/live/1038_1.m3u8?key=txiptv
+重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
+重庆卫视,http://wddpmpc.sosos.run:4022/rtp/239.109.205.30:8168
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
 重庆卫视,http://124.116.170.138:8081/rtp/239.109.205.30:8168
@@ -252,7 +252,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 
-重庆影视,http://220.192.2.223:8009/rtp/225.0.4.62:7980
 重庆影视,http://113.251.94.140:7088/rtp/235.254.196.209:1108
 重庆影视,http://www.smilehome.top:4022/rtp/225.0.4.62:7980
 重庆影视,http://17782331118.top:8188/rtp/235.254.198.180:7980
