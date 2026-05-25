@@ -110,8 +110,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 凤凰中文,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229422/110077577.smil
 凤凰资讯,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229423/110077527.smil
-凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key-txiptv
-凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key-txiptv
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,http://xmzj.f3322.net:8188/rtp/239.94.2.51:5140
 凤凰中文,http://www.893224162.xyz:8188/rtp/239.94.2.51:5140
@@ -130,6 +128,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://124.116.170.138:8081/rtp/239.111.205.78:5140
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key-txiptv
+凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key-txiptv
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8
 凤凰资讯,http://218.206.193.218:8888/hls/109/index.m3u8
@@ -250,6 +250,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://dyzy.pub:8003/rtp/235.254.196.209:1108
 重庆影视,http://zqjzs.xicp.cn:7980/rtp/235.254.196.209:1108
 重庆影视,http://pve.iszbd.com:4022/rtp/225.0.4.62:7980
+重庆影视,http://nas.iszbd.com:4022/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8002/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8004/rtp/225.0.4.62:7980
 重庆影视,http://2.wyb.cq.cn:8181/rtp/235.254.196.209:1108
@@ -951,6 +952,28 @@ CCTV1,http://ltccq.cqa.bcs.ottcn.com/000000001777/400000000100111062/1.m3u8
 精品体育,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111074/1.m3u8
 精品大剧,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111066/1.m3u8
 精品大剧,http://ltccq.cqa.bcs.ottcn.com/000000001777/400000000100111014/1.m3u8
+重庆卫视,http://
+[2409:8087:6000:20:0:2:2:45]/wh7f454c46tw527800603_1141450746/000000001777/400000000100111013/1.m3u8?IASHttpSessionld=OTT&icpid=4&RTS=1779693241&from=2&hms_devid=5203&online=1779693241&vge=3
+重庆卫视,http://
+[2409:8087:6000:24:0:1:2:2b]/wh7f454c46tw681526542_-1602845132/000000001666/100000000100111017/1.m3u8?IASHttpSessionld=OTT&icpid=4&RTS=1779693395&from=2&hms_devid=6463&online=1779693395&vge=3
+重庆影视剧,http://
+[2409:8087:6000:24:0:1:2:28]/wh7f454c46tw826700874_-1267543712/000000001666/100000000100111108/1.m3u8?IASHttpSessionld=OTT&icpid=4&RTS=1779693540&from=2&hms_devid=6403&online=1779693540&vge=3
+重庆文体娱乐,http://
+[2409:8087:6001:20:0:2:2:38]/wh7f454c46tw1613290595_-691534722/000000001777/400000000100111018/1.m3u8?IASHttpSessionld=OTT&icpid=4&RTS=1779694326&from=2&hms_devid=4223&online=1779694326&vae=3
+重庆社会与法,http://
+[2409:8087:6001:24:0:1:2:e]/wh7f454c46tw1305870535_1697836880/000000001777/400000000100111016/1.m3u8?IASHttpSessionld=OTT&icpid=4&RTS=1779694019&from=2&hms_devid=5423&online=1779694019&vae=3
+重庆新闻,http://
+[2409:8087:6000:24:0:1:2:9]/wh7f454c46tw1410105458_-1215197039/000000001777/400000000100111014/1.m3u8?IASHttpSessionld=OTT&icpid=4&RTS=1779694123&from=2&hms_devid=6303&online=1779694123&vge=3
+CQTV红叶,http://
+[2409:8087:6000:20:0:2:2:3e]/wh7f454c46tw1495420398_-1276078715/000000001777/400000000100111021/1.m3u8?IASHttpSessionld=OTT&icpid=4&RTS=1779694208&from=2&hms_devid=3563&online=17796942088vge=3
+重庆红岩文化,http://
+[2409:8087:6001:24:0:1:2:23]/wh7f454c46tw1864235441_1406562265/000000001777/400000000100111017/1.m3u8?IASHttpSessionld=OTT&icpid=4&RTS=1779694577&from=2&hms_devid=5703&online=1779694577&vge=3
+重庆新农村,http://
+[2409:8087:6000:20:0:2:2:4c]/wh7f454c46tw1836780305_402637562/000000001777/400000000100111019/1.m3u8?IASHttpSessionld=OTT&icpid=4&RTS=1779694550&from=2&hms_devid=4503&online=1779694550&vae=3
+重庆少儿,http://
+[2409:8087:6001:24:0:1:2:41]/wh7f454c46tw1804490263_-1315662066/000000001777/400000000100111020/1.m3u8?IASHttpSessionld=OTT&icpid=4&RTS=1779694518&from=2&hms_devid=5943&online=1779694518&vae=3
+重庆汽摩,http://
+[2409:8087:6001:24:0:1:2:49]/wh7f454c46tw2262960539_-2109917292/000000001777/400000000100111022/1.m3u8?IASHttpSessionld=OTT&icpid=4&RTS=1779694976&from=2&hms_devid=6003&online=17锐 79694976&vge=3
 广东卫视,http://111.29.9.33:6610/000000001000/1000000001000014176/index.m3u8?channel-id=bestzb&Contentid=1000000001000014176&livemode=1&stbId=3
 湖南卫视,http://111.29.9.33:6610/000000001000/1000000001000009115/index.m3u8?channel-id=bestzb&Contentid=1000000001000009115&livemode=1&stbId=3
 浙江卫视,http://111.29.9.33:6610/000000001000/1000000001000009806/index.m3u8?channel-id=bestzb&Contentid=1000000001000009806&livemode=1&stbId=3
