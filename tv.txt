@@ -183,19 +183,17 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229061/10000100000000060000000004835834_0.smil
 重庆卫视,http://49.81.54.134:12345/738910914
 重庆卫视,http://60.168.105.220:5008/738910914
+重庆卫视,http://66.212.21.179:1234/738910914
 重庆卫视,http://124.134.222.104:1234/738910914
 重庆卫视,http://124.77.202.8:49155/738910914
 重庆卫视,http://139.155.89.87:1000/738910914
 重庆卫视,http://8.153.110.51:3020/738910914
 重庆卫视,http://zy.zxcm.top:3000/738910914
 重庆卫视,http://49.68.239.148:1234/738910914
-重庆卫视,http://1.203.110.181:8852/rtp/225.1.8.172:8162
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 重庆卫视,http://198.204.228.26/live/cqwshd.m3u8
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
-重庆卫视,http://221.232.198.5:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://1.69.114.40:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://120.253.150.222:60000/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://222.214.208.34:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://125.43.252.187:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -208,7 +206,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://wddpmpc.sosos.run:4022/rtp/239.109.205.30:8168
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
-重庆卫视,http://124.116.170.138:8081/rtp/239.109.205.30:8168
 重庆卫视,http://tv.zhangzp.top:4022/udp/239.125.2.102:4130 
 重庆卫视,http://39.106.167.36:52666/fjbst.php?id=195
 重庆卫视,http://hxwangcong.x3322.net:26000/rtp/239.109.205.30:8168
@@ -246,7 +243,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
 
-重庆影视,http://113.251.94.140:7088/rtp/235.254.196.209:1108
+重庆影视,http://113.248.219.51:18888/rtp/235.254.196.209:1108
 重庆影视,http://www.smilehome.top:4022/rtp/225.0.4.62:7980
 重庆影视,http://17782331118.top:8188/rtp/235.254.198.180:7980
 重庆影视,http://17782331118.top:8188/rtp/235.254.196.209:1108
@@ -255,9 +252,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://pve.iszbd.com:4022/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8002/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8004/rtp/225.0.4.62:7980
-重庆影视,http://125.86.26.68:8003/rtp/235.254.196.209:1108
-重庆影视,http://www.wpfhome.cn:5555/rtp/235.254.197.105:7980
-重庆影视,http://www.wpfhome.cn:5555/rtp/235.254.196.209:1108
 重庆影视,http://2.wyb.cq.cn:8181/rtp/235.254.196.209:1108
 重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
 重庆影视,http://game.x3322.net:8899/rtp/225.0.4.192:7980
@@ -273,7 +267,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆文体娱乐,http://www.wpfhome.cn:5555/rtp/235.254.197.108:7980
+重庆文体娱乐,http://2.wyb.cq.cn:8181/rtp/235.254.197.108:7980
 重庆文体娱乐,http://17782331118.top:8188/rtp/235.254.197.108:7980
 重庆文体娱乐,http://58.17.134.3:8002/udp/225.0.4.65:7980
 重庆文体娱乐,http://pve.iszbd.com:4022/udp/225.0.4.65:7980
@@ -281,13 +275,13 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
 重庆红岩文化,http://pve.iszbd.com:4022/udp/225.0.4.69:7980
-重庆红岩文化,http://www.wpfhome.cn:5555/rtp/235.254.197.107:7980
+重庆红岩文化,http://2.wyb.cq.cn:8181/rtp/235.254.197.107:7980
 重庆红岩文化,http://17782331118.top:8188/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8002/udp/225.0.4.69:7980
 重庆红岩文化,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
-重庆红叶,http://www.wpfhome.cn:5555/rtp/235.254.197.111:7980
+重庆红叶,http://2.wyb.cq.cn:8181/rtp/235.254.197.111:7980
 重庆红叶,http://pve.iszbd.com:4022/udp/225.0.4.63:7980
 重庆红叶,http://17782331118.top:8188/rtp/235.254.197.111:7980
 重庆红叶,http://58.17.134.3:8002/udp/225.0.4.63:7980
@@ -296,19 +290,19 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆社会与法,http://pve.iszbd.com:4022/rtp/225.0.4.190:7980
 重庆社会与法,http://17782331118.top:8188/rtp/235.254.197.106:7980
-重庆社会与法,http://www.wpfhome.cn:5555/rtp/235.254.197.106:7980
+重庆社会与法,http://2.wyb.cq.cn:8181/rtp/235.254.197.106:7980
 重庆社会与法,http://58.17.134.3:8002/udp/225.0.4.64:7980
 重庆社会与法,http://game.x3322.net:8899/udp/225.0.4.64:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
-重庆新农村,http://www.wpfhome.cn:5555/rtp/235.254.197.109:7980
+重庆新农村,http://2.wyb.cq.cn:8181/rtp/235.254.197.109:7980
 重庆新农村,http://pve.iszbd.com:4022/udp/225.0.4.70:7980
 重庆新农村,http://17782331118.top:8188/rtp/235.254.197.109:7980
 重庆新农村,http://58.17.134.3:8002/udp/225.0.4.70:7980
 重庆新农村,http://game.x3322.net:8899/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
-重庆少儿,http://www.wpfhome.cn:5555/rtp/235.254.197.110:7980
+重庆少儿,http://2.wyb.cq.cn:8181/rtp/235.254.197.110:7980
 重庆少儿,http://pve.iszbd.com:4022/udp/225.0.4.71:7980
 重庆少儿,http://17782331118.top:8188/rtp/235.254.197.110:7980
 重庆少儿,http://58.17.134.3:8002/udp/225.0.4.71:7980
@@ -319,7 +313,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://58.17.134.3:8002/udp/225.0.4.61:7980
 重庆汽摩,http://17782331118.top:8188/rtp/235.254.197.117:7980
 重庆汽摩,http://pve.iszbd.com:4022/udp/225.0.4.61:7980
-重庆汽摩,http://www.wpfhome.cn:5555/rtp/235.254.197.117:7980
+重庆汽摩,http://2.wyb.cq.cn:8181/rtp/235.254.197.117:7980
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
@@ -1399,38 +1393,11 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/110
 
 少儿频道,#genre#
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=f6f34f478523a4a98d075253b716da80&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=b995c77c74609af63686e0fc4b5688c4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=e3c5e2aec1f1cf295a1323602a0ed8dd&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=f069028f0dff385fda42852ff102b4b9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=9790024c634b5633ec893d56dad34a74&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=075590d5ea37c60bf4e538a074cd094d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=04894ea6b243c57dfbb535da040373c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-卡酷少儿,https://live.264788.xyz/channel/kakushaoer?streamid=213fa3c42c397943bc8305af3f5025e7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=790415358c6e852c799a2352d86cd719&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=e103b40dd8fffaa99fd552f76e03ee0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=6bd8e7571b60048f177f05de68f25f68&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=7ef6d435b0f2d9b2c0873eb1b403436f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=d742f1e8432ab3ccc91e53b4c712de12&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-金鹰卡通,https://live.264788.xyz/channel/jinyingkatong?streamid=df19588f986fb1a623be21b3582008fe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=6100bab85a3b9605a4f901169bd71a71&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=94a24c95f2c7dadd327e0e79d7876e07&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=9e1a0076f34fffba73e294c40d74a445&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=c55a3d1bf2300814cb8fafabd059fb47&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-哈哈炫动,https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=00b33f4a088fcdd22c70c34804e14af9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=2e19573c33e64f4445953b1dbf438af0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=a446df3c67205baa441dcecf71b59b08&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-嘉佳卡通,https://live.264788.xyz/channel/jiajiakatong?streamid=31e624f674607f4735a58b4c46996a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-优漫卡通,https://live.264788.xyz/channel/youmankatong?streamid=33925d2dac220a3337be0f8302f6f290&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-优漫卡通,https://live.264788.xyz/channel/youmankatong?streamid=206ebfa84b6cb4c35bec09920b86f4bf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-重庆少儿,http://27.12.223.4:9000/rtp/225.0.4.191:7980
 重庆少儿,http://www.wpfhome.cn:5555/rtp/235.254.197.110:7980
 重庆少儿,http://58.17.134.3:8003/udp/225.0.4.71:7980
-重庆少儿,http://iptv.zhangliang.cc:8012/rtp/225.0.4.71:7980
 重庆少儿,http://game.x3322.net:8899/udp/225.0.4.71:7980
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
+海南少儿,http://66.212.21.179:1234/962067523
 CCTV14少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 CCTV14少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1472,6 +1439,7 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 优漫卡通,http://xiaoya.ayemovie.top:5555/rtp/232.0.0.182:9182
 优漫卡通,http://124.162.255.1:5400/626064703
 优漫卡通,http://58.60.62.202:1234/626064703
+优漫卡通,http://66.212.21.179:1234/626064703
 优漫卡通,http://39.107.237.139:1234/626064703
 优漫卡通,http://dodge.lwfz.fun:8800/rtp/239.16.10.44:2000
 优漫卡通,http://dodge.lwfz.fun:8800/rtp/239.16.20.103:11030
@@ -1490,6 +1458,7 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 卡酷少儿,http://www.stoneshi1984.ren:58120/rtp/239.112.205.138:5140
 卡酷少儿,http://dodge.lwfz.fun:8800/rtp/239.16.20.105:11050
 嘉佳卡通,http://www.374671.xyz:1234/614952364
+嘉佳卡通,http://66.212.21.179:1234/614952364
 嘉佳卡通,http://123.56.166.4:3030/614952364
 嘉佳卡通,http://8.138.148.11:3000/614952364
 嘉佳卡通,http://124.162.255.1:5400/614952364
