@@ -90,7 +90,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 快乐垂钓,http://183.214.23.27:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 
-四海钓鱼,http://47.108.228.131:12193/live_ywzh.php?id=31
 四海钓鱼,http://w.yyjn.top:3000/637444975#http://zy.zxcm.top:3000/637444975#http://43.248.117.152:3000/637444975#http://hc8q.x3322.net:3000/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
 
 香港频道,#genre#
@@ -171,7 +170,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://129.211.14.102:25000/cqws.m3u8
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
-重庆卫视,http://49.81.54.134:12345/738910914
+重庆卫视,http://222.220.92.110:7788/738910914
+重庆卫视,http://w.yyjn.top:3000/738910914
+重庆卫视,http://111.230.72.38:1234/738910914
 重庆卫视,http://47.102.141.212:1234/738910914
 重庆卫视,http://60.160.233.210:7788/738910914
 重庆卫视,http://124.77.202.8:49155/738910914
