@@ -1,5 +1,5 @@
 九洲饭店,#genre#
-饭店简介,http://tebauhmp9.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/饭店.mp4
+饭店简介,https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
 生态环境,http://jyb7928.host:8066/rtp/239.1.1.110:8110
@@ -99,10 +99,17 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://www.hkstv.tv/live
 香港卫视,video://https://hkstv.tv/live
 
+凤凰中文,http://219.144.114.148:8686/rtp/239.111.205.78:5140
+凤凰中文,http://219.145.145.219:4022/rtp/239.111.205.78:5140
+凤凰资讯,http://219.145.145.219:4022/rtp/239.111.205.82:5140
 凤凰中文,http://1.82.70.66:8008/rtp/239.111.205.78:5140
 凤凰资讯,http://1.82.70.66:8008/rtp/239.111.205.82:5140
-凤凰中文,http://ddns.xryo.cn:8888/rtp/239.111.205.78:5140
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
 凤凰中文,http://xmzj.f3322.net:8188/rtp/239.94.2.51:5140
 凤凰中文,http://www.893224162.xyz:8188/rtp/239.94.2.51:5140
 凤凰资讯,http://www.893224162.xyz:8188/rtp/239.94.2.49:5140
@@ -115,9 +122,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://hxwangcong.x3322.net:26000/rtp/239.111.205.78:5140
 凤凰资讯,http://hxwangcong.x3322.net:26000/rtp/239.111.205.82:5140
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰中文,http://47.100.29.86:21345/qilin5.php?id=fhzw
 凤凰资讯,http://47.100.29.86:21345/qilin5.php?id=fhzx
 凤凰香港,http://47.100.29.86:21345/qilin5.php?id=fhxg
-凤凰中文,http://124.116.170.138:8081/rtp/239.111.205.78:5140
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key-txiptv
@@ -131,20 +138,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
-无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
-凤凰香港,http://kaniptv.com/xz/xz_f09181ac93/wwkds.php?id=fhhk
-无线新闻,http://kaniptv.com/xz/xz_f09181ac93/wwkds.php?id=tvbwxxw
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8
-凤凰中文,http://wddpmpc.sosos.run:4022/rtp/239.111.205.78:5140
-凤凰资讯,http://wddpmpc.sosos.run:4022/rtp/239.111.205.82:5140
 无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
 无线翡翠,https://test.tvbjack.de5.net/proxy/618596f922e35e67
 翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -193,7 +190,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv
 重庆卫视,http://120.233.73.4:19901/tsfile/live/1038_1.m3u8?key=txiptv
 重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
-重庆卫视,http://wddpmpc.sosos.run:4022/rtp/239.109.205.30:8168
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
 重庆卫视,http://tv.zhangzp.top:4022/udp/239.125.2.102:4130 
