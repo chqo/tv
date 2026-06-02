@@ -36,6 +36,9 @@
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
+CHC影迷电影,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CHC动作电影,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CHC家庭影院,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CHC家庭,https://cdn13.178.indevs.in/163189/adafdc2e9ef83fe0
 CHC动作,https://cdn13.178.indevs.in/163189/32a810b251717bd0
 CHC影迷电影,http://8.153.110.51:3020/952383261
@@ -99,7 +102,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://www.hkstv.tv/live
 香港卫视,video://https://hkstv.tv/live
 
-凤凰中文,http://222.90.22.2:9999/rtp/239.111.205.78:5140
+凤凰中文,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+凤凰资讯,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 凤凰中文,http://1.82.70.66:8008/rtp/239.111.205.78:5140
 凤凰资讯,http://1.82.70.66:8008/rtp/239.111.205.82:5140
 凤凰中文,http://171.83.99.65:9999/rtp/239.69.2.20:11274
@@ -236,7 +240,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531
-         
+重庆卫视,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8 
+        
 重庆影视,http://27-10-76-196-ad54c88b.bvmlt.top:8008/rtp/225.0.4.62:7980
 重庆影视,http://17782331118.top:8188/rtp/235.254.198.180:7980
 重庆影视,http://17782331118.top:8188/rtp/235.254.196.209:1108
@@ -254,9 +259,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
 重庆影视,http://game.x3322.net:8899/rtp/225.0.4.192:7980
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
+重庆影视,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
-重庆新闻,http://2.wyb.cq.cn:8181/rtp/235.254.196.208:1104
+重庆新闻,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
 重庆新闻,http://zqjzs.xicp.cn:7980/rtp/235.254.196.208:1104
 重庆新闻,http://www.wpfhome.cn:5555/rtp/235.254.196.208:1104
 重庆新闻,http://58.17.134.3:8002/rtp/225.0.4.59:7980
@@ -269,6 +275,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆文体娱乐,http://58.17.134.3:8002/udp/225.0.4.65:7980
 重庆文体娱乐,http://pve.iszbd.com:4022/udp/225.0.4.65:7980
 重庆文体娱乐,http://game.x3322.net:8899/udp/225.0.4.194:7980
+重庆文体娱乐,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
 重庆红岩文化,http://27-10-76-196-ad54c88b.bvmlt.top:8008/rtp/225.0.4.196:7980
@@ -278,7 +285,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆红岩文化,http://58.17.134.3:8002/udp/225.0.4.69:7980
 重庆红岩文化,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
+重庆红岩文化,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
 
+重庆红叶,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
 重庆红叶,http://27-10-76-196-ad54c88b.bvmlt.top:8008/rtp/225.0.4.193:7980
 重庆红叶,http://pve.iszbd.com:4022/udp/225.0.4.63:7980
 重庆红叶,http://17782331118.top:8188/rtp/235.254.197.111:7980
@@ -292,6 +301,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆社会与法,http://58.17.134.3:8002/udp/225.0.4.64:7980
 重庆社会与法,http://game.x3322.net:8899/udp/225.0.4.64:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
+重庆社会与法,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
 
 重庆新农村,http://27-10-76-196-ad54c88b.bvmlt.top:8008/rtp/225.0.4.189:7980
 重庆新农村,http://2.wyb.cq.cn:8181/rtp/235.254.197.109:7980
@@ -300,6 +310,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新农村,http://58.17.134.3:8002/udp/225.0.4.70:7980
 重庆新农村,http://game.x3322.net:8899/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
+重庆新农村,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
 
 重庆少儿,http://27-10-76-196-ad54c88b.bvmlt.top:8008/rtp/225.0.4.191:7980
 重庆少儿,http://pve.iszbd.com:4022/udp/225.0.4.71:7980
@@ -307,14 +318,71 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆少儿,http://58.17.134.3:8002/udp/225.0.4.71:7980
 重庆少儿,http://game.x3322.net:8899/udp/225.0.4.71:7980
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
+重庆少儿,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
 
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
 重庆汽摩,http://58.17.134.3:8002/udp/225.0.4.61:7980
 重庆汽摩,http://17782331118.top:8188/rtp/235.254.197.117:7980
 重庆汽摩,http://pve.iszbd.com:4022/udp/225.0.4.61:7980
+重庆汽摩,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cqcarSD/__op/default/__f/index.m3u8
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
+CCTV1,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV2,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV3,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV4,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV5,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV5+,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV6,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV7,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV8,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV9,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV10,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV11,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV12,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV13,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV14,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV15,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV16,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV16-4k,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+CCTV17,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+北京卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+东方卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+天津卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+重庆卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+黑龙江卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+吉林卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+辽宁卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+内蒙古卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/nmgws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+甘肃卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/gsws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+青海卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/qhwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+陕西卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/sxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+山西卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/sxws42_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+山东卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+安徽卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+河南卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/hnws35_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+湖北卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+湖南卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+江西卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+江苏卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+浙江卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+东南卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+广东卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+深圳卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+广西卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/gxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+云南卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/ynws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+贵州卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+四川卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+康巴卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/kbwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+新疆卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/xjws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+兵团卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/btws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+西藏卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+海南卫视,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/hnws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+卡酷少儿,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/kkkt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+金鹰卡通,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/jykt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+嘉佳卡通,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/jjkt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+成都少儿,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/CDTV-6_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CCTV1,http://129.211.14.102:25000/cctv1.m3u8
 CCTV2,http://129.211.14.102:25000/cctv2.m3u8
 CCTV3,http://129.211.14.102:25000/cctv3.m3u8
