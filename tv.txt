@@ -255,8 +255,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8 
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
-    
+
+重庆影视,http://125.86.19.131:8003/rtp/235.254.198.180:7980    
 重庆影视,http://msen.site:8000/rtp/235.254.198.180:7980
+重庆影视,http://msen.site:8000/rtp/235.254.196.209:1108
 重庆影视,http://222.182.121.3:60/rtp/235.254.198.180:7980
 重庆影视,http://17782331118.top:8188/rtp/235.254.198.180:7980
 重庆影视,http://17782331118.top:8188/rtp/235.254.196.209:1108
@@ -267,8 +269,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://pve.iszbd.com:4022/rtp/225.0.4.62:7980
 重庆影视,http://nas.iszbd.com:4022/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8002/udp/225.0.4.62:7980
-重庆影视,http://58.17.134.3:8004/rtp/225.0.4.62:7980
-重庆影视,http://msen.site:8000/rtp/235.254.196.209:1108
+重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 重庆影视,http://hook.msen.site:8000/rtp/235.254.196.209:1108
 重庆影视,http://www.wpfhome.cn:5555/rtp/235.254.196.209:1108
 重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
@@ -285,6 +286,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
+重庆文体娱乐,http://125.86.19.131:8003/rtp/235.254.198.187:7980
+重庆文体娱乐,http://www.msen.site:8000/rtp/235.254.198.187:7980
 重庆文体娱乐,http://17782331118.top:8188/rtp/235.254.197.108:7980
 重庆文体娱乐,http://58.17.134.3:8002/udp/225.0.4.65:7980
 重庆文体娱乐,http://pve.iszbd.com:4022/udp/225.0.4.65:7980
@@ -293,8 +296,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆文体娱乐,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
+重庆红岩文化,http://125.86.19.131:8003/rtp/235.254.198.182:7980
+重庆红岩文化,http://www.msen.site:8000/rtp/235.254.198.182:7980
+重庆红岩文化,http://www.wpfhome.cn:5555/rtp/235.254.198.182:7980
 重庆红岩文化,http://pve.iszbd.com:4022/udp/225.0.4.69:7980
-重庆红岩文化,http://2.wyb.cq.cn:8181/rtp/235.254.197.107:7980
 重庆红岩文化,http://17782331118.top:8188/rtp/235.254.197.107:7980
 重庆红岩文化,http://58.17.134.3:8002/udp/225.0.4.69:7980
 重庆红岩文化,http://game.x3322.net:8899/udp/225.0.4.194:7980
@@ -302,12 +307,17 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆红岩文化,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
 
 重庆红叶,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
+重庆红叶,http://125.86.19.131:8003/rtp/235.254.197.111:7980
+重庆红叶,http://www.msen.site:8000/rtp/235.254.197.111:7980
+重庆红叶,http://www.wpfhome.cn:5555/rtp/235.254.197.111:7980
 重庆红叶,http://pve.iszbd.com:4022/udp/225.0.4.63:7980
 重庆红叶,http://17782331118.top:8188/rtp/235.254.197.111:7980
 重庆红叶,http://58.17.134.3:8002/udp/225.0.4.63:7980
 重庆红叶,http://game.x3322.net:8899/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
+重庆社会与法,http://125.86.19.131:8003/rtp/235.254.198.181:7980
+重庆社会与法,http://www.msen.site:8000/rtp/235.254.198.181:7980
 重庆社会与法,http://pve.iszbd.com:4022/rtp/225.0.4.190:7980
 重庆社会与法,http://17782331118.top:8188/rtp/235.254.197.106:7980
 重庆社会与法,http://58.17.134.3:8002/udp/225.0.4.64:7980
@@ -316,7 +326,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 重庆社会与法,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
 
-重庆新农村,http://2.wyb.cq.cn:8181/rtp/235.254.197.109:7980
+重庆新农村,http://125.86.19.131:8003/rtp/235.254.198.186:7980
+重庆新农村,http://www.msen.site:8000/rtp/235.254.198.186:7980
 重庆新农村,http://pve.iszbd.com:4022/udp/225.0.4.70:7980
 重庆新农村,http://17782331118.top:8188/rtp/235.254.197.109:7980
 重庆新农村,http://58.17.134.3:8002/udp/225.0.4.70:7980
