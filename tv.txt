@@ -2,7 +2,7 @@
 饭店简介,https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
-生态环境,http://60.223.78.101:7000/rtp/226.0.2.120:8872
+生态环境,http://183.189.7.126:8888/rtp/226.0.2.120:8872
 生态环境,http://flyriven.synology.me:8001/rtp/226.0.2.120:8872
 生态环境,http://jyb7928.host:8066/rtp/239.1.1.110:8110
 生态环境,http://nas.linktou.top:6001/rtp/226.0.2.120:8872
@@ -123,9 +123,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰香港,http://47.100.29.86:21345/qilin5.php?id=fhxg
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8
 凤凰中文,http://yaching.xmtcenter.com:9999/rtp/239.254.201.2:5226$河北电信
-凤凰中文,http://dsm4.xlangnan.cn:8189/rtp/239.254.201.2:5226$河北电信
+凤凰中文,http://prozyt.top:4022/rtp/239.254.201.2:5226$河北电信
+凤凰中文,http://share.xlangnan.cn:8189/rtp/239.254.201.2:5226$河北电信
 凤凰中文,http://960207.xyz:8188/rtp/239.254.201.2:5226$河北电信
 凤凰资讯,http://960207.xyz:8188/rtp/239.254.201.3:5227$河北电信
+凤凰中文,http://www.998878.xyz:5050/rtp/239.94.2.52:5140$四川电信
 凤凰中文,http://www.893224162.xyz:8188/udp/239.94.2.52:5140$四川电信
 凤凰资讯,http://www.893224162.xyz:8188/rtp/239.94.2.49:5140$四川电信
 凤凰中文,http://xmzj.f3322.net:8188/rtp/239.94.2.51:5140$四川电信
@@ -137,16 +139,13 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.36:5140$浙江联通
 凤凰中文,http://220.190.54.26:8188/udp/233.50.200.191:5140$浙江电信
 凤凰资讯,http://220.190.54.26:8188/udp/233.50.200.192:5140$浙江电信
+凤凰中文,http://e1.woc.iiiya.cn:18888/rtp/239.61.2.184:9092$福建电信
 凤凰中文,http://woc.iiiya.cn:18888/rtp/239.61.2.184:9092$福建电信
 凤凰资讯,http://woc.iiiya.cn:18888/rtp/239.61.2.183:9086$福建电信
 凤凰中文,http://sanrenxing.ddns.net:7878/udp/239.76.253.134:9000$湖南电信
 凤凰资讯,http://sanrenxing.ddns.net:7878/udp/239.76.253.135:9000$湖南电信
 凤凰卫视,http://jyb7928.host:8066/udp/239.1.1.126:8126$山西电信
 凤凰资讯,http://jyb7928.host:8066/udp/239.1.1.127:8127$山西电信
-凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
-凤凰中文,http://118.180.142.247:65535/udp/239.255.30.50:8231$甘肃电信
-凤凰资讯,http://118.180.142.247:65535/udp/239.255.30.70:8231$甘肃电信
-凤凰香港,http://118.180.142.247:65535/udp/239.255.30.123:8231$甘肃电信
 凤凰中文,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 凤凰资讯,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key-txiptv
@@ -269,7 +268,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8 
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
-重庆影视,http://125.86.19.131:8003/rtp/235.254.198.180:7980    
 重庆影视,http://msen.site:8000/rtp/235.254.198.180:7980
 重庆影视,http://msen.site:8000/rtp/235.254.196.209:1108
 重庆影视,http://222.182.121.3:60/rtp/235.254.198.180:7980
