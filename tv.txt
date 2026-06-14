@@ -2,7 +2,6 @@
 饭店简介,https://d.kstore.dev/download/10141/饭店.mp4
 
 特色频道,#genre#
-生态环境,http://183.189.7.126:8888/rtp/226.0.2.120:8872
 生态环境,http://flyriven.synology.me:8001/rtp/226.0.2.120:8872
 生态环境,http://jyb7928.host:8066/rtp/239.1.1.110:8110
 生态环境,http://nas.linktou.top:6001/rtp/226.0.2.120:8872
@@ -14,6 +13,8 @@
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 重温经典,http://129.211.14.102:25000/cwjd.m3u8
+重温经典,http://api.kkhk.itv888.vip:8080/streams/50f74c763e0/index.m3u8
+重温经典,http://api.kkhk.itv888.vip:8080/streams/214856d804c/index.m3u8
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://m.061899.xyz/mg/cwjd 
@@ -37,6 +38,9 @@
 东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
+CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
+CHC动作电影,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8
+CHC影迷电影,http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
 CHC影迷电影,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CHC动作电影,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CHC家庭影院,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
@@ -113,6 +117,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://www.gaolao.top:8008/rtp/239.111.205.82:5140$陕西电信
 凤凰中文,http://hxwangcong.x3322.net:26000/rtp/239.111.205.78:5140$陕西电信
 凤凰资讯,http://hxwangcong.x3322.net:26000/rtp/239.111.205.82:5140$陕西电信
+凤凰卫视,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8
 凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
@@ -163,9 +170,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://129.211.14.102:25000/fhzw.m3u8
 凤凰资讯,http://129.211.14.102:25000/fhzx.m3u8
 凤凰香港,http://129.211.14.102:25000/fhhk.m3u8
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -367,6 +374,37 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
+CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV2,https://play.kankanlive.com/live/1698234898628961.m3u8
+CCTV4,https://play.kankanlive.com/live/1698234936258960.m3u8
+CCTV6,http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
+CCTV9,https://play.kankanlive.com/live/1698423397390920.m3u8
+CCTV10,https://play.kankanlive.com/live/1698423445959919.m3u8
+CCTV11,https://play.kankanlive.com/live/1698423476198918.m3u8
+CCTV12,https://play.kankanlive.com/live/1698423511884917.m3u8
+CCTV14,https://play.kankanlive.com/live/1698423575756915.m3u8
+CCTV15,https://play.kankanlive.com/live/1698423607826914.m3u8
+CCTV17,https://play.kankanlive.com/live/1698423272597921.m3u8
+CCTV1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+CCTV2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
+CCTV3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
+CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
+CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
+CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
+CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
+CCTV5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
+CCTV7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
+CCTV8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
+CCTV9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
+CCTV10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
+CCTV11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
+CCTV12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
+CCTV13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
+CCTV14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
+CCTV15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
+CCTV16,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229307/70526246.smil
+CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 CCTV1,http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://39.165.39.49:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
