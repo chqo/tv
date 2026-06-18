@@ -148,6 +148,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://share.xlangnan.cn:8189/rtp/239.254.201.2:5226$河北电信
 凤凰中文,http://960207.xyz:8188/rtp/239.254.201.2:5226$河北电信
 凤凰资讯,http://960207.xyz:8188/rtp/239.254.201.3:5227$河北电信
+凤凰中文,http://nas.minmiu.cn:18888/rtp/239.94.2.52:5140$四川电信
 凤凰中文,http://gq.scvip.net.cn:8100/rtp/239.93.5.31:8012$四川电信
 凤凰中文,http://ak.ws.sc.cn:8100/rtp/239.93.5.31:8012$四川电信
 凤凰资讯,http://ak.ws.sc.cn:8100/rtp/239.93.5.118:8708$四川电信
@@ -159,9 +160,12 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://www.893224162.xyz:8188/udp/239.94.2.52:5140$四川电信
 凤凰资讯,http://www.893224162.xyz:8188/rtp/239.94.2.49:5140$四川电信
 凤凰中文,http://xmzj.f3322.net:8188/rtp/239.94.2.51:5140$四川电信
+凤凰中文,http://www.xk8.top:8001/rtp/239.69.2.20:11274$湖北电信
 凤凰中文,http://xk8.top:8001/rtp/239.69.2.20:11274$湖北电信
 凤凰中文,http://zhangkx717.cn:9999/rtp/239.69.2.20:11274$湖北电信
 凤凰中文,http://alist.xicp.fun:52057/rtp/239.69.2.20:11274$湖北电信
+凤凰中文,http://zjhuct.icu:8889/udp/233.50.200.191:5140$浙江电信
+凤凰资讯,http://zjhuct.icu:8889/udp/233.50.200.192:5140$浙江电信
 凤凰中文,http://bgs.cchui.fun:7912/rtp/233.50.202.35:5140$浙江联通
 凤凰中文,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140$浙江联通
 凤凰中文,http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140$浙江联通
@@ -221,6 +225,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://116.237.52.28:19999/📺卫视频道/重庆卫视
 重庆卫视,http://218.79.26.47:7088/卫视/重庆卫视
 重庆卫视,http://123.175.168.89:5140/高清/重庆卫视
+重庆卫视,http://hjro.cn:9999/udp/233.50.200.114:5140
 重庆卫视,http://woc.iiiya.cn:18888/rtp/239.61.2.250:9488
 重庆卫视,http://woc.iiiya.cn:18888/rtp/239.61.5.159:1025
 重庆卫视,http://219.144.190.2:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -287,9 +292,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8 
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
+重庆影视,http://27.8.160.236:3000/rtp/225.0.4.62:7980
 重庆影视,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000372
-重庆影视,http://www.msen.site:8000/rtp/235.254.198.180:7980
-重庆影视,http://www.smilehome.top:4022/rtp/225.0.4.192:7980
 重庆影视,http://msen.site:8000/rtp/235.254.196.209:1108
 重庆影视,http://17782331118.top:8188/rtp/235.254.196.209:1108
 重庆影视,http://www.msen.site:8000/rtp/235.254.196.209:1108
