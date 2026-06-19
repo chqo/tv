@@ -8,6 +8,7 @@
 生态环境,http://nas.linktou.top:6001/rtp/226.0.2.120:8872
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 
+中国天气,http://218.13.148.152:5140/IPTV-数字付费/中国天气
 中国天气,http://47.119.24.76:59093/959986621
 中国天气,http://w.yyjn.top:3000/959986621
 中国天气,http://hc8q.x3322.net:3000/959986621
@@ -23,6 +24,7 @@
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
 金色学堂,http://8.138.7.223/tv/5gtv.php?id=40
+金色学堂,http://110.251.231.3:5140/金色学堂
 金色学堂,http://60.208.16.28:5140/其他频道/金色学堂
 金色学堂,http://116.235.81.8:5140/地方/金色学堂HD
 金色学堂,http://www.lwfz.fun:8800/rtp/239.16.20.115:11150
@@ -33,6 +35,7 @@
 金色学堂,http://iptv.zhangliang.cc:8012/rtp/225.0.4.239:7980
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 
+东方财经,http://110.251.231.3:5140/东方财经
 东方财经,http://116.235.81.8:5140/地方/东方财经HD
 东方财经,http://8.138.7.223/tv/5gtv.php?id=227
 东方财经,http://60.208.16.28:5140/其他频道/东方财经
@@ -49,8 +52,6 @@ CHC影迷电影,http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
 CHC影迷电影,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CHC动作电影,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 CHC家庭影院,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CHC家庭,https://cdn13.178.indevs.in/163189/adafdc2e9ef83fe0
-CHC动作,https://cdn13.178.indevs.in/163189/32a810b251717bd0
 CHC影迷电影,http://198.204.228.26/live/chchd.m3u8
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
@@ -100,14 +101,16 @@ CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
 CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
 CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
-快乐垂钓,http://39.165.39.49:85/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
-快乐垂钓,http://47.108.228.131:12193/live_ywzh.php?id=34
+快乐垂钓,http://218.13.148.152:5140/IPTV-数字付费/快乐垂钓
+快乐垂钓,http://110.251.231.3:5140/快乐垂钓高清
+快乐垂钓,http://hc8q.x3322.net:3000/961930263
 快乐垂钓,http://w.yyjn.top:3000/961930263
 快乐垂钓,http://hc8q.x3322.net:3000/961930263
 快乐垂钓,http://183.214.23.27:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 
-四海钓鱼,http://w.yyjn.top:3000/637444975#http://zy.zxcm.top:3000/637444975#http://43.248.117.152:3000/637444975#http://hc8q.x3322.net:3000/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
+四海钓鱼,http://110.251.231.3:5140/四海钓鱼
+四海钓鱼,http://w.yyjn.top:3000/637444975#http://hc8q.x3322.net:3000/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
 
 香港频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -118,6 +121,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 凤凰中文,http://123.175.168.89:5140/央视/凤凰资讯/2
 凤凰资讯,http://123.175.168.89:5140/央视/凤凰资讯
+凤凰中文,http://110.251.231.3:5140/凤凰卫视中文台
+凤凰资讯,http://110.251.231.3:5140/凤凰卫视资讯台
 凤凰中文,http://219.144.190.2:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0$陕西酒店
 凤凰资讯,http://219.144.190.2:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0$陕西酒店
 凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
@@ -164,6 +169,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://xk8.top:8001/rtp/239.69.2.20:11274$湖北电信
 凤凰中文,http://zhangkx717.cn:9999/rtp/239.69.2.20:11274$湖北电信
 凤凰中文,http://alist.xicp.fun:52057/rtp/239.69.2.20:11274$湖北电信
+凤凰中文,http://122.224.58.42:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$浙江/电信酒店
 凤凰中文,http://zjhuct.icu:8889/udp/233.50.200.191:5140$浙江电信
 凤凰资讯,http://zjhuct.icu:8889/udp/233.50.200.192:5140$浙江电信
 凤凰中文,http://bgs.cchui.fun:7912/rtp/233.50.202.35:5140$浙江联通
@@ -208,11 +214,12 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 
+凤凰电影,http://110.251.231.3:5140/凤凰卫视电影台
 凤凰电影,http://prozyt.top:4022/rtp/239.254.201.1:5214$河北电信
 凤凰电影,http://www.liyajun.top:7088/udp/239.253.93.81:6247
 凤凰电影,http://tsl.9kds.com:7088/rtp/239.253.93.81:6247
 凤凰电影,http://emby.xlangnan.cn:10316/rtp/239.254.201.1:5214
-凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$浙江/绍兴/电信
 
 重庆频道,#genre#
 重庆卫视,http://218.13.148.152:5140/IPTV-卫视/重庆卫视
