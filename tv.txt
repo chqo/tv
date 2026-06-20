@@ -169,7 +169,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://xk8.top:8001/rtp/239.69.2.20:11274$湖北电信
 凤凰中文,http://zhangkx717.cn:9999/rtp/239.69.2.20:11274$湖北电信
 凤凰中文,http://alist.xicp.fun:52057/rtp/239.69.2.20:11274$湖北电信
-凤凰中文,http://122.224.58.42:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$浙江/电信酒店
 凤凰中文,http://zjhuct.icu:8889/udp/233.50.200.191:5140$浙江电信
 凤凰资讯,http://zjhuct.icu:8889/udp/233.50.200.192:5140$浙江电信
 凤凰中文,http://bgs.cchui.fun:7912/rtp/233.50.202.35:5140$浙江联通
@@ -178,8 +177,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140$浙江联通
 凤凰资讯,http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.36:5140$浙江联通
 凤凰中文,http://e1.woc.iiiya.cn:18888/rtp/239.61.2.184:9092$福建电信
-凤凰中文,http://woc.iiiya.cn:18888/rtp/239.61.2.184:9092$福建电信
-凤凰资讯,http://woc.iiiya.cn:18888/rtp/239.61.2.183:9086$福建电信
+凤凰中文,http://remote.jackye.site:8000/rtp/239.61.2.184:9092$福建电信
+凤凰资讯,http://remote.jackye.site:8000/rtp/239.61.2.183:9086$福建电信
 凤凰中文,http://eyfs.vicp.net:8888/udp/239.76.253.134:9000$湖南电信
 凤凰中文,http://sanrenxing.ddns.net:7878/udp/239.76.253.134:9000$湖南电信
 凤凰资讯,http://sanrenxing.ddns.net:7878/udp/239.76.253.135:9000$湖南电信
@@ -196,6 +195,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
+凤凰中文,http://122.224.58.42:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$浙江/电信酒店
 无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
 无线翡翠,https://test.tvbjack.de5.net/proxy/618596f922e35e67
 翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -302,6 +302,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8 
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
+重庆影视,http://125.86.22.27:8003/rtp/235.254.196.209:1108
 重庆影视,http://27.8.160.236:3000/rtp/225.0.4.62:7980
 重庆影视,http://113.249.14.41:18888/rtp/235.254.196.209:1108
 重庆影视,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000372
@@ -313,8 +314,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://zqjzs.xicp.cn:7980/rtp/235.254.196.209:1108
 重庆影视,http://pve.iszbd.com:4022/rtp/225.0.4.62:7980
 重庆影视,http://nas.iszbd.com:4022/rtp/225.0.4.62:7980
-重庆影视,http://58.17.134.3:8002/udp/225.0.4.62:7980
-重庆影视,http://58.17.134.3:8004/rtp/225.0.4.62:7980
 重庆影视,http://hook.msen.site:8000/rtp/235.254.196.209:1108
 重庆影视,http://www.wpfhome.cn:5555/rtp/235.254.196.209:1108
 重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
@@ -459,6 +458,13 @@ CCTV17,http://204.12.221.218:8181/3m1080p/cctv17.m3u8
 宁夏卫视,http://204.12.221.218:8181/3m1080p/nxws.m3u8
 内蒙古卫视,http://204.12.221.218:8181/3m1080p/nmgws.m3u8
 延边卫视,http://204.12.221.218:8181/3m1080p/ybws.m3u8
+CCTV1,http://hczn.x3322.net:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://hczn.x3322.net:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://hczn.x3322.net:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://hczn.x3322.net:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://hczn.x3322.net:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://hczn.x3322.net:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://hczn.x3322.net:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2,https://play.kankanlive.com/live/1698234898628961.m3u8
 CCTV4,https://play.kankanlive.com/live/1698234936258960.m3u8
