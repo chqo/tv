@@ -14,7 +14,6 @@
 中国天气,http://hc8q.x3322.net:3000/959986621
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
-重温经典,http://129.211.14.102:25000/cwjd.m3u8
 重温经典,http://api.kkhk.itv888.vip:8080/streams/50f74c763e0/index.m3u8
 重温经典,http://api.kkhk.itv888.vip:8080/streams/214856d804c/index.m3u8
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
@@ -64,14 +63,6 @@ CHC家庭影院,http://w.yyjn.top:3000/644368373
 CHC影迷电影,http://hc8q.x3322.net:3000/952383261
 CHC动作电影,http://hc8q.x3322.net:3000/644368714
 CHC家庭影院,http://hc8q.x3322.net:3000/644368373
-CHC家庭影院,http://m.061899.xyz/mg/jtyy
-CHC家庭影院,http://gat.bkpcp.top:80/ymg.php?id=jtyy
-CHC动作电影,http://m.061899.xyz/mg/dzdy
-CHC影迷电影,http://m.061899.xyz/mg/ymdy
-CHC家庭影院,http://m.061899.xyz/mg/jtyy
-CHC动作电影,http://go.bkpcp.top/mg/dzdy
-CHC影迷电影,http://go.bkpcp.top/mg/ymdy
-CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
@@ -106,7 +97,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 快乐垂钓,http://hc8q.x3322.net:3000/961930263
 快乐垂钓,http://w.yyjn.top:3000/961930263
 快乐垂钓,http://hc8q.x3322.net:3000/961930263
-快乐垂钓,http://183.214.23.27:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 
 四海钓鱼,http://110.251.231.3:5140/四海钓鱼
@@ -307,6 +297,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8 
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
+重庆影视,http://14.109.227.173:8000/rtp/235.254.198.180:7980
 重庆影视,http://125.86.22.27:8003/rtp/235.254.196.209:1108
 重庆影视,http://27.8.160.236:3000/rtp/225.0.4.62:7980
 重庆影视,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000372
