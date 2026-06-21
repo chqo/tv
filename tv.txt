@@ -153,8 +153,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://share.xlangnan.cn:8189/rtp/239.254.201.2:5226$河北电信
 凤凰中文,http://960207.xyz:8188/rtp/239.254.201.2:5226$河北电信
 凤凰资讯,http://960207.xyz:8188/rtp/239.254.201.3:5227$河北电信
+凤凰中文,http://gq.scvip.net.cn:8100/rtp/239.93.5.31:8012$四川电信
 凤凰中文,http://nas.minmiu.cn:18888/rtp/239.94.2.52:5140$四川电信
 凤凰中文,http://gq.scvip.net.cn:8100/rtp/239.93.5.31:8012$四川电信
+凤凰资讯,http://gq.scvip.net.cn:8100/rtp/239.93.5.118:8708$四川电信
 凤凰中文,http://ak.ws.sc.cn:8100/rtp/239.93.5.31:8012$四川电信
 凤凰资讯,http://ak.ws.sc.cn:8100/rtp/239.93.5.118:8708$四川电信
 凤凰中文,http://yaofuming.top:8188/rtp/239.94.2.52:5140$四川电信
@@ -176,7 +178,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140$浙江联通
 凤凰中文,http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140$浙江联通
 凤凰资讯,http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.36:5140$浙江联通
-凤凰中文,http://e1.woc.iiiya.cn:18888/rtp/239.61.2.184:9092$福建电信
+凤凰中文,http://woc.iiiya.cn:18888/rtp/239.61.2.184:9092$福建电信
+凤凰资讯,http://woc.iiiya.cn:18888/rtp/239.61.2.183:9086$福建电信
 凤凰中文,http://remote.jackye.site:8000/rtp/239.61.2.184:9092$福建电信
 凤凰资讯,http://remote.jackye.site:8000/rtp/239.61.2.183:9086$福建电信
 凤凰中文,http://eyfs.vicp.net:8888/udp/239.76.253.134:9000$湖南电信
@@ -239,6 +242,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://219.144.190.2:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://www.kaniptv.cn/ua3.php?etoken=w7w23IUGAkB%2B1HeSZix1KodEyDeOmVM7bklS%2FxVxoDyzKFrkOUw9TvezX8170VHenrocmDN3S0eITdifsTBQCkYIRxQ9LADL5Xo6cNZzxMeDDFCv7S3NW5nds3iAIVaVuoWzFdQQPD6OYuzxjsORZooVct%2Fo0nj7cawOunKKsAgdnvNp7JYV%2BdnRTBs%2BZZuYGpY6MOP7YRDrpiBtBW9RChfTUKwSeV%2BZhP5PSI%2B5RGf0Y1eFYxKQ5gPm7P2p3aQ6OileAjDgTVyuI2MrKqV3rhMiiOD0n%2BW66MxxWMSUVFqUFLdLuXuDyxNoLwfHci7jp35ZwWhv6gIGn6kyqS6AJcvM9gxU19IiaOZSUfYNf14%3D
 重庆卫视,http://www.kaniptv.cn/ua3.php?etoken=kpPyQ6JNHZOUm71jUhfc9vf6jSzFFnYF69vxkcCr15aRY3TphFEElFDNBOYe2YXj%2Ft3iU7mkxA72jAcrKjZzA1pcFiCbjbw1msmJABfFtwIKhdCskGdAnXvInFBeEHtswQepEenLC4wnu6fsc%2BSwKmrKiM0b5ccPJKbVcLA70MVpxx5BnfuSZqSMZRGIb3H5TRe1SLzubyvghHY8JbvTh%2B1Z%2BaHu8Irphubto%2BFZUG%2F7fFmMsiXwc4jk3zLfe%2Fp20gwnL90Cy62%2FoQaGKFlE%2BO8PWJn6WR0iDrSHsem8%2FWo9pz6PdDqFCxNRKJBjOvOW
+重庆卫视,http://ak6668768.zicp.io:8845/live1071.m3u8
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000193
@@ -247,6 +251,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://8.153.110.51:3020/738910914
 重庆卫视,http://w.yyjn.top:3000/738910914
+重庆卫视,http://17752995.xyz:51111/738910914
 重庆卫视,http://123.101.98.19:1234/738910914
 重庆卫视,http://111.230.72.38:1234/738910914
 重庆卫视,http://47.102.141.212:1234/738910914
@@ -304,7 +309,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆影视,http://125.86.22.27:8003/rtp/235.254.196.209:1108
 重庆影视,http://27.8.160.236:3000/rtp/225.0.4.62:7980
-重庆影视,http://113.249.14.41:18888/rtp/235.254.196.209:1108
 重庆影视,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000372
 重庆影视,http://msen.site:8000/rtp/235.254.196.209:1108
 重庆影视,http://17782331118.top:8188/rtp/235.254.196.209:1108
@@ -326,15 +330,13 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
 重庆新闻,http://zqjzs.xicp.cn:7980/rtp/235.254.196.208:1104
 重庆新闻,http://www.wpfhome.cn:5555/rtp/235.254.196.208:1104
-重庆新闻,http://58.17.134.3:8002/rtp/225.0.4.59:7980
 重庆新闻,http://home.scanflove.com:7788/rtp/235.254.197.104:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆文体娱乐,http://125.86.19.131:8003/rtp/235.254.198.187:7980
+重庆文体娱乐,http://125.86.22.27:8003/rtp/235.254.198.187:7980
 重庆文体娱乐,http://www.msen.site:8000/rtp/235.254.198.187:7980
 重庆文体娱乐,http://17782331118.top:8188/rtp/235.254.197.108:7980
-重庆文体娱乐,http://58.17.134.3:8002/udp/225.0.4.65:7980
 重庆文体娱乐,http://pve.iszbd.com:4022/udp/225.0.4.65:7980
 重庆文体娱乐,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆文体娱乐,http://www.wpfhome.cn:5555/rtp/235.254.198.187:7980
@@ -342,44 +344,40 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆文体娱乐,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
-重庆红岩文化,http://125.86.19.131:8003/rtp/235.254.198.182:7980
+重庆红岩文化,http://125.86.22.27:8003/rtp/235.254.198.182:7980
 重庆红岩文化,http://www.msen.site:8000/rtp/235.254.198.182:7980
 重庆红岩文化,http://www.wpfhome.cn:5555/rtp/235.254.198.182:7980
 重庆红岩文化,http://pve.iszbd.com:4022/udp/225.0.4.69:7980
 重庆红岩文化,http://17782331118.top:8188/rtp/235.254.197.107:7980
-重庆红岩文化,http://58.17.134.3:8002/udp/225.0.4.69:7980
 重庆红岩文化,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 重庆红岩文化,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000369
 重庆红岩文化,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
 
 重庆红叶,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
-重庆红叶,http://125.86.19.131:8003/rtp/235.254.197.111:7980
+重庆红叶,http://125.86.22.27:8003/rtp/235.254.197.111:7980
 重庆红叶,http://www.msen.site:8000/rtp/235.254.197.111:7980
 重庆红叶,http://www.wpfhome.cn:5555/rtp/235.254.197.111:7980
 重庆红叶,http://pve.iszbd.com:4022/udp/225.0.4.63:7980
 重庆红叶,http://17782331118.top:8188/rtp/235.254.197.111:7980
-重庆红叶,http://58.17.134.3:8002/udp/225.0.4.63:7980
 重庆红叶,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000373
 重庆红叶,http://game.x3322.net:8899/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
-重庆社会与法,http://125.86.19.131:8003/rtp/235.254.198.181:7980
+重庆社会与法,http://125.86.22.27:8003/rtp/235.254.198.181:7980
 重庆社会与法,http://www.msen.site:8000/rtp/235.254.198.181:7980
 重庆社会与法,http://pve.iszbd.com:4022/rtp/225.0.4.190:7980
 重庆社会与法,http://17782331118.top:8188/rtp/235.254.197.106:7980
-重庆社会与法,http://58.17.134.3:8002/udp/225.0.4.64:7980
 重庆社会与法,http://www.wpfhome.cn:5555/rtp/235.254.198.181:7980
 重庆社会与法,http://game.x3322.net:8899/udp/225.0.4.64:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 重庆社会与法,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000375
 重庆社会与法,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
 
-重庆新农村,http://125.86.19.131:8003/rtp/235.254.198.186:7980
+重庆新农村,http://125.86.22.27:8003/rtp/235.254.198.186:7980
 重庆新农村,http://www.msen.site:8000/rtp/235.254.198.186:7980
 重庆新农村,http://pve.iszbd.com:4022/udp/225.0.4.70:7980
 重庆新农村,http://17782331118.top:8188/rtp/235.254.197.109:7980
-重庆新农村,http://58.17.134.3:8002/udp/225.0.4.70:7980
 重庆新农村,http://www.wpfhome.cn:5555/rtp/235.254.198.186:7980
 重庆新农村,http://game.x3322.net:8899/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
@@ -388,13 +386,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆少儿,http://pve.iszbd.com:4022/udp/225.0.4.71:7980
 重庆少儿,http://17782331118.top:8188/rtp/235.254.197.110:7980
-重庆少儿,http://58.17.134.3:8002/udp/225.0.4.71:7980
 重庆少儿,http://game.x3322.net:8899/udp/225.0.4.71:7980
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
 重庆少儿,https://porxy.opd.ccwu.cc/cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
 
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
-重庆汽摩,http://58.17.134.3:8002/udp/225.0.4.61:7980
 重庆汽摩,http://17782331118.top:8188/rtp/235.254.197.117:7980
 重庆汽摩,http://pve.iszbd.com:4022/udp/225.0.4.61:7980
 重庆汽摩,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000364
@@ -1478,46 +1474,22 @@ CCTV15-音乐,http://223.75.149.129:9906/tsfile/live/0015_1.m3u8
 金鹰卡通,http://223.75.149.129:9906/tsfile/live/1002_1.m3u8
 
 央卫视web,#genre#
-CCTV1,webview://http://www.guangbomi.com/tv/zy/cctv1.html
-CCTV1,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
-CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV1,video://http://guangbomi.com/tv/zy/cctv1.html
 CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.1
-CCTV1,webview://http://www.guangbomi.com/tv/zy/cctv1.html
 CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C96370.PPDB2vhvSivD.EmcY4rlrLZCQ.3
-CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
+CCTV1,webview://https://ysxw.cctv.cn/landscape.html?liveRoomNumber=11200132825562653886
 CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV1,webview://https://web.junhao.mil.cn/cms/rmt9502_html/735/735mrgrgklm/5234612.shtmlshare=true&type=15&articleid=5234612
-CCTV1,webview://https://tv.cctv.com/live/cctv1/index.shtmlhttps://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
+CCTV1,video://https://tv.cctv.com/live/cctv1/index.shtmlhttps://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
 CCTV1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
 CCTV2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
-CCTV3,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+CCTV3,webview://https://tv.cctv.com/live/cctv3/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.14
 CCTV4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
-CCTV5,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
-CCTV6,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
-CCTV7,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
-CCTV9,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
-CCTV10,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
-CCTV11,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
-CCTV12,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
-cctv13,webview://https://v.lib.tju.edu.cn/tv-show-detail/42
 CCTV13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
-CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV 第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 CCTV女性时尚,webview://https://iptv345.com/?act=play&token=fa96bb10b2b3e1911b4754336d2f9000&tid=ys&id=43
-CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
-CCTV3,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
-CCTV5,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
-CCTV6,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
-CCTV7,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
-CCTV9,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
-CCTV10,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
-CCTV11,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
-CCTV12,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
-CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
-CCTV1,https://ysxw.cctv.cn/landscape.html?liveRoomNumber=11200132825562653886
 CCTV4K,webview://https://yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://yangshipin.cn/tv/home?pid=600156816
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
@@ -1559,22 +1531,6 @@ CCTV14,webview://https://tv.cctv.com/live/cctvchild/
 CCTV15,webview://https://tv.cctv.com/live/cctv15/
 CCTV16,webview://https://tv.cctv.com/live/cctv16/
 CCTV17,webview://https://tv.cctv.com/live/cctv17/
-CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
-CCTV1,webview://http://www.guangbomi.com/tv/zy/cctv1.html
-CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
-CCTV2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
-CCTV3,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
-CCTV4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
-CCTV5,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
-CCTV6,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
-CCTV7,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
-CCTV9,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
-CCTV10,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
-CCTV11,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
-CCTV12,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
-CCTV13,webview://https://v.lib.tju.edu.cn/tv-show-detail/42
-CCTV13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
-CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV 第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
@@ -1751,7 +1707,6 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 少儿频道,#genre#
 重庆少儿,http://www.wpfhome.cn:5555/rtp/235.254.197.110:7980
-重庆少儿,http://58.17.134.3:8003/udp/225.0.4.71:7980
 重庆少儿,http://game.x3322.net:8899/udp/225.0.4.71:7980
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
 海南少儿,http://66.212.21.179:1234/962067523
