@@ -147,20 +147,21 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8
-凤凰中文,http://yaching.xmtcenter.com:9999/rtp/239.254.201.2:5226$河北电信
-凤凰中文,http://dsm4.xlangnan.cn:8189/rtp/239.254.201.2:5226$河北电信
 凤凰中文,http://960207.xyz:8188/rtp/239.254.201.2:5226$河北电信
 凤凰资讯,http://960207.xyz:8188/rtp/239.254.201.3:5227$河北电信
 凤凰中文,http://gq.scvip.net.cn:8100/rtp/239.93.5.31:8012$四川电信
 凤凰资讯,http://gq.scvip.net.cn:8100/rtp/239.93.5.118:8708$四川电信
 凤凰中文,http://ak.ws.sc.cn:8100/rtp/239.93.5.31:8012$四川电信
 凤凰资讯,http://ak.ws.sc.cn:8100/rtp/239.93.5.118:8708$四川电信
+凤凰中文,http://hhska.3322.org:8096/rtp/239.94.2.52:5140$四川电信
 凤凰中文,http://www.998878.xyz:5050/rtp/239.94.2.52:5140$四川电信
 凤凰中文,http://www.893224162.xyz:8188/udp/239.94.2.52:5140$四川电信
 凤凰资讯,http://www.893224162.xyz:8188/rtp/239.94.2.49:5140$四川电信
 凤凰中文,http://www.xk8.top:8001/rtp/239.69.2.20:11274$湖北电信
 凤凰中文,http://xk8.top:8001/rtp/239.69.2.20:11274$湖北电信
-凤凰中文,http://zhangkx717.cn:9999/rtp/239.69.2.20:11274$湖北电信
+凤凰资讯,http://xk8.top:8001/rtp/239.69.2.19:11268$湖北电信
+凤凰资讯,http://kexu.mycloudnas.com:8001/rtp/239.69.2.19:11268$湖北电信
+凤凰中文,http://kexu.mycloudnas.com:8001/rtp/239.69.2.20:11274$湖北电信
 凤凰中文,http://alist.xicp.fun:52057/rtp/239.69.2.20:11274$湖北电信
 凤凰中文,http://zjhuct.icu:8889/udp/233.50.200.191:5140$浙江电信
 凤凰资讯,http://zjhuct.icu:8889/udp/233.50.200.192:5140$浙江电信
@@ -211,8 +212,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 
 凤凰电影,http://960207.xyz:8188/rtp/239.254.201.1:5214$河北电信
-凤凰电影,http://dsm4.xlangnan.cn:8189/rtp/239.254.201.1:5214$河北电信
-凤凰电影,http://emby.xlangnan.cn:10316/rtp/239.254.201.1:5214$河北电信
+凤凰电影,http://106.8.17.2:14258/rtp/239.254.201.1:5214$河北电信
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$浙江电信
 
 重庆频道,#genre#
