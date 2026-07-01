@@ -2565,6 +2565,10 @@ DJ情歌6首[1920*1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43f
 车载DJ视频6,https://vdse.bdstatic.com//7e9d2da860d4ac39c0ea86502360d6fe.mp4
 
 歌曲欣赏,#genre#
+大风在刮大雪在下,https://git.yylx.win/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E5%A4%A7%E9%A3%8E%E5%9C%A8%E5%88%AE%E5%A4%A7%E9%9B%AA%E5%9C%A8%E4%B8%8B.mp4#https://d.kstore.dev/download/10141/%E5%A4%A7%E9%A3%8E%E5%9C%A8%E5%88%AE%E5%A4%A7%E9%9B%AA%E5%9C%A8%E4%B8%8B.mp4
+大风在刮大雪在下,webview://https://https://haokan.baidu.com/v?vid=688927243812856132#https://haokan.baidu.com/v?vid=4637855464156589733
+目瑙纵歌,https://d.kstore.dev/download/10141/%E7%9B%AE%E7%91%99%E7%BA%B5%E6%AD%8C.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E7%9B%AE%E7%91%99%E7%BA%B5%E6%AD%8C.mp4
+目瑙纵歌,webview://https://haokan.baidu.com/v?vid=13916793031122410010#webview://https://haokan.baidu.com/v?vid=4134725308922609642#https://haokan.baidu.com/v?vid=5481405330393816187
 你想我了没,https://git.yylx.win/github.com/chqo/tv/raw/main/%E4%BD%A0%E6%83%B3%E6%88%91%E4%BA%86%E6%B2%A1.mp4
 你想我了没,webview://https://haokan.baidu.com/v?vid=9331568202470599498
 你想我了没,webview://https://haokan.baidu.com/v?vid=6151374868457215770
