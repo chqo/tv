@@ -287,10 +287,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010024&contId=738910914
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
-重庆影视,http://58.17.134.3:8003/udp/225.0.4.62:7980
-重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
+重庆影视,http://27.11.144.22:8888/rtp/225.0.4.62:7980
+重庆影视,http://113.205.94.96:4000/rtp/225.0.4.62:7980
+重庆影视,http://183.66.15.138:4070/rtp/235.254.198.180:7980
 重庆影视,http://123.144.24.110:10010/rtp/225.0.4.62:7980
-重庆影视,http://116.168.72.237:8004/udp/225.0.4.62:7980
 重庆影视,http://17782331118.top:8188/rtp/235.254.196.209:1108
 重庆影视,http://www.msen.site:8000/rtp/235.254.196.209:1108
 重庆影视,http://www.smilehome.top:4022/rtp/225.0.4.62:7980
@@ -300,6 +300,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://www.wpfhome.cn:5555/rtp/235.254.196.209:1108
 重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
+重庆影视,http://58.17.134.3:8003/udp/225.0.4.62:7980
+重庆影视,http://58.17.134.3:8001/rtp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://zqjzs.xicp.cn:7980/rtp/235.254.196.208:1104
