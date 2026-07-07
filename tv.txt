@@ -296,8 +296,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010024&contId=738910914
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
-重庆影视,http://27.11.144.22:8888/rtp/225.0.4.62:7980
-重庆影视,http://113.205.94.96:4000/rtp/225.0.4.62:7980
+重庆影视,http://home.660888.xyz:4000/rtp/225.0.4.62:7980
 重庆影视,http://183.66.15.138:4070/rtp/235.254.198.180:7980
 重庆影视,http://123.144.24.110:10010/rtp/225.0.4.62:7980
 重庆影视,http://17782331118.top:8188/rtp/235.254.196.209:1108
