@@ -1,5 +1,5 @@
 九洲饭店,#genre#
-饭店简介,https://d.kstore.dev/download/10141/饭店.mp4#http://the8hwd1o.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4
+饭店简介,https://d.kstore.dev/download/10141/饭店.mp4#http://thoir9meq.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4
 
 特色频道,#genre#
 生态环境,http://flyriven.synology.me:8001/rtp/226.0.2.120:8872
@@ -142,6 +142,15 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8
 凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+凤凰中文,http://j.s.bkpcp.top/js/fhzw
+凤凰资讯,http://j.s.bkpcp.top/js/fhzx
+凤凰香港,http://j.s.bkpcp.top/js/fhxg
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8
 凤凰中文,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 凤凰资讯,https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
@@ -193,6 +202,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 翡翠台,http://120.198.84.146:9901/tsfile/live/1020_1.m3u8
 翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
 无线新闻,https://rtmp.play.live.tieba.com/live//WX-XTncUyverrEAumydD9rS3sSHJA0JA8ufjCwh6JJtemBozIX1d3zr5ItgD7PuFTwAXCKEmeqeVnwpQFD2g3PEGDgF.flv
+凤凰中文,P2p://starvod.xyz:19806/dd8cc77d9a1f449d9011a5878926feae.ts
+凤凰资讯,P2p://starvod.xyz:19806/23270aeb4bd84770b9bea5360b011c8f.ts
+凤凰香港,P2p://starvod.xyz:19806/b5392323171041a0804a4ef517a29105.ts
 无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
@@ -207,18 +219,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://222.95.158.146:5140/卫视/重庆卫视
 重庆卫视,http://222.95.158.146:5140/全部/重庆卫视
 重庆卫视,http://iptv.cqshushu.com/ysws.php?id=cqws
-重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
-重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
-重庆卫视,http://183.52.221.15:4000/rtp/239.77.0.182:5146
 重庆卫视,http://hjro.cn:9999/udp/233.50.200.114:5140
-重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=a70f858363ae250a4fbf283111a42054&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
-重庆卫视,http://www.kaniptv.cn/ua3.php?etoken=w7w23IUGAkB%2B1HeSZix1KodEyDeOmVM7bklS%2FxVxoDyzKFrkOUw9TvezX8170VHenrocmDN3S0eITdifsTBQCkYIRxQ9LADL5Xo6cNZzxMeDDFCv7S3NW5nds3iAIVaVuoWzFdQQPD6OYuzxjsORZooVct%2Fo0nj7cawOunKKsAgdnvNp7JYV%2BdnRTBs%2BZZuYGpY6MOP7YRDrpiBtBW9RChfTUKwSeV%2BZhP5PSI%2B5RGf0Y1eFYxKQ5gPm7P2p3aQ6OileAjDgTVyuI2MrKqV3rhMiiOD0n%2BW66MxxWMSUVFqUFLdLuXuDyxNoLwfHci7jp35ZwWhv6gIGn6kyqS6AJcvM9gxU19IiaOZSUfYNf14%3D
-重庆卫视,http://www.kaniptv.cn/ua3.php?etoken=kpPyQ6JNHZOUm71jUhfc9vf6jSzFFnYF69vxkcCr15aRY3TphFEElFDNBOYe2YXj%2Ft3iU7mkxA72jAcrKjZzA1pcFiCbjbw1msmJABfFtwIKhdCskGdAnXvInFBeEHtswQepEenLC4wnu6fsc%2BSwKmrKiM0b5ccPJKbVcLA70MVpxx5BnfuSZqSMZRGIb3H5TRe1SLzubyvghHY8JbvTh%2B1Z%2BaHu8Irphubto%2BFZUG%2F7fFmMsiXwc4jk3zLfe%2Fp20gwnL90Cy62%2FoQaGKFlE%2BO8PWJn6WR0iDrSHsem8%2FWo9pz6PdDqFCxNRKJBjOvOW
-重庆卫视,http://ak6668768.zicp.io:8845/live1071.m3u8
 重庆卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wschongqing
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://183.220.20.17:4321/rtp/239.11.0.116:5140
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://xiangxiws.vip:6001/738910914
 重庆卫视,http://w.yyjn.top:3000/738910914
@@ -2664,6 +2668,7 @@ DJ情歌6首[1920*1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43f
 马健涛-搀扶,https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%90%80%E6%89%B6.mp4#https://d.kstore.dev/download/10141/%E6%90%80%E6%89%B6.mp4
 马健涛-搀扶,webview://https://haokan.baidu.com/v?vid=10219187159168129992
 马健涛-搀扶,webview://https://www.kugou.com/mv/7x46t2a/
+马健涛-受伤的总是我,https://raw.giteeusercontent.com/dai98/ch/raw/master/%E5%8F%97%E4%BC%A4%E7%9A%84%E6%80%BB%E6%98%AF%E6%88%91.mp4#https://git.yylx.win/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E5%8F%97%E4%BC%A4%E7%9A%84%E6%80%BB%E6%98%AF%E6%88%91.mp4#https://haokan.baidu.com/v?vid=1078628830615673445
 我曾经发了疯的想,https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%88%91%E6%9B%BE%E7%BB%8F%E5%8F%91%E4%BA%86%E7%96%AF%E7%9A%84%E6%83%B3.mp4#https://d.kstore.dev/download/10141/%E6%88%91%E6%9B%BE%E7%BB%8F%E5%8F%91%E4%BA%86%E7%96%AF%E7%9A%84%E6%83%B3.mp4#webview://https://haokan.baidu.com/v?vid=13834537035857913063
 空荡的酒杯,https://d.kstore.dev/download/10141/%E7%A9%BA%E8%8D%A1%E7%9A%84%E9%85%92%E6%9D%AF.mp4
 空荡的酒杯,webview://https://haokan.baidu.com/v?vid=8904661395565380238
@@ -3006,18 +3011,6 @@ DJ流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629
 犯错,https://vd3.bdstatic.com/mda-jihqxgj2sagpjf6a/sc/mda-jihqxgj2sagpjf6a.mp4
 现场一曲《最美的情缘》DJ版,https://vd3.bdstatic.com/mda-ih4mz2ubqfx9q9gb/sc/mda-ih4mz2ubqfx9q9gb.mp4
 
-80周年阅兵,#genre#
-抗战胜利80周年阅兵,https://vvip.high26-playback.com/20250903/20785_ad349260/index.m3u8
-抗战胜利80周年阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
-抗战胜利80周年阅兵,https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
-抗战胜利80周年阅兵,https://video19.ifeng.com/video09/2025/09/03/p7368865175413198986-102-124417.mp4?reqtype=tsl
-抗战胜利80周年阅兵,webview://https://haokan.baidu.com/v?vid=10569833888141912614
-抗战胜利80周年阅兵,webview://https://v.ifeng.com/c/8mLT0Cah8Cu
-抗战胜利80周年阅兵,webview://https://tv.cctv.com/2025/09/03/VIDE1oshG5VOZzNKcHtrW8id250903.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.2
-抗战胜利80周年阅兵,video://https://mp.weixin.qq.com/s/KWqSp0-xeR0hlswnjeFSag
-抗战胜利80周年阅兵,webview://https://so.douyin.com/video/detail?aweme_id=7545719033585306914
-抗战胜利80周年阅兵,webview://https://play.tudou.com/v_show/id_XNjQ5MDY4ODI2OA==.html
-
 电视剧直播,#genre#
 探案剧专区,https://live.ottiptv.cc/huya/20969144
 都市剧专区,https://live.ottiptv.cc/huya/29982666
@@ -3044,27 +3037,7 @@ DJ流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629
 
 欢迎曲视频,#genre#
 欢迎进行曲,https://gitee.com/dai98/ch/raw/master/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://d.kstore.dev/download/10141/欢迎进行曲.ts#webview://https://v.qq.com/x/cover/mzc00200vav0qkv/f0033yrafru.html
-春晚视频,http://the8hwd1o.hn-bkt.clouddn.com/%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91.mp4#https://d.kstore.dev/download/10141/春晚视频.mp4
 
-视频道,#genre#
-东方卫视,local://migu.js/651632648
-江苏卫视,local://migu.js/623899368
-广东卫视,local://migu.js/608831231
-北京卫视,local://migu.js/630287636
-辽宁卫视,local://migu.js/630291707
-河北卫视,local://migu.js/962042070
-江西卫视,local://migu.js/783847495
-河南卫视,local://migu.js/790187291
-陕西卫视,local://migu.js/738910838
-大湾区卫视,local://migu.js/608917627
-湖北卫视,local://migu.js/947472496
-吉林卫视,local://migu.js/947472500
-青海卫视,local://migu.js/947472506
-东南卫视,local://migu.js/849116810
-海南卫视,local://migu.js/947472502
-海峡卫视,local://migu.js/849119120
-中国农林卫视,local://migu.js/956904896
-兵团卫视,local://migu.js/956923145
-宁夏卫视,local://migu.js/738910535
-重庆卫视,local://migu.js/738910914
-三沙卫视,local://migu.js/961023778
+春晚视频,#genre#
+春晚视频,http://thoir9meq.hn-bkt.clouddn.com/%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91.mp4#https://d.kstore.dev/download/10141/春晚视频.mp4
+
