@@ -140,6 +140,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8
 凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰香港,https://cdn.qd.je/163189/fhhk
+无线新闻,https://cdn.qd.je/163189.php?id=wxxw
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
 凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
 凤凰香港,https://cdn.qd.je/163189.php?id=fhhk
@@ -210,12 +214,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$浙江电信
 
 重庆频道,#genre#
+重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8
 重庆卫视,http://218.13.148.152:5140/IPTV-卫视/重庆卫视
 重庆卫视,http://222.95.158.146:5140/卫视/重庆卫视
 重庆卫视,http://222.95.158.146:5140/全部/重庆卫视
 重庆卫视,http://hjro.cn:9999/udp/233.50.200.114:5140
-重庆卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wschongqing
-重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
@@ -240,14 +243,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://198.204.228.26/live/cqwshd.m3u8
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
 重庆卫视,http://112.99.195.122:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://222.214.208.34:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://emby.xlangnan.cn:10316/rtp/239.254.200.203:6323
-重庆卫视,http://120.233.73.4:19901/tsfile/live/1038_1.m3u8?key=txiptv
 重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
 重庆卫视,http://tv.zhangzp.top:4022/udp/239.125.2.102:4130 
-重庆卫视,http://39.106.167.36:52666/fjbst.php?id=195
 重庆卫视,http://hxwangcong.x3322.net:26000/rtp/239.109.205.30:8168
 重庆卫视,http://game.x3322.net:8899/rtp/225.0.4.187:7980
 重庆卫视,http://nas.iszbd.com:4022/rtp/225.0.4.187:7980
@@ -282,12 +281,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010024&contId=738910914
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
+重庆影视,http://113.249.13.59:8901/rtp/235.254.196.209:1108
+重庆影视,http://58.17.134.3:8001/udp/225.0.4.62:7980
+重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
 重庆影视,http://w.binxihi.qzz.io:4070/rtp/235.254.196.209:1108
 重庆影视,http://zj.zh.kg:4070/rtp/235.254.196.209:1108
 重庆影视,http://dyzy.pub:8003/rtp/235.254.196.209:1108
 重庆影视,http://www.8io.qzz.io:4070/rtp/235.254.196.209:1108
 重庆影视,http://183.66.15.138:4070/rtp/235.254.196.209:1108
-重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
 重庆影视,http://cloud-hui.synology.me:4000/rtp/225.0.4.192:7980
 重庆影视,http://home.660888.xyz:4000/rtp/225.0.4.62:7980
 重庆影视,http://183.66.15.138:4070/rtp/235.254.198.180:7980
@@ -301,7 +302,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://www.wpfhome.cn:5555/rtp/235.254.196.209:1108
 重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
-重庆影视,http://58.17.134.3:8003/udp/225.0.4.62:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://zqjzs.xicp.cn:7980/rtp/235.254.196.208:1104
@@ -356,6 +356,24 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 央视综合,#genre#
+相约简单: 07-10 17:20:47
+CCTV1,http://39.175.52.28:2026/IPTV.php?id=CCTV1
+CCTV2,http://39.175.52.28:2026/IPTV.php?id=CCTV2
+CCTV3,http://39.175.52.28:2026/IPTV.php?id=CCTV3
+CCTV4,http://39.175.52.28:2026/IPTV.php?id=CCTV4
+CCTV5,http://39.175.52.28:2026/IPTV.php?id=CCTV5
+CCTV6,http://39.175.52.28:2026/IPTV.php?id=CCTV6
+CCTV7,http://39.175.52.28:2026/IPTV.php?id=CCTV7
+CCTV8,http://39.175.52.28:2026/IPTV.php?id=CCTV8
+CCTV9,http://39.175.52.28:2026/IPTV.php?id=CCTV9
+CCTV10,http://39.175.52.28:2026/IPTV.php?id=CCTV10
+CCTV11,http://39.175.52.28:2026/IPTV.php?id=CCTV11
+CCTV12,http://39.175.52.28:2026/IPTV.php?id=CCTV12
+CCTV13,http://39.175.52.28:2026/IPTV.php?id=CCTV13
+CCTV14,http://39.175.52.28:2026/IPTV.php?id=CCTV14
+CCTV15,http://39.175.52.28:2026/IPTV.php?id=CCTV15
+CCTV16,http://39.175.52.28:2026/IPTV.php?id=CCTV16
+CCTV17,http://39.175.52.28:2026/IPTV.php?id=CCTV17
 CCTV1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV3,http://107.150.60.122/live/cctv3hd.m3u8
