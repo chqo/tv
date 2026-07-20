@@ -153,7 +153,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 凤凰中文,http://wddpmpc.sosos.run:4022/rtp/239.111.205.78:5140$陕西电信
 凤凰资讯,http://wddpmpc.sosos.run:4022/rtp/239.111.205.82:5140$陕西电信
-凤凰中文,http://120.198.84.146:9901/tsfile/live/1053_1.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -2153,6 +2152,11 @@ MV歌曲,#genre#
 齐峰-我和草原有个约定,https://fastgit.cc/github.com/chqo/tv/raw/main/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#https://fastgit.cc/github.com/73330/ch/raw/main/%E9%BD%90%E5%B3%B0-%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A.mp4#https://d.kstore.dev/download/10141/齐峰-我和草原有个约定.mp4
 我的家,https://fastgit.cc/github.com/chqo/tv/raw/main/%E6%88%91%E7%9A%84%E5%AE%B6.mp4#https://fastgit.cc/github.com/73330/ch/raw/main/%E6%88%91%E7%9A%84%E5%AE%B6.mp4
 
+七一党歌,#genre#
+没有共产党就没有新中国,https://res.mq-link.com:4438/webapi/filestore/29c94d7dc5eb7b679c1abe4ac9927905258e014e.mp4?type=video&docid=50ea69&name=%E6%B2%A1%E6%9C%89%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%96%B0%E4%B8%AD%E5%9B%BD.mp4
+社会主义好,https://res.mq-link.com:4438/webapi/filestore/a7b2316f72bed6d626ecc01328faa83c85756c45.mp4?type=video&docid=88bf27&name=%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD.mp4
+歌唱祖国,https://res.mq-link.com:4438/webapi/filestore/7c60661e08014bcc51cf7f395622c52309c0037a.mp4?type=video&docid=af123c&name=%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4
+
 八一军歌曲,#genre#
 解放军军歌,http://thoir9meq.hn-bkt.clouddn.com/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4#https://fastgit.cc/github.com/chqo/tv/raw/main/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4
 咱当兵的人,http://thoir9meq.hn-bkt.clouddn.com/%E5%92%B1%E5%BD%93%E5%85%B5%E7%9A%84%E4%BA%BA.mp4#https://d.kstore.dev/download/10141/%E5%92%B1%E5%BD%93%E5%85%B5%E7%9A%84%E4%BA%BA.mp4
@@ -2165,6 +2169,7 @@ MV歌曲,#genre#
 强军战歌,http://thoir9meq.hn-bkt.clouddn.com/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://fastgit.cc/github.com/chqo/tv/raw/main/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4
 军人本色,http://thoir9meq.hn-bkt.clouddn.com/%E5%86%9B%E4%BA%BA%E6%9C%AC%E8%89%B2.mp4#https://gh-proxy.com/https://github.com/chqo/tv/raw/main/%E5%86%9B%E4%BA%BA%E6%9C%AC%E8%89%B2.mp4#https://d.kstore.dev/download/10141/%E5%86%9B%E4%BA%BA%E6%9C%AC%E8%89%B2.mp4
 人民军队忠于党歌曲,http://thoir9meq.hn-bkt.clouddn.com/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%BF%A0%E4%BA%8E%E5%85%9A.mp4#https://d.kstore.dev/download/10141/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%BF%A0%E4%BA%8E%E5%85%9A.mp4
+歌唱祖国,https://res.mq-link.com:4438/webapi/filestore/7c60661e08014bcc51cf7f395622c52309c0037a.mp4?type=video&docid=af123c&name=%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4
 歌唱祖国,http://thoir9meq.hn-bkt.clouddn.com/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4#https://d.kstore.dev/download/10141/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4#https://fastgit.cc/github.com/chqo/tv/raw/main/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4
 我的老班长,http://thoir9meq.hn-bkt.clouddn.com/%E6%88%91%E7%9A%84%E8%80%81%E7%8F%AD%E9%95%BF.mp4#https://d.kstore.dev/download/10141/%E6%88%91%E7%9A%84%E8%80%81%E7%8F%AD%E9%95%BF.mp4
 英雄赞歌,https://vd3.bdstatic.com/mda-nin6t17p7dt7u499/sc/cae_h264/1664117214428826970/mda-nin6t17p7dt7u499.mp4
@@ -2659,7 +2664,8 @@ DJ情歌6首[1920*1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43f
 大风在刮大雪在下,https://lu0168.ccwu.cc/791/大风在刮大雪在下.mp4#https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E5%A4%A7%E9%A3%8E%E5%9C%A8%E5%88%AE%E5%A4%A7%E9%9B%AA%E5%9C%A8%E4%B8%8B.mp4#https://d.kstore.dev/download/10141/%E5%A4%A7%E9%A3%8E%E5%9C%A8%E5%88%AE%E5%A4%A7%E9%9B%AA%E5%9C%A8%E4%B8%8B.mp4
 大风在刮大雪在下,webview://https://https://haokan.baidu.com/v?vid=688927243812856132#https://haokan.baidu.com/v?vid=4637855464156589733
 目瑙纵歌,https://lu0168.ccwu.cc/791/目瑙纵歌.mp4#https://d.kstore.dev/download/10141/%E7%9B%AE%E7%91%99%E7%BA%B5%E6%AD%8C.mp4#https://fastgit.cc/github.com/chqo/tv/raw/main/%E7%9B%AE%E7%91%99%E7%BA%B5%E6%AD%8C.mp4
-目瑙纵歌,webview://https://haokan.baidu.com/v?vid=13916793031122410010#webview://https://haokan.baidu.com/v?vid=4134725308922609642#https://haokan.baidu.com/v?vid=5481405330393816187
+目瑙纵歌,webview://https://haokan.baidu.com/v?vid=13916793031122410010#webview://https://haokan.baidu.com/v?vid=4134725308922609642
+重庆纵歌,http://thoir9meq.hn-bkt.clouddn.com/%E9%87%8D%E5%BA%86%E7%BA%B5%E6%AD%8C.mp4
 你想我了没,https://fastgit.cc/github.com/chqo/tv/raw/main/%E4%BD%A0%E6%83%B3%E6%88%91%E4%BA%86%E6%B2%A1.mp4
 你想我了没,webview://https://haokan.baidu.com/v?vid=9331568202470599498
 你想我了没,webview://https://haokan.baidu.com/v?vid=6151374868457215770
