@@ -158,22 +158,18 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://www.hkstv.tv/live
 香港卫视,video://https://hkstv.tv/live
 
-凤凰中文,http://1.83.156.17:8888/rtp/239.111.205.78:5140$陕西电信
-凤凰资讯,http://1.83.156.17:8888/rtp/239.111.205.82:5140$陕西电信
 凤凰中文,http://wddpmpc.sosos.run:4022/rtp/239.111.205.78:5140$陕西电信
 凤凰资讯,http://wddpmpc.sosos.run:4022/rtp/239.111.205.82:5140$陕西电信
-凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰中文,http://46.196.228.jiaheyy.top/ftx.php?id=fhzw
 凤凰资讯,http://46.196.228.jiaheyy.top/ftx.php?id=fhzx
-凤凰中文,http://27.41.245.153:12315/hls/205/index.m3u8
-凤凰资讯,http://222.90.21.30:9901/hls/58/index.m3u8
 凤凰中文,http://c.123.rr.kg/163189/fhzw
 凤凰资讯,http://c.123.rr.kg/163189/fhzx
 凤凰香港,http://c.123.rr.kg/163189/fhhk
 翡翠台,http://c.123.rr.kg/163189/fct
 无线新闻,http://c.123.rr.kg/163189/wxxw
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰中文,http://27.184.29.54:4022/rtp/239.254.201.2:5226
 凤凰资讯,http://27.184.29.54:4022/rtp/239.254.201.3:5227
 凤凰中文,http://49.232.143.177:80/pyxg/export.php?id=1&key=*****
@@ -274,6 +270,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 重庆卫视,http://198.204.228.26/live/cqwshd.m3u8
+重庆卫视,http://61.161.61.119:9004/hls/41/index.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://111.8.242.104:8088/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
@@ -301,6 +298,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆卫视,http://112.99.195.122:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
+重庆卫视,http://120.198.84.146:9901/tsfile/live/1058_1.m3u8
 重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.10.13:2000
 重庆卫视,http://www.lwfz.fun:8800/rtp/239.16.20.79:10790
