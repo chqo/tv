@@ -1971,9 +1971,15 @@ MV歌曲,#genre#
 我的家,https://fastgit.cc/github.com/chqo/tv/raw/main/%E6%88%91%E7%9A%84%E5%AE%B6.mp4#https://fastgit.cc/github.com/73330/ch/raw/main/%E6%88%91%E7%9A%84%E5%AE%B6.mp4
 
 七一党歌,#genre#
+今天是你的生日,https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5.mp4#https://d.kstore.dev/download/10141/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5.mp4
 没有共产党就没有新中国,https://res.mq-link.com:4438/webapi/filestore/29c94d7dc5eb7b679c1abe4ac9927905258e014e.mp4?type=video&docid=50ea69&name=%E6%B2%A1%E6%9C%89%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%96%B0%E4%B8%AD%E5%9B%BD.mp4
-社会主义好,https://res.mq-link.com:4438/webapi/filestore/a7b2316f72bed6d626ecc01328faa83c85756c45.mp4?type=video&docid=88bf27&name=%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD.mp4
+社会主义好,https://res.mq-link.com:4438/webapi/filestore/a7b2316f72bed6d626ecc01328faa83c85756c45.mp4?type=video&docid=88bf27&name=%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD.mp4#https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD.mp4
 歌唱祖国,https://res.mq-link.com:4438/webapi/filestore/7c60661e08014bcc51cf7f395622c52309c0037a.mp4?type=video&docid=af123c&name=%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4
+爱我中华,https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E7%88%B1%E6%88%91%E4%B8%AD%E5%8D%8E.mp4
+唱支山歌给党听,https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E5%94%B1%E6%94%AF%E5%B1%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC.mp4
+我的祖国,https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD.mp4#https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%201.mp4
+沿着社会主义大道奔前方,https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E6%B2%BF%E7%9D%80%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A4%A7%E9%81%93%E5%A5%94%E5%89%8D%E6%96%B9.mp4
+团结就是力量,https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E5%9B%A2%E7%BB%93%E5%B0%B1%E6%98%AF%E5%8A%9B%E9%87%8F%20.mp4
 
 八一军歌曲,#genre#
 解放军军歌,http://thoir9meq.hn-bkt.clouddn.com/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4#https://fastgit.cc/github.com/chqo/tv/raw/main/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4
