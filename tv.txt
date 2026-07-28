@@ -1,31 +1,6 @@
 九洲饭店,#genre#
 饭店简介,https://d.kstore.dev/download/10141/饭店.mp4#http://thoir9meq.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4
 
-4K频道,#genre#
-CCTV4K,http://192.151.150.154/live/cctv4k.m3u8#http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
-CCTV16-4K,http://121.57.88.206:898/hls/16/index.m3u8
-CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
-CCTV4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV8K超高清,http://107.150.60.122/live/cctv8k.m3u8
-CCTV8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-浙江卫视4K,https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
-浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-东方4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-湖南卫视4K,http://rihou.cc:555/tv/湖南卫视4K
-江苏卫视4K,http://rihou.cc:555/tv/江苏卫视4K
-浙江卫视4K,http://rihou.cc:555/tv/浙江卫视4K
-东方卫视4K,http://rihou.cc:555/tv/东方卫视4K
-深圳卫视4K,http://rihou.cc:555/tv/szws
-北京卫视4K,http://rihou.cc:555/tv/北京卫视4K
-广东卫视4K,http://rihou.cc:555/tv/广东卫视4K
-四川卫视4K,http://rihou.cc:555/tv/四川卫视4K
-山东卫视4K,http://rihou.cc:555/tv/山东卫视
-河南卫视4K,http://rihou.cc:555/tv/河南卫视4K
-
 特色频道,#genre#
 生态环境,http://flyriven.synology.me:8001/rtp/226.0.2.120:8872
 生态环境,http://jyb7928.host:8066/rtp/239.1.1.110:8110
@@ -200,6 +175,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://106.112.254.25:8989/rtp/239.254.201.3:5227$河北电信
 凤凰中文,http://960207.xyz:8188/rtp/239.254.201.2:5226$河北电信
 凤凰资讯,http://960207.xyz:8188/rtp/239.254.201.3:5227$河北电信
+凤凰中文,http://xmzj.f3322.net:8188/udp/239.94.2.52:5140$四川电信
+凤凰资讯,http://xmzj.f3322.net:8188/rtp/239.94.2.49:5140$四川电信
+凤凰中文,http://yaofuming.top:8188/rtp/239.94.2.52:5140$四川电信
 凤凰中文,http://gq.scvip.net.cn:8100/rtp/239.93.5.31:8012$四川电信
 凤凰资讯,http://gq.scvip.net.cn:8100/rtp/239.93.5.118:8708$四川电信
 凤凰中文,http://ak.ws.sc.cn:8100/rtp/239.93.5.31:8012$四川电信
@@ -2865,33 +2843,9 @@ DJ流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629
 犯错,https://vd3.bdstatic.com/mda-jihqxgj2sagpjf6a/sc/mda-jihqxgj2sagpjf6a.mp4
 现场一曲《最美的情缘》DJ版,https://vd3.bdstatic.com/mda-ih4mz2ubqfx9q9gb/sc/mda-ih4mz2ubqfx9q9gb.mp4
 
-电视剧直播,#genre#
-探案剧专区,https://live.ottiptv.cc/huya/20969144
-都市剧专区,https://live.ottiptv.cc/huya/29982666
-刑侦剧专区,https://live.ottiptv.cc/huya/20969130
-家庭剧专区,https://live.ottiptv.cc/huya/11352872
-经典剧专区,https://live.ottiptv.cc/huya/11602081
-怀旧剧专区,https://live.ottiptv.cc/huya/30080241
-僵尸剧专区,https://live.ottiptv.cc/huya/23865148
-抗战剧专区,https://live.ottiptv.cc/huya/30080238
-台湾剧专区,https://live.ottiptv.cc/huya/11342436
-韩国剧专区,https://live.ottiptv.cc/huya/23863787
-美国剧专区,https://live.ottiptv.cc/huya/30080138
-英国剧专区,https://live.ottiptv.cc/huya/29982659
-校园剧专区,https://live.ottiptv.cc/huya/30080228
-谍战剧专区,https://live.ottiptv.cc/huya/30080225
-古装剧专区,https://live.ottiptv.cc/huya/24314158
-乡村剧专区,https://live.ottiptv.cc/huya/30080255
-偶像剧专区,https://live.ottiptv.cc/huya/11601964
-爱情剧专区,https://live.ottiptv.cc/huya/29982671
-搞笑剧专区,https://live.ottiptv.cc/huya/21059634
-武侠剧专区,https://live.ottiptv.cc/huya/20985816
-穿越剧专区,https://live.ottiptv.cc/huya/26355857
-年代剧专区,https://live.ottiptv.cc/huya/20969095
-
 欢迎曲视频,#genre#
 欢迎进行曲,https://gitee.com/dai98/ch/raw/master/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://fastgit.cc/github.com/chqo/tv/raw/main/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://d.kstore.dev/download/10141/欢迎进行曲.ts#webview://https://v.qq.com/x/cover/mzc00200vav0qkv/f0033yrafru.html
 
 春晚视频,#genre#
-春晚视频,http://thoir9meq.hn-bkt.clouddn.com/%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91.mp4#https://d.kstore.dev/download/10141/春晚视频.mp4
+春晚视频,http://thoir9meq.hn-bkt.clouddn.com/%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91.mp4#http://titwh9n34.hn-bkt.clouddn.com/%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91.mp4#https://d.kstore.dev/download/10141/春晚视频.mp4
 
