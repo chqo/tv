@@ -137,10 +137,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-凤凰中文,http://www.chunktv.top:10000/rtp/239.111.205.78:5140$陕西电信
-凤凰资讯,http://www.chunktv.top:10000/rtp/239.111.205.82:5140$陕西电信
 凤凰中文,http://wddpmpc.sosos.run:4022/rtp/239.111.205.78:5140$陕西电信
 凤凰资讯,http://wddpmpc.sosos.run:4022/rtp/239.111.205.82:5140$陕西电信
+凤凰中文,http://www.chunktv.top:10000/rtp/239.111.205.78:5140$陕西电信
+凤凰资讯,http://www.chunktv.top:10000/rtp/239.111.205.82:5140$陕西电信
 凤凰资讯,http://xtvantsc.xyz/fhx.php?id=1
 凤凰中文,http://xtvantsc.xyz/fhx.php?id=2
 凤凰香港,http://xtvantsc.xyz/fhx.php?id=3
@@ -151,6 +151,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,http://c.123.rr.kg/163189/wxxw
 凤凰中文,http://46.196.228.jiaheyy.top/ftx.php?id=fhzw
 凤凰资讯,http://46.196.228.jiaheyy.top/ftx.php?id=fhzx
+凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv$广西
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv$广西
+凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$广西
+凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$广西
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$广东移动酒店
 凤凰中文,http://120.198.86.186:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$广东移动酒店
 凤凰中文,http://120.198.84.146:9901/tsfile/live/1053_1.m3u8$广东移动酒店
@@ -187,8 +191,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰中文,http://nas.minmiu.cn:18888/rtp/239.94.2.52:5140$四川电信
 凤凰中文,http://www.893224162.xyz:8188/udp/239.94.2.52:5140$四川电信
 凤凰资讯,http://www.893224162.xyz:8188/rtp/239.94.2.49:5140$四川电信
-凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$广西
-凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$广西
 凤凰中文,http://www.xk8.top:8001/rtp/239.69.2.20:11274$湖北电信
 凤凰中文,http://xk8.top:8001/rtp/239.69.2.20:11274$湖北电信
 凤凰资讯,http://xk8.top:8001/rtp/239.69.2.19:11268$湖北电信
@@ -230,12 +232,14 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://106.112.254.25:8989/rtp/239.254.201.1:5214
 凤凰电影,http://960207.xyz:8188/rtp/239.254.201.1:5214$河北电信
 凤凰电影,http://106.8.17.2:14258/rtp/239.254.201.1:5214$河北电信
+凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv$广西
 凤凰电影,http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$广西
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$浙江电信
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 
 重庆频道,#genre#
-重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+重庆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wschongqing
+重庆卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wschongqing
 重庆卫视,http://59.110.175.70:23567/PLTV/651/224/3221226680/1.m3u8
 重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.100:5140
 重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.143:5140
@@ -277,7 +281,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://nas.linktou.top:6001/rtp/226.0.2.50:8312
 重庆卫视,http://home.pinkfloyd.cn:5000/rtp/238.1.78.31:6176
 重庆卫视,http://guoxue7.3322.org:57022/rtp/239.3.1.122:8160
-重庆卫视,http://tv.zhangzp.top:4022/udp/239.125.2.102:4130 
 重庆卫视,http://jw318.synology.me:888/rtp/239.49.1.42:6000
 重庆卫视,http://www.alihomes.top:8188/rtp/239.254.96.42:7320
 重庆卫视,http://dodge.lwfz.fun:8800/rtp/239.16.10.13:2000
@@ -1230,30 +1233,6 @@ CHC影迷电影,http://A/ku9/js/咪咕超简版.js?id=952383261
 经典动画大集合,http://A/ku9/js/咪咕超简版.js?id=629942219
 四海钓鱼,http://A/ku9/js/咪咕超简版.js?id=637444975
 
-长城国际,#genre#,JS=https://www.pantxt.top/f/1xKFq/iptv.js
-凤凰中文,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=fhzw
-凤凰资讯,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=fhzx
-凤凰香港,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=fhxg
-凤凰美洲,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=fhmz
-CCTV-4,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=cctv4
-CCTV-5,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=cctv5
-CCTV-6,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=cctv6
-电影频道,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=zgdy
-北京卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=bjws
-东方卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=dfws
-安徽卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=ahws
-湖北卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=hubws
-湖南卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=hunws
-江苏卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=jsws
-浙江卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=zjws
-海峡卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=hxws
-大湾区卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=dwqws
-广西卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=gxws
-云南卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=ynws
-贵州卫视,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=gzws
-东方财经,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=dfcj
-金鹰卡通,http://A/ku9/js/iptv.js?key=xianxiwsQQ群746405779&id=jykt
-
 央视投屏,#genre#,JS=https://5266.kstore.space/cctvnews.js
 CCTV1综合,http://A/ku9/js/cctvnews.js?id=cctv1
 CCTV2财经,http://A/ku9/js/cctvnews.js?id=cctv2
@@ -1974,7 +1953,7 @@ MV歌曲,#genre#
 我的家,https://fastgit.cc/github.com/chqo/tv/raw/main/%E6%88%91%E7%9A%84%E5%AE%B6.mp4#https://fastgit.cc/github.com/73330/ch/raw/main/%E6%88%91%E7%9A%84%E5%AE%B6.mp4
 
 七一党歌,#genre#
-今天是你的生日,https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5.mp4#https://d.kstore.dev/download/10141/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5.mp4
+今天是你的生日,https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5.mp4#https://lu0168.ccwu.cc/791/今天是你的生日.mp4#https://d.kstore.dev/download/10141/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5.mp4
 没有共产党就没有新中国,https://res.mq-link.com:4438/webapi/filestore/29c94d7dc5eb7b679c1abe4ac9927905258e014e.mp4?type=video&docid=50ea69&name=%E6%B2%A1%E6%9C%89%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%96%B0%E4%B8%AD%E5%9B%BD.mp4
 社会主义好,https://res.mq-link.com:4438/webapi/filestore/a7b2316f72bed6d626ecc01328faa83c85756c45.mp4?type=video&docid=88bf27&name=%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD.mp4#https://fastgit.cc/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD.mp4
 歌唱祖国,https://res.mq-link.com:4438/webapi/filestore/7c60661e08014bcc51cf7f395622c52309c0037a.mp4?type=video&docid=af123c&name=%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4
