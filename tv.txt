@@ -236,7 +236,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
-重庆卫视,http://221.232.197.235:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.100:5140
+重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.143:5140
 重庆卫视,http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://221.219.96.142:8656/地方卫视/重庆卫视?cors
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
@@ -294,10 +295,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010024&contId=738910914
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
-重庆影视,http://58.17.134.3:8001/udp/225.0.4.62:7980
-重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
 重庆影视,http://110.40.170.5:8890/diai28/live_cqlt.php?id=36
 重庆影视,http://110.40.170.5:8890/diai28/live_cqlt.php?id=135
+重庆影视,http://58.17.134.3:8001/udp/225.0.4.62:7980
+重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
 重庆影视,http://www.8io.qzz.io:4070/rtp/235.254.196.209:1108
 重庆影视,http://183.66.15.138:4070/rtp/235.254.196.209:1108
 重庆影视,http://cloud-hui.synology.me:4000/rtp/225.0.4.192:7980
@@ -356,6 +357,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新农村,http://game.x3322.net:8899/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
+重庆少儿,http://110.40.170.5:8890/diai28/live_cqlt.php?id=41
 重庆少儿,http://pve.iszbd.com:4022/udp/225.0.4.71:7980
 重庆少儿,http://17782331118.top:8188/rtp/235.254.197.110:7980
 重庆少儿,http://game.x3322.net:8899/udp/225.0.4.71:7980
