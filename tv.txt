@@ -236,6 +236,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+重庆卫视,http://59.110.175.70:23567/PLTV/651/224/3221226680/1.m3u8
 重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.100:5140
 重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.143:5140
 重庆卫视,http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
