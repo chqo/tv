@@ -2,9 +2,6 @@
 饭店简介,https://d.kstore.dev/download/10141/饭店.mp4#http://thoir9meq.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4
 
 特色频道,#genre#
-生态环境,http://flyriven.synology.me:8001/rtp/226.0.2.120:8872
-生态环境,http://jyb7928.host:8066/rtp/239.1.1.110:8110
-生态环境,http://nas.linktou.top:6001/rtp/226.0.2.120:8872
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 生态环境,rtsp://192.168.27.20/PLTV/88888914/224/3221227491/228096211.smil
 
@@ -131,7 +128,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://www.hkstv.tv/live
 香港卫视,video://https://hkstv.tv/live
 
-凤凰中文,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/ggiptv/jade/playlist.m3u8
+凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv$广西
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv$广西
+凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$广西
+凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$广西
 凤凰中文,http://110.40.170.5:8890/diai28/live_hndx.php?id=64
 凤凰资讯,http://110.40.170.5:8890/diai28/live_hndx.php?id=65
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
@@ -151,10 +151,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,http://c.123.rr.kg/163189/wxxw
 凤凰中文,http://46.196.228.jiaheyy.top/ftx.php?id=fhzw
 凤凰资讯,http://46.196.228.jiaheyy.top/ftx.php?id=fhzx
-凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv$广西
-凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv$广西
-凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$广西
-凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$广西
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$广东移动酒店
 凤凰中文,http://120.198.86.186:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$广东移动酒店
 凤凰中文,http://120.198.84.146:9901/tsfile/live/1053_1.m3u8$广东移动酒店
@@ -238,12 +234,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 
 重庆频道,#genre#
-重庆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wschongqing
-重庆卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wschongqing
-重庆卫视,http://59.110.175.70:23567/PLTV/651/224/3221226680/1.m3u8
-重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.100:5140
-重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.143:5140
-重庆卫视,http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://221.219.96.142:8656/地方卫视/重庆卫视?cors
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://111.8.242.104:8088/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -256,6 +246,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://iptv.cqshushu.com/ysws.php?id=cqws
 重庆卫视,http://hjro.cn:9999/udp/233.50.200.114:5140
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
+重庆卫视,http://59.110.175.70:23567/PLTV/651/224/3221226680/1.m3u8
+重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.100:5140
+重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.143:5140
+重庆卫视,http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wschongqing
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://mg.cttv.vip/738910914
