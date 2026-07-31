@@ -6,7 +6,6 @@
 生态环境,rtsp://192.168.27.20/PLTV/88888914/224/3221227491/228096211.smil
 
 中国天气,http://123.175.168.89:5140/高清/中国天气
-中国天气,http://218.13.148.152:5140/IPTV-数字付费/中国天气
 中国天气,http://17752995.xyz:51111/959986621
 中国天气,http://w.yyjn.top:3000/959986621
 中国天气,http://hc8q.x3322.net:3000/959986621
@@ -95,10 +94,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 CCTV怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620100
 CCTV第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
 CCTV第一剧场,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-DYJC-HD/index.m3u8
-CCTV第一剧场,http://110.251.231.3:5140/第一剧场高清
-CCTV风云剧场,http://110.251.231.3:5140/风云剧场高清
-CCTV怀旧剧场,http://110.251.231.3:5140/怀旧剧场高清
-CCTV风云音乐,http://110.251.231.3:5140/风云音乐高清
 CCTV风云音乐,http://123.175.168.89:5140/央视/风云音乐
 CCTV怀旧剧场,http://123.175.168.89:5140/央视/怀旧剧场
 CCTV第一剧场,http://123.175.168.89:5140/央视/第一剧场
