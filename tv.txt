@@ -130,23 +130,21 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://www.hkstv.tv/live
 香港卫视,video://https://hkstv.tv/live
 
+凤凰中文,https://d.kstore.dev/k-web/ku9/js/download/6758/fh.js?id=fhzw
+凤凰资讯,https://d.kstore.dev/k-web/ku9/js/download/6758/fh.js?id=fhzx
+凤凰香港,https://d.kstore.dev/k-web/ku9/js/download/6758/fh.js?id=fhhk
 凤凰中文,http://123.234.2.58/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://123.234.2.58/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv$广西
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv$广西
 凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$广西
 凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$广西
-凤凰卫视,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://123.234.2.58:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-凤凰中文,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzw
-凤凰资讯,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzx
-凤凰中文,http://110.40.170.5:8890/diai/live_iptv.php?id=395&token=8888
-凤凰资讯,http://110.40.170.5:8890/diai/live_iptv.php?id=396&token=8888
-凤凰中文,http://110.40.170.5:8890/diai/live_iptv.php?id=397&token=8888
 凤凰中文,http://wddpmpc.sosos.run:4022/rtp/239.111.205.78:5140$陕西电信
 凤凰资讯,http://wddpmpc.sosos.run:4022/rtp/239.111.205.82:5140$陕西电信
 凤凰中文,http://www.chunktv.top:10000/rtp/239.111.205.78:5140$陕西电信
@@ -241,9 +239,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 无线新闻,https://rtmp.play.live.tieba.com/live//WX-XTncUyverrEAumydD9rS3sSHJA0JA8ufjCwh6JJtemBozIX1d3zr5ItgD7PuFTwAXCKEmeqeVnwpQFD2g3PEGDgF.flv
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-凤凰卫视,https://d.kstore.dev/k-web/ku9/js/download/6758/fh.js?id=fhzw
-凤凰资讯,https://d.kstore.dev/k-web/ku9/js/download/6758/fh.js?id=fhzx
-凤凰香港,https://d.kstore.dev/k-web/ku9/js/download/6758/fh.js?id=fhhk
 
 凤凰电影,http://106.112.254.38:8989/rtp/239.254.201.1:5214
 凤凰电影,http://960207.xyz:8188/rtp/239.254.201.1:5214$河北电信
@@ -317,8 +312,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,webview://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010024&contId=738910914
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
-重庆影视,http://110.40.170.5:8890/diai/live_iptv.php?id=183&token=8888
-重庆影视,http://110.40.170.5:8890/diai/live_iptv.php?id=282&token=8888
+重庆影视,http://110.40.170.5:8890/diai/live_iptv.php?id=241&token=dsfsklj
+重庆影视,http://110.40.170.5:8890/diai/live_iptv.php?id=242&token=dsfsklj
 重庆影视,http://58.17.134.3:8001/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
 重庆影视,http://www.8io.qzz.io:4070/rtp/235.254.196.209:1108
@@ -344,42 +339,36 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆文体娱乐,http://110.40.170.5:8890/diai/live_iptv.php?id=186&token=8888
 重庆文体娱乐,http://17782331118.top:8188/rtp/235.254.197.108:7980
 重庆文体娱乐,http://pve.iszbd.com:4022/udp/225.0.4.65:7980
 重庆文体娱乐,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆文体娱乐,http://www.wpfhome.cn:5555/rtp/235.254.198.187:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
-重庆红岩文化,http://110.40.170.5:8890/diai/live_iptv.php?id=185&token=8888
 重庆红岩文化,http://www.wpfhome.cn:5555/rtp/235.254.198.182:7980
 重庆红岩文化,http://pve.iszbd.com:4022/udp/225.0.4.69:7980
 重庆红岩文化,http://17782331118.top:8188/rtp/235.254.197.107:7980
 重庆红岩文化,http://game.x3322.net:8899/udp/225.0.4.194:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
-重庆红叶,http://110.40.170.5:8890/diai/live_iptv.php?id=189&token=8888
 重庆红叶,http://www.wpfhome.cn:5555/rtp/235.254.197.111:7980
 重庆红叶,http://pve.iszbd.com:4022/udp/225.0.4.63:7980
 重庆红叶,http://17782331118.top:8188/rtp/235.254.197.111:7980
 重庆红叶,http://game.x3322.net:8899/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
-重庆社会与法,http://110.40.170.5:8890/diai/live_iptv.php?id=184&token=8888
 重庆社会与法,http://pve.iszbd.com:4022/rtp/225.0.4.190:7980
 重庆社会与法,http://17782331118.top:8188/rtp/235.254.197.106:7980
 重庆社会与法,http://www.wpfhome.cn:5555/rtp/235.254.198.181:7980
 重庆社会与法,http://game.x3322.net:8899/udp/225.0.4.64:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
-重庆新农村,http://110.40.170.5:8890/diai/live_iptv.php?id=187&token=8888
 重庆新农村,http://pve.iszbd.com:4022/udp/225.0.4.70:7980
 重庆新农村,http://17782331118.top:8188/rtp/235.254.197.109:7980
 重庆新农村,http://www.wpfhome.cn:5555/rtp/235.254.198.186:7980
 重庆新农村,http://game.x3322.net:8899/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
-重庆少儿,http://110.40.170.5:8890/diai/live_iptv.php?id=188&token=8888
 重庆少儿,http://pve.iszbd.com:4022/udp/225.0.4.71:7980
 重庆少儿,http://17782331118.top:8188/rtp/235.254.197.110:7980
 重庆少儿,http://game.x3322.net:8899/udp/225.0.4.71:7980
