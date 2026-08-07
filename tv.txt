@@ -261,6 +261,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://59.110.175.70:23567/PLTV/651/224/3221226680/1.m3u8
 重庆卫视,http://38.75.136.137:82/live1/jsb1.m3u8?id=cqwshd&usign=vzqaJ_PontcSj5HWf1OcCg 
 重庆卫视,http://111.8.242.104:8088/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://1.192.152.76:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://61.178.227.57:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://218.13.138.139:59901/tsfile/live/0142_1.m3u8
 重庆卫视,http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
 重庆卫视,http://111.8.242.142:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0$湖南移动
 重庆卫视,http://111.8.242.104:8088/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0$湖南移动
