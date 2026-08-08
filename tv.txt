@@ -1,10 +1,7 @@
 九洲饭店,#genre#
-饭店简介,https://d.kstore.dev/download/10141/饭店.mp4#http://titwh9n34.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4
+饭店简介,https://d.kstore.dev/download/10141/%E9%A5%AD%E5%BA%97.mp4#http://titwh9n34.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4
 
 特色频道,#genre#
-生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
-生态环境,rtsp://192.168.27.20/PLTV/88888914/224/3221227491/228096211.smil
-
 中国天气,http://123.175.168.89:5140/高清/中国天气
 中国天气,http://17752995.xyz:51111/959986621
 中国天气,http://w.yyjn.top:3000/959986621
