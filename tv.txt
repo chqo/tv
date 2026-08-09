@@ -46,9 +46,6 @@ CHC家庭影院,https://live.chinacert.cftest5.cn/cnmg/live/644368373
 CHC影迷电影,http://fn.gcl.de5.net:5908/gsh950428/952383261
 CHC动作电影,http://fn.gcl.de5.net:5908/gsh950428/644368714
 CHC家庭影院,http://fn.gcl.de5.net:5908/gsh950428/644368373
-CHC影迷电影,http://mg.cttv.vip/952383261
-CHC动作电影,http://mg.cttv.vip/644368714
-CHC家庭影院,http://mg.cttv.vip/644368373
 CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
 CHC动作电影,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8
 CHC影迷电影,http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
@@ -273,8 +270,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wschongqing
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://mg.cttv.vip/738910914
-重庆卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910914
 重庆卫视,http://47.104.178.59:3566/738910914
 重庆卫视,http://wfenf.x3322.net:7788/738910914
 重庆卫视,http://111.230.72.38:1234/738910914
@@ -440,6 +435,41 @@ CCTV17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u
 兵团卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8 $黑龙江移动
 西藏卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8 $黑龙江移动
 青海卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8 $黑龙江移动
+CCTV1,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8
+CCTV1,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
+CCTV1,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
+CCTV2,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
+CCTV2,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8
+CCTV3,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
+CCTV3,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-3/CCTV-3.m3u8
+CCTV3,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD.m3u8
+CCTV4,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
+CCTV4,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
+CCTV5,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8
+CCTV5,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8
+CCTV5,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-5/CCTV-5.m3u8
+CCTV5,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD.m3u8
+CCTV5+,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8
+CCTV5+,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8
+CCTV5+,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-8M/G_CCTV-5PLUS-HD-265-8M.m3u8
+CCTV6,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD.m3u8
+CCTV6,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8
+CCTV7,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-7/CCTV-7.m3u8
+CCTV8,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-8-MD/G_CCTV-8-MD.m3u8
+CCTV8,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-8-HD-265-8M/G_CCTV-8-HD-265-8M.m3u8
+CCTV9,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-9/G_CCTV-9.m3u8
+CCTV10,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-10/CCTV-10.m3u8
+CCTV11,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
+CCTV11,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-11/CCTV-11.m3u8
+CCTV13,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
+CCTV13,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-13/CCTV-13.m3u8
+CCTV14,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8
+CCTV15,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
+CCTV15,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
+CCTV16,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
+CCTV16-4K,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
+CCTV17,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
+CCTV17,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
 CCTV1,http://yftv-wshls.yzbtv.cn/live/4387.flv
 CCTV2,http://yftv-wshls.yzbtv.cn/live/11ecc.flv
 CCTV3,http://yftv-wshls.yzbtv.cn/live/11ef4.flv
