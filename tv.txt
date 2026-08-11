@@ -105,7 +105,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 快乐垂钓,http://112.85.93.6:7788/961930263
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 
-四海钓鱼,http://123.175.168.89:5140/高清/四海钓鱼
 四海钓鱼,http://fn.gcl.de5.net:5908/gsh950428/637444975
 四海钓鱼,http://wfenf.x3322.net:7788/637444975#http://182.85.163.168:5678/637444975#http://112.85.93.6:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
 
@@ -126,8 +125,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv$广西
 凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$广西
 凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$广西
-凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰中文,http://wddpmpc.sosos.run:4022/rtp/239.111.205.78:5140$陕西电信
 凤凰资讯,http://wddpmpc.sosos.run:4022/rtp/239.111.205.82:5140$陕西电信
 凤凰中文,http://www.chunktv.top:10000/rtp/239.111.205.78:5140$陕西电信
@@ -230,7 +227,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 
 重庆频道,#genre#
-重庆卫视,http://117.21.182.161:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
 重庆卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8 $黑龙江移动
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://180.165.8.71:19999/📺卫视频道/重庆卫视
@@ -1840,11 +1836,6 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 卡酷动画,http://39.165.39.49:85/tsfile/live/1158_1.m3u8?key=txiptv&playlive=1&authid=0
 炫动卡通,http://39.165.39.49:85/tsfile/live/1159_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://39.165.39.49:85/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
-哈哈炫动,http://218.1.211.23:8686/卫视/哈哈炫动
-动漫秀场,http://218.1.211.23:8686/卡通/动漫秀场
-卡酷少儿,http://218.1.211.23:8686/卫视/卡酷少儿
-金鹰卡通,http://218.1.211.23:8686/卫视/金鹰卡通
-嘉佳卡通,http://218.1.211.23:8686/地方/嘉佳卡通
 优漫卡通,http://t.061899.xyz/tl/dq.php?id=jjkt
 嘉佳卡通,http://t.061899.xyz/tl/dq.php?id=jjkt
 卡酷少儿,http://t.061899.xyz/tl/dq.php?id=bjkk
@@ -1856,10 +1847,6 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 少儿动漫,http://www.wpfhome.cn:5555/rtp/235.254.198.116:1740
 金鹰卡通,http://www.wpfhome.cn:5555/rtp/235.254.198.50:1476
 嘉佳卡通,http://www.wpfhome.cn:5555/rtp/235.254.198.110:1716
-卡酷少儿,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8
-金鹰卡通,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/jykt_2000.m3u8
-嘉佳卡通,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8
-成都少儿,http://183.214.23.16:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-6_2000.m3u8
 卡酷动画,http://iptv.ayemovie.top:5555/rtp/232.0.0.57:8682
 卡酷动画,http://op.ayemovie.top:5555/rtp/232.0.0.57:8682
 卡酷动画,http://xiaoya.ayemovie.top:5555/rtp/232.0.0.57:8682
