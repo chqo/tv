@@ -231,11 +231,12 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 
 重庆频道,#genre#
-重庆卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8 $黑龙江移动
+重庆卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$黑龙江移动
 重庆卫视 ,http://cg5.hunancatv.cn:9090/live/CQWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285848&srchost=172.16.22.158:8060&gid=m3oUovmJwv59VMn9v9yYGg%3D%3D
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://47.104.178.59:3566/738910914
 重庆卫视,http://47.119.24.76:59093/738910914
+重庆卫视,http://w.yyjn.top:3000/738910914
 重庆卫视,http://smartzhu.cn:1234/738910914
 重庆卫视,http://fn.gcl.de5.net:5908/gsh950428/738910914
 重庆卫视,http://wfenf.x3322.net:7788/738910914
