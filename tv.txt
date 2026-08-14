@@ -26,6 +26,8 @@
 金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
 
 东方财经,http://8.138.7.223/tv/5gtv.php?id=227
+东方财经 ,http://cg5.hunancatv.cn:9090/live/DFCJ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285987&srchost=172.16.22.158:8060&gid=zL4edmPCkuh7%2BbQbe7IwOw%3D%3D
+东方财经2 ,http://cg2.hunancatv.cn:9090/live/XFC_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285990&srchost=172.16.22.158:8060&gid=0qjY4uGhBcB7mGsKE8R5oA%3D%3D
 东方财经,http://www.998878.xyz:5050/rtp/239.94.1.59:5140$四川电信
 东方财经,http://www.zhms.tk:5050/rtp/239.94.1.59:5140$四川电信
 东方财经,http://xmzj.f3322.net:8188/rtp/239.94.1.59:5140$四川电信
@@ -126,6 +128,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$广西
 凤凰中文,http://wddpmpc.sosos.run:4022/rtp/239.111.205.78:5140$陕西电信
 凤凰资讯,http://wddpmpc.sosos.run:4022/rtp/239.111.205.82:5140$陕西电信
+凤凰中文,http://tiger81.i234.me:8888/rtp/239.111.205.78:5140$陕西电信
+凤凰资讯,http://tiger81.i234.me:8888/rtp/239.111.205.82:5140$陕西电信
 凤凰中文,http://www.chunktv.top:10000/rtp/239.111.205.78:5140$陕西电信
 凤凰资讯,http://www.chunktv.top:10000/rtp/239.111.205.82:5140$陕西电信
 凤凰资讯,http://xtvantsc.xyz/fhx.php?id=1
@@ -163,6 +167,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://106.112.254.38:8989/rtp/239.254.201.3:5227$河北电信
 凤凰中文,http://960207.xyz:8188/rtp/239.254.201.2:5226$河北电信
 凤凰资讯,http://960207.xyz:8188/rtp/239.254.201.3:5227$河北电信
+凤凰中文,http://dyn.nowddns.com:7233/udp/239.94.2.52:5140$四川电信
 凤凰中文,http://xmzj.f3322.net:8188/udp/239.94.2.52:5140$四川电信
 凤凰资讯,http://xmzj.f3322.net:8188/rtp/239.94.2.49:5140$四川电信
 凤凰中文,http://yaofuming.top:8188/rtp/239.94.2.52:5140$四川电信
@@ -227,15 +232,22 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8 $黑龙江移动
+重庆卫视 ,http://cg5.hunancatv.cn:9090/live/CQWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285848&srchost=172.16.22.158:8060&gid=m3oUovmJwv59VMn9v9yYGg%3D%3D
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
-重庆卫视,http://180.165.8.71:19999/📺卫视频道/重庆卫视
+重庆卫视,http://47.104.178.59:3566/738910914
+重庆卫视,http://47.119.24.76:59093/738910914
+重庆卫视,http://smartzhu.cn:1234/738910914
+重庆卫视,http://fn.gcl.de5.net:5908/gsh950428/738910914
+重庆卫视,http://wfenf.x3322.net:7788/738910914
+重庆卫视,http://111.230.72.38:1234/738910914
+重庆卫视,http://106.52.119.159:1234/738910914
+重庆卫视,http://222.134.19.49:8090/738910914
+重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆卫视,http://198.204.228.26/live/cqwshd.m3u8?ysp
 重庆卫视,http://dx.joygala.cn:8118/rtp/239.49.8.57:9830$RTP2
 重庆卫视,http://j1900.silicaite.top:58888/rtp/239.49.8.57:9830$RTP4
 重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8
 重庆卫视,http://go.bkpcp.top/mg/cqws
-重庆卫视,http://59.110.175.70:23567/PLTV/651/224/3221226680/1.m3u8
-重庆卫视,http://38.75.136.137:82/live1/jsb1.m3u8?id=cqwshd&usign=vzqaJ_PontcSj5HWf1OcCg 
 重庆卫视,http://111.8.242.104:8088/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://1.192.152.76:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://61.178.227.57:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -255,14 +267,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wschongqing
 重庆卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://47.104.178.59:3566/738910914
-重庆卫视,http://47.119.24.76:59093/738910914
-重庆卫视,http://fn.gcl.de5.net:5908/gsh950428/738910914
-重庆卫视,http://wfenf.x3322.net:7788/738910914
-重庆卫视,http://111.230.72.38:1234/738910914
-重庆卫视,http://106.52.119.159:1234/738910914
-重庆卫视,http://222.134.19.49:8090/738910914
-重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆卫视,http://112.99.195.122:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
 重庆卫视,http://120.198.84.146:9901/tsfile/live/1058_1.m3u8
@@ -294,7 +298,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆影视,http://58.17.134.3:8001/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
-重庆影视,http://www.745612.xyz:7788/rtp/235.254.198.180:7980
 重庆影视,http://ii0.qzz.io:4070/rtp/235.254.196.209:1108
 重庆影视,http://iop.zfur.me:4070/rtp/235.254.196.209:1108
 重庆影视,http://qzz7.qzz.io:4070/rtp/235.254.196.209:1108
@@ -457,6 +460,71 @@ CCTV16,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-C
 CCTV16-4K,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
 CCTV17,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
 CCTV17,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
+CCTV1,http://cg0.hunancatv.cn:9090/live/CCTV1_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285750&srchost=172.16.22.158:8060&gid=iS%2BZCT%2BG4LeIizlXBAT8VQ%3D%3D
+CCTV2,http://cg5.hunancatv.cn:9090/live/CCTV2_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285752&srchost=172.16.22.158:8060&gid=duNEuLDAJBFxSgJgI8jU%2FQ%3D%3D
+CCTV3,http://cg6.hunancatv.cn:9090/live/CCTV3_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285754&srchost=172.16.22.158:8060&gid=LzqWaVaCpQ3eVz8OqAcxUA%3D%3D
+CCTV4,http://cg3.hunancatv.cn:9090/live/CCTV-4_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285756&srchost=172.16.22.158:8060&gid=%2BdaG%2BaJacgxr27%2FnyR0FOg%3D%3D
+CCTV5,http://cg12.hunancatv.cn:9090/live/CCTV5_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285772&srchost=172.16.22.158:8060&gid=tDD152ZB653Y1jRBV2ex8w%3D%3D
+CCTV5+,http://cg5.hunancatv.cn:9090/live/CCTV5+_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285774&srchost=172.16.22.158:8060&gid=G%2BPepKwfypv8UiYh3zv0%2FA%3D%3D
+CCTV6,http://cg0.hunancatv.cn:9090/live/CCTV6_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285776&srchost=172.16.22.158:8060&gid=HUYHAiu8PuyPvGijynzyQw%3D%3D
+CCTV7,http://cg3.hunancatv.cn:9090/live/CCTV7_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285778&srchost=172.16.22.158:8060&gid=uQz8IL2AVkWMIeU6%2BmkcfQ%3D%3D
+CCTV8,http://cg1.hunancatv.cn:9090/live/CCTV8_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285780&srchost=172.16.22.158:8060&gid=nkm30IYyYXKOM4qpOS0D1A%3D%3D
+CCTV9,http://cg13.hunancatv.cn:9090/live/CCTV9_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285782&srchost=172.16.22.158:8060&gid=jDJzvr8PEIGzVGmOEK0b2A%3D%3D
+CCTV10,http://cg14.hunancatv.cn:9090/live/CCTV10_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285786&srchost=172.16.22.158:8060&gid=1M%2BDedoX84q7jG9B3jgWFw%3D%3D
+CCTV11,http://cg6.hunancatv.cn:9090/live/CCTV-11_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285789&srchost=172.16.22.158:8060&gid=S7r%2BgbdSQYWBDyQPvqTSug%3D%3D
+CCTV12,http://cg5.hunancatv.cn:9090/live/CCTV12_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285791&srchost=172.16.22.158:8060&gid=bLxV5OiFpfrwua3ikyXJVw%3D%3D
+CCTV13,http://cg0.hunancatv.cn:9090/live/CCTV-13_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285793&srchost=172.16.22.158:8060&gid=413gQVPgOsWufUVXwZOP7w%3D%3D
+CCTV14,http://cg2.hunancatv.cn:9090/live/CCTV14_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285795&srchost=172.16.22.158:8060&gid=rFBBZxGaedkWMSgqR0%2FLtQ%3D%3D
+CCTV15,http://cg3.hunancatv.cn:9090/live/CCTV-15_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285798&srchost=172.16.22.158:8060&gid=LPSfIJNdsLBHoof4DFo0Mg%3D%3D
+CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285800&srchost=172.16.22.158:8060&gid=3N6kVlq%2BGWlnKXa2R5zCcA%3D%3D
+CCTV17,http://cg14.hunancatv.cn:9090/live/CCTV17_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285802&srchost=172.16.22.158:8060&gid=j5jeDDaVxD8zkbHhusKFwA%3D%3D
+CCTV4K,http://cg11.hunancatv.cn:9090/live/CCTV4K_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285804&srchost=172.16.22.158:8060&gid=dt7hNK6rV1z1VgRglA9cfA%3D%3D
+重温经典,http://cg11.hunancatv.cn:9090/live/CWJD_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285828&srchost=172.16.22.158:8060&gid=ZuCZdlDsGtfMGeWuZz9LoA%3D%3D
+书画频道,http://cg11.hunancatv.cn:9090/live/SHPD_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285832&srchost=172.16.22.158:8060&gid=jmKR%2B6guFAH0di7QPlk6Gg%3D%3D
+北京卫视,http://cg11.hunancatv.cn:9090/live/BTV_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285835&srchost=172.16.22.158:8060&gid=JfDhjlSXDvI2gCAXBl06ow%3D%3D
+北京卫视4K,http://cg2.hunancatv.cn:9090/live/BTV4K_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285837&srchost=172.16.22.158:8060&gid=2pOdJabfYYughE2CXSkCtg%3D%3D
+东方卫视,http://cg13.hunancatv.cn:9090/live/DFWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285841&srchost=172.16.22.158:8060&gid=EwVxlx1HqeHXmCfTte7%2FLQ%3D%3D
+东方卫视4K,http://cg1.hunancatv.cn:9090/live/SHWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285843&srchost=172.16.22.158:8060&gid=uHPR4wdrAmJE4ZwQlegLKg%3D%3D
+天津卫视,http://cg12.hunancatv.cn:9090/live/TJWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285846&srchost=172.16.22.158:8060&gid=SGkTXfkkPjuRljvWX02tPA%3D%3D
+重庆卫视,http://cg5.hunancatv.cn:9090/live/CQWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285848&srchost=172.16.22.158:8060&gid=m3oUovmJwv59VMn9v9yYGg%3D%3D
+黑龙江卫视,http://cg14.hunancatv.cn:9090/live/HLJWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285850&srchost=172.16.22.158:8060&gid=ah8o67cusc0cNmiJWaktAg%3D%3D
+吉林卫视,http://cg1.hunancatv.cn:9090/live/JLWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285852&srchost=172.16.22.158:8060&gid=V1cBnD08ItqBo4TrE%2BRNnA%3D%3D
+吉林卫视,http://cg1.hunancatv.cn:9090/live/JNWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285855&srchost=172.16.22.158:8060&gid=tunvRdHCGGG9t2mzsZLgwA%3D%3D
+辽宁卫视,http://cg5.hunancatv.cn:9090/live/LNWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285859&srchost=172.16.22.158:8060&gid=TTm0ZVvi%2BSDD%2FYwRH2SpSw%3D%3D
+内蒙古卫视,http://cg2.hunancatv.cn:9090/live/NMGWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285861&srchost=172.16.22.158:8060&gid=10IV7XK19JVfw%2FvX4Jongg%3D%3D
+宁夏卫视,http://cg6.hunancatv.cn:9090/live/NXWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285863&srchost=172.16.22.158:8060&gid=4lzFNOyTcFGeazHLnbGpDw%3D%3D
+甘肃卫视,http://cg1.hunancatv.cn:9090/live/GSWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285866&srchost=172.16.22.158:8060&gid=v0q5P2d3oCq9wf%2BX3OBujg%3D%3D
+青海卫视,http://cg12.hunancatv.cn:9090/live/QHWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285868&srchost=172.16.22.158:8060&gid=NoLPKZuf7LfI8ali%2F2mqQA%3D%3D
+陕西卫视,http://cg3.hunancatv.cn:9090/live/SXWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285870&srchost=172.16.22.158:8060&gid=41Iv4dpxgKony%2FYzxsGblQ%3D%3D
+河北卫视,http://cg1.hunancatv.cn:9090/live/DHBWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285873&srchost=172.16.22.158:8060&gid=QHeI2irIaAcyC349bSne5w%3D%3D
+山西卫视,http://cg11.hunancatv.cn:9090/live/SXWS1_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285879&srchost=172.16.22.158:8060&gid=XTuFC%2F6AVlIqxiIvQ3SL8w%3D%3D
+山东卫视,http://cg0.hunancatv.cn:9090/live/SDWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285887&srchost=172.16.22.158:8060&gid=0i5X1hDK9KSc7PAY6TLZng%3D%3D
+山东卫视4K,http://cg11.hunancatv.cn:9090/live/SDWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285895&srchost=172.16.22.158:8060&gid=%2BVKmythPzmIIVgBskORdNA%3D%3D
+安徽卫视,http://cg11.hunancatv.cn:9090/live/AHWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285897&srchost=172.16.22.158:8060&gid=o24QXiq9aNKeMEG7oc2fjQ%3D%3D
+河南卫视,http://cg2.hunancatv.cn:9090/live/HNWS1_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285900&srchost=172.16.22.158:8060&gid=BVKZUai%2FhlXMy8hp2Qc9Iw%3D%3D
+湖北卫视,http://cg11.hunancatv.cn:9090/live/HBWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285903&srchost=172.16.22.158:8060&gid=OdcJnhTgJYlu5u43Cd%2FE%2Bw%3D%3D
+湖南卫视,http://cg1.hunancatv.cn:9090/live/HNWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285905&srchost=172.16.22.158:8060&gid=QQJsWnS6%2FGL68cT%2BH0Pz1w%3D%3D
+湖南卫视4K,http://cg1.hunancatv.cn:9090/live/HNWS4K_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285907&srchost=172.16.22.158:8060&gid=8sxRz3kLMfpCyoxlaznobA%3D%3D
+江西卫视,http://cg14.hunancatv.cn:9090/live/JXWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285913&srchost=172.16.22.158:8060&gid=davECf6SNMXHYfRrP7VIHg%3D%3D
+江苏卫视,http://cg14.hunancatv.cn:9090/live/JSWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285916&srchost=172.16.22.158:8060&gid=E4r%2Fvg1vSfu%2BS3km8BWSOw%3D%3D
+江苏卫视4K,http://cg12.hunancatv.cn:9090/live/JSWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285926&srchost=172.16.22.158:8060&gid=iP0HcTc0nS0WgEkjf4o68g%3D%3D
+浙江卫视,http://cg3.hunancatv.cn:9090/live/ZJWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285931&srchost=172.16.22.158:8060&gid=4E7NHB8a6QacP32CAHg6NA%3D%3D
+浙江卫视4K,http://cg14.hunancatv.cn:9090/live/ZJWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285933&srchost=172.16.22.158:8060&gid=x48NKsaO6QthAKzLd0HLUQ%3D%3D
+东南卫视,http://cg5.hunancatv.cn:9090/live/DNWS1_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285935&srchost=172.16.22.158:8060&gid=E70oEQQ%2BiSHhXzHtamIrjg%3D%3D
+广东卫视,http://cg0.hunancatv.cn:9090/live/GDWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285939&srchost=172.16.22.158:8060&gid=bbEilhPei84G115cM2PpSg%3D%3D
+广东卫视4K,http://cg6.hunancatv.cn:9090/live/GDWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285941&srchost=172.16.22.158:8060&gid=zcPOSbz3Y2KRbzGIgJUyHQ%3D%3D
+深圳卫视,http://cg2.hunancatv.cn:9090/live/SZWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285943&srchost=172.16.22.158:8060&gid=lB0cfcGqR7kU%2Bkavdhb3PQ%3D%3D
+深圳卫视4K,http://cg2.hunancatv.cn:9090/live/SZWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285947&srchost=172.16.22.158:8060&gid=hGBuszBoHMw3Vq8%2BiOEeqQ%3D%3D
+广西卫视,http://cg12.hunancatv.cn:9090/live/GXWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285950&srchost=172.16.22.158:8060&gid=JTOhiz5ohNZD2EmZAPSnyA%3D%3D
+云南卫视,http://cg2.hunancatv.cn:9090/live/YNWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285954&srchost=172.16.22.158:8060&gid=eHGcoLcNnX5YcSe7znHtCw%3D%3D
+贵州卫视,http://cg2.hunancatv.cn:9090/live/GZWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285956&srchost=172.16.22.158:8060&gid=f0FHIWzYjKdaQDA%2Bemn3iA%3D%3D
+四川卫视,http://cg5.hunancatv.cn:9090/live/SCWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285958&srchost=172.16.22.158:8060&gid=txkF2YUdCEThmg%2FieM6TwA%3D%3D
+四川卫视4K,http://cg5.hunancatv.cn:9090/live/SCWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285960&srchost=172.16.22.158:8060&gid=BhtZV4gEvfcgGNqYrMT0gQ%3D%3D
+新疆卫视,http://cg5.hunancatv.cn:9090/live/XJWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285962&srchost=172.16.22.158:8060&gid=izT61Tqz38sQr%2F4j15EZ0A%3D%3D
+兵团卫视,http://cg2.hunancatv.cn:9090/live/BTWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285966&srchost=172.16.22.158:8060&gid=VHZwKb8QuHVnYiov8W47dA%3D%3D
+西藏卫视,http://cg1.hunancatv.cn:9090/live/XZWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285969&srchost=172.16.22.158:8060&gid=nuMVmmFXADkuhSMEukMmwA%3D%3D
+海南卫视,http://cg14.hunancatv.cn:9090/live/LYWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285971&srchost=172.16.22.158:8060&gid=%2BAOBEJvc11hWXCz7vMJJmA%3D%3D
+卡酷少儿,http://cg1.hunancatv.cn:9090/live/KKDH_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285974&srchost=172.16.22.158:8060&gid=LFCbdhHZhBhu5q8oW0PunA%3D%3D
 CCTV1,http://yftv-wshls.yzbtv.cn/live/4387.flv
 CCTV2,http://yftv-wshls.yzbtv.cn/live/11ecc.flv
 CCTV3,http://yftv-wshls.yzbtv.cn/live/11ef4.flv
@@ -1842,6 +1910,8 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 卡酷少儿,http://115.29.208.41:33339/sx-jz-dx.php?id=1010
 快乐垂钓,http://115.29.208.41:33339/sx-jz-dx.php?id=1011
 金鹰卡通,http://115.29.208.41:33339/sx-jz-dx.php?id=1012
+优优宝贝 ,http://cg2.hunancatv.cn:9090/live/YYBB_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285985&srchost=172.16.22.158:8060&gid=m%2Bh%2FDguMyJLOemgdRhzJeQ%3D%3D
+动漫秀场 ,http://cg0.hunancatv.cn:9090/live/DMXC_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285993&srchost=172.16.22.158:8060&gid=XNMxdkOkk2VcaE%2FWhRRUTw%3D%3D
 卡酷动画,http://www.wpfhome.cn:5555/rtp/235.254.198.49:1472
 少儿动漫,http://www.wpfhome.cn:5555/rtp/235.254.198.116:1740
 金鹰卡通,http://www.wpfhome.cn:5555/rtp/235.254.198.50:1476
@@ -2036,18 +2106,20 @@ DJ舞曲,#genre#
 震撼纯电音Drown,https://vd2.bdstatic.com/mda-mjshcpd847mhnjgj/sc/cae_h264/1635337200637124885/mda-mjshcpd847mhnjgj.mp4#https://pan.vma.cc/pan/v/f581adf8cec918e2d12575eb272ec444?ext=mp4&pwd=98569856
 带劲摇头,https://txmov2.a.kwimgs.com/bs3/video-hls/5199968844019002757_hlsb.m3u8
 摇头卡点,https://txmov2.a.kwimgs.com/bs3/video-hls/5253167611834026799_hlsb.m3u8
+快摇越南鼓点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5246130739648463544_hlsb.m3u8
+带劲越南鼓点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5199968844019002757_hlsb.m3u8
+蹦迪越南鼓点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5253167611834026799_hlsb.m3u8
 快摇越南鼓弹射太空,https://txmov2.a.kwimgs.com/bs3/video-hls/5246130739648463544_hlsb.m3u8
-老歌DJ 越听越上头,https://txmov2.a.kwimgs.com/bs3/video-hls/5234027313336778127_hlsb.m3u8
 快摇越南鼓,https://txmov2.a.kwimgs.com/bs3/video-hls/5246130739648463544_hlsb.m3u8
 带劲越南鼓,https://txmov2.a.kwimgs.com/bs3/video-hls/5199968844019002757_hlsb.m3u8
 蹦迪越南鼓,https://txmov2.a.kwimgs.com/bs3/video-hls/5253167611834026799_hlsb.m3u8
 越南神曲,https://vd2.bdstatic.com/mda-pdde6x4c56467djm/576p/h264/1681466528778166412/mda-pdde6x4c56467djm.mp4
-慢摇舞曲(DJ),http://em.21dtv.com/songs/30000601.mkv
 摇呀摇DJ,https://vd4.bdstatic.com/mda-peeixrkhd2cy1zfi/hd/cae_h264/1684262984316045413/mda-peeixrkhd2cy1zfi.mp4
 玩腻DJ,https://vd2.bdstatic.com/mda-phpb3pnb5u88qh6e/576p/h264/1692863767878360172/mda-phpb3pnb5u88qh6e.mp4
 DJ打碟Amelisa,https://vd4.bdstatic.com/mda-nhe6iz0ya02t34mh/720p/h264/1660538849895876334/mda-nhe6iz0ya02t34mh.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565054-0-0-4956d281df19b6ef8ddd4cba109b74f1&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2054620949&vid=11167157976401030828&abtest=103742_2-103890_2-103579_2&klogid=2054620949
 DJ打碟Medellín,https://vd4.bdstatic.com/mda-nhckuvcwx1yre9kr/sc/cae_h264/1660407679297089319/mda-nhckuvcwx1yre9kr.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565121-0-0-8df9d60de8c19365fc930561dea166e9&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2121203023&vid=10124834456939342132&abtest=103742_2-103890_2-103579_2&klogid=2121203023
 酒吧DJ慢摇,https://vd4.bdstatic.com/mda-nep7389tybhqri26/sc/cae_h264/1653369853990409770/mda-nep7389tybhqri26.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660564826-0-0-ed8f3039d644d74a001081b69ec18480&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1826721718&vid=5722172632748597378&abtest=103742_2-103890_2-103579_2&klogid=1826721718
+老歌DJ 越听越上头,https://txmov2.a.kwimgs.com/bs3/video-hls/5234027313336778127_hlsb.m3u8
 车载DJ舞曲精选,https://vd3.bdstatic.com/mda-mktgbuw1tgftu9r3/1080p/cae_h264/1638416019802849347/mda-mktgbuw1tgftu9r3.mp4
 车载DJ舞曲,https://vd3.bdstatic.com/mda-nask5v8g11h6fqmf/sc/cae_h264_delogo/1643293983357482773/mda-nask5v8g11h6fqmf.mp4
 车载DJ,https://vd4.bdstatic.com/mda-nahdi45ud73s2842/sc/cae_h264_delogo/1642519489503455798/mda-nahdi45ud73s2842.mp4
@@ -2063,9 +2135,6 @@ DJ打碟Medellín,https://vd4.bdstatic.com/mda-nhckuvcwx1yre9kr/sc/cae_h264/1660
 演唱DJ,https://alimov2.a.kwimgs.com/bs3/video-hls/5220798016436491628_hlsb.m3u8
 洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
 午夜,https://vd2.bdstatic.com/mda-na0hvaumrq7tvpy6/hd/cae_h264_delogo/1642485198391114574/mda-na0hvaumrq7tvpy6.mp4
-DJ2,https://alimov2.a.kwimgs.com/upic/2024/09/23/18/BMjAyNDA5MjMxODI4MTBfNDIzODg0NjQ0Nl8xNDQyOTcyNzEwODdfMV8z_b_Bd0b9e488aa0128ec30641c79d7b0609d.mp4
-DJ3,https://alimov2.a.kwimgs.com/upic/2024/10/02/18/BMjAyNDEwMDIxODA1MDVfNDIzODg0NjQ0Nl8xNDUwNjA0ODk0MDRfMV8z_b_B4e1bc07131f1a44fd2f3d5d6d188f58a.mp4
-DJ4,https://alimov2.a.kwimgs.com/upic/2024/10/24/12/BMjAyNDEwMjQxMjA5MDVfNDIzODg0NjQ0Nl8xNDY4MjUyMzA3MjZfMV8z_b_B04f5cb4f697325e916199a54565e94d5.mp4
 9首舞曲,https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
 5首劲爆,https://vd2.bdstatic.com/mda-mm69dxgtcqg28j9j/sc/cae_h264/1638860024910192032/mda-mm69dxgtcqg28j9j.mp4
 5首伤感,https://vd2.bdstatic.com/mda-nd5cr584424xr57c/sc/cae_h264_delogo/1649238205192327499/mda-nd5cr584424xr57c.mp4
@@ -2090,9 +2159,6 @@ DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjp
 车震视频1,https://vd2.bdstatic.com/mda-mki7h67gag5wcev9/720p/h264/1637299107495714243/mda-mki7h67gag5wcev9.mp4
 动感舞曲01,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0__p4gUo3tvg8AY.mp4
 十首伤感DJ情歌,https://vdse.bdstatic.com//5319e5b5cd1ad9d27a21b9bf4ad534ba.mp4
-快摇越南鼓点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5246130739648463544_hlsb.m3u8
-带劲越南鼓点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5199968844019002757_hlsb.m3u8
-蹦迪越南鼓点播,https://txmov2.a.kwimgs.com/bs3/video-hls/5253167611834026799_hlsb.m3u8
 伤感DJ舞曲卢喃来生不做痴情人,https://vd3.bdstatic.com/mda-me49tjbyq5yt8ynu/720p/h264/1620197897045365799/mda-me49tjbyq5yt8ynu.mp4
 高清夜店经典DJ舞曲落花,https://vd4.bdstatic.com/mda-me42p2149u3w00xa/720p/h264/1620179745210912217/mda-me42p2149u3w00xa.mp4
 高清DJ夜店舞曲胡蜜丹拈花一笑,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjpvz81f3fsb0m4v.mp4
@@ -2465,45 +2531,45 @@ DJ舞曲崔伟立肩上的蝴蝶 歌好舞美让人心醉,https://vd4.bdstatic.c
 高清泽旺多吉一曲天路男生版听过吗？这才是真正的天籁之音,https://vd3.bdstatic.com/mda-kekjuc6865ed3hut/v1-cae/sc/mda-kekjuc6865ed3hut.mp4
 夜店DJ舞曲喝醉以后才明白烟熏嗓女生版 媲美原版帅爆了,https://vd2.bdstatic.com/mda-keru1u1xxjpaibr3/sc/mda-keru1u1xxjpaibr3.mp4
 2K高清车载伤感DJ：陈瑞下辈子不做女人 好听,https://vd3.bdstatic.com/mda-keqp934b9ppktjnj/v1-cae/sc/mda-keqp934b9ppktjnj.mp4
-高清：夜店DJ舞曲汤潮苦咖啡,https://vd4.bdstatic.com/mda-keprmkafh59wan7c/sc/mda-keprmkafh59wan7c.mp4
-高清：小琢爱你迷恋你车载DJ广场舞版,https://vd3.bdstatic.com/mda-keksde612uaj7q5j/sc/mda-keksde612uaj7q5j.mp4
-劲爆DJ串烧[1920*1080],https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4
-酒吧爆火DJ舞曲②[1920*1080],https://vd4.bdstatic.com/mda-mmgf9k7sqr771a0d/1080p/cae_h264/1639739439753027337/mda-mmgf9k7sqr771a0d.mp4
-一夜火爆i网络DJ舞曲[1920*1080],https://vdse.bdstatic.com//692b9306c06b72d223c9d714f8ebe579.mp4
-2021年最火伤感音乐[1920*1080],https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
-2021年网络火爆伤感情歌6首[1920*1080],https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
-几首比较火的DJ情歌[1280*720],https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
-唱着情歌流着泪[1920*1080],https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
-伤感DJ等[1920*1080],https://vd2.bdstatic.com/mda-mhq92a7nafrh8dma/1080p/cae_h264/1629977686796490849/mda-mhq92a7nafrh8dma.mp4
-DJ我们不再是从前[1920*1080],https://vd2.bdstatic.com/mda-mhne550wq5m66zvj/1080p/cae_h264/1629803514331462220/mda-mhne550wq5m66zvj.mp4
-DJ舞曲让我做你的眼睛[1920*1080],https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4
-DJ版时间会知道你好不好[1920*1080],https://vd3.bdstatic.com/mda-mhairve7gvye1192/1080p/cae_h264/1629457148988604256/mda-mhairve7gvye1192.mp4
-DJ版爱不得忘不舍[1920*1080],https://vd3.bdstatic.com/mda-mh8j8egnj8idbvd8/1080p/cae_h264/1629367979662473678/mda-mh8j8egnj8idbvd8.mp4
-无味 DJ版[1920*1080],https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4
-DJ版原谅你的谎[1920*1080],https://vd4.bdstatic.com/mda-mhacxx5vhr2we882/1080p/cae_h264/1628673933350116053/mda-mhacxx5vhr2we882.mp4
-DJ情歌爱情迷了路[1920*1080],https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4
-DJ 最美不过你的微笑[1280*720],https://vd4.bdstatic.com/mda-mhs2qjdmkjz2rb7g/sc/cae_h264/1630029534870787600/mda-mhs2qjdmkjz2rb7g.mp4
-DJ 流浪兄弟[1920*1080],https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629972852606533219/mda-mhrdtax1km0idkc5.mp4
-车载DJ多年以后[1920*1080],https://vd3.bdstatic.com/mda-mhqekuegbh6112js/1080p/cae_h264/1629891559415737083/mda-mhqekuegbh6112js.mp4
-好歌分享精选6首伤感DJ舞曲HD[1280*720],https://vdse.bdstatic.com//0c87c8977d0a33498fe7362d3c60c22c.mp4
-2021爆红6首女生版伤感DJHD[1280*720],https://vdse.bdstatic.com//2e77709380ad7e6163e80c4d5c179689.mp4
-美人热舞洗脑DJ舞曲HD[1280*720],https://vdse.bdstatic.com//3700f6b78ceaf0f4a5313f4d68c95b72.mp4
-21年DJ爆红网络洗脑神曲[1920*1080],https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
-韩国DJ Soda Remix 2021 电音[1920*1080],https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
-今日热歌DJ如果爱还在A8回心转意爱到最后就是痛[1920*1080],https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
-推荐9首DJ舞曲，首首甜美醉人[1920*1080],https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
-动感DJ苦了累了听听歌[1920*1080],https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
-车载必备DJ殇雪潮湿的心酒醉的蝴蝶多年以后[1920*1080],https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
-DJ心在跳情在烧[1920*1080],https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
+夜店DJ舞曲汤潮苦咖啡,https://vd4.bdstatic.com/mda-keprmkafh59wan7c/sc/mda-keprmkafh59wan7c.mp4
+小琢爱你迷恋你车载DJ广场舞版,https://vd3.bdstatic.com/mda-keksde612uaj7q5j/sc/mda-keksde612uaj7q5j.mp4
+劲爆DJ串烧,https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4
+酒吧爆火DJ舞曲,https://vd4.bdstatic.com/mda-mmgf9k7sqr771a0d/1080p/cae_h264/1639739439753027337/mda-mmgf9k7sqr771a0d.mp4
+一夜火爆i网络DJ舞曲,https://vdse.bdstatic.com//692b9306c06b72d223c9d714f8ebe579.mp4
+2021年最火伤感音乐,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
+2021年网络火爆伤感情歌6首,https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
+几首比较火的DJ情歌,https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
+唱着情歌流着泪,https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4
+伤感DJ等,https://vd2.bdstatic.com/mda-mhq92a7nafrh8dma/1080p/cae_h264/1629977686796490849/mda-mhq92a7nafrh8dma.mp4
+DJ我们不再是从前,https://vd2.bdstatic.com/mda-mhne550wq5m66zvj/1080p/cae_h264/1629803514331462220/mda-mhne550wq5m66zvj.mp4
+DJ舞曲让我做你的眼睛,https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4
+DJ版时间会知道你好不好,https://vd3.bdstatic.com/mda-mhairve7gvye1192/1080p/cae_h264/1629457148988604256/mda-mhairve7gvye1192.mp4
+DJ版爱不得忘不舍,https://vd3.bdstatic.com/mda-mh8j8egnj8idbvd8/1080p/cae_h264/1629367979662473678/mda-mh8j8egnj8idbvd8.mp4
+无味 DJ版,https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4
+DJ版原谅你的谎,https://vd4.bdstatic.com/mda-mhacxx5vhr2we882/1080p/cae_h264/1628673933350116053/mda-mhacxx5vhr2we882.mp4
+DJ情歌爱情迷了路,https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4
+DJ 最美不过你的微笑,https://vd4.bdstatic.com/mda-mhs2qjdmkjz2rb7g/sc/cae_h264/1630029534870787600/mda-mhs2qjdmkjz2rb7g.mp4
+DJ 流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629972852606533219/mda-mhrdtax1km0idkc5.mp4
+车载DJ多年以后,https://vd3.bdstatic.com/mda-mhqekuegbh6112js/1080p/cae_h264/1629891559415737083/mda-mhqekuegbh6112js.mp4
+好歌分享精选6首伤感DJ舞曲,https://vdse.bdstatic.com//0c87c8977d0a33498fe7362d3c60c22c.mp4
+2021爆红6首女生版伤感DJ,https://vdse.bdstatic.com//2e77709380ad7e6163e80c4d5c179689.mp4
+美人热舞洗脑DJ舞曲,https://vdse.bdstatic.com//3700f6b78ceaf0f4a5313f4d68c95b72.mp4
+21年DJ爆红网络洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
+韩国DJ Soda Remix 2021 电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
+DJ如果爱还在A8回心转意爱到最后就是痛,https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
+推荐9首DJ舞曲，首首甜美醉人,https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
+动感DJ苦了累了听听歌,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
+车载必备DJ殇雪潮湿的心酒醉的蝴蝶多年以后,https://vd3.bdstatic.com/mda-mhve4gb9hi8cstzk/1080p/cae_h264/1630319514896018158/mda-mhve4gb9hi8cstzk.mp4
+DJ心在跳情在烧,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4
 经典老歌DJ舞曲七首[1280*720],https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4
-精选五首DJ男声串烧[1920*1080],https://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4
-韩可可错位时空DJ版[1920*1080],https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
-忘记你需要多久(DJ小鱼儿版)[1920*1080],https://vd2.bdstatic.com/mda-mc1sm1r5s9azchjv/v1-cae/1080p/mda-mc1sm1r5s9azchjv.mp4
-车载DJ今夜为你醉...[1920*1080],https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
-DJ情歌6首[1920*1080],https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
-2021年最好听的DJ串烧[1280*720],https://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4
-2021热门伤感DJ[1280*720],https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4
-爱难求情难断…[1920*1080],https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4
+精选五首DJ男声串烧,https://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4
+韩可可错位时空DJ版,https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
+忘记你需要多久DJ,https://vd2.bdstatic.com/mda-mc1sm1r5s9azchjv/v1-cae/1080p/mda-mc1sm1r5s9azchjv.mp4
+车载DJ今夜为你醉,https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
+DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
+2021年最好听的DJ串烧,https://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4
+2021热门伤感DJ,https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4
+爱难求情难断,https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4
 车震一小时,http://gcw.bdcdn.shoujiduoduo.com/201805/0748-641.mp4
 车载DJ视频6,https://vdse.bdstatic.com//7e9d2da860d4ac39c0ea86502360d6fe.mp4
 
