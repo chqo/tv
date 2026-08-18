@@ -219,7 +219,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 
 重庆频道,#genre#
-重庆卫视,http://42.240.145.105:2003/zhao.php?id=重庆卫视
 重庆卫视,http://xurishangcheng.top:10888/udp/239.49.8.57:9830
 重庆卫视,http://xurishangcheng.top:10888/udp/239.49.8.149:6000
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
