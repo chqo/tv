@@ -219,13 +219,12 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 
 重庆频道,#genre#
-重庆卫视,http://xurishangcheng.top:10888/udp/239.49.8.57:9830
-重庆卫视,http://xurishangcheng.top:10888/udp/239.49.8.149:6000
-重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
-重庆卫视,http://m.061899.xyz/mg/cqws
+重庆卫视,http://42.240.145.105:2003/zhao.php?id=重庆卫视
+重庆卫视,http://45.192.97.170:8880/play/660.m3u8
 重庆卫视,http://k.061899.xyz/k.php?id=cqws
 重庆卫视,http://j.s.bkpcp.top/jj/cqws
 重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
+重庆卫视,http://m.061899.xyz/mg/cqws
 重庆卫视,http://mg.cttv.vip/738910914
 重庆卫视,http://106.52.119.159:1234/738910914
 重庆卫视,http://114.230.109.92:8088/738910914
@@ -237,6 +236,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://fn.gcl.de5.net:5908/gsh950428/738910914
 重庆卫视,http://wfenf.x3322.net:7788/738910914
 重庆卫视,http://go.bkpcp.top/mg/cqws
+重庆卫视,http://45.192.97.170:8880/play/514.m3u8
+重庆卫视,http://e1.woc.iiiya.cn:18888/rtp/239.61.2.250:9488
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
 重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
@@ -244,6 +245,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://dx.joygala.cn:8118/rtp/239.49.8.57:9830$RTP2
 重庆卫视,http://j1900.silicaite.top:58888/rtp/239.49.8.57:9830$RTP4
 重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8
+重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://111.8.242.104:8088/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://1.192.152.76:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://61.178.227.57:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -368,59 +370,58 @@ CCTV4,http://117.21.182.161:2380/c3.cdn.hunancatv.com/live/CCTV4HD.m3u8
 CCTV5,http://117.21.182.161:2380/c3.cdn.hunancatv.com/live/CCTV5HD.m3u8
 CCTV6,http://117.21.182.161:2380/c3.cdn.hunancatv.com/live/CCTV6HD.m3u8
 CCTV8,http://117.21.182.161:2380/c3.cdn.hunancatv.com/live/CCTV8HD.m3u8
+CCTV1,http://42.240.145.105:2003/zhao.php?id=CCTV1
+CCTV2,http://42.240.145.105:2003/zhao.php?id=CCTV2
+CCTV3,http://42.240.145.105:2003/zhao.php?id=CCTV3
+CCTV4,http://42.240.145.105:2003/zhao.php?id=CCTV4
+CCTV5,http://42.240.145.105:2003/zhao.php?id=CCTV5
+CCTV6,http://42.240.145.105:2003/zhao.php?id=CCTV6
+CCTV7,http://42.240.145.105:2003/zhao.php?id=CCTV7
+CCTV8,http://42.240.145.105:2003/zhao.php?id=CCTV8
+CCTV9,http://42.240.145.105:2003/zhao.php?id=CCTV9
+CCTV10,http://42.240.145.105:2003/zhao.php?id=CCTV10
+CCTV11,http://42.240.145.105:2003/zhao.php?id=CCTV11
+CCTV12,http://42.240.145.105:2003/zhao.php?id=CCTV12
+CCTV13,http://42.240.145.105:2003/zhao.php?id=CCTV13
+CCTV14,http://42.240.145.105:2003/zhao.php?id=CCTV14
+CCTV15,http://42.240.145.105:2003/zhao.php?id=CCTV15
+CCTV16,http://42.240.145.105:2003/zhao.php?id=CCTV16
+CCTV17,http://42.240.145.105:2003/zhao.php?id=CCTV17
+北京卫视,http://42.240.145.105:2003/zhao.php?id=北京卫视
+天津卫视,http://42.240.145.105:2003/zhao.php?id=天津卫视
+河北卫视,http://42.240.145.105:2003/zhao.php?id=河北卫视
+山西卫视,http://42.240.145.105:2003/zhao.php?id=山西卫视
+内蒙古卫视,http://42.240.145.105:2003/zhao.php?id=内蒙古卫视
+辽宁卫视,http://42.240.145.105:2003/zhao.php?id=辽宁卫视
+吉林卫视,http://42.240.145.105:2003/zhao.php?id=吉林卫视
+黑龙江卫视,http://42.240.145.105:2003/zhao.php?id=黑龙江卫视
+东方卫视,http://42.240.145.105:2003/zhao.php?id=东方卫视
+江苏卫视,http://42.240.145.105:2003/zhao.php?id=江苏卫视
+浙江卫视,http://42.240.145.105:2003/zhao.php?id=浙江卫视
+安徽卫视,http://42.240.145.105:2003/zhao.php?id=安徽卫视
+东南卫视,http://42.240.145.105:2003/zhao.php?id=东南卫视
+江西卫视,http://42.240.145.105:2003/zhao.php?id=江西卫视
+山东卫视,http://42.240.145.105:2003/zhao.php?id=山东卫视
+河南卫视,http://42.240.145.105:2003/zhao.php?id=河南卫视
+湖北卫视,http://42.240.145.105:2003/zhao.php?id=湖北卫视
+湖南卫视,http://42.240.145.105:2003/zhao.php?id=湖南卫视
+广东卫视,http://42.240.145.105:2003/zhao.php?id=广东卫视
+深圳卫视,http://42.240.145.105:2003/zhao.php?id=深圳卫视
+广西卫视,http://42.240.145.105:2003/zhao.php?id=广西卫视
+海南卫视,http://42.240.145.105:2003/zhao.php?id=海南卫视
+三沙卫视,http://42.240.145.105:2003/zhao.php?id=三沙卫视
+重庆卫视,http://42.240.145.105:2003/zhao.php?id=重庆卫视
+四川卫视,http://42.240.145.105:2003/zhao.php?id=四川卫视
+贵州卫视,http://42.240.145.105:2003/zhao.php?id=贵州卫视
+云南卫视,http://42.240.145.105:2003/zhao.php?id=云南卫视
+西藏卫视,http://42.240.145.105:2003/zhao.php?id=西藏卫视
+陕西卫视,http://42.240.145.105:2003/zhao.php?id=陕西卫视
+甘肃卫视,http://42.240.145.105:2003/zhao.php?id=甘肃卫视
+青海卫视,http://42.240.145.105:2003/zhao.php?id=青海卫视
+宁夏卫视,http://42.240.145.105:2003/zhao.php?id=宁夏卫视
+新疆卫视,http://42.240.145.105:2003/zhao.php?id=新疆卫视
 CCTV13,http://117.21.182.161:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
 CCTV15,http://117.21.182.161:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
-CCTV1,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8 $黑龙江移动
-CCTV2,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8 $黑龙江移动
-CCTV3,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8 $黑龙江移动
-CCTV4,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8 $黑龙江移动
-CCTV5,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8 $黑龙江移动
-CCTV5+,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8 $黑龙江移动
-CCTV6,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8 $黑龙江移动
-CCTV7,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8 $黑龙江移动
-CCTV8,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8 $黑龙江移动
-CCTV9,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8 $黑龙江移动
-CCTV10,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8 $黑龙江移动
-CCTV11,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8 $黑龙江移动
-CCTV12,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8 $黑龙江移动
-CCTV13,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8 $黑龙江移动
-CCTV14,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8 $黑龙江移动
-CCTV15,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8 $黑龙江移动
-CCTV16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8 $黑龙江移动
-CCTV17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8 $黑龙江移动
-北京卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8 $黑龙江移动
-天津卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8 $黑龙江移动
-东方卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8 $黑龙江移动
-重庆卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8 $黑龙江移动
-江苏卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8 $黑龙江移动
-浙江卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8 $黑龙江移动
-安徽卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8 $黑龙江移动
-江西卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8 $黑龙江移动
-湖南卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8 $黑龙江移动
-湖北卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8 $黑龙江移动
-河南卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8 $黑龙江移动
-河北卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8 $黑龙江移动
-广东卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8 $黑龙江移动
-广西卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8 $黑龙江移动
-黑龙江卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8 $黑龙江移动
-吉林卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8 $黑龙江移动
-辽宁卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8 $黑龙江移动
-东南卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8 $黑龙江移动
-深圳卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8 $黑龙江移动
-山东卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8 $黑龙江移动
-云南卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8 $黑龙江移动
-贵州卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8 $黑龙江移动
-四川卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8 $黑龙江移动
-海南卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8 $黑龙江移动
-甘肃卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8 $黑龙江移动
-山西卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8 $黑龙江移动
-宁夏卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8 $黑龙江移动
-陕西卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8 $黑龙江移动
-新疆卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8 $黑龙江移动
-内蒙古卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8 $黑龙江移动
-兵团卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8 $黑龙江移动
-西藏卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8 $黑龙江移动
-青海卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8 $黑龙江移动
 CCTV1,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8
 CCTV1,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
 CCTV1,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
@@ -456,71 +457,6 @@ CCTV16,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-C
 CCTV16-4K,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
 CCTV17,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
 CCTV17,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
-CCTV1,http://cg0.hunancatv.cn:9090/live/CCTV1_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285750&srchost=172.16.22.158:8060&gid=iS%2BZCT%2BG4LeIizlXBAT8VQ%3D%3D
-CCTV2,http://cg5.hunancatv.cn:9090/live/CCTV2_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285752&srchost=172.16.22.158:8060&gid=duNEuLDAJBFxSgJgI8jU%2FQ%3D%3D
-CCTV3,http://cg6.hunancatv.cn:9090/live/CCTV3_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285754&srchost=172.16.22.158:8060&gid=LzqWaVaCpQ3eVz8OqAcxUA%3D%3D
-CCTV4,http://cg3.hunancatv.cn:9090/live/CCTV-4_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285756&srchost=172.16.22.158:8060&gid=%2BdaG%2BaJacgxr27%2FnyR0FOg%3D%3D
-CCTV5,http://cg12.hunancatv.cn:9090/live/CCTV5_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285772&srchost=172.16.22.158:8060&gid=tDD152ZB653Y1jRBV2ex8w%3D%3D
-CCTV5+,http://cg5.hunancatv.cn:9090/live/CCTV5+_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285774&srchost=172.16.22.158:8060&gid=G%2BPepKwfypv8UiYh3zv0%2FA%3D%3D
-CCTV6,http://cg0.hunancatv.cn:9090/live/CCTV6_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285776&srchost=172.16.22.158:8060&gid=HUYHAiu8PuyPvGijynzyQw%3D%3D
-CCTV7,http://cg3.hunancatv.cn:9090/live/CCTV7_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285778&srchost=172.16.22.158:8060&gid=uQz8IL2AVkWMIeU6%2BmkcfQ%3D%3D
-CCTV8,http://cg1.hunancatv.cn:9090/live/CCTV8_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285780&srchost=172.16.22.158:8060&gid=nkm30IYyYXKOM4qpOS0D1A%3D%3D
-CCTV9,http://cg13.hunancatv.cn:9090/live/CCTV9_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285782&srchost=172.16.22.158:8060&gid=jDJzvr8PEIGzVGmOEK0b2A%3D%3D
-CCTV10,http://cg14.hunancatv.cn:9090/live/CCTV10_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285786&srchost=172.16.22.158:8060&gid=1M%2BDedoX84q7jG9B3jgWFw%3D%3D
-CCTV11,http://cg6.hunancatv.cn:9090/live/CCTV-11_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285789&srchost=172.16.22.158:8060&gid=S7r%2BgbdSQYWBDyQPvqTSug%3D%3D
-CCTV12,http://cg5.hunancatv.cn:9090/live/CCTV12_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285791&srchost=172.16.22.158:8060&gid=bLxV5OiFpfrwua3ikyXJVw%3D%3D
-CCTV13,http://cg0.hunancatv.cn:9090/live/CCTV-13_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285793&srchost=172.16.22.158:8060&gid=413gQVPgOsWufUVXwZOP7w%3D%3D
-CCTV14,http://cg2.hunancatv.cn:9090/live/CCTV14_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285795&srchost=172.16.22.158:8060&gid=rFBBZxGaedkWMSgqR0%2FLtQ%3D%3D
-CCTV15,http://cg3.hunancatv.cn:9090/live/CCTV-15_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285798&srchost=172.16.22.158:8060&gid=LPSfIJNdsLBHoof4DFo0Mg%3D%3D
-CCTV16,http://cg1.hunancatv.cn:9090/live/CCTV16_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285800&srchost=172.16.22.158:8060&gid=3N6kVlq%2BGWlnKXa2R5zCcA%3D%3D
-CCTV17,http://cg14.hunancatv.cn:9090/live/CCTV17_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285802&srchost=172.16.22.158:8060&gid=j5jeDDaVxD8zkbHhusKFwA%3D%3D
-CCTV4K,http://cg11.hunancatv.cn:9090/live/CCTV4K_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285804&srchost=172.16.22.158:8060&gid=dt7hNK6rV1z1VgRglA9cfA%3D%3D
-重温经典,http://cg11.hunancatv.cn:9090/live/CWJD_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285828&srchost=172.16.22.158:8060&gid=ZuCZdlDsGtfMGeWuZz9LoA%3D%3D
-书画频道,http://cg11.hunancatv.cn:9090/live/SHPD_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285832&srchost=172.16.22.158:8060&gid=jmKR%2B6guFAH0di7QPlk6Gg%3D%3D
-北京卫视,http://cg11.hunancatv.cn:9090/live/BTV_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285835&srchost=172.16.22.158:8060&gid=JfDhjlSXDvI2gCAXBl06ow%3D%3D
-北京卫视4K,http://cg2.hunancatv.cn:9090/live/BTV4K_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285837&srchost=172.16.22.158:8060&gid=2pOdJabfYYughE2CXSkCtg%3D%3D
-东方卫视,http://cg13.hunancatv.cn:9090/live/DFWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285841&srchost=172.16.22.158:8060&gid=EwVxlx1HqeHXmCfTte7%2FLQ%3D%3D
-东方卫视4K,http://cg1.hunancatv.cn:9090/live/SHWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285843&srchost=172.16.22.158:8060&gid=uHPR4wdrAmJE4ZwQlegLKg%3D%3D
-天津卫视,http://cg12.hunancatv.cn:9090/live/TJWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285846&srchost=172.16.22.158:8060&gid=SGkTXfkkPjuRljvWX02tPA%3D%3D
-重庆卫视,http://cg5.hunancatv.cn:9090/live/CQWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285848&srchost=172.16.22.158:8060&gid=m3oUovmJwv59VMn9v9yYGg%3D%3D
-黑龙江卫视,http://cg14.hunancatv.cn:9090/live/HLJWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285850&srchost=172.16.22.158:8060&gid=ah8o67cusc0cNmiJWaktAg%3D%3D
-吉林卫视,http://cg1.hunancatv.cn:9090/live/JLWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285852&srchost=172.16.22.158:8060&gid=V1cBnD08ItqBo4TrE%2BRNnA%3D%3D
-吉林卫视,http://cg1.hunancatv.cn:9090/live/JNWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285855&srchost=172.16.22.158:8060&gid=tunvRdHCGGG9t2mzsZLgwA%3D%3D
-辽宁卫视,http://cg5.hunancatv.cn:9090/live/LNWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285859&srchost=172.16.22.158:8060&gid=TTm0ZVvi%2BSDD%2FYwRH2SpSw%3D%3D
-内蒙古卫视,http://cg2.hunancatv.cn:9090/live/NMGWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285861&srchost=172.16.22.158:8060&gid=10IV7XK19JVfw%2FvX4Jongg%3D%3D
-宁夏卫视,http://cg6.hunancatv.cn:9090/live/NXWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285863&srchost=172.16.22.158:8060&gid=4lzFNOyTcFGeazHLnbGpDw%3D%3D
-甘肃卫视,http://cg1.hunancatv.cn:9090/live/GSWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285866&srchost=172.16.22.158:8060&gid=v0q5P2d3oCq9wf%2BX3OBujg%3D%3D
-青海卫视,http://cg12.hunancatv.cn:9090/live/QHWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285868&srchost=172.16.22.158:8060&gid=NoLPKZuf7LfI8ali%2F2mqQA%3D%3D
-陕西卫视,http://cg3.hunancatv.cn:9090/live/SXWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285870&srchost=172.16.22.158:8060&gid=41Iv4dpxgKony%2FYzxsGblQ%3D%3D
-河北卫视,http://cg1.hunancatv.cn:9090/live/DHBWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285873&srchost=172.16.22.158:8060&gid=QHeI2irIaAcyC349bSne5w%3D%3D
-山西卫视,http://cg11.hunancatv.cn:9090/live/SXWS1_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285879&srchost=172.16.22.158:8060&gid=XTuFC%2F6AVlIqxiIvQ3SL8w%3D%3D
-山东卫视,http://cg0.hunancatv.cn:9090/live/SDWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285887&srchost=172.16.22.158:8060&gid=0i5X1hDK9KSc7PAY6TLZng%3D%3D
-山东卫视4K,http://cg11.hunancatv.cn:9090/live/SDWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285895&srchost=172.16.22.158:8060&gid=%2BVKmythPzmIIVgBskORdNA%3D%3D
-安徽卫视,http://cg11.hunancatv.cn:9090/live/AHWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285897&srchost=172.16.22.158:8060&gid=o24QXiq9aNKeMEG7oc2fjQ%3D%3D
-河南卫视,http://cg2.hunancatv.cn:9090/live/HNWS1_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285900&srchost=172.16.22.158:8060&gid=BVKZUai%2FhlXMy8hp2Qc9Iw%3D%3D
-湖北卫视,http://cg11.hunancatv.cn:9090/live/HBWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285903&srchost=172.16.22.158:8060&gid=OdcJnhTgJYlu5u43Cd%2FE%2Bw%3D%3D
-湖南卫视,http://cg1.hunancatv.cn:9090/live/HNWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285905&srchost=172.16.22.158:8060&gid=QQJsWnS6%2FGL68cT%2BH0Pz1w%3D%3D
-湖南卫视4K,http://cg1.hunancatv.cn:9090/live/HNWS4K_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285907&srchost=172.16.22.158:8060&gid=8sxRz3kLMfpCyoxlaznobA%3D%3D
-江西卫视,http://cg14.hunancatv.cn:9090/live/JXWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285913&srchost=172.16.22.158:8060&gid=davECf6SNMXHYfRrP7VIHg%3D%3D
-江苏卫视,http://cg14.hunancatv.cn:9090/live/JSWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285916&srchost=172.16.22.158:8060&gid=E4r%2Fvg1vSfu%2BS3km8BWSOw%3D%3D
-江苏卫视4K,http://cg12.hunancatv.cn:9090/live/JSWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285926&srchost=172.16.22.158:8060&gid=iP0HcTc0nS0WgEkjf4o68g%3D%3D
-浙江卫视,http://cg3.hunancatv.cn:9090/live/ZJWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285931&srchost=172.16.22.158:8060&gid=4E7NHB8a6QacP32CAHg6NA%3D%3D
-浙江卫视4K,http://cg14.hunancatv.cn:9090/live/ZJWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285933&srchost=172.16.22.158:8060&gid=x48NKsaO6QthAKzLd0HLUQ%3D%3D
-东南卫视,http://cg5.hunancatv.cn:9090/live/DNWS1_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285935&srchost=172.16.22.158:8060&gid=E70oEQQ%2BiSHhXzHtamIrjg%3D%3D
-广东卫视,http://cg0.hunancatv.cn:9090/live/GDWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285939&srchost=172.16.22.158:8060&gid=bbEilhPei84G115cM2PpSg%3D%3D
-广东卫视4K,http://cg6.hunancatv.cn:9090/live/GDWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285941&srchost=172.16.22.158:8060&gid=zcPOSbz3Y2KRbzGIgJUyHQ%3D%3D
-深圳卫视,http://cg2.hunancatv.cn:9090/live/SZWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285943&srchost=172.16.22.158:8060&gid=lB0cfcGqR7kU%2Bkavdhb3PQ%3D%3D
-深圳卫视4K,http://cg2.hunancatv.cn:9090/live/SZWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285947&srchost=172.16.22.158:8060&gid=hGBuszBoHMw3Vq8%2BiOEeqQ%3D%3D
-广西卫视,http://cg12.hunancatv.cn:9090/live/GXWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285950&srchost=172.16.22.158:8060&gid=JTOhiz5ohNZD2EmZAPSnyA%3D%3D
-云南卫视,http://cg2.hunancatv.cn:9090/live/YNWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285954&srchost=172.16.22.158:8060&gid=eHGcoLcNnX5YcSe7znHtCw%3D%3D
-贵州卫视,http://cg2.hunancatv.cn:9090/live/GZWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285956&srchost=172.16.22.158:8060&gid=f0FHIWzYjKdaQDA%2Bemn3iA%3D%3D
-四川卫视,http://cg5.hunancatv.cn:9090/live/SCWS_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285958&srchost=172.16.22.158:8060&gid=txkF2YUdCEThmg%2FieM6TwA%3D%3D
-四川卫视4K,http://cg5.hunancatv.cn:9090/live/SCWS4K.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285960&srchost=172.16.22.158:8060&gid=BhtZV4gEvfcgGNqYrMT0gQ%3D%3D
-新疆卫视,http://cg5.hunancatv.cn:9090/live/XJWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285962&srchost=172.16.22.158:8060&gid=izT61Tqz38sQr%2F4j15EZ0A%3D%3D
-兵团卫视,http://cg2.hunancatv.cn:9090/live/BTWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285966&srchost=172.16.22.158:8060&gid=VHZwKb8QuHVnYiov8W47dA%3D%3D
-西藏卫视,http://cg1.hunancatv.cn:9090/live/XZWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285969&srchost=172.16.22.158:8060&gid=nuMVmmFXADkuhSMEukMmwA%3D%3D
-海南卫视,http://cg14.hunancatv.cn:9090/live/LYWS_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285971&srchost=172.16.22.158:8060&gid=%2BAOBEJvc11hWXCz7vMJJmA%3D%3D
-卡酷少儿,http://cg1.hunancatv.cn:9090/live/KKDH_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285974&srchost=172.16.22.158:8060&gid=LFCbdhHZhBhu5q8oW0PunA%3D%3D
 CCTV1,http://yftv-wshls.yzbtv.cn/live/4387.flv
 CCTV2,http://yftv-wshls.yzbtv.cn/live/11ecc.flv
 CCTV3,http://yftv-wshls.yzbtv.cn/live/11ef4.flv
@@ -731,7 +667,6 @@ CCTV17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 厦门卫视,http://bztv.tvbus.cc:8081/cdnlive/xmws.m3u8
 云南卫视,http://bztv.tvbus.cc:8081/cdnlive/ynws.m3u8
 浙江卫视,http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8
-
 CCTV1,http://139.227.21.22:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://139.227.21.22:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://139.227.21.22:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1293,39 +1228,6 @@ CCTV17,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn
 青海卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190403
 甘肃卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190408
-北京卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8 $黑龙江移动
-天津卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8 $黑龙江移动
-东方卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8 $黑龙江移动
-重庆卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8 $黑龙江移动
-江苏卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8 $黑龙江移动
-浙江卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8 $黑龙江移动
-安徽卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8 $黑龙江移动
-江西卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8 $黑龙江移动
-湖南卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8 $黑龙江移动
-湖北卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8 $黑龙江移动
-河南卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8 $黑龙江移动
-河北卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8 $黑龙江移动
-广东卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8 $黑龙江移动
-广西卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8 $黑龙江移动
-黑龙江卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8 $黑龙江移动
-吉林卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8 $黑龙江移动
-辽宁卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8 $黑龙江移动
-东南卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8 $黑龙江移动
-深圳卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8 $黑龙江移动
-山东卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8 $黑龙江移动
-云南卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8 $黑龙江移动
-贵州卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8 $黑龙江移动
-四川卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8 $黑龙江移动
-海南卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8 $黑龙江移动
-甘肃卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8 $黑龙江移动
-山西卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8 $黑龙江移动
-宁夏卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8 $黑龙江移动
-陕西卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8 $黑龙江移动
-新疆卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8 $黑龙江移动
-内蒙古卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8 $黑龙江移动
-兵团卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8 $黑龙江移动
-西藏卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8 $黑龙江移动
-青海卫视,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8 $黑龙江移动
 广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
