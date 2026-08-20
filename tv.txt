@@ -16,23 +16,18 @@
 重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
 金色学堂,http://8.138.7.223/tv/5gtv.php?id=40
-金色学堂,http://123.175.168.89:5140/高清/金色学堂
-金色学堂,http://www.lwfz.fun:8800/rtp/239.16.20.115:11150
-金色学堂,http://iptv.ayemovie.top:5555/rtp/232.0.0.141:9306
-金色学堂,http://op.ayemovie.top:5555/rtp/232.0.0.141:9306
-金色学堂,http://xiaoya.ayemovie.top:5555/rtp/232.0.0.141:9306
-金色学堂,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.239:5540
-金色学堂,http://iptv.zhangliang.cc:8012/rtp/225.0.4.239:7980
-金色学堂,http://dodge.lwfz.fun:8800/rtp/239.16.20.115:11150
+金色学堂,http://www.998878.xyz:5050/rtp/239.94.1.165:5140$四川电信
+金色学堂,http://www.zhms.tk:5050/rtp/239.94.1.165:5140$四川电信
+金色学堂,http://dyn.nowddns.com:7233/rtp/239.94.1.165:5140$四川电信
+金色学堂,http://43.138.100.110:1258/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
 
 东方财经,http://8.138.7.223/tv/5gtv.php?id=227
-东方财经 ,http://cg5.hunancatv.cn:9090/live/DFCJ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285987&srchost=172.16.22.158:8060&gid=zL4edmPCkuh7%2BbQbe7IwOw%3D%3D
-东方财经2 ,http://cg2.hunancatv.cn:9090/live/XFC_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285990&srchost=172.16.22.158:8060&gid=0qjY4uGhBcB7mGsKE8R5oA%3D%3D
+东方财经,http://43.138.100.110:1258/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
+东方财经,http://cg5.hunancatv.cn:9090/live/DFCJ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285987&srchost=172.16.22.158:8060&gid=zL4edmPCkuh7%2BbQbe7IwOw%3D%3D
+东方财经,http://cg2.hunancatv.cn:9090/live/XFC_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285990&srchost=172.16.22.158:8060&gid=0qjY4uGhBcB7mGsKE8R5oA%3D%3D
 东方财经,http://www.998878.xyz:5050/rtp/239.94.1.59:5140$四川电信
 东方财经,http://www.zhms.tk:5050/rtp/239.94.1.59:5140$四川电信
-东方财经,http://xmzj.f3322.net:8188/rtp/239.94.1.59:5140$四川电信
-东方财经,http://www.lwfz.fun:8800/rtp/239.16.10.235:2000
-东方财经,http://dodge.lwfz.fun:8800/rtp/239.16.10.235:2000
+东方财经,http://dyn.nowddns.com:7233/rtp/239.94.1.59:5140$四川电信
 东方财经,video://https://www.yicai.com/tv/#dfcj
 
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
@@ -194,7 +189,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://sanrenxing.ddns.net:7878/udp/239.76.253.135:9000$湖南电信
 凤凰中文,http://jyb7928.host:8066/udp/239.1.1.126:8126$山西电信
 凤凰资讯,http://jyb7928.host:8066/udp/239.1.1.127:8127$山西电信
-凤凰资讯,http://rihou.cc:555/tv/凤凰卫视
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
@@ -221,6 +215,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆频道,#genre#
 重庆卫视,http://42.240.145.105:2003/zhao.php?id=重庆卫视
 重庆卫视,http://k.061899.xyz/k.php?id=cqws
+重庆卫视,http://home.amucn.net:8800/rtp/239.49.1.42:6000
 重庆卫视,http://j.s.bkpcp.top/jj/cqws
 重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
 重庆卫视,http://m.061899.xyz/mg/cqws
@@ -302,7 +297,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆影视,http://183.66.15.138:4070/rtp/235.254.196.209:1108
 重庆影视,http://cloud-hui.synology.me:4000/rtp/225.0.4.192:7980
 重庆影视,http://home.660888.xyz:4000/rtp/225.0.4.62:7980
-重庆影视,http://183.66.15.138:4070/rtp/235.254.198.180:7980
+重庆影视,http://183.66.15.138:4070/rtp/235.254.196.209:1108
 重庆影视,http://17782331118.top:8188/rtp/235.254.196.209:1108
 重庆影视,http://www.msen.site:8000/rtp/235.254.196.209:1108
 重庆影视,http://www.smilehome.top:4022/rtp/225.0.4.62:7980
