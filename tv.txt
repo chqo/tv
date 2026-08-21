@@ -219,7 +219,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://j.s.bkpcp.top/jj/cqws
 重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
 重庆卫视,http://m.061899.xyz/mg/cqws
-重庆卫视,http://mg.cttv.vip/738910914
 重庆卫视,http://106.52.119.159:1234/738910914
 重庆卫视,http://114.230.109.92:8088/738910914
 重庆卫视,http://223.167.209.88:1234/738910914
@@ -230,7 +229,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://fn.gcl.de5.net:5908/gsh950428/738910914
 重庆卫视,http://wfenf.x3322.net:7788/738910914
 重庆卫视,http://go.bkpcp.top/mg/cqws
-重庆卫视,http://45.192.97.170:8880/play/514.m3u8
+重庆卫视,http://45.192.97.170:8880/play/511.m3u8
 重庆卫视,http://e1.woc.iiiya.cn:18888/rtp/239.61.2.250:9488
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
