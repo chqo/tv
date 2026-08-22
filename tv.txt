@@ -215,9 +215,10 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 
 重庆频道,#genre#
-重庆卫视,http://hzzzz530.com:4022/rtp/239.69.1.149:10530
-重庆卫视,http://dx.joygala.cn:8118/rtp/239.49.8.57:9830$RTP2
-重庆卫视,http://j1900.silicaite.top:58888/rtp/239.49.8.57:9830$RTP4
+重庆卫视,http://dx.joygala.cn:8118/rtp/239.49.8.149:6000$江苏电信
+重庆卫视,http://dx.joygala.cn:8118/rtp/239.49.8.57:9830$江苏电信
+重庆卫视,http://j1900.silicaite.top:58888/rtp/239.49.8.57:9830$江苏电信
+重庆卫视,http://j1900.silicaite.top:58888/rtp/239.49.8.149:6000$江苏电信
 重庆卫视,http://211.92.102.44:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://ruiheng.hongruida.work:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://120.237.39.10:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1
@@ -234,6 +235,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
 重庆卫视,http://m.061899.xyz/mg/cqws
 重庆卫视,http://k.061899.xyz/k.php?id=cqws
+重庆卫视,http://hzzzz530.com:4022/rtp/239.69.1.149:10530
 重庆卫视,http://xurishangcheng.top:10888/udp/239.49.8.149:6000
 重庆卫视,http://home.amucn.net:8800/rtp/239.49.1.42:6000
 重庆卫视,http://j.s.bkpcp.top/jj/cqws
