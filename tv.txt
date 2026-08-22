@@ -1,5 +1,5 @@
 九洲饭店,#genre#
-饭店简介,https://chuxinya.top/f/79gxuZ/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/%E9%A5%AD%E5%BA%97.mp4#http://titwh9n34.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4
+饭店简介,https://chuxinya.top/f/79gxuZ/%E9%A5%AD%E5%BA%97.mp4#http://titwh9n34.hn-bkt.clouddn.com/%E9%A5%AD%E5%BA%97.mp4#https://d.kstore.dev/download/10141/%E9%A5%AD%E5%BA%97.mp4
 
 特色频道,#genre#
 中国天气,http://dx.joygala.cn:8118/rtp/239.49.1.58:6000
@@ -218,7 +218,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://hzzzz530.com:4022/rtp/239.69.1.149:10530
 重庆卫视,http://dx.joygala.cn:8118/rtp/239.49.8.57:9830$RTP2
 重庆卫视,http://j1900.silicaite.top:58888/rtp/239.49.8.57:9830$RTP4
-重庆卫视,http://36.32.206.85:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&down=1
 重庆卫视,http://211.92.102.44:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://ruiheng.hongruida.work:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://120.237.39.10:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1
@@ -235,6 +234,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
 重庆卫视,http://m.061899.xyz/mg/cqws
 重庆卫视,http://k.061899.xyz/k.php?id=cqws
+重庆卫视,http://xurishangcheng.top:10888/udp/239.49.8.149:6000
 重庆卫视,http://home.amucn.net:8800/rtp/239.49.1.42:6000
 重庆卫视,http://j.s.bkpcp.top/jj/cqws
 重庆卫视,http://e1.woc.iiiya.cn:18888/rtp/239.61.2.250:9488
@@ -2469,9 +2469,8 @@ DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 歌曲欣赏,#genre#
 大风在刮大雪在下,https://lu0168.ccwu.cc/791/大风在刮大雪在下.mp4#https://git.yylx.win/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E5%A4%A7%E9%A3%8E%E5%9C%A8%E5%88%AE%E5%A4%A7%E9%9B%AA%E5%9C%A8%E4%B8%8B.mp4#https://d.kstore.dev/download/10141/%E5%A4%A7%E9%A3%8E%E5%9C%A8%E5%88%AE%E5%A4%A7%E9%9B%AA%E5%9C%A8%E4%B8%8B.mp4
 大风在刮大雪在下,webview://https://https://haokan.baidu.com/v?vid=688927243812856132#https://haokan.baidu.com/v?vid=4637855464156589733
-目瑙纵歌,https://lu0168.ccwu.cc/791/目瑙纵歌.mp4#https://d.kstore.dev/download/10141/%E7%9B%AE%E7%91%99%E7%BA%B5%E6%AD%8C.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E7%9B%AE%E7%91%99%E7%BA%B5%E6%AD%8C.mp4
-目瑙纵歌,webview://https://haokan.baidu.com/v?vid=13916793031122410010#webview://https://haokan.baidu.com/v?vid=4134725308922609642
-重庆纵歌,http://tjbs6mjr1.hn-bkt.clouddn.com/%E9%87%8D%E5%BA%86%E7%BA%B5%E6%AD%8C.mp4#https://chuxinya.top/f/pZ4JCA/%E9%87%8D%E5%BA%86%E7%BA%B5%E6%AD%8C.mp4#https://pan.vma.cc/pan/v/d80ae0007ae11d1f241d2baa5d6a5989?ext=mp4&pwd=546
+目瑙纵歌,https://pan.vma.cc/pan/v/1880763d1eecb495ee24fe9bf196b658?ext=mp4&pwd=546#https://lu0168.ccwu.cc/791/目瑙纵歌.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E7%9B%AE%E7%91%99%E7%BA%B5%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E7%9B%AE%E7%91%99%E7%BA%B5%E6%AD%8C.mp4
+重庆纵歌,http://tjbs6mjr1.hn-bkt.clouddn.com/%E9%87%8D%E5%BA%86%E7%BA%B5%E6%AD%8C.mp4#https://pan.vma.cc/pan/v/d80ae0007ae11d1f241d2baa5d6a5989?ext=mp4&pwd=546
 你想我了没,https://git.yylx.win/github.com/chqo/tv/raw/main/%E4%BD%A0%E6%83%B3%E6%88%91%E4%BA%86%E6%B2%A1.mp4
 你想我了没,webview://https://haokan.baidu.com/v?vid=9331568202470599498
 你想我了没,webview://https://haokan.baidu.com/v?vid=6151374868457215770
