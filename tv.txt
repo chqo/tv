@@ -101,15 +101,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://www.hkstv.tv/live
 香港卫视,video://https://hkstv.tv/live
 
-凤凰中文,https://d.kstore.dev/k-web/ku9/js/download/6758/fh.js?id=fhzw
-凤凰资讯,https://d.kstore.dev/k-web/ku9/js/download/6758/fh.js?id=fhzx
-凤凰香港,https://d.kstore.dev/k-web/ku9/js/download/6758/fh.js?id=fhhk
+
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-凤凰资讯,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1210
-凤凰中文,http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1213
-凤凰中文,http://c.123.rr.kg/163189/fhzw
-凤凰资讯,http://c.123.rr.kg/163189/fhzx
-凤凰香港,http://c.123.rr.kg/163189/fhhk
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰资讯,http://xtvantsc.xyz/fhx.php?id=1
 凤凰中文,http://xtvantsc.xyz/fhx.php?id=2
 凤凰香港,http://xtvantsc.xyz/fhx.php?id=3
@@ -123,10 +117,11 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰资讯,http://tiger81.i234.me:8888/rtp/239.111.205.82:5140$陕西电信
 凤凰中文,http://www.chunktv.top:10000/rtp/239.111.205.78:5140$陕西电信
 凤凰资讯,http://www.chunktv.top:10000/rtp/239.111.205.82:5140$陕西电信
+凤凰中文,http://c.123.rr.kg/163189/fhzw
+凤凰资讯,http://c.123.rr.kg/163189/fhzx
+凤凰香港,http://c.123.rr.kg/163189/fhhk
 翡翠台,http://c.123.rr.kg/163189/fct
 无线新闻,http://c.123.rr.kg/163189/wxxw
-凤凰中文,http://46.196.228.jiaheyy.top/ftx.php?id=fhzw
-凤凰资讯,http://46.196.228.jiaheyy.top/ftx.php?id=fhzx
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$广东移动酒店
 凤凰中文,http://120.198.86.186:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$广东移动酒店
 凤凰中文,http://120.198.84.146:9901/tsfile/live/1053_1.m3u8$广东移动酒店
@@ -218,8 +213,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 重庆频道,#genre#
 重庆卫视,http://ruiheng.hongruida.work:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002531
-重庆卫视,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -259,6 +252,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,http://111.8.224.6:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0$湖南移动
 重庆卫视,http://111.8.242.127:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0$湖南移动
 重庆卫视,http://120.238.84.45:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0$广东移动
+重庆卫视,http://120.237.39.10:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1$广东移动
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://iptv.cqshushu.com/ysws.php?id=cqws
 重庆卫视,http://hjro.cn:9999/udp/233.50.200.114:5140
@@ -291,6 +285,8 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 重庆卫视,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
+重庆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002531
+重庆卫视,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600002531
 重庆卫视,webview://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010024&contId=738910914
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
