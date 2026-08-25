@@ -101,7 +101,6 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 香港卫视,webview://https://www.hkstv.tv/live
 香港卫视,video://https://hkstv.tv/live
 
-
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰资讯,http://xtvantsc.xyz/fhx.php?id=1
@@ -212,14 +211,13 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 
 重庆频道,#genre#
-重庆卫视,http://ruiheng.hongruida.work:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
-重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
+重庆卫视,http://122.224.58.42:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://106.52.119.159:1234/738910914
-重庆卫视,http://114.230.109.92:8088/738910914
-重庆卫视,http://223.167.209.88:1234/738910914
+重庆卫视,http://101.91.126.133:1234/738910914
 重庆卫视,http://47.119.24.76:59093/738910914
+重庆卫视,http://mg.cttv.vip/738910914
+重庆卫视,http://nas.51pan.cn:8089/738910914
 重庆卫视,http://w.yyjn.top:3000/738910914
 重庆卫视,http://smartzhu.cn:1234/738910914
 重庆卫视,http://www.ikerobot.com:1234/738910914
