@@ -120,9 +120,11 @@
 重庆频道,#genre#
 重庆卫视,http://59.110.175.70:23000/hegd-livod.ks-cdn.gitv.tv/gitv_live/G_CHONGQING/G_CHONGQING.m3u8
 重庆卫视,http://122.224.58.42:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://101.26.42.33:24280/hls/35/index.m3u8
 重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://106.52.119.159:1234/738910914
 重庆卫视,http://101.91.126.133:1234/738910914
+重庆卫视,http://47.243.12.199:8880/738910914
 重庆卫视,http://47.119.24.76:59093/738910914
 重庆卫视,http://mg.cttv.vip/738910914
 重庆卫视,http://nas.51pan.cn:8089/738910914
@@ -1804,6 +1806,7 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 重温经典,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cwjd
+重温经典,http://f.123.rr.kg/163189/cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://m.061899.xyz/mg/cwjd 
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -1859,6 +1862,11 @@ CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+CCTV第一剧场,http://yun.two.yunshipin.bbroot.com:8080/streams/wo7r030m2jr/playlist.m3u8
+CCTV怀旧剧场,http://yun.two.yunshipin.bbroot.com:8080/streams/adkkuorqvy6/playlist.m3u8
+CCTV风云剧场,http://yun.two.yunshipin.bbroot.com:8080/streams/wb6myn1vnh/playlist.m3u8
+CCTV风云音乐,http://yun.two.yunshipin.bbroot.com:8080/streams/zu4j5ltto1s/playlist.m3u8
+CCTV女性时尚,http://yun.two.yunshipin.bbroot.com:8080/streams/m6czzf4veal/playlist.m3u8
 CCTV风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 CCTV第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
 CCTV怀旧剧场,http://home.pinkfloyd.cn:5000/rtp/238.1.79.61:4624
