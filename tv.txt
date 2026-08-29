@@ -11,6 +11,11 @@
 
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+凤凰资讯,http://xtvantsc.xyz/fhx.php?id=1
+凤凰中文,http://xtvantsc.xyz/fhx.php?id=2
+凤凰香港,http://xtvantsc.xyz/fhx.php?id=3
+凤凰中文,http://guany.myds.me:25852/rtp/233.50.202.35:5140$浙江电信
+凤凰资讯,http://guany.myds.me:25852/rtp/233.50.202.36:5140$浙江电信
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv$广西
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv$广西
 凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$广西
@@ -95,9 +100,6 @@
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-凤凰资讯,http://xtvantsc.xyz/fhx.php?id=1
-凤凰中文,http://xtvantsc.xyz/fhx.php?id=2
-凤凰香港,http://xtvantsc.xyz/fhx.php?id=3
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://219.144.190.2:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0$陕西酒店
@@ -121,6 +123,10 @@
 重庆频道,#genre#
 重庆卫视,http://122.224.58.42:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8?ysp
+重庆卫视,http://218.1.186.62:8686/卫视/重庆卫视
+重庆卫视,http://223.167.72.25:19999/卫视/重庆卫视HD?cors
+重庆卫视,http://guany.myds.me:25852/rtp/233.50.201.143:5140$浙江电信
+重庆卫视,http://guany.myds.me:25852/rtp/233.50.200.114:5140$浙江电信
 重庆卫视,http://101.26.42.33:24280/hls/35/index.m3u8
 重庆卫视,http://115.171.216.32:4000/udp/225.1.8.172:8162
 重庆卫视,http://115.171.216.40:4000/udp/225.1.8.172:8162
@@ -140,6 +146,7 @@
 重庆卫视,http://fn.gcl.de5.net:5908/gsh950428/738910914
 重庆卫视,http://go.bkpcp.top/mg/cqws
 重庆卫视,http://42.240.145.105:2003/zhao.php?id=重庆卫视
+重庆卫视,http://ruiheng.hongruida.work:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
 重庆卫视,http://m.061899.xyz/mg/cqws
 重庆卫视,http://k.061899.xyz/k.php?id=cqws
@@ -1523,6 +1530,11 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 金鹰卡通,http://115.29.208.41:33339/sx-jz-dx.php?id=1012
 优优宝贝 ,http://cg2.hunancatv.cn:9090/live/YYBB_2000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285985&srchost=172.16.22.158:8060&gid=m%2Bh%2FDguMyJLOemgdRhzJeQ%3D%3D
 动漫秀场 ,http://cg0.hunancatv.cn:9090/live/DMXC_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw==&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=6496444193295285993&srchost=172.16.22.158:8060&gid=XNMxdkOkk2VcaE%2FWhRRUTw%3D%3D
+哈哈炫动,http://218.1.186.62:8686/卫视/哈哈炫动
+动漫秀场,http://218.1.186.62:8686/卡通/动漫秀场
+卡酷少儿,http://218.1.186.62:8686/卫视/卡酷少儿
+金鹰卡通,http://218.1.186.62:8686/卫视/金鹰卡通
+嘉佳卡通,http://218.1.186.62:8686/地方/嘉佳卡通
 卡酷动画,http://www.wpfhome.cn:5555/rtp/235.254.198.49:1472
 少儿动漫,http://www.wpfhome.cn:5555/rtp/235.254.198.116:1740
 金鹰卡通,http://www.wpfhome.cn:5555/rtp/235.254.198.50:1476
