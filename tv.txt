@@ -19,6 +19,8 @@
 凤凰中文,http://60.177.203.199:9999/卫视/凤凰中文?cors
 凤凰中文,http://222.210.217.20:8812/凤凰卫视 HD?cors
 凤凰资讯,http://222.210.217.20:8812/凤凰资讯 HD?cors
+凤凰中文,http://122.234.63.182:9999/卫视/凤凰中文?cors
+凤凰中文,http://www.liangcl.top:8686/udp/233.50.202.35:5140$浙江电信
 凤凰中文,http://guany.myds.me:25852/rtp/233.50.202.35:5140$浙江电信
 凤凰资讯,http://guany.myds.me:25852/rtp/233.50.202.36:5140$浙江电信
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv$广西
@@ -95,6 +97,7 @@
 凤凰资讯,http://z2m.eversouthhangzhou.com.cn:8188/rtp/233.50.202.36:5140$浙江联通
 凤凰中文,http://woc.iiiya.cn:18888/rtp/239.61.2.184:9092$福建电信
 凤凰资讯,http://woc.iiiya.cn:18888/rtp/239.61.2.183:9086$福建电信
+凤凰中文,http://e1.woc.iiiya.cn:18888/rtp/239.61.2.184:9092$福建电信
 凤凰中文,http://remote.jackye.site:8000/rtp/239.61.2.184:9092$福建电信
 凤凰资讯,http://remote.jackye.site:8000/rtp/239.61.2.183:9086$福建电信
 凤凰中文,http://yyangnet99.host:65000/udp/239.76.253.134:9000$湖南电信
@@ -128,6 +131,7 @@
 重庆频道,#genre#
 重庆卫视,http://122.224.58.42:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8?ysp
+重庆卫视,http://cx.li13313000882.cn:24280/hls/35/index.m3u8
 重庆卫视,http://dyn.nowddns.com:7233/udp/239.94.0.82:5140
 重庆卫视,http://222.210.217.20:8812/重庆卫视 HD?cors
 重庆卫视,http://218.1.186.62:8686/卫视/重庆卫视
@@ -2401,6 +2405,7 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 工资不够花,https://vd4.bdstatic.com/mda-pj3nrdh62hm6k1n8/576p/h264/1696435408347042772/mda-pj3nrdh62hm6k1n8.mp4
 冲动的惩罚,https://vdse.bdstatic.com//bfbb0871ed01eb3328497faae6a8531b.mp4
 冲动的惩罚,https://vd4.bdstatic.com/mda-nmgc9bc6x5sq2yf2/hd/cae_h264/1671320252708001788/mda-nmgc9bc6x5sq2yf2.mp4
+手心里的温柔,https://vdse.bdstatic.com/h265/bd52d00464f09654dcb18304422ed02b3d.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=4145644371114903778&vt=-1&svt=-1&cr_max=1&s_score=-1.000000&pt=0&av=17.8&vid=2351756895951719221&mvt=-1&did=0be5c58b3360158266b1c9636f710237&cr=1&h265_s=1&sl=261&sle=1&split=591923
 云朵_我的楼兰,http://mobi.kuwo.cn/tmevideo/tme1258352.mp4
 容易受伤的女人,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
 许巍-蓝莲花(演唱会),http://em.21dtv.com/songs/60026063.mkv
