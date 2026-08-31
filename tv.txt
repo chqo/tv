@@ -12,11 +12,9 @@
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-凤凰中文,http://122.234.63.182:9999/%E5%8D%AB%E8%A7%86/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
-凤凰资讯,http://122.234.63.182:9999/%E5%8D%AB%E8%A7%86/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
-凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8
-凤凰资讯,http://218.206.193.218:8888/hls/109/index.m3u8
-凤凰资讯,https://play-flive.ifeng.com/flive/FLIVE_TX_NR_0JPFGA9SVSW.m3u8
+凤凰香港,http://jiekou.dpdns.org/xiang/php/fhx.php?id=fhhk
+凤凰中文,http://jiekou.dpdns.org/xiang/php/fhx.php?id=fhzw
+凤凰资讯,http://jiekou.dpdns.org/xiang/php/fhx.php?id=fhzx
 凤凰资讯,http://xtvantsc.xyz/fhx.php?id=1
 凤凰中文,http://xtvantsc.xyz/fhx.php?id=2
 凤凰香港,http://xtvantsc.xyz/fhx.php?id=3
@@ -136,8 +134,8 @@
 
 重庆频道,#genre#
 重庆卫视,http://122.224.58.42:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://27.14.28.55:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8?ysp
-重庆卫视,http://122.234.63.182:9999/%E5%8D%AB%E8%A7%86/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221225963/1.m3u8
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221225502/1.m3u8
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221226001/1.m3u8
@@ -218,6 +216,10 @@
 
 重庆影视,http://58.17.134.3:8001/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
+重庆影视,http://27.15.112.219:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆影视,http://27.15.112.219:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆影视,http://27.14.28.55:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆影视,http://27.14.28.55:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆影视,http://ii0.qzz.io:4070/rtp/235.254.196.209:1108
 重庆影视,http://iop.zfur.me:4070/rtp/235.254.196.209:1108
 重庆影视,http://qzz7.qzz.io:4070/rtp/235.254.196.209:1108
@@ -236,10 +238,6 @@
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
 重庆影视,http://pve.iszbd.com:4022/rtp/225.0.4.62:7980
 重庆影视,http://nas.iszbd.com:4022/rtp/225.0.4.62:7980
-重庆影视,http://27.15.112.219:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆影视,http://27.15.112.219:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆影视,http://27.14.28.55:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆影视,http://27.14.28.55:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
 重庆新闻,http://zqjzs.xicp.cn:7980/rtp/235.254.196.208:1104
@@ -266,6 +264,7 @@
 重庆红叶,http://game.x3322.net:8899/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
+重庆社会与法,http://27.14.28.55:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆社会与法,http://pve.iszbd.com:4022/rtp/225.0.4.190:7980
 重庆社会与法,http://17782331118.top:8188/rtp/235.254.197.106:7980
 重庆社会与法,http://www.wpfhome.cn:5555/rtp/235.254.198.181:7980
@@ -278,6 +277,7 @@
 重庆新农村,http://game.x3322.net:8899/udp/225.0.4.70:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
+重庆少儿,http://27.14.28.55:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆少儿,http://pve.iszbd.com:4022/udp/225.0.4.71:7980
 重庆少儿,http://17782331118.top:8188/rtp/235.254.197.110:7980
 重庆少儿,http://game.x3322.net:8899/udp/225.0.4.71:7980
