@@ -15,11 +15,11 @@
 凤凰资讯,http://xtvantsc.xyz/fhx.php?id=1
 凤凰中文,http://xtvantsc.xyz/fhx.php?id=2
 凤凰香港,http://xtvantsc.xyz/fhx.php?id=3
+凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=c52da4594060ea86da27a4725d8cc38f
+凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=c52da4594060ea86da27a4725d8cc38f
+凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=c52da4594060ea86da27a4725d8cc38f
 凤凰中文,http://dyn.nowddns.com:7233/udp/239.94.2.51:5140
 凤凰中文,http://dyn.nowddns.com:7233/udp/239.94.2.52:5140
-凤凰香港,http://jiekou.dpdns.org/xiang/php/fhx.php?id=fhhk
-凤凰中文,http://jiekou.dpdns.org/xiang/php/fhx.php?id=fhzw
-凤凰资讯,http://jiekou.dpdns.org/xiang/php/fhx.php?id=fhzx
 凤凰中文,http://www.liangcl.top:8686/udp/233.50.202.35:5140$浙江电信
 凤凰中文,http://guany.myds.me:25852/rtp/233.50.202.35:5140$浙江电信
 凤凰资讯,http://guany.myds.me:25852/rtp/233.50.202.36:5140$浙江电信
@@ -131,6 +131,7 @@
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221225502/1.m3u8
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221226001/1.m3u8
 重庆卫视,http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=03b607528f65a8026d06544dacd973
+重庆卫视,http://58.217.52.38:9900/卫视/重庆卫视?cors
 重庆卫视,http://cx.li13313000882.cn:24280/hls/35/index.m3u8
 重庆卫视,http://dyn.nowddns.com:7233/udp/239.94.0.82:5140
 重庆卫视,http://223.167.72.25:19999/卫视/重庆卫视HD?cors
