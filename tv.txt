@@ -12,6 +12,11 @@
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+凤凰中文,http://3niao.lielangys.top/play/1608285342287698006.m3u8
+凤凰资讯,http://3niao.lielangys.top/play/1685677773164578006.m3u8
+凤凰香港,http://3niao.lielangys.top/play/1608285422787728006.m3u8
+凤凰中文,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzw
+凤凰资讯,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzx
 凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=c52da4594060ea86da27a4725d8cc38f
 凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=c52da4594060ea86da27a4725d8cc38f
 凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=c52da4594060ea86da27a4725d8cc38f
@@ -106,8 +111,8 @@
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
-凤凰中文,http://A/ku9/py/NP.py?u=http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://A/ku9/py/NP.py?u=http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+凤凰中文,http://edge-cache02.live3.omd.sc96655.com/live/test1_4000.m3u8&socks5=159.75.97.13:21
+凤凰资讯,http://edge-cache02.live3.omd.sc96655.com/live/test2_4000.m3u8&socks5=159.75.97.13:21
 翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://120.198.103.68:9901/tsfile/live/1007_1.m3u8
 翡翠台,http://120.198.84.146:9901/tsfile/live/1020_1.m3u8
@@ -128,6 +133,7 @@
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221225963/1.m3u8
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221225502/1.m3u8
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221226001/1.m3u8
+重庆卫视,http://edge-cache02.live3.omd.sc96655.com/live/cqwsH265_4000.m3u8&socks5=159.75.97.13:21
 重庆卫视,http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=03b607528f65a8026d06544dacd973
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
