@@ -121,16 +121,17 @@
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 
 重庆频道,#genre#
-重庆卫视,http://122.224.58.42:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8?ysp
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221225963/1.m3u8
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221225502/1.m3u8
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221226001/1.m3u8
+重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
+重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+重庆卫视,http://122.224.58.42:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://bztv.tvbus.cc:8081/cdnlive/cqws.m3u8?ysp
 重庆卫视,http://edge-cache02.live3.omd.sc96655.com/live/cqwsH265_4000.m3u8&socks5=159.75.97.13:21
 重庆卫视,http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=03b607528f65a8026d06544dacd973
 重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
 重庆卫视,http://tv.zhangzp.top:4022/udp/239.125.2.102:4130 
-重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 重庆卫视,http://27.15.5.161:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://120.48.231.201:58823/hls/31/index.m3u8
 重庆卫视,http://58.217.52.38:9900/卫视/重庆卫视?cors
@@ -166,7 +167,6 @@
 重庆卫视,http://home.amucn.net:8800/rtp/239.49.1.42:6000
 重庆卫视,http://j.s.bkpcp.top/jj/cqws
 重庆卫视,http://198.204.228.26/live/cqwshd.m3u8?ysp
-重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://111.8.242.104:8088/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://218.13.138.139:59901/tsfile/live/0142_1.m3u8
 重庆卫视,http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
