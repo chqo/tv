@@ -1681,8 +1681,7 @@ MV歌曲,#genre#
 云飞-鸿雁,https://git.yylx.wincc/github.com/chqo/tv/raw/main/%E4%BA%91%E9%A3%9E-%E9%B8%BF%E9%9B%81.mp4#https://d.kstore.dev/download/10141/云飞-鸿雁.mp4
 云飞-鸿雁飞飞,https://git.yylx.win/github.com/chqo/tv/raw/main/%E4%BA%91%E9%A3%9E-%E9%B8%BF%E9%9B%81%E9%A3%9E%E9%A3%9E.mp4#https://d.kstore.dev/download/10141/云飞-鸿雁飞飞.mp4
 次真降措-位置,https://gitee.com/dai98/ch/raw/master/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%EF%BC%8D%E4%BD%8D%E7%BD%AE.ts#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E4%BD%8D%E7%BD%AE%20.mkv#https://git.yylx.win/github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E4%BD%8D%E7%BD%AE%20.mkv#https://d.kstore.dev/download/10141/次真降措 - 位置 .mkv#https://gitee.com/dai98/ch/raw/master/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%EF%BC%8D%E4%BD%8D%E7%BD%AE.ts
-广州交响乐团-昨夜星辰,https://pan.vma.cc/pan/v/39abce293b0d74c9080955b0658dee21?ext=mp4&pwd=98569856#http://tjbs6mjr1.hn-bkt.clouddn.com/%E6%98%A8%E5%A4%9C%E6%98%9F%E8%BE%B0.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E5%B9%BF%E5%B7%9E%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2-%E6%98%A8%E5%A4%9C%E6%98%9F%E8%BE%B0.mp4#https://d.kstore.dev/download/10141/广州交响乐团-昨夜星辰.mp4
-广州交响乐团-昨夜星辰,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=10871356805275518069
+广州交响乐团-昨夜星辰,https://pan.vma.cc/pan/v/39abce293b0d74c9080955b0658dee21?ext=mp4&pwd=98569856#http://tkwgs49or.hn-bkt.clouddn.com/%E5%B9%BF%E5%B7%9E%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2-%E6%98%A8%E5%A4%9C%E6%98%9F%E8%BE%B0.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E5%B9%BF%E5%B7%9E%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2-%E6%98%A8%E5%A4%9C%E6%98%9F%E8%BE%B0.mp4#https://d.kstore.dev/download/10141/广州交响乐团-昨夜星辰.mp4
 次真降措-亚丁恋歌,https://d.kstore.dev/download/10141/次真降措-亚丁恋歌..mkv
 次真降措-我在草原等你,https://d.kstore.dev/download/10141/次真降措+-+我在草原等你.mp4
 梦之旅-月光小夜曲,https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%A2%A6%E4%B9%8B%E6%97%85-%E6%9C%88%E5%85%89%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp4#https://git.yylx.win/github.com/73330/ch/raw/main/%E6%A2%A6%E4%B9%8B%E6%97%85-%E6%9C%88%E5%85%89%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp4#https://d.kstore.dev/download/10141/梦之旅-月光小夜曲.mp4
@@ -1710,26 +1709,26 @@ MV歌曲,#genre#
 团结就是力量,https://git.yylx.win/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E5%9B%A2%E7%BB%93%E5%B0%B1%E6%98%AF%E5%8A%9B%E9%87%8F%20.mp4
 
 八一军歌曲,#genre#
-解放军军歌,http://tjbs6mjr1.hn-bkt.clouddn.com/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4
-咱当兵的人,http://tjbs6mjr1.hn-bkt.clouddn.com/%E5%92%B1%E5%BD%93%E5%85%B5%E7%9A%84%E4%BA%BA.mp4#https://d.kstore.dev/download/10141/%E5%92%B1%E5%BD%93%E5%85%B5%E7%9A%84%E4%BA%BA.mp4
-我是一个兵,http://tjbs6mjr1.hn-bkt.clouddn.com/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5.mp4#https://d.kstore.dev/download/10141/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5.mp4
-一二三四歌,http://tjbs6mjr1.hn-bkt.clouddn.com/%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E6%AD%8C.mp4
-打靶归来,http://tjbs6mjr1.hn-bkt.clouddn.com/%E6%89%93%E9%9D%B6%E5%BD%92%E6%9D%A5.mp4#https://d.kstore.dev/download/10141/%E6%89%93%E9%9D%B6%E5%BD%92%E6%9D%A5.mp4
-中国人民志愿军战歌,http://tjbs6mjr1.hn-bkt.clouddn.com/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://git.yylx.win/github.com/73330/ch/raw/main/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/中国人民志愿军战歌.mp4
-站位 有我在,http://tjbs6mjr1.hn-bkt.clouddn.com/%E7%AB%99%E4%BD%8D%E6%9C%89%E6%88%91%E5%9C%A8%20.mp4#https://d.kstore.dev/download/10141/%E7%AB%99%E4%BD%8D%E6%9C%89%E6%88%91%E5%9C%A8+.mp4
-军中绿花,http://tjbs6mjr1.hn-bkt.clouddn.com/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4#https://d.kstore.dev/download/10141/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4
-兵哥哥,http://tjbs6mjr1.hn-bkt.clouddn.com/%E5%85%B5%E5%93%A5%E5%93%A5.mp4#https://d.kstore.dev/download/10141/%E5%85%B5%E5%93%A5%E5%93%A5.mp4
-强军战歌,http://tjbs6mjr1.hn-bkt.clouddn.com/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4
+解放军军歌,http://tkwgs49or.hn-bkt.clouddn.com/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.mp4
+咱当兵的人,http://tkwgs49or.hn-bkt.clouddn.com/%E5%92%B1%E5%BD%93%E5%85%B5%E7%9A%84%E4%BA%BA.mp4#https://d.kstore.dev/download/10141/%E5%92%B1%E5%BD%93%E5%85%B5%E7%9A%84%E4%BA%BA.mp4
+我是一个兵,http://tkwgs49or.hn-bkt.clouddn.com/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5.mp4#https://d.kstore.dev/download/10141/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%B5.mp4
+一二三四歌,http://tkwgs49or.hn-bkt.clouddn.com/%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E6%AD%8C.mp4
+打靶归来,http://tkwgs49or.hn-bkt.clouddn.com/%E6%89%93%E9%9D%B6%E5%BD%92%E6%9D%A5.mp4#https://d.kstore.dev/download/10141/%E6%89%93%E9%9D%B6%E5%BD%92%E6%9D%A5.mp4
+中国人民志愿军战歌,http://tkwgs49or.hn-bkt.clouddn.com/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://git.yylx.win/github.com/73330/ch/raw/main/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/中国人民志愿军战歌.mp4
+站位 有我在,http://tkwgs49or.hn-bkt.clouddn.com/%E7%AB%99%E4%BD%8D%E6%9C%89%E6%88%91%E5%9C%A8%20.mp4#https://d.kstore.dev/download/10141/%E7%AB%99%E4%BD%8D%E6%9C%89%E6%88%91%E5%9C%A8+.mp4
+军中绿花,http://tkwgs49or.hn-bkt.clouddn.com/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4#https://d.kstore.dev/download/10141/%E5%86%9B%E4%B8%AD%E7%BB%BF%E8%8A%B1.mp4
+兵哥哥,http://tkwgs49or.hn-bkt.clouddn.com/%E5%85%B5%E5%93%A5%E5%93%A5.mp4#https://d.kstore.dev/download/10141/%E5%85%B5%E5%93%A5%E5%93%A5.mp4
+强军战歌,http://tkwgs49or.hn-bkt.clouddn.com/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C.mp4
 军人本色,http://tjbs6mjr1.hn-bkt.clouddn.com/%E5%86%9B%E4%BA%BA%E6%9C%AC%E8%89%B2.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts/https://github.com/chqo/tv/raw/main/%E5%86%9B%E4%BA%BA%E6%9C%AC%E8%89%B2.mp4#https://d.kstore.dev/download/10141/%E5%86%9B%E4%BA%BA%E6%9C%AC%E8%89%B2.mp4
-人民军队忠于党歌曲,http://tjbs6mjr1.hn-bkt.clouddn.com/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%BF%A0%E4%BA%8E%E5%85%9A.mp4#https://d.kstore.dev/download/10141/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%BF%A0%E4%BA%8E%E5%85%9A.mp4
+人民军队忠于党歌曲,http://tkwgs49or.hn-bkt.clouddn.com/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%BF%A0%E4%BA%8E%E5%85%9A.mp4#https://d.kstore.dev/download/10141/%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E5%BF%A0%E4%BA%8E%E5%85%9A.mp4
 歌唱祖国,https://res.mq-link.com:4438/webapi/filestore/7c60661e08014bcc51cf7f395622c52309c0037a.mp4?type=video&docid=af123c&name=%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4
-歌唱祖国,http://tjbs6mjr1.hn-bkt.clouddn.com/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4#https://d.kstore.dev/download/10141/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4
-我的老班长,http://tjbs6mjr1.hn-bkt.clouddn.com/%E6%88%91%E7%9A%84%E8%80%81%E7%8F%AD%E9%95%BF.mp4#https://d.kstore.dev/download/10141/%E6%88%91%E7%9A%84%E8%80%81%E7%8F%AD%E9%95%BF.mp4
+歌唱祖国,http://tkwgs49or.hn-bkt.clouddn.com/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4#https://d.kstore.dev/download/10141/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4
+我的老班长,http://tkwgs49or.hn-bkt.clouddn.com/%E6%88%91%E7%9A%84%E8%80%81%E7%8F%AD%E9%95%BF.mp4#https://d.kstore.dev/download/10141/%E6%88%91%E7%9A%84%E8%80%81%E7%8F%AD%E9%95%BF.mp4
 英雄赞歌,https://vd3.bdstatic.com/mda-nin6t17p7dt7u499/sc/cae_h264/1664117214428826970/mda-nin6t17p7dt7u499.mp4
-英雄赞歌,http://tjbs6mjr1.hn-bkt.clouddn.com/%E8%8B%B1%E9%9B%84%E8%B5%9E%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E8%8B%B1%E9%9B%84%E8%B5%9E%E6%AD%8C.mp4
-热血颂,http://thoir9meq.hn-bkt.clouddn.com/%E7%83%AD%E8%A1%80%E9%A2%82.mp4#https://d.kstore.dev/download/10141/%E7%83%AD%E8%A1%80%E9%A2%82.mp4
+英雄赞歌,http://tkwgs49or.hn-bkt.clouddn.com/%E8%8B%B1%E9%9B%84%E8%B5%9E%E6%AD%8C.mp4#https://d.kstore.dev/download/10141/%E8%8B%B1%E9%9B%84%E8%B5%9E%E6%AD%8C.mp4
+热血颂,http://tkwgs49or.hn-bkt.clouddn.com/%E7%83%AD%E8%A1%80%E9%A2%82.mp4#https://d.kstore.dev/download/10141/%E7%83%AD%E8%A1%80%E9%A2%82.mp4
 团结就是力量,https://git.yylx.win/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E5%9B%A2%E7%BB%93%E5%B0%B1%E6%98%AF%E5%8A%9B%E9%87%8F%20.mp4
-映山红,http://tjbs6mjr1.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4#https://d.kstore.dev/download/10141/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
+映山红,http://tkwgs49or.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4#https://d.kstore.dev/download/10141/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
 
 DJ舞曲,#genre#
 大型蹦迪现场,https://vd4.bdstatic.com/mda-ncg44ya2nmih7avs/1080p/cae_h264_delogo/1647487969274086287/mda-ncg44ya2nmih7avs.mp4#https://pan.vma.cc/pan/v/8b601ec503f554a9fd1851490f2d3905?ext=mp4&pwd=98569856
