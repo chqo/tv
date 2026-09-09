@@ -1719,9 +1719,9 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 四海钓鱼,http://wfenf.x3322.net:7788/637444975#http://182.85.163.168:5678/637444975#http://112.85.93.6:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
 
 MV歌曲,#genre#
-次真降措-我从亚丁来,https://pan.vma.cc/pan/v/176da2c49fe56c32961c8a61d47c06fd?ext=mp4&pwd=98569856#https://gitee.com/dai98/ch/raw/master/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5.ts#https://git.yylx.win/github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://fastgit.cc/github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://d.kstore.dev/download/10141/次真降措-我从亚丁来 .mp4
+次真降措-我从亚丁来,https://pan.vma.cc/pan/v/176da2c49fe56c32961c8a61d47c06fd?ext=mp4&pwd=98569856#https://gitee.com/dai98/ch/raw/master/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5.ts#https://git.yylx.win/github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://fastgit.cc/github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://pan.ezv.cc/v/335808252ff19a810c3d59a6fc62d773#https://d.kstore.dev/download/10141/次真降措-我从亚丁来 .mp4
 次真降措-牧人之歌 ,https://pan.vma.cc/pan/d/bf622a3653453d23f217264ecdda55f1?ext=mkv&pwd=98569856#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv
-#https://git.yylx.win/github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#https://d.kstore.dev/download/10141/次真降措-牧人之歌 .mkv
+#https://git.yylx.win/github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E7%89%A7%E4%BA%BA%E4%B9%8B%E6%AD%8C%20.mkv#https://pan.ezv.cc/v/db6d84d90813b0f83740f1148ca196b4#https://d.kstore.dev/download/10141/次真降措-牧人之歌 .mkv
 云飞-鸿雁,https://git.yylx.wincc/github.com/chqo/tv/raw/main/%E4%BA%91%E9%A3%9E-%E9%B8%BF%E9%9B%81.mp4#https://d.kstore.dev/download/10141/云飞-鸿雁.mp4
 云飞-鸿雁飞飞,https://git.yylx.win/github.com/chqo/tv/raw/main/%E4%BA%91%E9%A3%9E-%E9%B8%BF%E9%9B%81%E9%A3%9E%E9%A3%9E.mp4#https://d.kstore.dev/download/10141/云飞-鸿雁飞飞.mp4
 次真降措-位置,https://gitee.com/dai98/ch/raw/master/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%EF%BC%8D%E4%BD%8D%E7%BD%AE.ts#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E4%BD%8D%E7%BD%AE%20.mkv#https://git.yylx.win/github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%20-%20%E4%BD%8D%E7%BD%AE%20.mkv#https://d.kstore.dev/download/10141/次真降措 - 位置 .mkv#https://gitee.com/dai98/ch/raw/master/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA%EF%BC%8D%E4%BD%8D%E7%BD%AE.ts
@@ -2681,7 +2681,7 @@ Day by Day,http://vd4.bdstatic.com/mda-ma39e363u5ebd33e/v1-cae/mda-ma39e363u5ebd
 合集刀郎敖包相会,https://vdse.bdstatic.com//36ea0ffcf8156a44b9d524d999eb088a.mp4
 
 欢迎曲视频,#genre#
-欢迎进行曲,https://gitee.com/dai98/ch/raw/master/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts
+欢迎进行曲,https://gitee.com/dai98/ch/raw/master/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://pan.ezv.cc/v/5d98efa81b822d33111039a427eccb4e
 
 春晚视频,#genre#
 春晚视频,http://tkgqkk5t0.hn-bkt.clouddn.com/%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91.mp4#http://titwh9n34.hn-bkt.clouddn.com/%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91.mp4
