@@ -13,8 +13,11 @@
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰中文,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140
-凤凰中文,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzw
+凤凰中文,http://3niao.lielangys.top/play/1608285342287698006.m3u8
+凤凰资讯,http://3niao.lielangys.top/play/1685677773164578006.m3u8
+凤凰香港,http://3niao.lielangys.top/play/1608285422787728006.m3u8
 凤凰中文,http://111.59.139.82:11888/tsfile/live/1202_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzw
 凤凰中文,http://yulang132.cn:4022/rtp/239.94.2.51:5140
 凤凰中文,http://yulang132.cn:4022/rtp/239.94.2.52:5140
 凤凰资讯,http://yulang132.cn:4022/rtp/239.94.2.49:5140
@@ -22,9 +25,6 @@
 凤凰中文,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzw
 凤凰资讯,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzx
 凤凰香港,http://xiangz.qzz.io:8031/php/fhx.php?id=fhhk
-凤凰中文,http://3niao.lielangys.top/play/1608285342287698006.m3u8
-凤凰资讯,http://3niao.lielangys.top/play/1685677773164578006.m3u8
-凤凰香港,http://3niao.lielangys.top/play/1608285422787728006.m3u8
 凤凰中文,http://120.48.231.201:58823/hls/47/index.m3u8
 凤凰资讯,http://120.48.231.201:58823/hls/48/index.m3u8
 凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=c52da4594060ea86da27a4725d8cc38f
@@ -141,6 +141,7 @@
 重庆卫视,http://A/ku9/js/ysp.js?id=cqws
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221225502/1.m3u8
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221226001/1.m3u8
+重庆卫视,http://nn.7x9d.cn/mk.php?ip=180.130.157.41:8014&id=cqws
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 重庆卫视,http://nas.hd0753.com:14022/rtp/239.77.0.182:5146
 重庆卫视,http://home.szjim.top:4000/rtp/239.77.1.162:5146
