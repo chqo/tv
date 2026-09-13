@@ -1315,10 +1315,8 @@ CCTV17,http://111.56.90.5/000000000000/5000000011000288014/index.m3u8
 厦门卫视,http://111.56.90.5/000000000000/5084893189220221988/index.m3u8
 
 央卫视web,#genre#
-CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.1
 CCTV1,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV1,webview://https://tv.cctv.com/live/cctv1/?spm=C96370.PPDB2vhvSivD.EmcY4rlrLZCQ.3
-CCTV1,webview://https://ysxw.cctv.cn/landscape.html?liveRoomNumber=11200132825562653886
 CCTV1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
 CCTV2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV3,webview://https://tv.cctv.com/live/cctv3/?spm=C28340.PoakR0uYBKgp.ExidtyEJcS5K.14
@@ -1453,8 +1451,6 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
 海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
 重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
-重庆卫视 webview://https://iptv345.com/?act=play&token=79655e73dd92221b487359fad5115c66&tid=ws&id=19
-重庆卫视 webview://https://iptv345.com/?act=play&token=026cb01394114f4a725223e2c3c1899d&tid=ws&id=19
 深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
 深圳卫视,video://https://www.sztv.com.cn/pindao/index.html?id=7867
 四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
@@ -1499,7 +1495,6 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 甘肃卫视,https://hls.gstv.com.cn/skt649/w0w7k2.m3u8
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
 河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
-安徽卫视,http://43.129.81.169/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
@@ -1541,7 +1536,7 @@ CCTV 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 陕西卫视,webview://http://live.snrtv.com/star
 海峡卫视,webview://https://www.fjtv.net/folder526/folder536/
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
-广东卫视,video://https://www.gdtv.cn/tvChannelDetail/110
+广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
 
 少儿频道,#genre#
 重庆少儿,http://www.wpfhome.cn:5555/rtp/235.254.197.110:7980
