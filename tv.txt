@@ -140,6 +140,7 @@
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 
 重庆频道,#genre#
+重庆卫视,http://101.18.29.114:808/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://A/ku9/js/ysp.js?id=cqws
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221225502/1.m3u8
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221226001/1.m3u8
@@ -247,7 +248,6 @@
 重庆影视,http://www.msen.site:8000/rtp/235.254.196.209:1108
 重庆影视,http://www.smilehome.top:4022/rtp/225.0.4.62:7980
 重庆影视,http://hook.msen.site:8000/rtp/235.254.196.209:1108
-重庆影视,http://game.x3322.net:8899/udp/225.0.4.62:7980
 重庆影视,http://www.wpfhome.cn:5555/rtp/235.254.197.105:7980
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
 重庆影视,http://pve.iszbd.com:4022/rtp/225.0.4.62:7980
