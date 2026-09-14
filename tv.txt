@@ -141,6 +141,7 @@
 
 重庆频道,#genre#
 重庆卫视,http://A/ku9/js/ysp.js?id=cqws
+重庆卫视,http://A/ku9/js/migu.js?id=738910914
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221225502/1.m3u8
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221226001/1.m3u8
 重庆卫视,http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061103.m3u8
