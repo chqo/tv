@@ -12,9 +12,6 @@
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-凤凰中文,https://hls.9kds.com/20260909/fhzw.m3u8
-凤凰资讯,https://hls.9kds.com/20260909/fhzx.m3u8
-凤凰香港,https://hls.9kds.com/20260909/fhxg.m3u8
 凤凰中文,http://120.48.231.201:58823/hls/47/index.m3u8
 凤凰资讯,http://120.48.231.201:58823/hls/48/index.m3u8
 无线新闻,http://173.208.234.146/live/inews.m3u8
@@ -156,6 +153,7 @@
 重庆卫视,http://120.198.84.146:9901/tsfile/live/1058_1.m3u8
 重庆卫视,http://218.13.139.26:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
+重庆卫视,https://hls.9kds.com/20260909/cqws.m3u8
 重庆卫视,http://nas.hd0753.com:14022/rtp/239.77.0.182:5146
 重庆卫视,http://home.szjim.top:4000/rtp/239.77.1.162:5146
 重庆卫视,http://yanshifen.top:8889/rtp/239.77.1.162:5146
@@ -377,6 +375,23 @@ CHC家庭影院,http://A/ku9/js/migu.js?id=644368373
 重庆卫视,http://A/ku9/js/migu.js?id=738910914
 三沙卫视,http://A/ku9/js/migu.js?id=961023778
 黑龙江卫视,http://A/ku9/js/migu.js?id=738906901
+CCTV1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
+CCTV2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
+CCTV3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
+CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
+CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
+CCTV5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
+CCTV7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
+CCTV8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
+CCTV9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
+CCTV10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
+CCTV11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
+CCTV12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
+CCTV13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
+CCTV14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
+CCTV15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
+CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 CCTV1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 CCTV2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 CCTV3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
@@ -434,22 +449,6 @@ CHC家庭影院,http://bztv.tvbus.cc:8081/cdnlive/chcjt.m3u8
 CHC影迷电影,http://bztv.tvbus.cc:8081/cdnlive/chchd.m3u8
 女性时尚,http://bztv.tvbus.cc:8081/cdnlive/nxss.m3u8
 重温经典,http://bztv.tvbus.cc:8081/cdnlive/cwjd.m3u8
-CCTV1,http://yftv-wshls.yzbtv.cn/live/4387.flv
-CCTV2,http://yftv-wshls.yzbtv.cn/live/11ecc.flv
-CCTV3,http://yftv-wshls.yzbtv.cn/live/11ef4.flv
-CCTV4,http://yftv-wshls.yzbtv.cn/live/11ef0.flv
-CCTV5,http://yftv-wshls.yzbtv.cn/live/11eec.flv
-CCTV6,http://yftv-wshls.yzbtv.cn/live/11ee8.flv
-CCTV8,http://yftv-wshls.yzbtv.cn/live/11ee0.flv
-CCTV10,http://yftv-wshls.yzbtv.cn/live/11ee0.flv
-CCTV13,http://yftv-wshls.yzbtv.cn/live/4e2f.flv
-北京卫视,http://yftvctyun-wshls.yzbtv.cn/live/1bd71.flv
-东方卫视,http://yftv-wshls.homecdn.com/live/1bd7d.flv
-山东卫视,http://yftv-wshls.homecdn.com/live/1bd5d.flv
-江苏卫视,http://yftv-wshls.homecdn.com/live/1bd81.flv
-浙江卫视,http://yftv-wshls.homecdn.com/live/1bd75.flv
-广东卫视,http://yftv-wshls.homecdn.com/live/1bd69.flv
-深圳卫视,http://yftv-wshls.homecdn.com/live/1bd61.flv
 CCTV1,http://go.bkpcp.top/mg/cctv1 
 CCTV2,http://go.bkpcp.top/mg/cctv2 
 CCTV3,http://go.bkpcp.top/mg/cctv3 
@@ -1668,6 +1667,7 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 哪吒2,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=8338502568659060319
 
 特色频道,#genre#
+中国天气,https://live.chinacert.cftest5.cn/cnmg/live/959986621
 中国天气,http://dx.joygala.cn:8118/rtp/239.49.1.58:6000
 中国天气,http://17752995.xyz:51111/959986621
 中国天气,http://w.yyjn.top:3000/959986621
@@ -1679,6 +1679,7 @@ CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,http://A/ku9/js/ysp.js?id=cgtn
+CGTN,https://live.chinacert.cftest5.cn/cnmg/live/609017205
 CGTN,http://mg.cttv.vip/609017205
 CGTN,http://w.yyjn.top:3000/609017205
 CGTN,http://218.0.171.238:1234/609017205
@@ -1788,14 +1789,13 @@ CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
 CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
 CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 快乐垂钓,http://fn.gcl.de5.net:5908/gsh950428/961930263
-快乐垂钓,http://wfenf.x3322.net:7788/961930263
-快乐垂钓,http://182.85.163.168:5678/961930263
-快乐垂钓,http://183.247.194.196:7788/961930263
+快乐垂钓,https://live.chinacert.cftest5.cn/cnmg/live/961930263
 快乐垂钓,http://112.85.93.6:7788/961930263
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
 
 四海钓鱼,http://fn.gcl.de5.net:5908/gsh950428/637444975
-四海钓鱼,http://wfenf.x3322.net:7788/637444975#http://182.85.163.168:5678/637444975#http://112.85.93.6:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
+四海钓鱼,https://live.chinacert.cftest5.cn/cnmg/live/637444975
+四海钓鱼,http://112.85.93.6:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
 
 MV歌曲,#genre#
 次真降措-我从亚丁来,https://pan.vma.cc/pan/v/176da2c49fe56c32961c8a61d47c06fd?ext=mp4&pwd=98569856#https://gitee.com/dai98/ch/raw/master/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5.ts#https://git.yylx.win/github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://fastgit.cc/github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://pan.ezv.cc/v/335808252ff19a810c3d59a6fc62d773#https://d.kstore.dev/download/10141/次真降措-我从亚丁来 .mp4
