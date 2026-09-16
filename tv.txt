@@ -12,6 +12,11 @@
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+凤凰中文,https://hls.9kds.com/20260909/fhzw.m3u8
+凤凰资讯,https://hls.9kds.com/20260909/fhzx.m3u8
+凤凰香港,https://hls.9kds.com/20260909/fhxg.m3u8
+凤凰中文,http://120.48.231.201:58823/hls/47/index.m3u8
+凤凰资讯,http://120.48.231.201:58823/hls/48/index.m3u8
 无线新闻,http://173.208.234.146/live/inews.m3u8
 凤凰中文,http://173.208.234.146/live/fhzw.m3u8
 凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
@@ -30,8 +35,6 @@
 凤凰中文,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzw
 凤凰资讯,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzx
 凤凰香港,http://xiangz.qzz.io:8031/php/fhx.php?id=fhhk
-凤凰中文,http://120.48.231.201:58823/hls/47/index.m3u8
-凤凰资讯,http://120.48.231.201:58823/hls/48/index.m3u8
 凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=c52da4594060ea86da27a4725d8cc38f
 凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=c52da4594060ea86da27a4725d8cc38f
 凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=c52da4594060ea86da27a4725d8cc38f
@@ -137,6 +140,7 @@
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 
 凤凰电影,http://120.48.231.201:58823/hls/50/index.m3u8
+凤凰电影,https://hls.9kds.com/20260909/fhdy.m3u8
 凤凰电影,http://106.8.17.2:14258/rtp/239.254.201.1:5214$河北电信
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv$广西
 凤凰电影,http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$广西
@@ -1670,6 +1674,20 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 中国天气,http://hc8q.x3322.net:3000/959986621
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
+CGTN,https://english-livebkali.cgtn.com/live/encgtn.m3u8
+CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN,http://A/ku9/js/ysp.js?id=cgtn
+CGTN,http://mg.cttv.vip/609017205
+CGTN,http://w.yyjn.top:3000/609017205
+CGTN,http://218.0.171.238:1234/609017205
+CGTN,http://125.80.122.173:3005/609017205
+CGTN,http://111.230.72.38:1234/609017205
+CGTN,http://106.52.119.159:1234/609017205
+CGTN,http://116.77.33.98:44330/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+CGTN,http://yulang132.cn:4022/rtp/239.94.2.164:5140
+
 重温经典,http://bztv.tvbus.cc:8081/cdnlive/cwjd.m3u8
 重温经典,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cwjd
 重温经典,http://f.123.rr.kg/163189/cwjd
@@ -2740,21 +2758,6 @@ Day by Day,http://vd4.bdstatic.com/mda-ma39e363u5ebd33e/v1-cae/mda-ma39e363u5ebd
 合集驼铃草原歌曲,https://vdse.bdstatic.com//f8f4740a4ca7ff31c3a2d8386fc14598.mp4
 合集粤语上海滩,https://vdse.bdstatic.com//f9cda7e70273c267b61a3d0c969d2033.mp4
 合集刀郎敖包相会,https://vdse.bdstatic.com//36ea0ffcf8156a44b9d524d999eb088a.mp4
-
-英语频道,#genre#
-CGTN,https://english-livebkali.cgtn.com/live/encgtn.m3u8
-CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN,http://A/ku9/js/ysp.js?id=cgtn
-CGTN,http://mg.cttv.vip/609017205
-CGTN,http://w.yyjn.top:3000/609017205
-CGTN,http://218.0.171.238:1234/609017205
-CGTN,http://125.80.122.173:3005/609017205
-CGTN,http://111.230.72.38:1234/609017205
-CGTN,http://106.52.119.159:1234/609017205
-CGTN,http://116.77.33.98:44330/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-CGTN,http://yulang132.cn:4022/rtp/239.94.2.164:5140
 
 欢迎曲视频,#genre#
 欢迎进行曲,https://gitee.com/dai98/ch/raw/master/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://git.yylx.win/github.com/chqo/tv/raw/main/%E6%AC%A2%E8%BF%8E%E8%BF%9B%E8%A1%8C%E6%9B%B2.ts#https://pan.ezv.cc/v/5d98efa81b822d33111039a427eccb4e
