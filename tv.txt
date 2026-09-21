@@ -153,6 +153,9 @@
 重庆卫视,http://A/ku9/js/migu.js?id=738910914
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221225502/1.m3u8
 重庆卫视,http://A/ku9/py/socks5.py?ip=101.42.108.234:6002&u=http://39.134.65.106/PLTV/88888888/224/3221226001/1.m3u8
+重庆卫视,http://sphinger.f3322.net:11012/rtp/239.3.1.122:8160$北京组播
+重庆卫视,http://renpcboy.3322.org:8012/udp/239.3.1.122:8160$北京组播
+重庆卫视,http://www.221111.best:8012/rtp/239.3.1.122:8160$北京组播
 重庆卫视,http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
 重庆卫视,http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061103.m3u8
 重庆卫视,http://120.198.84.146:9901/tsfile/live/1058_1.m3u8
@@ -2197,6 +2200,8 @@ DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 重庆纵歌,http://tjbs6mjr1.hn-bkt.clouddn.com/%E9%87%8D%E5%BA%86%E7%BA%B5%E6%AD%8C.mp4#https://pan.vma.cc/pan/v/d80ae0007ae11d1f241d2baa5d6a5989?ext=mp4&pwd=546#https://pan.ezv.cc/v/078957a69be0876d46c15b688871930c
 山歌追上云朵,https://git.yylx.win/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E5%B1%B1%E6%AD%8C%E8%BF%BD%E4%B8%8A%E4%BA%91%E6%9C%B5.mp4
 山歌追上云朵,https://wp.kayyw.com/f/8Jnpfl/%E5%B1%B1%E6%AD%8C%E8%BF%BD%E4%B8%8A%E4%BA%91%E6%9C%B5.mp4#https://chuxinya.top/f/DQwph3/%E5%B1%B1%E6%AD%8C%E8%BF%BD%E4%B8%8A%E4%BA%91%E6%9C%B5.mp4
+芭蕾舞,http://tlp8nhk6a.hn-bkt.clouddn.com/%E5%9B%9B%E5%B0%8F%E5%A4%A9%E9%B9%85%2C.mp4#http://tlp8nhk6a.hn-bkt.clouddn.com/%E7%9A%87%E5%AE%B6%E8%8A%AD%E8%95%BE%E8%88%9E.mp4#http://tlp8nhk6a.hn-bkt.clouddn.com/%E8%8A%AD%E8%95%BE%E8%88%9E.mp4#http://tlp8nhk6a.hn-bkt.clouddn.com/%E8%8A%AD%E8%95%BE%E8%88%9E%E5%89%A7%E3%80%8A%E8%88%9E%E5%A7%AC%E3%80%8B.mp4#http://tlp8nhk6a.hn-bkt.clouddn.com/%E8%8A%AD%E8%95%BE%E8%88%9E%E5%A4%A9%E9%B9%85%E6%B9%96.mp4#http://tlp8nhk6a.hn-bkt.clouddn.com/%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%87%E5%AE%B6%E8%8A%AD%E8%95%BE%E8%88%9E.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E8%8A%AD%E8%95%BE%E8%88%9E.mp4#https://git.yylx.win/github.com/chqo/tv/raw/main/%E8%8A%AD%E8%95%BE%E8%88%9E%E5%89%A7%E3%80%8A%E8%88%9E%E5%A7%AC%E3%80%8B.mp4
+西班牙斗牛舞,http://tlp8nhk6a.hn-bkt.clouddn.com/%E8%A5%BF%E7%8F%AD%E7%89%99-%E6%96%97%E7%89%9B%E8%88%9E.mp4#http://tlp8nhk6a.hn-bkt.clouddn.com/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%97%E7%89%9B%E8%88%9E.mp4#http://tlp8nhk6a.hn-bkt.clouddn.com/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%96%97%E7%89%9B%E6%9B%B2.mp4
 美国踢踏舞,http://tlp8nhk6a.hn-bkt.clouddn.com/%E7%BE%8E%E5%9B%BD%E8%B8%A2%E8%B8%8F%E8%88%9E.mp4#https://git.yylx.win/github.com/73330/tv/raw/main/%E7%BE%8E%E5%9B%BD%E8%B8%A2%E8%B8%8F%E8%88%9E.mp4#https://git.yylx.win/github.com/73330/tv/raw/main/%E8%B8%A2%E8%B8%8F%E8%88%9E.flv#https://git.yylx.win/github.com/73330/tv/raw/main/%E7%BE%8E%E5%BC%8F%E8%B8%A2%E8%B8%8F%E8%88%9E.flv#https://wp.kayyw.com/f/xlPgTY/%E7%BE%8E%E5%9B%BD%E8%B8%A2%E8%B8%8F%E8%88%9E.mp4#https://chuxinya.top/f/oj6Rhv/%E7%BE%8E%E5%9B%BD%E8%B8%A2%E8%B8%8F%E8%88%9E.mp4#https://wp.kayyw.com/f/j7WMcX/%E7%BE%8E%E5%BC%8F%E8%B8%A2%E8%B8%8F%E8%88%9E.flv#https://wp.kayyw.com/f/X5P7cZ/%E8%B8%A2%E8%B8%8F%E8%88%9E.flv
 你想我了没,https://git.yylx.win/github.com/chqo/tv/raw/main/%E4%BD%A0%E6%83%B3%E6%88%91%E4%BA%86%E6%B2%A1.mp4
 你想我了没,webview://https://haokan.baidu.com/v?vid=9331568202470599498
