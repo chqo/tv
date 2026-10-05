@@ -1760,11 +1760,12 @@ MV歌曲,#genre#
 热血颂,http://tkwgs49or.hn-bkt.clouddn.com/%E7%83%AD%E8%A1%80%E9%A2%82.mp4#https://d.kstore.dev/download/10141/%E7%83%AD%E8%A1%80%E9%A2%82.mp4
 热血颂,https://vd2.bdstatic.com/mda-nhm1iukvqj73jrk9/sc/cae_h264/1661134887035608960/mda-nhm1iukvqj73jrk9.mp4
 团结就是力量,https://git.yylx.win/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E5%9B%A2%E7%BB%93%E5%B0%B1%E6%98%AF%E5%8A%9B%E9%87%8F%20.mp4
-映山红,http://tkwgs49or.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4#https://d.kstore.dev/download/10141/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
+映山红,http://tkwgs49or.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
 高山下的花环,https://vd2.bdstatic.com/mda-ngq0sksae82vsz1s/sc/cae_h264/1658728345217881856/mda-ngq0sksae82vsz1s.mp4
-映山红DJ,https://v9-default.365yg.com/81eef088bec42b4f2e0085c6ed6365bb/6ac327d4/video/tos/cn/tos-cn-ve-15/oExfnAIJbi4lgSAdQrhABb0gOD9f9LAsYHrgqr/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=2205&bt=2205&cs=0&ds=4&ft=ahW46QQqUuIf_oZmo0OW_QYaUqiXI.lY9VJETfBMEbPD-Ipz&mime_type=video_mp4&qs=0&rc=aDo4NDNpNjhmOGQ2OWc2aEBpajM4OTdrb2h4djMzNGkzM0AzYV40Yl9eNjExYzUvYjJgYSMwMmVscWdub2tgLS1kLTBzcw%3D%3D&btag=80000e00030000&dy_q=1791170761&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202610051126014CEC0B856E69F0511F63&playAddrKey=v0300fg10000csnureqljht4o6h5503g
-映山红DJ,https://v5-se-gddgtc-default.365yg.com/d6418267f977dbde43d87cf2c9632d55/6ac3270f/video/cn/mps/realtime/v1/r/p/v0300fg10000csnureqljht4o6h5503g/97dc758ef6b14d8fba0a76d134ed5802/86696913042cee8259b4de7e4cdda673/mp4/main.mp4?a=201&ch=0&cr=0&dr=0&cd=0%7C0%7C0%7C0&cv=1&br=1175&bt=1175&cs=0&ds=3&ft=aT_7TQQqUuIf_oZmo0OW_QYaUqiXnBlY9VJE1xvSfCPD-Ipz&mime_type=video_mp4&qs=0&rc=NTtnNzQ5ZGRpZzQ5aDhmOkBpajM4OTdrb2h4djMzNGkzM0AtMmIwYTQtXzUxX2M1NGE2YSMwMmVscWdub2tgLS1kLTBzcw%3D%3D&btag=c0000e00030000&codec=h264&definition=720p&dy_q=1791170564&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7435423643334708543&l=2026100511224489176253E2BA27A26F84&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type
-映山红DJ,https://v5-se-jltc-default.365yg.com/fac27a8618c3bc05563f67105a913d35/6ac3247b/video/tos/cn/tos-cn-ve-15-alinc2/8d775a5c7b2b4d589fa0f5ec6edfeae2/?a=201&ch=0&cr=0&dr=0&lr=xigua_aweme_play_suffix&cd=0%7C0%7C0%7C0&cv=1&br=2066&bt=2066&cs=0&ds=3&ft=aT_7TQQqUuIf_oZmo0OW_QYaUqiXnllY9VJE8b~xrCPD-Ipz&mime_type=video_mp4&qs=0&rc=OGc0OjtpNTM0ZTU3NDxmNkBpanB1d2Y6ZjRkOjMzNGkzM0AvYDBgNGMtNjQxLi01XzBeYSMwYS5hcjQwNGZgLS1kLS9zcw%3D%3D&btag=c0000e00030000&dy_q=1791169604&l=20261005110643B64EEE3C5C672BEE9481
+映山红DJ,https://pan.ezv.cc/v/c8716a254bd4237824e9c721d7b6180e
+映山红DJ,http://tlp8nhk6a.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
+映山红DJ,http://tlp8nhk6a.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A21.mp4
+映山红DJ,https://pan.ezv.cc/v/be2f893315b341d9075d53c44731a1b8
 映山红DJ,webview://https://haokan.baidu.com/v?vid=17349190781526169378
 映山红DJ,webview://https://haokan.baidu.com/v?vid=4530019400963831801
 
