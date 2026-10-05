@@ -1766,7 +1766,9 @@ MV歌曲,#genre#
 映山红DJ,http://tlp8nhk6a.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
 映山红DJ,http://tlp8nhk6a.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A21.mp4
 映山红DJ,https://pan.ezv.cc/v/be2f893315b341d9075d53c44731a1b8
-映山红DJ,webview://https://haokan.baidu.com/v?vid=17349190781526169378
+映山红朝鲜语,http://tlp8nhk6a.hn-bkt.clouddn.com/%E6%9C%9D%E9%B2%9C%E8%AF%AD%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
+映山红朝鲜语,https://pan.ezv.cc/v/cc46ee99a7ea0e695fb8d72b3b6c834b
+映山红朝鲜语,webview://https://haokan.baidu.com/v?vid=6877129822823712408
 映山红DJ,webview://https://haokan.baidu.com/v?vid=4530019400963831801
 
 DJ舞曲,#genre#
