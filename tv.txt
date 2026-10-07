@@ -49,9 +49,6 @@
 凤凰中文,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzw
 凤凰资讯,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzx
 凤凰香港,http://xiangz.qzz.io:8031/php/fhx.php?id=fhhk
-凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=c52da4594060ea86da27a4725d8cc38f
-凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=c52da4594060ea86da27a4725d8cc38f
-凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=c52da4594060ea86da27a4725d8cc38f
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -211,13 +208,13 @@
 重庆卫视,http://115.171.216.40:4000/udp/225.1.8.172:8162
 重庆卫视,http://183.236.43.98:4013/udp/239.77.1.162:5146
 重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://218.93.26.238:1234/738910914
 重庆卫视,http://smartzhu.cn:1234/738910914
 重庆卫视,http://49.77.110.4:1234/738910914
 重庆卫视,http://47.99.244.216:3333/738910914
 重庆卫视,http://101.91.126.133:1234/738910914
 重庆卫视,http://47.243.12.199:8880/738910914
 重庆卫视,http://222.134.19.49:8090/738910914
+重庆卫视,http://www.20260809.xyz:1234/738910914
 重庆卫视,http://www.ikerobot.com:1234/738910914
 重庆卫视,http://go.bkpcp.top/mg/cqws
 重庆卫视,http://ruiheng.hongruida.work:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -231,6 +228,7 @@
 重庆卫视,http://198.204.228.26/live/cqwshd.m3u8?ysp
 重庆卫视,http://111.8.242.104:8088/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://218.13.138.139:59901/tsfile/live/0142_1.m3u8
+重庆卫视,http://wddpmpc.sosos.run:4022/rtp/239.109.205.30:8168$陕西电信
 重庆卫视,http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
 重庆卫视,http://111.8.242.142:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0$湖南移动
 重庆卫视,http://111.8.242.104:8088/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0$湖南移动
@@ -244,17 +242,8 @@
 重庆卫视,http://112.99.195.122:65000/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
 重庆卫视,http://hxwangcong.x3322.net:26000/rtp/239.109.205.30:8168
-重庆卫视,http://game.x3322.net:8899/rtp/225.0.4.187:7980
-重庆卫视,http://nas.iszbd.com:4022/rtp/225.0.4.187:7980
 重庆卫视,http://wangfei.uno:9999/rtp/225.1.2.75:11590
-重庆卫视,http://nas.lyfkai.cn:19999/rtp/239.254.96.25:8124
-重庆卫视,http://www.gaolao.top:8008/rtp/239.109.205.30:8168
-重庆卫视,http://www.gaolao.top:8008/rtp/239.112.205.40:5140
-重庆卫视,http://nas.linktou.top:6001/rtp/226.0.2.50:8312
 重庆卫视,http://home.pinkfloyd.cn:5000/rtp/238.1.78.31:6176
-重庆卫视,http://guoxue7.3322.org:57022/rtp/239.3.1.122:8160
-重庆卫视,http://www.wpfhome.cn:5555/rtp/235.254.196.249:1268
-重庆卫视,http://nas.hexuntong.net:8188/rtp/239.3.1.122:8160
 重庆卫视,http://36.35.109.8:8000/hls/32/index.m3u8
 重庆卫视,http://old.20190319.xyz:18888/rtp/238.125.1.14:5140
 重庆卫视,http://home.scanflove.com:7788/rtp/235.254.197.103:7980
@@ -266,11 +255,15 @@
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
 重庆影视,http://58.17.134.3:8001/udp/225.0.4.62:7980
-重庆影视,http://58.17.134.3:8002/rtp/225.0.4.62:7980
+重庆影视,http://58.17.134.3:8005/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8003/udp/225.0.4.192:7980
+重庆影视,http://106.80.125.49:7788/rtp/235.254.198.180:7980
+重庆影视,http://106.80.125.49:7788/rtp/235.254.196.209:1108
 重庆影视,http://183.66.15.138:4070/udp/235.254.197.105:7980
 重庆影视,http://www.745612.xyz:7788/rtp/235.254.198.180:7980
 重庆影视,http://www.745612.xyz:7788/rtp/235.254.197.105:7980
+重庆影视,http://17782331118.top:8188/rtp/235.254.196.209:1108
+重庆影视,http://dyzy.pub:8003/rtp/235.254.196.209:1108
 重庆影视,http://ii0.qzz.io:4070/rtp/235.254.196.209:1108
 重庆影视,http://iid.ccwu.cc:4070/rtp/235.254.198.180:7980
 重庆影视,http://iop.zfur.me:4070/rtp/235.254.196.209:1108
@@ -285,12 +278,14 @@
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
+重庆新闻,http://106.80.125.49:7788/rtp/235.254.196.208:1104
 重庆新闻,http://home.scanflove.com:7788/rtp/235.254.196.208:1104
 重庆新闻,http://www.msen.site:8000/rtp/235.254.197.104:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆文体娱乐,http://58.17.134.3:8002/udp/225.0.4.65:7980
+重庆文体娱乐,http://58.17.134.3:8003/udp/225.0.4.65:7980
+重庆文体娱乐,http://106.80.125.49:7788/rtp/235.254.196.212:1120
 重庆文体娱乐,http://www.745612.xyz:7788/rtp/235.254.197.108:7980
 重庆文体娱乐,http://183.66.15.138:4070/udp/235.254.196.212:1120
 重庆文体娱乐,http://183.66.15.138:4070/udp/235.254.197.108:7980
@@ -299,21 +294,24 @@
 重庆文体娱乐,http://www.msen.site:8000/rtp/235.254.197.108:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
-重庆红岩文化,http://58.17.134.3:8002/udp/225.0.4.69:7980
+重庆红岩文化,http://58.17.134.3:8003/udp/225.0.4.69:7980
+重庆红岩文化,http://106.80.125.49:7788/rtp/235.254.196.211:1116
 重庆红岩文化,http://183.66.15.138:4070/udp/235.254.197.107:7980
 重庆红岩文化,http://183.66.15.138:4070/udp/235.254.198.182:7980
 重庆红岩文化,http://183.66.15.138:4070/udp/235.254.199.182:7980
 重庆红岩文化,http://www.msen.site:8000/udp/225.0.4.69:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
-重庆红叶,http://58.17.134.3:8002/udp/225.0.4.63:7980
+重庆红叶,http://58.17.134.3:8003/udp/225.0.4.63:7980
+重庆红叶,http://106.80.125.49:7788/rtp/235.254.196.215:1132
 重庆红叶,http://www.745612.xyz:7788/rtp/235.254.197.111:7980
 重庆红叶,http://183.66.15.138:4070/udp/235.254.197.111:7980
 重庆红叶,http://183.66.15.138:4070/udp/235.254.199.188:7980
 重庆红叶,http://www.msen.site:8000/udp/225.0.4.63:7980
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
-重庆社会与法,http://58.17.134.3:8002/udp/225.0.4.64:7980
+重庆社会与法,http://58.17.134.3:8003/udp/225.0.4.64:7980
+重庆社会与法,http://106.80.125.49:7788/rtp/235.254.196.210:1112
 重庆社会与法,http://www.745612.xyz:7788/rtp/235.254.197.106:7980
 重庆社会与法,http://183.66.15.138:4070/udp/235.254.196.210:1112
 重庆社会与法,http://183.66.15.138:4070/udp/235.254.199.181:7980
@@ -321,15 +319,19 @@
 重庆社会与法,http://www.msen.site:8000/rtp/225.0.4.190:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 
-重庆新农村,http://58.17.134.3:8002/udp/225.0.4.70:7980
+重庆新农村,http://58.17.134.3:8003/udp/225.0.4.70:7980
+重庆新农村,http://106.80.125.49:7788/rtp/235.254.196.213:1124
 重庆新农村,http://www.745612.xyz:7788/rtp/235.254.197.109:7980
 重庆新农村,http://183.66.15.138:4070/udp/235.254.197.109:7980
 重庆新农村,http://183.66.15.138:4070/udp/235.254.199.186:7980
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
-重庆少儿,http://58.17.134.3:8002/udp/225.0.4.71:7980
+重庆少儿,http://58.17.134.3:8003/udp/225.0.4.71:7980
+重庆少儿,http://17782331118.top:8188/rtp/235.254.196.214:1128
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
+重庆少儿,http://106.80.125.49:7788/rtp/235.254.196.214:1128
 
+重庆汽摩,http://106.80.125.49:7788/rtp/235.254.196.221:1156
 重庆汽摩,http://183.66.15.138:4070/udp/235.254.197.117:7980
 重庆汽摩,http://183.66.15.138:4070/udp/235.254.196.221:1156
 重庆汽摩,http://183.66.15.138:4070/udp/235.254.199.169:7980
@@ -1439,9 +1441,10 @@ CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
 CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 少儿频道,#genre#
-重庆少儿,http://www.wpfhome.cn:5555/rtp/235.254.197.110:7980
-重庆少儿,http://game.x3322.net:8899/udp/225.0.4.71:7980
+重庆少儿,http://58.17.134.3:8003/udp/225.0.4.71:7980
+重庆少儿,http://17782331118.top:8188/rtp/235.254.196.214:1128
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
+重庆少儿,http://106.80.125.49:7788/rtp/235.254.196.214:1128
 海南少儿,http://66.212.21.179:1234/962067523
 CCTV14少儿,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 CCTV14少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1672,14 +1675,13 @@ CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 CCTV女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
 CCTV风云音乐,webview://https://www.yangshipin.cn/tv/home?pid=600099660
 CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
-快乐垂钓,http://fn.gcl.de5.net:5908/gsh950428/961930263
-快乐垂钓,https://live.chinacert.cftest5.cn/cnmg/live/961930263
-快乐垂钓,http://112.85.93.6:7788/961930263
+快乐垂钓,http://www.20260809.xyz:1234/961930263
+快乐垂钓,http://smartzhu.cn:1234/961930263
+快乐垂钓,http://www.ikerobot.com:1234/961930263
 快乐垂钓,http://120.76.248.139/live/bfgd/4200000228.m3u8
-
-四海钓鱼,http://fn.gcl.de5.net:5908/gsh950428/637444975
-四海钓鱼,https://live.chinacert.cftest5.cn/cnmg/live/637444975
-四海钓鱼,http://112.85.93.6:7788/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
+四海钓鱼,http://www.20260809.xyz:1234/637444975
+四海钓鱼,http://smartzhu.cn:1234/637444975
+四海钓鱼,http://www.ikerobot.com:1234/637444975#http://120.76.248.139/live/bfgd/4200000229.m3u8
 
 MV歌曲,#genre#
 次真降措-我从亚丁来,https://pan.vma.cc/pan/v/176da2c49fe56c32961c8a61d47c06fd?ext=mp4&pwd=98569856#https://gitee.com/dai98/ch/raw/master/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5.ts#https://git.yylx.win/github.com/73330/ch/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://fastgit.cc/github.com/chqo/tv/raw/main/%E6%AC%A1%E7%9C%9F%E9%99%8D%E6%8E%AA-%E6%88%91%E4%BB%8E%E4%BA%9A%E4%B8%81%E6%9D%A5%20.mp4#https://pan.ezv.cc/v/335808252ff19a810c3d59a6fc62d773#https://d.kstore.dev/download/10141/次真降措-我从亚丁来 .mp4
