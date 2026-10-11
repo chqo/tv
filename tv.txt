@@ -208,14 +208,11 @@
 重庆卫视,http://115.171.216.40:4000/udp/225.1.8.172:8162
 重庆卫视,http://183.236.43.98:4013/udp/239.77.1.162:5146
 重庆卫视,http://219.145.93.74:10000/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://www.ikerobot.com:1234/738910914
 重庆卫视,http://smartzhu.cn:1234/738910914
 重庆卫视,http://49.77.110.4:1234/738910914
 重庆卫视,http://47.99.244.216:3333/738910914
-重庆卫视,http://101.91.126.133:1234/738910914
-重庆卫视,http://47.243.12.199:8880/738910914
-重庆卫视,http://222.134.19.49:8090/738910914
 重庆卫视,http://www.20260809.xyz:1234/738910914
-重庆卫视,http://www.ikerobot.com:1234/738910914
 重庆卫视,http://go.bkpcp.top/mg/cqws
 重庆卫视,http://ruiheng.hongruida.work:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
