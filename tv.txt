@@ -163,7 +163,6 @@
 
 重庆频道,#genre#
 重庆卫视,http://A/ku9/js/migu.js?id=738910914
-重庆卫视,http://www.ikerobot.com:1234/738910914
 重庆卫视,http://smartzhu.cn:1234/738910914
 重庆卫视,http://mg.cttv.vip/738910914
 重庆卫视,http://w.yyjn.top:3000/738910914
