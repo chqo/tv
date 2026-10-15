@@ -162,18 +162,6 @@
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 
 重庆频道,#genre#
-重庆卫视,http://A/ku9/py/酷9央视频.py?id=cqws
-重庆卫视,http://wddpmpc.sosos.run:4022/rtp/239.109.205.30:8168$陕西电信
-重庆卫视,http://xs12dp121403.vicp.fun:9999/rtp/239.253.92.10:6053
-重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
-重庆卫视,http://sphinger.f3322.net:11012/rtp/239.3.1.122:8160$北京组播
-重庆卫视,http://renpcboy.3322.org:8012/udp/239.3.1.122:8160$北京组播
-重庆卫视,http://www.221111.best:8012/rtp/239.3.1.122:8160$北京组播
-重庆卫视,http://112.19.88.97:8899/rtp/239.11.0.116:5140
-重庆卫视,http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061103.m3u8
-重庆卫视,http://fcasad.x3322.net:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://218.13.139.26:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 重庆卫视,http://A/ku9/js/migu.js?id=738910914
 重庆卫视,http://smartzhu.cn:1234/738910914
 重庆卫视,http://mg.cttv.vip/738910914
@@ -183,6 +171,14 @@
 重庆卫视,http://47.106.168.176:1111/738910914
 重庆卫视,http://47.99.244.216:3333/738910914
 重庆卫视,http://www.20260809.xyz:1234/738910914
+重庆卫视,http://A/ku9/py/酷9央视频.py?id=cqws
+重庆卫视,http://wddpmpc.sosos.run:4022/rtp/239.109.205.30:8168$陕西电信
+重庆卫视,http://sphinger.f3322.net:11012/rtp/239.3.1.122:8160$北京组播
+重庆卫视,http://renpcboy.3322.org:8012/udp/239.3.1.122:8160$北京组播
+重庆卫视,http://www.221111.best:8012/rtp/239.3.1.122:8160$北京组播
+重庆卫视,http://112.19.88.97:8899/rtp/239.11.0.116:5140
+重庆卫视,http://218.13.139.26:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 重庆卫视,https://hls.9kds.com/20260909/cqws.m3u8
 重庆卫视,http://A/ku9/js/ysp.js?id=cqws
 重庆卫视,http://nas.hd0753.com:14022/rtp/239.77.0.182:5146
