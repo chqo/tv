@@ -16,17 +16,15 @@
 凤凰香港,http://xiang.bbroot.com/xiang/xiangdaili/fhx.php?id=fhhk
 凤凰中文,http://xiang.bbroot.com/xiang/xiangdaili/fhx.php?id=fhzw
 凤凰资讯,http://xiang.bbroot.com/xiang/xiangdaili/fhx.php?id=fhzx
+凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
 凤凰中文,http://xs12dp121403.vicp.fun:9999/rtp/239.253.93.82:6248
 凤凰资讯,http://xs12dp121403.vicp.fun:9999/rtp/239.253.93.83:6249
+凤凰中文,http://173.208.234.146/live/fhzw.m3u8?zbj
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8?zbj
 凤凰中文,http://jyb7928.host:8066/udp/239.1.1.126:8126/?fcc=10.56.17.68:8027&fcc-type=huawei
 凤凰中文,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.35:5140
-凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://183.239.248.218:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://183.239.248.218:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=
-凤凰资讯,http://zdxing.com:2222/fengshows-info.flv
-凤凰中文,http://zdxing.com:2222/fengshows-chinese.flv
-凤凰香港,http://zdxing.com:2222/fengshows-hongkong.flv
+凤凰资讯,http://183.239.248.218:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://zdxing.com:2222/fengshows-info.flv
 凤凰中文,http://zdxing.com:2222/fengshows-chinese.flv
 凤凰香港,http://zdxing.com:2222/fengshows-hongkong.flv
@@ -51,9 +49,6 @@
 凤凰中文,http://yulang132.cn:4022/rtp/239.94.2.52:5140
 凤凰资讯,http://yulang132.cn:4022/rtp/239.94.2.49:5140
 凤凰资讯,http://yulang132.cn:4022/rtp/239.94.2.50:5140
-凤凰中文,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzw
-凤凰资讯,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzx
-凤凰香港,http://xiangz.qzz.io:8031/php/fhx.php?id=fhhk
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -172,12 +167,13 @@
 重庆卫视,http://A/ku9/js/migu.js?id=738910914
 重庆卫视,http://mg.cttv.vip/738910914
 重庆卫视,http://zdxing.com:2222/738910914
-重庆卫视,http://w.yyjn.top:3000/738910914
 重庆卫视,http://49.77.110.4:1234/738910914
 重庆卫视,http://39.107.95.182:3000/738910914
 重庆卫视,http://47.106.168.176:1111/738910914
 重庆卫视,http://47.99.244.216:3333/738910914
-重庆卫视,http://www.20260809.xyz:1234/738910914
+重庆卫视,http://w.yyjn.top:3000/738910914
+重庆卫视,http://49.84.70.128:15140/卫视/重庆卫视?cors
+重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://A/ku9/py/酷9央视频.py?id=cqws
 重庆卫视,http://wddpmpc.sosos.run:4022/rtp/239.109.205.30:8168$陕西电信
 重庆卫视,http://sphinger.f3322.net:11012/rtp/239.3.1.122:8160$北京组播
@@ -196,7 +192,6 @@
 重庆卫视,http://183.66.15.138:4070/udp/235.254.198.34:1412
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
-重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://122.224.58.42:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://110.40.170.5:8890/diai/live_iptv.php?id=36&token=fsfcd32fdtfk
 重庆卫视,http://smzb.bypbwxx.top/lvdou/zhibojm-weishi-ws.php?token=03b607528f65a8026d06544dacd973
@@ -252,6 +247,7 @@
 重庆卫视,webview://https://m.miguvideo.com/mgs/msite/prd/liveDetail.html?channelid=201600010010024&contId=738910914
 重庆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002531  
 
+重庆影视,http://38.75.136.137:98/gslb/dsdqpub/cqys.m3u8?auth=testpub
 重庆影视,http://58.17.134.3:8001/udp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8005/rtp/225.0.4.62:7980
 重庆影视,http://58.17.134.3:8003/udp/225.0.4.192:7980
@@ -264,24 +260,28 @@
 重庆影视,http://home.scanflove.com:7788/rtp/235.254.197.105:7980
 
 重庆新闻,http://8.138.7.223/tv/cbg2.php
+重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重庆新闻,http://hook.msen.site:8000/rtp/235.254.196.208:1104
 重庆新闻,http://home.scanflove.com:7788/rtp/235.254.196.208:1104
 重庆新闻,http://www.msen.site:8000/rtp/235.254.197.104:7980
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
+重庆文体娱乐,http://38.75.136.137:98/gslb/dsdqpub/cqyl.m3u8?auth=testpub
 重庆文体娱乐,http://58.17.134.3:8003/udp/225.0.4.65:7980
 重庆文体娱乐,http://hook.msen.site:8000/rtp/235.254.196.212:1120
 重庆文体娱乐,http://www.745612.xyz:7788/rtp/235.254.197.108:7980
 重庆文体娱乐,http://www.msen.site:8000/rtp/235.254.197.108:7980
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
+重庆红岩文化,http://38.75.136.137:98/gslb/dsdqpub/cqss.m3u8?auth=testpub
 重庆红岩文化,http://58.17.134.3:8003/udp/225.0.4.69:7980
 重庆红岩文化,http://hook.msen.site:8000/rtp/235.254.196.211:1116
 重庆红岩文化,http://www.745612.xyz:7788/udp/235.254.197.107:7980
 重庆红岩文化,http://www.msen.site:8000/udp/225.0.4.69:7980
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
+重庆红叶,http://38.75.136.137:98/gslb/dsdqpub/cqkj.m3u8?auth=testpub
 重庆红叶,http://58.17.134.3:8003/udp/225.0.4.63:7980
 重庆红叶,http://hook.msen.site:8000/rtp/235.254.196.215:1132
 重庆红叶,http://www.745612.xyz:7788/rtp/235.254.197.111:7980
@@ -295,7 +295,9 @@
 重庆社会与法,http://www.745612.xyz:7788/rtp/235.254.197.106:7980
 重庆社会与法,http://www.msen.site:8000/rtp/225.0.4.190:7980
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
+重庆社会与法,http://38.75.136.137:98/gslb/dsdqpub/cqds.m3u8?auth=testpub
 
+重庆新农村,http://38.75.136.137:98/gslb/dsdqpub/cqgg.m3u8?auth=testpub
 重庆新农村,http://58.17.134.3:8003/udp/225.0.4.70:7980
 重庆新农村,http://hook.msen.site:8000/rtp/235.254.196.213:1124
 重庆新农村,http://www.745612.xyz:7788/rtp/235.254.197.109:7980
@@ -305,7 +307,9 @@
 重庆少儿,http://17782331118.top:8188/rtp/235.254.196.214:1128
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
 重庆少儿,http://106.80.125.49:7788/rtp/235.254.196.214:1128
+重庆少儿,http://38.75.136.137:98/gslb/dsdqpub/cqse.m3u8?auth=testpub
 
+重庆汽摩,http://38.75.136.137:98/gslb/dsdqpub/cqqm.m3u8?auth=testpub
 重庆汽摩,http://106.80.125.49:7788/rtp/235.254.196.221:1156
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
@@ -1428,7 +1432,7 @@ CCTV风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=60009965872
 
 少儿频道,#genre#
 重庆少儿,http://58.17.134.3:8003/udp/225.0.4.71:7980
-重庆少儿,http://17782331118.top:8188/rtp/235.254.196.214:1128
+重庆少儿,http://38.75.136.137:98/gslb/dsdqpub/cqse.m3u8?auth=testpub
 重庆少儿,http://home.scanflove.com:7788/rtp/235.254.197.110:7980
 重庆少儿,http://106.80.125.49:7788/rtp/235.254.196.214:1128
 海南少儿,http://66.212.21.179:1234/962067523
@@ -1440,6 +1444,8 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 卡酷动画,http://39.165.39.49:85/tsfile/live/1158_1.m3u8?key=txiptv&playlive=1&authid=0
 炫动卡通,http://39.165.39.49:85/tsfile/live/1159_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://39.165.39.49:85/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
+卡酷少儿,http://38.75.136.137:98/gslb/dsdqpub/btvkk.m3u8?auth=testpub
 优漫卡通,http://t.061899.xyz/tl/dq.php?id=jjkt
 嘉佳卡通,http://t.061899.xyz/tl/dq.php?id=jjkt
 卡酷少儿,http://t.061899.xyz/tl/dq.php?id=bjkk
@@ -1471,6 +1477,7 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 嘉佳卡通,http://www.stoneshi1984.ren:58120/rtp/239.112.205.135:5140
 嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
 优漫卡通,http://tvtj1.jxwltx.com:8003/custom11.m3u8
+哈哈炫动,http://38.75.136.137:98/gslb/dsdqpub/xdkthd.m3u8?auth=testpub
 卡酷少儿,http://182.40.98.184/dongfang5g-mobile-v51-live.bestvcdn.com.cn/0/live/program/live/kkse8m/8000000/mnf.m3u8
 哈哈炫动,http://182.40.98.184/dongfang5g-mobile-v51-live.bestvcdn.com.cn/0/live/program/live/hhxd8m/8000000/mnf.m3u8
 动漫秀场,http://182.40.98.184/dongfang5g-mobile-v51-live.bestvcdn.com.cn/0/live/program/live/dmxc8m/8000000/mnf.m3u8
@@ -1482,6 +1489,7 @@ CCTV14少儿,http://36.136.38.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playliv
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
 广东少儿,http://120.198.84.146:9901/tsfile/live/1011_1.m3u8
 广东少儿,video://https://www.gdtv.cn/tvChannelDetail/54
