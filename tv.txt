@@ -1736,13 +1736,11 @@ MV歌曲,#genre#
 热血颂,http://tkwgs49or.hn-bkt.clouddn.com/%E7%83%AD%E8%A1%80%E9%A2%82.mp4#https://d.kstore.dev/download/10141/%E7%83%AD%E8%A1%80%E9%A2%82.mp4
 热血颂,https://vd2.bdstatic.com/mda-nhm1iukvqj73jrk9/sc/cae_h264/1661134887035608960/mda-nhm1iukvqj73jrk9.mp4
 团结就是力量,https://git.yylx.win/https://raw.githubusercontent.com/chqo/tv/refs/heads/main/%E5%9B%A2%E7%BB%93%E5%B0%B1%E6%98%AF%E5%8A%9B%E9%87%8F%20.mp4
-映山红,http://tkwgs49or.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
+映山红,http://tn8qhb956.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
 高山下的花环,https://vd2.bdstatic.com/mda-ngq0sksae82vsz1s/sc/cae_h264/1658728345217881856/mda-ngq0sksae82vsz1s.mp4
 映山红DJ,https://pan.ezv.cc/v/c8716a254bd4237824e9c721d7b6180e
-映山红DJ,http://tlp8nhk6a.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
-映山红DJ,http://tlp8nhk6a.hn-bkt.clouddn.com/%E6%98%A0%E5%B1%B1%E7%BA%A21.mp4
 映山红DJ,https://pan.ezv.cc/v/be2f893315b341d9075d53c44731a1b8
-映山红朝鲜语,http://tlp8nhk6a.hn-bkt.clouddn.com/%E6%9C%9D%E9%B2%9C%E8%AF%AD%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
+映山红朝鲜语,http://tn8qhb956.hn-bkt.clouddn.com/%E6%9C%9D%E9%B2%9C%E8%AF%AD%E6%98%A0%E5%B1%B1%E7%BA%A2.mp4
 映山红朝鲜语,https://pan.ezv.cc/v/cc46ee99a7ea0e695fb8d72b3b6c834b
 映山红朝鲜语,webview://https://haokan.baidu.com/v?vid=6877129822823712408
 映山红DJ,webview://https://haokan.baidu.com/v?vid=4530019400963831801
