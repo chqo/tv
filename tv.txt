@@ -32,6 +32,8 @@
 凤凰中文,http://zdxing.com:2222/fengshows-chinese.flv
 凤凰香港,http://zdxing.com:2222/fengshows-hongkong.flv
 香港卫视,http://zdxing.com:2222/relay/hkstv-live.m3u8
+凤凰中文,http://home.pkucd.cn:4022/udp/239.94.2.51:5140$四川电信
+凤凰资讯,http://home.pkucd.cn:4022/udp/239.94.2.50:5140$四川电信
 凤凰中文,http://xmzj.f3322.net:8188/udp/239.94.2.52:5140$四川电信
 凤凰资讯,http://xmzj.f3322.net:8188/rtp/239.94.2.49:5140$四川电信
 凤凰中文,http://yaofuming.top:8188/rtp/239.94.2.52:5140$四川电信
@@ -133,15 +135,13 @@
 
 重庆频道,#genre#
 重庆卫视,http://A/ku9/js/migu.js?id=738910914
+重庆卫视,http://49.84.70.128:15140/卫视/重庆卫视?cors
 重庆卫视,http://mg.cttv.vip/738910914
 重庆卫视,http://zdxing.com:2222/738910914
 重庆卫视,http://tv.zhuhongxuan.cn/738910914
-重庆卫视,http://49.77.110.4:1234/738910914
-重庆卫视,http://39.107.95.182:3000/738910914
 重庆卫视,http://47.106.168.176:1111/738910914
 重庆卫视,http://47.99.244.216:3333/738910914
 重庆卫视,http://w.yyjn.top:3000/738910914
-重庆卫视,http://49.84.70.128:15140/卫视/重庆卫视?cors
 重庆卫视,http://39.105.81.149:10003/u/tF2hiBZeumHH7FeUVchHUaLW/relay/ysp-cqws.m3u8
 重庆卫视,http://www.sjwyp.com:4022/rtp/239.254.200.203:6323
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
@@ -224,6 +224,7 @@
 重庆影视,http://58.17.134.3:8003/udp/225.0.4.192:7980
 重庆影视,http://38.75.136.137:98/gslb/dsdqpub/cqys.m3u8?auth=testpub
 重庆影视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqys
+重庆影视,http://222.182.112.244:4022/rtp/235.254.198.180:7980
 重庆影视,http://www.745612.xyz:7788/rtp/235.254.198.180:7980
 重庆影视,http://www.745612.xyz:7788/rtp/235.254.197.105:7980
 重庆影视,http://dyzy.pub:8003/rtp/235.254.196.209:1108
