@@ -18,6 +18,7 @@
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
 凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8
 凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8
 凤凰中文,http://xs12dp121403.vicp.fun:9999/rtp/239.253.93.82:6248
@@ -30,6 +31,7 @@
 凤凰中文,http://remote.jackye.site:8000/rtp/239.61.2.184:9092$福建电信
 凤凰资讯,http://remote.jackye.site:8000/rtp/239.61.2.183:9086$福建电信
 凤凰中文,http://jyb7928.host:8066/udp/239.1.1.126:8126/?fcc=10.56.17.68:8027&fcc-type=huawei
+凤凰资讯,http://jyb7928.host:8066/udp/239.1.1.127:8127
 凤凰资讯,http://zdxing.com:2222/fengshows-info.flv
 凤凰中文,http://zdxing.com:2222/fengshows-chinese.flv
 凤凰香港,http://zdxing.com:2222/fengshows-hongkong.flv
@@ -126,6 +128,7 @@
 
 重庆频道,#genre#
 重庆卫视,http://A/ku9/js/migu.js?id=738910914
+重庆卫视,http://49.84.70.128:15140/卫视/重庆卫视?cors
 重庆卫视,http://hszdshy.serverzt.cn:9904/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://vpn.serverzt.cn:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://nas.minmiu.cn:18888/rtp/239.94.0.82:5140
