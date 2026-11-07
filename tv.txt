@@ -122,6 +122,11 @@
 翡翠台,http://120.198.84.146:9901/tsfile/live/1020_1.m3u8
 翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+凤凰中文,webview://https://345iptv.com/?act=play&tid=tv&id=20
+凤凰资讯,webview://https://345iptv.com/?act=play&tid=tv&id=21
+凤凰中文,webview://https://234iptv.com/?act=play&tid=tv&id=20
+凤凰资讯,webview://https://234iptv.com/?act=play&tid=tv&id=21
+凤凰香港,webview://https://234iptv.com/?act=play&tid=gt&id=3
 
 凤凰电影,http://120.48.231.201:58823/hls/50/index.m3u8
 凤凰电影,http://xs12dp121403.vicp.fun:9999/rtp/239.253.93.81:6247
