@@ -17,6 +17,10 @@
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
+凤凰中文,http://173.208.234.146/live/fhzw.m3u8?zbj
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8?zbj
+凤凰香港,http://173.208.234.146/live/fhxg.m3u8
+无线新闻,http://173.208.234.146/live/inews.m3u8
 凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8
 凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8
 凤凰中文,http://xs12dp121403.vicp.fun:9999/rtp/239.253.93.82:6248
@@ -62,10 +66,6 @@
 凤凰资讯,http://guany.myds.me:25852/rtp/233.50.202.36:5140$浙江电信
 凤凰中文,http://zjhuct.icu:8889/udp/233.50.202.35:5140$浙江电信
 凤凰资讯,http://zjhuct.icu:8889/udp/233.50.202.36:5140$浙江电信
-凤凰中文,http://173.208.234.146/live/fhzw.m3u8?zbj
-凤凰资讯,http://173.208.234.146/live/fhzx.m3u8?zbj
-凤凰香港,http://173.208.234.146/live/fhxg.m3u8
-无线新闻,http://173.208.234.146/live/inews.m3u8
 凤凰中文,http://wddpmpc.sosos.run:4022/rtp/239.111.205.78:5140$陕西电信
 凤凰资讯,http://wddpmpc.sosos.run:4022/rtp/239.111.205.82:5140$陕西电信
 凤凰中文,http://tiger81.i234.me:8888/rtp/239.111.205.78:5140$陕西电信
@@ -119,7 +119,7 @@
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 凤凰中文,webview://https://345iptv.com/?act=play&tid=tv&id=20
 凤凰资讯,webview://https://345iptv.com/?act=play&tid=tv&id=21
-凤凰中文,video://https://234iptv.com/?act=play&tid=tv&id=20
+凤凰中文,webview://https://234iptv.com/?act=play&tid=tv&id=20
 凤凰资讯,video://https://234iptv.com/?act=play&tid=tv&id=21
 凤凰香港,video://https://234iptv.com/?act=play&tid=gt&id=3
 
@@ -133,6 +133,7 @@
 重庆卫视,http://A/ku9/js/migu.js?id=738910914
 重庆卫视,http://vpn.serverzt.cn:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://nas.minmiu.cn:18888/rtp/239.94.0.82:5140
+重庆卫视,http://49.84.70.128:15140/卫视/重庆卫视?cors
 重庆卫视,http://17782331118.top:8188/rtp/235.254.197.103:7980
 重庆卫视,http://17782331118.top:8188/rtp/235.254.199.34:7980
 重庆卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.182:5146
@@ -251,7 +252,6 @@
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-重庆文体娱乐,http://38.75.136.137:98/gslb/dsdqpub/cqyl.m3u8?auth=testpub
 重庆文体娱乐,http://58.17.134.3:8003/udp/225.0.4.65:7980
 重庆文体娱乐,http://17782331118.top:8188/rtp/235.254.198.187:7980
 重庆文体娱乐,http://17782331118.top:8188/rtp/235.254.199.187:7980
@@ -259,9 +259,9 @@
 重庆文体娱乐,http://hook.msen.site:8000/rtp/235.254.196.212:1120
 重庆文体娱乐,http://www.745612.xyz:7788/rtp/235.254.197.108:7980
 重庆文体娱乐,http://www.msen.site:8000/rtp/235.254.197.108:7980
+重庆文体娱乐,http://38.75.136.137:98/gslb/dsdqpub/cqyl.m3u8?auth=testpub
 重庆文体娱乐,http://home.scanflove.com:7788/rtp/235.254.197.108:7980
 
-重庆红岩文化,http://38.75.136.137:98/gslb/dsdqpub/cqss.m3u8?auth=testpub
 重庆红岩文化,http://58.17.134.3:8003/udp/225.0.4.69:7980
 重庆红岩文化,http://17782331118.top:8188/rtp/235.254.198.182:7980
 重庆红岩文化,http://17782331118.top:8188/rtp/235.254.199.182:7980
@@ -269,9 +269,9 @@
 重庆红岩文化,http://hook.msen.site:8000/rtp/235.254.196.211:1116
 重庆红岩文化,http://www.745612.xyz:7788/udp/235.254.197.107:7980
 重庆红岩文化,http://www.msen.site:8000/udp/225.0.4.69:7980
+重庆红岩文化,http://38.75.136.137:98/gslb/dsdqpub/cqss.m3u8?auth=testpub
 重庆红岩文化,http://home.scanflove.com:7788/rtp/235.254.197.107:7980
 
-重庆红叶,http://38.75.136.137:98/gslb/dsdqpub/cqkj.m3u8?auth=testpub
 重庆红叶,http://58.17.134.3:8003/udp/225.0.4.63:7980
 重庆红叶,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqkj
 重庆红叶,http://17782331118.top:8188/rtp/235.254.198.188:7980
@@ -281,6 +281,7 @@
 重庆红叶,http://183.66.15.138:4070/udp/235.254.197.111:7980
 重庆红叶,http://183.66.15.138:4070/udp/235.254.199.188:7980
 重庆红叶,http://www.msen.site:8000/udp/225.0.4.63:7980
+重庆红叶,http://38.75.136.137:98/gslb/dsdqpub/cqkj.m3u8?auth=testpub
 重庆红叶,http://home.scanflove.com:7788/rtp/235.254.197.111:7980
 
 重庆社会与法,http://58.17.134.3:8003/udp/225.0.4.64:7980
@@ -293,13 +294,13 @@
 重庆社会与法,http://home.scanflove.com:7788/rtp/235.254.197.106:7980
 重庆社会与法,http://38.75.136.137:98/gslb/dsdqpub/cqds.m3u8?auth=testpub
 
-重庆新农村,http://38.75.136.137:98/gslb/dsdqpub/cqgg.m3u8?auth=testpub
 重庆新农村,http://58.17.134.3:8003/udp/225.0.4.70:7980
 重庆新农村,http://17782331118.top:8188/rtp/235.254.198.186:7980
 重庆新农村,http://17782331118.top:8188/rtp/235.254.199.186:7980
 重庆新农村,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqgg
 重庆新农村,http://hook.msen.site:8000/rtp/235.254.196.213:1124
 重庆新农村,http://www.745612.xyz:7788/rtp/235.254.197.109:7980
+重庆新农村,http://38.75.136.137:98/gslb/dsdqpub/cqgg.m3u8?auth=testpub
 重庆新农村,http://home.scanflove.com:7788/rtp/235.254.197.109:7980
 
 重庆少儿,http://58.17.134.3:8003/udp/225.0.4.71:7980
@@ -310,12 +311,12 @@
 重庆少儿,http://106.80.125.49:7788/rtp/235.254.196.214:1128
 重庆少儿,http://38.75.136.137:98/gslb/dsdqpub/cqse.m3u8?auth=testpub
 
-重庆汽摩,http://38.75.136.137:98/gslb/dsdqpub/cqqm.m3u8?auth=testpub
 重庆汽摩,http://17782331118.top:8188/rtp/235.254.198.169:7980
 重庆汽摩,http://17782331118.top:8188/rtp/235.254.199.169:7980
 重庆汽摩,http://106.80.125.49:7788/rtp/235.254.196.221:1156
 重庆汽摩,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.090:5540
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
+重庆汽摩,http://38.75.136.137:98/gslb/dsdqpub/cqqm.m3u8?auth=testpub
 
 央视综合,#genre#
 CCTV1,http://A/ku9/js/migu.js?id=608807420
